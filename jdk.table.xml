@@ -1,0 +1,86 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Remote Python 3.4.8 Docker Compose (airflow-base at [C:\Users\pszabo\dev\repos\tenx\refdataprocessing\docker-compose.yml])" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.8" />
+      <homePath value="docker-compose://[C:\Users\pszabo\dev\repos\tenx\refdataprocessing\docker-compose.yml]:airflow-base/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/229620109/249573925" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/229620109/514381568" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/229620109/942361161" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/229620109" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional DOCKER_ACCOUNT_NAME="tenx-local" DOCKER_COMPOSE_SERVICE_NAME="airflow-base" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="python" HELPERS_PATH="/opt/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <dockerComposeConfigurationPaths>
+          <item value="C:\Users\pszabo\dev\repos\tenx\refdataprocessing\docker-compose.yml" />
+        </dockerComposeConfigurationPaths>
+        <envs />
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/229620109/249573925" remote-root="/usr/local/lib/python3.4" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/229620109/514381568" remote-root="/usr/local/lib/python3.4/plat-linux" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/229620109/942361161" remote-root="/usr/local/lib/python3.4/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.4.8 Docker Compose (djmdm at [C:\Users\pszabo\dev\repos\tenx\mdm\docker-compose.dev.yml])" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.8" />
+      <homePath value="docker-compose://[C:\Users\pszabo\dev\repos\tenx\mdm\docker-compose.dev.yml]:djmdm/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/1046860820/249573925" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/1046860820/514381568" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/1046860820/942361161" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1046860820" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional DOCKER_ACCOUNT_NAME="tenx-local" DOCKER_COMPOSE_SERVICE_NAME="djmdm" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="python" HELPERS_PATH="/opt/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <dockerComposeConfigurationPaths>
+          <item value="C:\Users\pszabo\dev\repos\tenx\mdm\docker-compose.dev.yml" />
+        </dockerComposeConfigurationPaths>
+        <envs />
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/1046860820/249573925" remote-root="/usr/local/lib/python3.4" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/1046860820/514381568" remote-root="/usr/local/lib/python3.4/plat-linux" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/1046860820/942361161" remote-root="/usr/local/lib/python3.4/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+  </component>
+</application>
