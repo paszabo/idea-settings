@@ -3,16 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/conf/dev2/.bash_profile" timestamp="1525724252907" />
-      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/cis/templates/preprocessor/preprocessor_shell_scripts/edl_wrapper.sh" timestamp="1525731000266" />
+      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/cis/templates/preprocessor/preprocessor_shell_scripts/edl_wrapper.sh" timestamp="1525733271018">
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="17" column="16" />
+        <mark key="." line="17" column="16" />
+        <mark key="^" line="17" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/cis/templates/sql/cis/edl/OS_CustRel.sql" timestamp="1525733582332">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="12" />
+        <mark key="." line="10" column="12" />
+        <mark key="^" line="10" column="12" />
+      </file>
       <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/dev/docker/MavenBuild.Dockerfile.dev" timestamp="1525119779856">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="^" line="15" column="44" />
         <mark key="." line="30" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1525267080365">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/templates/sql/cis/edl/OS_CustRel.sql" timestamp="1525122570899">
         <mark key="[" line="13" column="0" />
@@ -20,8 +27,16 @@
         <mark key="^" line="12" column="40" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/tenx/core/src/main/python/tenx/dags/plugins/dag_utils.py" timestamp="1525274622200">
-        <mark key="'" line="27" column="51" />
+      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/cis/templates/sql/cis/edl/OS_OrganizationV2.sql" timestamp="1525733681104">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="47" />
+        <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/cis/templates/sql/cis/edl/OS_CustXref.sql" timestamp="1525733613868">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="12" />
+        <mark key="." line="10" column="12" />
+        <mark key="^" line="10" column="12" />
       </file>
       <file name="$USER_HOME$/dev/repos/tenx/core/src/main/python/tenx/dags/dag_commons.py" timestamp="1525286426669">
         <mark key="'" line="105" column="4" />
@@ -43,20 +58,18 @@
         <mark key="^" line="107" column="27" />
         <mark key="." line="107" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/repos/tenx/core/conf/loader_dag_config/transformer_config/K2_k2_position_merge_eod.yaml" timestamp="1525275202925">
-        <mark key="'" line="600" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/tenx/core/src/main/python/tenx/dags/plugins/yaml_loader.py" timestamp="1525204693297">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="34" column="57" />
-      </file>
       <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/templates/sql/cis/edl/OS_OrganizationV2.sql" timestamp="1525729392892">
         <mark key="[" line="35" column="4" />
         <mark key="]" line="35" column="12" />
         <mark key="." line="35" column="12" />
         <mark key="^" line="35" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/repos/tenx/mdm/djtenx/settings/uat2/script.cfg" timestamp="1525723974063" />
+      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/cis/templates/sql/cis/edl/OS_OrgName.sql" timestamp="1525733710957">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="12" />
+        <mark key="." line="7" column="12" />
+        <mark key="^" line="7" column="12" />
+      </file>
       <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/scripts/edldump.sh" timestamp="1525726858085">
         <mark key="[" line="3" column="11" />
         <mark key="]" line="3" column="14" />
@@ -69,11 +82,35 @@
         <mark key="." line="17" column="21" />
         <mark key="^" line="17" column="21" />
       </file>
+      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/cis/templates/sql/cis/edl/OS_CustClassification.sql" timestamp="1525733415678">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="12" />
+        <mark key="." line="9" column="12" />
+        <mark key="^" line="9" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/cis/templates/sql/cis/edl/OS_CustPreferenceV2.sql" timestamp="1525733520006">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="13" column="12" />
+      </file>
       <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/conf/dev_local/edl_hive.yml" timestamp="1525727155810">
         <mark key="[" line="4" column="17" />
         <mark key="]" line="4" column="16" />
         <mark key="." line="4" column="16" />
         <mark key="^" line="4" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/cis/templates/sql/cis/edl/OS_CustLocation.sql" timestamp="1525733465340">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="17" column="40" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/.dockerignore" timestamp="1525733862605">
+        <mark key="[" line="15" column="11" />
+        <mark key="]" line="15" column="11" />
+        <mark key="." line="15" column="11" />
+        <mark key="^" line="15" column="11" />
       </file>
       <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/templates/sql/cis/edl/OS_CustPreferenceV2.sql" timestamp="1525729361046">
         <mark key="[" line="19" column="33" />
@@ -81,7 +118,12 @@
         <mark key="^" line="19" column="39" />
         <mark key="." line="19" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/repos/tenx/core/src/main/python/tenx/dags/templates/copy_to_landing.sh" timestamp="1525724234603" />
+      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/cis/templates/sql/cis/edl/OS_ContactMethod.sql" timestamp="1525733312363">
+        <mark key="[" line="15" column="31" />
+        <mark key="]" line="15" column="40" />
+        <mark key="." line="15" column="40" />
+        <mark key="^" line="15" column="40" />
+      </file>
       <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/templates/preprocessor/preprocessor_shell_scripts/edl_wrapper.sh" timestamp="1525729290595">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="6" column="0" />
@@ -89,17 +131,29 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="5" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/dev/docker/Dockerfile.dev" timestamp="1525729530559">
-        <mark key="[" line="25" column="81" />
-        <mark key="]" line="25" column="81" />
+      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/dev/docker/Dockerfile.dev" timestamp="1525733766552">
+        <mark key="[" line="37" column="32" />
+        <mark key="]" line="37" column="32" />
         <mark key="^" line="25" column="9" />
-        <mark key="." line="25" column="81" />
+        <mark key="." line="37" column="32" />
       </file>
       <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/templates/sql/cis/edl/OS_CustAccountRel.sql" timestamp="1525123240512">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="^" line="13" column="40" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/cis/templates/sql/cis/edl/OS_Identifier.sql" timestamp="1525733651385">
+        <mark key="[" line="16" column="31" />
+        <mark key="]" line="16" column="40" />
+        <mark key="." line="16" column="40" />
+        <mark key="^" line="16" column="40" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/cis/templates/sql/cis/edl/OS_CustAccountRel.sql" timestamp="1525733377765">
+        <mark key="[" line="14" column="31" />
+        <mark key="]" line="14" column="40" />
+        <mark key="." line="14" column="40" />
+        <mark key="^" line="14" column="40" />
       </file>
       <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/templates/sql/cis/edl/OS_Identifier.sql" timestamp="1525122901256">
         <mark key="[" line="15" column="31" />
@@ -229,44 +283,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/templates/sql/cis/edl/OS_ContactMethod.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{{ ds }}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">X19weWNhY2hlX18K</text>
       </register>
       <register name="-" type="4">
-        <text>{{ ds }}</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>-f</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGwuYnVzaW5lc3NlZmZlY3RpdmVkYXRlIEFTIGJ1c2luZXNzZWZmZWN0aXZlZGF0ZQo=</text>
+        <text encoding="base64">X19weWNhY2hlX18K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">e3sgZHMgfX0gQVMgYnVzaW5lc3NlZmZlY3RpdmVkYXRlCg==</text>
+        <text encoding="base64">LS0gV0hFUkUgYnVzaW5lc3NlZmZlY3RpdmVkYXRlID0gJ3t7IGRzIH19Jwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0gICAgIGwuYnVzaW5lc3NlZmZlY3RpdmVkYXRlIEFTIGJ1c2luZXNzZWZmZWN0aXZlZGF0ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">a2VyYmVyb3Nfa2V5dGFiOiAgL29wdC9yZWZkYXRhcHJvY2Vzc2luZy9jb25mL3RlbnhjcHR5ZHJ1bi5rZXl0YWIKCmtlcmJlcm9zX2tleXRhYjogIC9vcHQvcmVmZGF0YXByb2Nlc3NpbmcvY29uZi90ZW54Y3B0eWRydW4ua2V5dGFiCg==</text>
+        <text encoding="base64">TElNSVQgMTAwMDAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC1mICR7Rk9STUFUOj0iRGVmYXVsdCJ9IFwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Rk9STUFUPSJEZWZhdWx0Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC1mICR7Rk9STUFUfSBcCg==</text>
+        <text encoding="base64">V0hFUkUgYnVzaW5lc3NlZmZlY3RpdmVkYXRlID0gJ3t7IGRzIH19Jwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">e3sgZHMgfX0gQVMgYnVzaW5lc3NlZmZlY3RpdmVkYXRlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgoKI2phdmEgLWNwICIke1JFRkRBVEFfSkFWQX0vbGliLyoiIFwKIyAgICBibnMudGVueC5qZGJjLkpkYmMyQ3N2RXhwb3J0ZXIgXAojICAgIC1lICR7QVBQX0NPTkZJR30va2V5dGFicy8ke0tSQl9QUklOQ0lQQUx9LmtleXRhYiBcCiMgICAgLWkgJElOX0ZJTEUgXAojICAgIC1vIHt7IGpfcGFyYW1zLmxvY2FsX3BhdGhfcGF0dGVybiB9fSBcCiMgICAgJiYgcm0gLWYgJElOX0ZJTEUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">a2VyYmVyb3Nfa2V5dGFiOiAgL29wdC9yZWZkYXRhcHJvY2Vzc2luZy9jb25mL3RlbnhjcHR5ZHJ1bi5rZXl0YWIKCmtlcmJlcm9zX2tleXRhYjogIC9vcHQvcmVmZGF0YXByb2Nlc3NpbmcvY29uZi90ZW54Y3B0eWRydW4ua2V5dGFiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -311,19 +365,19 @@
         <entry>s</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>%s/examplecert/scotia-af</entry>
-        <entry>W</entry>
         <entry>3</entry>
         <entry>$s/dev_local/${TENX_ENV}/g</entry>
         <entry>%s/dev_local/${TENX_ENV}/g</entry>
         <entry>e</entry>
-        <entry>wq</entry>
         <entry>1</entry>
         <entry>37</entry>
-        <entry>q</entry>
         <entry>0</entry>
         <entry>%s/TMP_SQL_FILE/IN_FILE/g</entry>
         <entry>7</entry>
         <entry>20</entry>
+        <entry>wq</entry>
+        <entry>W</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
