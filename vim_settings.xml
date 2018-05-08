@@ -51,11 +51,11 @@
         <mark key="." line="12" column="21" />
         <mark key="^" line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/dev/docker/Dockerfile.dev" timestamp="1525733766552">
-        <mark key="[" line="37" column="32" />
-        <mark key="]" line="37" column="32" />
+      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/dev/docker/Dockerfile.dev" timestamp="1525807067209">
+        <mark key="[" line="35" column="21" />
+        <mark key="]" line="35" column="21" />
         <mark key="^" line="25" column="9" />
-        <mark key="." line="37" column="32" />
+        <mark key="." line="35" column="21" />
       </file>
       <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/cis/templates/sql/cis/edl/OS_Identifier.sql" timestamp="1525798868900">
         <mark key="[" line="15" column="0" />
@@ -73,11 +73,21 @@
         <mark key="^" line="15" column="40" />
         <mark key="." line="15" column="40" />
       </file>
+      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/conf/cis_daily_dag_config/source_config/all/CIS_CIS_CUST_REL.yaml" timestamp="1525806473294">
+        <mark key="[" line="17" column="26" />
+        <mark key="]" line="17" column="26" />
+        <mark key="." line="17" column="26" />
+      </file>
       <file name="$USER_HOME$/dev/repos/tenx/mdm/tenx/migrations/get-cis-tables.py" timestamp="1525740497320">
         <mark key="[" line="41" column="47" />
         <mark key="]" line="41" column="51" />
         <mark key="^" line="41" column="51" />
         <mark key="." line="41" column="51" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/conf/cis_daily_dag_config/source_config/all/CIS_CIS_CUST_PREFERENCE_V2.yaml" timestamp="1525806468968">
+        <mark key="[" line="17" column="26" />
+        <mark key="]" line="17" column="26" />
+        <mark key="." line="17" column="26" />
       </file>
       <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/plugins/tenx_plugin.py" timestamp="1525804972415">
         <mark key="'" line="6" column="28" />
@@ -131,11 +141,21 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/conf/cis_daily_dag_config/source_config/all/CIS_CIS_CONTACT_METHOD.yaml" timestamp="1525806456602">
+        <mark key="[" line="17" column="26" />
+        <mark key="]" line="17" column="26" />
+        <mark key="." line="17" column="26" />
+      </file>
       <file name="$USER_HOME$/dev/repos/tenx/Vagrantfile" timestamp="1525801187408">
         <mark key="[" line="46" column="17" />
         <mark key="]" line="46" column="20" />
         <mark key="." line="46" column="20" />
         <mark key="^" line="46" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/conf/cis_daily_dag_config/source_config/all/CIS_CIS_CUST_ACCOUNT_REL.yaml" timestamp="1525806460089">
+        <mark key="[" line="17" column="25" />
+        <mark key="]" line="17" column="25" />
+        <mark key="." line="17" column="25" />
       </file>
       <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/cis/templates/sql/cis/cis_cucu_mapping_dly/cust_relationship_dly.sql" timestamp="1525798744191">
         <mark key="[" line="7" column="47" />
@@ -148,6 +168,11 @@
         <mark key="]" line="9" column="38" />
         <mark key="^" line="9" column="38" />
         <mark key="." line="9" column="38" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/conf/cis_daily_dag_config/source_config/all/CIS_CIS_CUST_LOCATION.yaml" timestamp="1525806466681">
+        <mark key="[" line="17" column="26" />
+        <mark key="]" line="17" column="26" />
+        <mark key="." line="17" column="26" />
       </file>
       <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/cis/templates/sql/cis/history/cis_cucu_mapping_remove_duplicates.sql" timestamp="1525798945145">
         <mark key="[" line="7" column="26" />
@@ -177,6 +202,16 @@
         <mark key="]" line="20" column="4" />
         <mark key="." line="20" column="4" />
         <mark key="^" line="20" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/conf/cis_daily_dag_config/source_config/all/CIS_CIS_IDENTIFIER.yaml" timestamp="1525806482390">
+        <mark key="[" line="17" column="26" />
+        <mark key="]" line="17" column="26" />
+        <mark key="." line="17" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/conf/cis_daily_dag_config/source_config/all/CIS_CIS_CUST_XREF.yaml" timestamp="1525806476439">
+        <mark key="[" line="17" column="26" />
+        <mark key="]" line="17" column="26" />
+        <mark key="." line="17" column="26" />
       </file>
       <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/conf/dev_local/edl_hive.yml" timestamp="1525727155810">
         <mark key="[" line="4" column="17" />
@@ -229,18 +264,23 @@
         <mark key="^" line="9" column="20" />
         <mark key="." line="10" column="15" />
       </file>
+      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/conf/cis_daily_dag_config/source_config/all/CIS_CIS_ORG_NAME.yaml" timestamp="1525806488133">
+        <mark key="[" line="17" column="26" />
+        <mark key="]" line="17" column="26" />
+        <mark key="." line="17" column="26" />
+      </file>
       <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/conf/dev_local/krb5.conf" timestamp="1525724465264">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="4" />
         <mark key="^" line="9" column="0" />
         <mark key="." line="40" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/docker-compose.dev.yml" timestamp="1525800883274">
-        <mark key="'" line="109" column="8" />
-        <mark key="[" line="94" column="61" />
-        <mark key="]" line="94" column="66" />
-        <mark key="." line="94" column="66" />
-        <mark key="^" line="94" column="66" />
+      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/docker-compose.dev.yml" timestamp="1525807350977">
+        <mark key="'" line="110" column="8" />
+        <mark key="[" line="113" column="11" />
+        <mark key="]" line="113" column="17" />
+        <mark key="." line="113" column="17" />
+        <mark key="^" line="113" column="17" />
       </file>
       <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/cis/templates/sql/cis/table_check/new_class_rating_codes.sql" timestamp="1525798991161">
         <mark key="[" line="9" column="53" />
@@ -253,7 +293,17 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/conf/cis_daily_dag_config/source_config/all/CIS_CIS_ORG_V2.yaml" timestamp="1525806540338">
+        <mark key="[" line="17" column="26" />
+        <mark key="]" line="17" column="26" />
+        <mark key="." line="17" column="26" />
+      </file>
       <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/plugins/cis_plugin.py" timestamp="1525804548367" />
+      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/conf/cis_daily_dag_config/source_config/all/CIS_CIS_CUST_CLASSIFICATION.yaml" timestamp="1525806463912">
+        <mark key="[" line="17" column="26" />
+        <mark key="]" line="17" column="26" />
+        <mark key="." line="17" column="26" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="545" column="19" filename="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/processing/counterparty.py" />
@@ -359,43 +409,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sql/</text>
+        <text>README.md</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>README.md</text>
       </register>
       <register name="/" type="4">
         <text>templates</text>
       </register>
-      <register name="0" type="4">
-        <text>sql/</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgLSAnL3ZhZ3JhbnQvc2NyaXB0cy9jaXMvdGVzdC1zY3JpcHRzOi9vcHQvcmVmZGF0YXByb2Nlc3NpbmcvYWlyZmxvdy9kYWdzL2Npcy90ZW1wbGF0ZXMvc3FsL2VkbCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgcHJlZGljYXRlPWxhbWJkYSBhLCBiLCBjOiBOb25lLAo=</text>
+        <text encoding="base64">ICAgICAgLSAnL3ZhZ3JhbnQvc2NyaXB0cy9jaXMvdGVzdC1zY3JpcHRzOi9vcHQvcmVmZGF0YXByb2Nlc3NpbmcvYWlyZmxvdy9kYWdzL2Npcy90ZW1wbGF0ZXMvc3FsL2VkbCcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSAuY2lzX3BsdWdpbiBpbXBvcnQgKAo=</text>
+        <text encoding="base64">ICAgICAgLSAnL3ZhZ3JhbnQvc2NyaXB0cy9jaXMvdGVzdC1zY3JpcHRzOi9vcHQvcmVmZGF0YXByb2Nlc3NpbmcvZGFncy9jaXMvdGVtcGxhdGVzL3NxbC9lZGwnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">ICAgICMgcHJlZGljYXRlPWxhbWJkYSBhLCBiLCBjOiBOb25lLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBhaXJmbG93Lm9wZXJhdG9ycy5jaXMgaW1wb3J0ICgKICAgIENJU0RhaWx5VGFibGVMb2FkZXIsCiAgICBDSVNUYWJsZUNoZWNrQmFzaWMsCikK</text>
+        <text encoding="base64">ZnJvbSAuY2lzX3BsdWdpbiBpbXBvcnQgKAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGhvb2tzID0gW1RFTlhQb3N0Z3Jlc0hvb2tdCg==</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBURU5YUG9zdGdyZXNPcGVyYXRvciwK</text>
+        <text encoding="base64">ZnJvbSBhaXJmbG93Lm9wZXJhdG9ycy5jaXMgaW1wb3J0ICgKICAgIENJU0RhaWx5VGFibGVMb2FkZXIsCiAgICBDSVNUYWJsZUNoZWNrQmFzaWMsCikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBIaXN0b3J5VGFibGVCYWNrdXBPcGVyYXRvciwK</text>
+        <text encoding="base64">ICAgIGhvb2tzID0gW1RFTlhQb3N0Z3Jlc0hvb2tdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBIaXN0b3J5VXBkYXRlT3BlcmF0b3IsCg==</text>
+        <text encoding="base64">ICAgICAgICBURU5YUG9zdGdyZXNPcGVyYXRvciwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBDSVNUYWJsZUNoZWNrQmFzaWMsCg==</text>
+        <text encoding="base64">ICAgICAgICBIaXN0b3J5VGFibGVCYWNrdXBPcGVyYXRvciwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
