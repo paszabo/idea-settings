@@ -21,6 +21,12 @@
         <mark key="^" line="15" column="44" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/tenx/mdm/tenx/migrations/0337_cis_daily_dag_table_20180406.py" timestamp="1525737279834">
+        <mark key="[" line="27" column="35" />
+        <mark key="]" line="27" column="35" />
+        <mark key="^" line="27" column="35" />
+        <mark key="." line="27" column="35" />
+      </file>
       <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/templates/sql/cis/edl/OS_CustRel.sql" timestamp="1525122570899">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -32,6 +38,7 @@
         <mark key="]" line="38" column="47" />
         <mark key="." line="38" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/cis/cis_daily_dag.py" timestamp="1525736697227" />
       <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/cis/templates/sql/cis/edl/OS_CustXref.sql" timestamp="1525733613868">
         <mark key="[" line="10" column="4" />
         <mark key="]" line="10" column="12" />
@@ -51,6 +58,7 @@
         <mark key="^" line="9" column="38" />
         <mark key="." line="9" column="38" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/argparse.pyi" timestamp="1525737830794" />
       <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/conf/counterparty_eod_dag_config/source_config/all/make_data_dictionary.py" timestamp="1525267359776">
         <mark key="'" line="4" column="9" />
         <mark key="[" line="107" column="27" />
@@ -106,11 +114,10 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="17" column="40" />
       </file>
-      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/.dockerignore" timestamp="1525733862605">
-        <mark key="[" line="15" column="11" />
-        <mark key="]" line="15" column="11" />
-        <mark key="." line="15" column="11" />
-        <mark key="^" line="15" column="11" />
+      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/.dockerignore" timestamp="1525736481853">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/templates/sql/cis/edl/OS_CustPreferenceV2.sql" timestamp="1525729361046">
         <mark key="[" line="19" column="33" />
@@ -167,6 +174,12 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="40" column="4" />
       </file>
+      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/docker-compose.dev.yml" timestamp="1525736793320">
+        <mark key="'" line="117" column="8" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="69" />
+        <mark key="." line="61" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/templates/sql/cis/edl/OS_ContactMethod.sql" timestamp="1525729678925">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="12" column="0" />
@@ -179,24 +192,29 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/tenx/mdm/tenx/migrations/get-cis-tables.py" timestamp="1525738741900">
+        <mark key="'" line="44" column="7" />
+        <mark key="[" line="47" column="52" />
+        <mark key="]" line="47" column="52" />
+        <mark key="." line="47" column="52" />
+        <mark key="^" line="47" column="52" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/processing/counterparty.py" timestamp="1525736042724">
+        <mark key="'" line="2754" column="10" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="10" column="65" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/plugins/tenx_plugin.py" timestamp="1525736388467">
+        <mark key="'" line="6" column="28" />
+        <mark key="[" line="9" column="42" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="781" column="4" filename="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/processing/counterparty.py" />
-      <jump line="208" column="15" filename="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/processing/counterparty.py" />
-      <jump line="209" column="15" filename="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/processing/counterparty.py" />
-      <jump line="205" column="23" filename="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/processing/counterparty.py" />
-      <jump line="206" column="23" filename="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/processing/counterparty.py" />
-      <jump line="207" column="23" filename="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/processing/counterparty.py" />
-      <jump line="215" column="39" filename="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/processing/counterparty.py" />
-      <jump line="219" column="16" filename="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/processing/counterparty.py" />
-      <jump line="228" column="19" filename="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/processing/counterparty.py" />
-      <jump line="837" column="15" filename="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/processing/counterparty.py" />
-      <jump line="842" column="15" filename="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/processing/counterparty.py" />
-      <jump line="844" column="15" filename="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/processing/counterparty.py" />
-      <jump line="845" column="15" filename="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/processing/counterparty.py" />
-      <jump line="848" column="7" filename="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/processing/counterparty.py" />
-      <jump line="846" column="21" filename="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/processing/counterparty.py" />
-      <jump line="847" column="63" filename="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/processing/counterparty.py" />
       <jump line="849" column="12" filename="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/processing/counterparty.py" />
       <jump line="852" column="37" filename="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/processing/counterparty.py" />
       <jump line="854" column="9" filename="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/processing/counterparty.py" />
@@ -230,7 +248,6 @@
       <jump line="481" column="23" filename="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/processing/counterparty.py" />
       <jump line="450" column="23" filename="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/processing/counterparty.py" />
       <jump line="451" column="23" filename="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/processing/counterparty.py" />
-      <jump line="453" column="20" filename="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/processing/counterparty.py" />
       <jump line="454" column="23" filename="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/processing/counterparty.py" />
       <jump line="455" column="23" filename="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/processing/counterparty.py" />
       <jump line="404" column="0" filename="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/processing/counterparty.py" />
@@ -281,55 +298,72 @@
       <jump line="19" column="8" filename="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/templates/preprocessor/preprocessor_shell_scripts/edl_wrapper.sh" />
       <jump line="16" column="0" filename="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/templates/preprocessor/preprocessor_shell_scripts/edl_wrapper.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/templates/sql/cis/edl/OS_ContactMethod.sql" />
+      <jump line="52" column="6" filename="$USER_HOME$/dev/repos/tenx/refdataprocessing/docker-compose.dev.yml" />
+      <jump line="53" column="8" filename="$USER_HOME$/dev/repos/tenx/refdataprocessing/docker-compose.dev.yml" />
+      <jump line="116" column="8" filename="$USER_HOME$/dev/repos/tenx/refdataprocessing/docker-compose.dev.yml" />
+      <jump line="118" column="8" filename="$USER_HOME$/dev/repos/tenx/refdataprocessing/docker-compose.dev.yml" />
+      <jump line="453" column="0" filename="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/processing/counterparty.py" />
+      <jump line="2769" column="0" filename="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/processing/counterparty.py" />
+      <jump line="2753" column="10" filename="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/processing/counterparty.py" />
+      <jump line="8" column="66" filename="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/plugins/tenx_plugin.py" />
+      <jump line="134" column="49" filename="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/plugins/tenx_plugin.py" />
+      <jump line="171" column="12" filename="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/plugins/tenx_plugin.py" />
+      <jump line="148" column="45" filename="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/plugins/tenx_plugin.py" />
+      <jump line="172" column="12" filename="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/plugins/tenx_plugin.py" />
+      <jump line="6" column="28" filename="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/plugins/tenx_plugin.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/repos/tenx/mdm/tenx/migrations/get-cis-tables.py" />
+      <jump line="29" column="4" filename="$USER_HOME$/dev/repos/tenx/mdm/tenx/migrations/get-cis-tables.py" />
+      <jump line="2" column="9" filename="$USER_HOME$/dev/repos/tenx/mdm/tenx/migrations/get-cis-tables.py" />
+      <jump line="44" column="7" filename="$USER_HOME$/dev/repos/tenx/mdm/tenx/migrations/get-cis-tables.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">X19weWNhY2hlX18K</text>
+      <register name="&quot;" type="4">
+        <text>).read()</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>).read()</text>
       </register>
       <register name="/" type="4">
-        <text>-f</text>
+        <text>help</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">X19weWNhY2hlX18K</text>
+        <text encoding="base64">ICAgIHByaW50KGZpbGVzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LS0gV0hFUkUgYnVzaW5lc3NlZmZlY3RpdmVkYXRlID0gJ3t7IGRzIH19Jwo=</text>
+        <text encoding="base64">ICAgIHByaW50KGFyZ3Muc3VmZml4KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LS0gICAgIGwuYnVzaW5lc3NlZmZlY3RpdmVkYXRlIEFTIGJ1c2luZXNzZWZmZWN0aXZlZGF0ZQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHtrOiB2IGZvciBrLCB2IGluIGFyZ3MuX19kaWN0X18uaXRlbXMoKSBpZiBub3Qgay5zdGFydHN3aXRoKCdfJyl9KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">TElNSVQgMTAwMDAK</text>
+        <text encoding="base64">ICAgIGZpbGVzID0gZmlsdGVyX2ZpbGVzKGZpbGVzLCBhcmdzLnN1ZmZpeCkKICAgIHByaW50KGZpbGVzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmRlZiBmaWx0ZXJfZmlsZXMoZmlsZXMsIHN1ZmZpeCk6CiAgICByZXR1cm4gW2YgZm9yIGYgaW4gZmlsZXMgXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">V0hFUkUgYnVzaW5lc3NlZmZlY3RpdmVkYXRlID0gJ3t7IGRzIH19Jwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">e3sgZHMgfX0gQVMgYnVzaW5lc3NlZmZlY3RpdmVkYXRlCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICBmcC53cml0ZShmaWxlKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgd2l0aCAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">a2VyYmVyb3Nfa2V5dGFiOiAgL29wdC9yZWZkYXRhcHJvY2Vzc2luZy9jb25mL3RlbnhjcHR5ZHJ1bi5rZXl0YWIKCmtlcmJlcm9zX2tleXRhYjogIC9vcHQvcmVmZGF0YXByb2Nlc3NpbmcvY29uZi90ZW54Y3B0eWRydW4ua2V5dGFiCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGZpbGVzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>-f</last-search>
+      <last-search>help</last-search>
       <last-offset />
-      <last-pattern>-f</last-pattern>
+      <last-pattern>help</last-pattern>
       <last-replace>IN_FILE</last-replace>
       <last-substitute>TMP_SQL_FILE</last-substitute>
       <last-dir>1</last-dir>
@@ -337,11 +371,6 @@
     </search>
     <history>
       <history-search>
-        <entry>END</entry>
-        <entry>WHEN</entry>
-        <entry>THEN</entry>
-        <entry>== '</entry>
-        <entry>== 'SCOTS</entry>
         <entry>SCOTS</entry>
         <entry>print</entry>
         <entry>create_extract_task</entry>
@@ -357,10 +386,13 @@
         <entry>TMP_SQL_FILE</entry>
         <entry>FOR</entry>
         <entry>-f</entry>
+        <entry>--</entry>
+        <entry>history_</entry>
+        <entry>counterparty.</entry>
+        <entry>counterparty</entry>
+        <entry>help</entry>
       </history-search>
       <history-cmd>
-        <entry>153</entry>
-        <entry>62</entry>
         <entry>version</entry>
         <entry>s</entry>
         <entry encoding="base64">JzwsJz53</entry>
@@ -371,13 +403,15 @@
         <entry>e</entry>
         <entry>1</entry>
         <entry>37</entry>
-        <entry>0</entry>
         <entry>%s/TMP_SQL_FILE/IN_FILE/g</entry>
         <entry>7</entry>
         <entry>20</entry>
         <entry>wq</entry>
         <entry>W</entry>
         <entry>q</entry>
+        <entry>135</entry>
+        <entry>0</entry>
+        <entry>g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
