@@ -62,14 +62,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/cis/templates/sql/cis/cis_account_mapping_dly/cis_customer_account_mapping_dly.sql" timestamp="1525798681228">
-        <mark key="'" line="18" column="7" />
-        <mark key="[" line="3" column="41" />
-        <mark key="]" line="3" column="83" />
-        <mark key="^" line="3" column="83" />
-        <mark key="." line="3" column="83" />
-        <mark key="n" line="18" column="7" />
-      </file>
       <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/cis/templates/sql/cis/edl/OS_CustAccountRel.sql" timestamp="1525797183702">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -131,6 +123,12 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/tenx/Vagrantfile" timestamp="1525801187408">
+        <mark key="[" line="46" column="17" />
+        <mark key="]" line="46" column="20" />
+        <mark key="." line="46" column="20" />
+        <mark key="^" line="46" column="20" />
       </file>
       <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/cis/templates/sql/cis/cis_cucu_mapping_dly/cust_relationship_dly.sql" timestamp="1525798744191">
         <mark key="[" line="7" column="47" />
@@ -224,7 +222,7 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="40" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/docker-compose.dev.yml" timestamp="1525800229329">
+      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/docker-compose.dev.yml" timestamp="1525800883274">
         <mark key="'" line="109" column="8" />
         <mark key="[" line="94" column="61" />
         <mark key="]" line="94" column="66" />
@@ -347,16 +345,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'{{ ds }}'</text>
+        <text>4096</text>
       </register>
       <register name="-" type="4">
-        <text>%(ds)s</text>
+        <text>4096</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IEFORA==</text>
       </register>
-      <register name="0" type="4">
-        <text>'{{ ds }}'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHZiLm1lbW9yeSA9ICI0MDk2Igo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">V0hFUkUgYnVzaW5lc3NlZmZlY3RpdmVkYXRlID0gJzIwMTgtMDMtMDUnCg==</text>
@@ -386,7 +384,7 @@
         <text encoding="base64">V0hFUkUgYnVzaW5lc3NlZmZlY3RpdmVkYXRlID0gJzIwMTgtMDMtMDUnCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -440,8 +438,8 @@
         <entry>g</entry>
         <entry>s</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
