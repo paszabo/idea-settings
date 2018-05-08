@@ -9,11 +9,11 @@
         <mark key="." line="17" column="16" />
         <mark key="^" line="17" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/cis/templates/sql/cis/edl/OS_CustRel.sql" timestamp="1525733582332">
-        <mark key="[" line="10" column="4" />
-        <mark key="]" line="10" column="12" />
-        <mark key="." line="10" column="12" />
-        <mark key="^" line="10" column="12" />
+      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/cis/templates/sql/cis/edl/OS_CustRel.sql" timestamp="1525752887697">
+        <mark key="[" line="13" column="30" />
+        <mark key="]" line="13" column="40" />
+        <mark key="." line="13" column="40" />
+        <mark key="^" line="13" column="40" />
       </file>
       <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/dev/docker/MavenBuild.Dockerfile.dev" timestamp="1525119779856">
         <mark key="[" line="30" column="0" />
@@ -95,11 +95,11 @@
         <mark key="." line="9" column="12" />
         <mark key="^" line="9" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/cis/templates/sql/cis/edl/OS_CustPreferenceV2.sql" timestamp="1525733520006">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="13" column="12" />
+      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/cis/templates/sql/cis/edl/OS_CustPreferenceV2.sql" timestamp="1525752437575">
+        <mark key="[" line="20" column="33" />
+        <mark key="]" line="20" column="42" />
+        <mark key="." line="20" column="42" />
+        <mark key="^" line="20" column="42" />
       </file>
       <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/conf/dev_local/edl_hive.yml" timestamp="1525727155810">
         <mark key="[" line="4" column="17" />
@@ -303,10 +303,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>template_searchpath=TEMPLATE_SEARCHPATH</text>
+        <text>2018-03-16</text>
       </register>
       <register name="-" type="4">
-        <text>template_searchpath=TEMPLATE_SEARCHPATH</text>
+        <text>2018-03-16</text>
       </register>
       <register name="/" type="4">
         <text>TMP_SQL_FILE</text>
@@ -342,7 +342,7 @@
         <text encoding="base64">ICAgICAgLSAnLi9zcmMvY3B0eS9kYWdzL2Npc19kYWlseV9kYWcucHk6L29wdC9yZWZkYXRhcHJvY2Vzc2luZy9haXJmbG93L2RhZ3MvY2lzX2RhaWx5X2RhZy5weScK</text>
       </register>
       <register name=":" type="4">
-        <text>s</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -396,8 +396,8 @@
         <entry>135</entry>
         <entry>0</entry>
         <entry>g</entry>
-        <entry>w</entry>
         <entry>s</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
