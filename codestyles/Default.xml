@@ -5,19 +5,23 @@
     <option name="ALIGN_TYPE_IN_BLOCK_STATEMENT" value="false" />
     <option name="ALIGN_TYPE_IN_ARGUMENT_DEFINITION" value="false" />
     <option name="ALIGN_INSIDE_BINARY_EXPRESSION" value="false" />
-    <option name="ALIGN_INSIDE_QUERY_EXPRESSION" value="false" />
     <option name="ALIGN_EQ_INSIDE_SET_CLAUSE" value="false" />
     <option name="NEW_LINE_BEFORE_JOIN_CONDITION" value="true" />
-    <option name="NEW_LINE_BEFORE_QUERY_INSIDE_PARENTHESIS" value="true" />
+    <option name="NEW_LINE_BEFORE_QUERY_INSIDE_DML" value="true" />
     <option name="NEW_LINE_AROUND_SEMICOLON" value="true" />
     <option name="INDENT_JOIN" value="false" />
-    <option name="WRAP_INSIDE_WHERE" value="2" />
+    <option name="WRAP_INSIDE_SELECT" value="5" />
+    <option name="WRAP_INSIDE_JOIN_EXPRESSION" value="5" />
+    <option name="WRAP_INSIDE_WHERE" value="5" />
+    <option name="WRAP_INSIDE_SET" value="5" />
+    <option name="WRAP_INSIDE_CALL_EXPRESSION" value="5" />
+    <option name="WRAP_INSIDE_VALUES_EXPRESSION" value="5" />
+    <option name="WRAP_VALUES_EXPRESSION" value="5" />
     <option name="KEYWORD_CASE" value="0" />
     <option name="TYPE_CASE" value="0" />
     <option name="IDENTIFIER_CASE" value="1" />
   </SqlCodeStyleSettings>
   <codeStyleSettings language="SQL">
-    <option name="KEEP_LINE_BREAKS" value="false" />
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
       <option name="TAB_SIZE" value="4" />
