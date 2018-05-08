@@ -45,13 +45,6 @@
         <mark key="." line="10" column="12" />
         <mark key="^" line="10" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/repos/tenx/core/src/main/python/tenx/dags/dag_commons.py" timestamp="1525286426669">
-        <mark key="'" line="105" column="4" />
-        <mark key="[" line="427" column="19" />
-        <mark key="]" line="427" column="19" />
-        <mark key="." line="427" column="19" />
-        <mark key="^" line="427" column="3" />
-      </file>
       <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/templates/sql/cis/edl/OS_OrgName.sql" timestamp="1525122858006">
         <mark key="[" line="9" column="31" />
         <mark key="]" line="9" column="38" />
@@ -59,13 +52,6 @@
         <mark key="." line="9" column="38" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/argparse.pyi" timestamp="1525737830794" />
-      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/conf/counterparty_eod_dag_config/source_config/all/make_data_dictionary.py" timestamp="1525267359776">
-        <mark key="'" line="4" column="9" />
-        <mark key="[" line="107" column="27" />
-        <mark key="]" line="107" column="27" />
-        <mark key="^" line="107" column="27" />
-        <mark key="." line="107" column="27" />
-      </file>
       <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/templates/sql/cis/edl/OS_OrganizationV2.sql" timestamp="1525729392892">
         <mark key="[" line="35" column="4" />
         <mark key="]" line="35" column="12" />
@@ -131,13 +117,6 @@
         <mark key="." line="15" column="40" />
         <mark key="^" line="15" column="40" />
       </file>
-      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/templates/preprocessor/preprocessor_shell_scripts/edl_wrapper.sh" timestamp="1525729290595">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="5" column="6" />
-      </file>
       <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/dev/docker/Dockerfile.dev" timestamp="1525733766552">
         <mark key="[" line="37" column="32" />
         <mark key="]" line="37" column="32" />
@@ -180,24 +159,17 @@
         <mark key="]" line="61" column="69" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/templates/sql/cis/edl/OS_ContactMethod.sql" timestamp="1525729678925">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="4" />
-        <mark key="." line="12" column="4" />
-        <mark key="^" line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/templates/sql/cis/edl/OS_CustClassification.sql" timestamp="1525182076203">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/tenx/mdm/tenx/migrations/get-cis-tables.py" timestamp="1525738741900">
-        <mark key="'" line="44" column="7" />
-        <mark key="[" line="47" column="52" />
-        <mark key="]" line="47" column="52" />
-        <mark key="." line="47" column="52" />
-        <mark key="^" line="47" column="52" />
+      <file name="$USER_HOME$/dev/repos/tenx/mdm/tenx/migrations/get-cis-tables.py" timestamp="1525739441539">
+        <mark key="'" line="34" column="7" />
+        <mark key="[" line="46" column="12" />
+        <mark key="]" line="49" column="33" />
+        <mark key="^" line="49" column="33" />
+        <mark key="." line="49" column="33" />
       </file>
       <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/processing/counterparty.py" timestamp="1525736042724">
         <mark key="'" line="2754" column="10" />
@@ -318,43 +290,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>).read()</text>
+        <text>ouput_file</text>
       </register>
       <register name="-" type="4">
-        <text>).read()</text>
+        <text>ouput_file</text>
       </register>
       <register name="/" type="4">
         <text>help</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KGZpbGVzKQo=</text>
+        <text encoding="base64">ICAgIGZpbGVfY29udGVudHMgPSBnZXRfZmlsZV9jb250ZW50cyhhcmdzLmRpcmVjdG9yeSwgYXJncy5zdWZmaXgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGFyZ3Muc3VmZml4KQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KHtrOiB2IGZvciBrLCB2IGluIGFyZ3MuX19kaWN0X18uaXRlbXMoKSBpZiBub3Qgay5zdGFydHN3aXRoKCdfJyl9KQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGZpbGVzID0gZmlsdGVyX2ZpbGVzKGZpbGVzLCBhcmdzLnN1ZmZpeCkKICAgIHByaW50KGZpbGVzKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CmRlZiBmaWx0ZXJfZmlsZXMoZmlsZXMsIHN1ZmZpeCk6CiAgICByZXR1cm4gW2YgZm9yIGYgaW4gZmlsZXMgXQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaW50KGZpbGVzKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGZpbGVfcGF0aHMgPSBnZXRfZmlsZXNfcGF0aHMoKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZGVmIHBhcnNlX2luX2ZpbGVfYXJnKGluX2ZpbGUpOgogICAgcmV0dXJuIHsnLSc6IHN5cy5zdGRvdXR9LmdldChpbl9maWxlLCBzeXMuc3Rkb3V0KQoK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICBmcC53cml0ZShmaWxlKQo=</text>
+        <text encoding="base64">ICAgIDoKICAgICAgICB3aXRoIG9wZW4oZikgYXMgZnA6CiAgICAgICAgICAgIHlpZWxkIGZwLnJlYWQoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2l0aCAK</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlbihmKSBhcyBmcDoKICAgICAgICByZXR1cm4gZnAucmVhZCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KGZpbGVzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
