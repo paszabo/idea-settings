@@ -186,6 +186,11 @@
         <mark key="." line="5" column="39" />
         <mark key="^" line="0" column="61" />
       </file>
+      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/cis/templates/sql/daily/cis_customer_account_rel_daily.sql" timestamp="1525812138121">
+        <mark key="[" line="19" column="30" />
+        <mark key="]" line="19" column="30" />
+        <mark key="." line="19" column="30" />
+      </file>
       <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/cis/templates/sql/cis/edl/OS_OrgName.sql" timestamp="1525798884833">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -246,11 +251,17 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/cis/templates/sql/daily/cust_relationship_dly.sql" timestamp="1525812151646" />
       <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/cis/templates/sql/cis/table_check/row_count.sql" timestamp="1525799244828">
         <mark key="[" line="3" column="56" />
         <mark key="]" line="3" column="56" />
         <mark key="." line="3" column="56" />
         <mark key="^" line="3" column="56" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/cis/templates/sql/daily/cis_org_v2_dly.sql" timestamp="1525812147545">
+        <mark key="[" line="4" column="34" />
+        <mark key="]" line="4" column="34" />
+        <mark key="." line="4" column="34" />
       </file>
       <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/templates/sql/cis/edl/OS_CustAccountRel.sql" timestamp="1525123240512">
         <mark key="[" line="15" column="0" />
@@ -303,6 +314,11 @@
         <mark key="[" line="17" column="26" />
         <mark key="]" line="17" column="26" />
         <mark key="." line="17" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/cis/templates/sql/daily/generic_daily_loader.sql" timestamp="1525812156217">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="3" column="26" />
+        <mark key="." line="3" column="26" />
       </file>
     </filemarks>
     <jumps>
@@ -408,11 +424,11 @@
       <jump line="186" column="33" filename="$USER_HOME$/dev/repos/tenx/refdataprocessing/src/cpty/dags/cis/cis_daily_dag.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyAgICAgIC0gJy4vc3JjL2NwdHkvZGFncy9jaXM6L29wdC9yZWZkYXRhcHJvY2Vzc2luZy9haXJmbG93L2RhZ3MvY2lzJwo=</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>cis_customer_account_mapping_dly</text>
