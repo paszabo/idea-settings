@@ -1,4 +1,17 @@
 <code_scheme name="Default" version="173">
+  <Python>
+    <option name="NEW_LINE_AFTER_COLON" value="true" />
+    <option name="DICT_WRAPPING" value="5" />
+    <option name="DICT_NEW_LINE_AFTER_LEFT_BRACE" value="true" />
+    <option name="DICT_NEW_LINE_BEFORE_RIGHT_BRACE" value="true" />
+    <option name="OPTIMIZE_IMPORTS_SORT_BY_TYPE_FIRST" value="false" />
+    <option name="OPTIMIZE_IMPORTS_JOIN_FROM_IMPORTS_WITH_SAME_SOURCE" value="true" />
+    <option name="FROM_IMPORT_WRAPPING" value="5" />
+    <option name="FROM_IMPORT_NEW_LINE_AFTER_LEFT_PARENTHESIS" value="true" />
+    <option name="FROM_IMPORT_NEW_LINE_BEFORE_RIGHT_PARENTHESIS" value="true" />
+    <option name="FROM_IMPORT_PARENTHESES_FORCE_IF_MULTILINE" value="true" />
+    <option name="FROM_IMPORT_TRAILING_COMMA_IF_MULTILINE" value="true" />
+  </Python>
   <SqlCodeStyleSettings>
     <option name="ALIGN_AS_IN_SELECT_STATEMENT" value="false" />
     <option name="ALIGN_TYPE_IN_CREATE_STATEMENT" value="false" />
