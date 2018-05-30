@@ -51,6 +51,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/joyride-server/tslint.json" timestamp="1527723617608">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/queries/make.query.ts" timestamp="1527663262434">
         <mark key="[" line="0" column="41" />
         <mark key="]" line="1" column="17" />
@@ -93,11 +98,9 @@
         <mark key="." line="27" column="36" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/docker-compose.yml" timestamp="1527717005634" />
-      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.service.ts" timestamp="1527721417149">
-        <mark key="[" line="61" column="15" />
-        <mark key="]" line="61" column="24" />
-        <mark key="^" line="61" column="24" />
-        <mark key="." line="61" column="24" />
+      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.service.ts" timestamp="1527723623621">
+        <mark key="'" line="9" column="19" />
+        <mark key="[" line="52" column="1" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/model/model.schema.ts" timestamp="1527666202219">
         <mark key="'" line="31" column="0" />
@@ -164,13 +167,15 @@
       <jump line="6" column="10" filename="$USER_HOME$/dev/repos/joyride-server/src/server.ts" />
       <jump line="1" column="23" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/queries/index.ts" />
       <jump line="10" column="20" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/graph/queries/make.query.ts" />
+      <jump line="14" column="0" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.service.ts" />
+      <jump line="9" column="19" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.service.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Object</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>Object</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXdcPg==</text>
@@ -179,31 +184,31 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE8gKFBhdWwpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiIgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvciAobGV0IHR5cGUgaW4gdHlwZXMpIHsKICAgICAgICBjb25zb2xlLmxvZyh0eXBlKTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUmVmbGVjdCB9IGZyb20gJycK</text>
+        <text encoding="base64">Y2xhc3MgQXBpVmlld0NvbmZpZyB7CiAgICBjb25zdHJ1Y3RvciAoCiAgICAgICAgcHVibGljIHJlYWRvbmx5IHBhdGg6IHN0cmluZywKICAgICkge30KfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRlc2NyaXB0b3IudmFsdWUuYXJndW1lbnRzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
