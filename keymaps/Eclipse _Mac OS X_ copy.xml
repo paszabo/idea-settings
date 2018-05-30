@@ -1,0 +1,20 @@
+<keymap version="1" name="Eclipse (Mac OS X) copy" parent="Eclipse (Mac OS X)">
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="shift meta v" />
+  </action>
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="shift meta v" />
+  </action>
+  <action id="EditorPasteSimple" />
+  <action id="GotoFile" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+  </action>
+  <action id="PasteMultiple" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
+</keymap>
