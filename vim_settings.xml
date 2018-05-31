@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/repos/joyride-server/.prettierrc" timestamp="1527792369155">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="17" />
+        <mark key="." line="1" column="17" />
+        <mark key="^" line="1" column="17" />
+      </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/model/graph/queries/index.ts" timestamp="1527666514017">
         <mark key="[" line="2" column="31" />
         <mark key="]" line="2" column="31" />
@@ -40,14 +46,9 @@
         <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/graph/queries/makes.query.ts" timestamp="1527729329541">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/joyride-server/tslint.json" timestamp="1527723617608">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/queries/make.query.ts" timestamp="1527663262434">
         <mark key="[" line="0" column="41" />
@@ -84,30 +85,15 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-server/tsconfig.json" timestamp="1527717683933">
-        <mark key="[" line="26" column="38" />
-        <mark key="]" line="27" column="36" />
-        <mark key="^" line="27" column="36" />
-        <mark key="." line="27" column="36" />
+      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.model.ts" timestamp="1527792751862">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.model.ts" timestamp="1527789478584">
+      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/graph/make.schema.ts" timestamp="1527663677090">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.service.ts" timestamp="1527729285262">
-        <mark key="'" line="35" column="38" />
-        <mark key="j" line="15" column="0" />
-        <mark key="[" line="46" column="68" />
-        <mark key="]" line="46" column="73" />
-        <mark key="." line="46" column="73" />
-        <mark key="^" line="46" column="73" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/graph/make.schema.ts" timestamp="1527663677090">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/model/index.ts" timestamp="1527667007659">
         <mark key="[" line="1" column="0" />
@@ -120,12 +106,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="^" line="11" column="51" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/graph/queries/make.query.ts" timestamp="1527665534160">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="10" column="12" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/model/graph/model.type.ts" timestamp="1527666223586">
         <mark key="[" line="0" column="0" />
@@ -178,13 +158,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXdcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgcmVhZG9ubHkgaWQ6IElELAogICAgICAgIHB1YmxpYyByZWFkb25seSBuYW1lOiBzdHJpbmcsCg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gQXBpTW9kZWxGaWVsZCh0YXJnZXQ6IGFueSwga2V5OiBzdHJpbmcpIHsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -193,25 +173,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgQVBJTW9kZWxGYWN0b3J5ID0gewo=</text>
+        <text encoding="base64">ICAgIGsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Y2xhc3MgQVBJTW9kZWxGYWN0b3J5ID0gewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFJlZmxlY3QuZGVmaW5lTWV0YWRhdGEoTW9kZWxNZXRhS2V5LCB7CiAgICAgICAgbmFtZTogdGFyZ2V0Lm5hbWUsCiAgICB9LCB0YXJnZXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFJlZmxlY3QuZGVmaW5lTWV0YWRhdGEoTW9kZWxNZXRhS2V5LCB7CiAgICAgICAgbmFtZTogdGFyZ2V0Lm5hbWUsCiAgICB9LCB0YXJnZXQpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
