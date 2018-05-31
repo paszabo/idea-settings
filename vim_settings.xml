@@ -9,13 +9,6 @@
         <mark key="^" line="2" column="31" />
         <mark key="." line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-server/src/server.ts" timestamp="1527662517997">
-        <mark key="'" line="5" column="10" />
-        <mark key="[" line="1" column="3" />
-        <mark key="]" line="1" column="12" />
-        <mark key="." line="1" column="12" />
-        <mark key="^" line="1" column="12" />
-      </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/graph/joyride.schema.ts" timestamp="1527668061100">
         <mark key="[" line="0" column="40" />
         <mark key="]" line="2" column="18" />
@@ -105,12 +98,13 @@
         <mark key="." line="27" column="36" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/docker-compose.yml" timestamp="1527717005634" />
-      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.service.ts" timestamp="1527724923940">
-        <mark key="'" line="9" column="19" />
-        <mark key="[" line="37" column="4" />
-        <mark key="]" line="37" column="8" />
-        <mark key="." line="37" column="8" />
-        <mark key="^" line="37" column="8" />
+      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.service.ts" timestamp="1527726841512">
+        <mark key="'" line="34" column="62" />
+        <mark key="j" line="15" column="0" />
+        <mark key="[" line="21" column="25" />
+        <mark key="]" line="22" column="17" />
+        <mark key="." line="22" column="17" />
+        <mark key="^" line="22" column="17" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/model/model.schema.ts" timestamp="1527666202219">
         <mark key="'" line="31" column="0" />
@@ -155,13 +149,6 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.schema.ts" timestamp="1527663546058">
-        <mark key="'" line="19" column="45" />
-        <mark key="[" line="9" column="19" />
-        <mark key="]" line="9" column="29" />
-        <mark key="^" line="9" column="29" />
-        <mark key="." line="9" column="29" />
-      </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/model/graph/index.ts" timestamp="1527666696598">
         <mark key="[" line="1" column="28" />
         <mark key="]" line="2" column="25" />
@@ -186,13 +173,15 @@
       <jump line="10" column="20" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/graph/queries/make.query.ts" />
       <jump line="14" column="0" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.service.ts" />
       <jump line="9" column="19" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.service.ts" />
+      <jump line="32" column="18" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.service.ts" />
+      <jump line="31" column="62" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.service.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>let</text>
+        <text>any</text>
       </register>
       <register name="-" type="4">
-        <text>let</text>
+        <text>any</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXdcPg==</text>
@@ -201,31 +190,31 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKE9iamVjdC5rZXlzKHRhcmdldFtwcm9wZXJ0eUtleV0pKTsK</text>
+        <text encoding="base64">ZnVuY3Rpb24gQXBpUGFyYW1EZWNvcmF0b3IodGFyZ2V0OiBhbnksIHByb3BlcnR5S2V5OiBzdHJpbmcsIHBhcmFtZXRlckluZGV4OiBudW1iZXIpIHsKICAgIGNvbnN0IGV4aXN0aW5nUmVxdWlyZWRQYXJhbWV0ZXJzOiBudW1iZXJbXSA9IFJlZmxlY3QuZ2V0T3duTWV0YWRhdGEoCiAgICAgICAgUGFyYW1NZXRhS2V5LAogICAgICAgIHRhcmdldCwKICAgICAgICBwcm9wZXJ0eUtleSwKICAgICkgfHwgW107CiAgICBleGlzdGluZ1JlcXVpcmVkUGFyYW1ldGVycy5wdXNoKHBhcmFtZXRlckluZGV4KTsKICAgIFJlZmxlY3QuZGVmaW5lTWV0YWRhdGEoUGFyYW1NZXRhS2V5LCBleGlzdGluZ1JlcXVpcmVkUGFyYW1ldGVycywgdGFyZ2V0LCBwcm9wZXJ0eUtleSk7CgogICAgY29uc29sZS5sb2codGFyZ2V0KTsKICAgIGNvbnNvbGUubG9nKHByb3BlcnR5S2V5KTsKICAgIGNvbnNvbGUubG9nKHBhcmFtZXRlckluZGV4KTsKfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gQXBpVmlld0RlY29yYXRvcih0YXJnZXQ6IGFueSwgcHJvcGVydHlLZXk6IHN0cmluZywgZGVzY3JpcHRvcjogUHJvcGVydHlEZXNjcmlwdG9yKSB7CiAgICBjb25zb2xlLmxvZygnQXBpVmlld0RlY29yYXRvcicpOwogICAgY29uc29sZS5sb2codGFyZ2V0KTsKICAgIGNvbnNvbGUubG9nKHByb3BlcnR5S2V5KTsKICAgIGNvbnNvbGUubG9nKGRlc2NyaXB0b3IpOwoKICAgIGNvbnN0IHJlcXVpcmVkUGFyYW1ldGVyczogbnVtYmVyW10gPSBSZWZsZWN0LmdldE93bk1ldGFkYXRhKFBhcmFtTWV0YUtleSwgdGFyZ2V0LCBwcm9wZXJ0eUtleSk7CgogICAgY29uc29sZS5sb2cocmVxdWlyZWRQYXJhbWV0ZXJzKTsKCgogICAgY29uc3QgdHlwZXMgPSBSZWZsZWN0LmdldE1ldGFkYXRhKCdkZXNpZ246cGFyYW10eXBlcycsIHRhcmdldCwgcHJvcGVydHlLZXkpOwoKICAgIGNvbnNvbGUubG9nKHR5cGVzKTsKfQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHR5cGVzLm1hcChhID0+IHsKICAgICAgICBjb25zb2xlLmxvZyhhKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICkpOwo=</text>
+        <text encoding="base64">dHlwZSBBcGlQYXJhbUNvbmZpZyA9IHsKICAgIAp9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gewogICAgICAgICAgICBuYW1lOiBhLm5hbWUsCiAgICAgICAgICAgIHZhbHVlOiBhLnZhbHVlLAogICAgICAgIH07Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKE9iamVjdC5rZXlzKHRhcmdldFtwcm9wZXJ0eUtleV0pKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgQXBpUGFyYW0gewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHR5cGVzLm1hcChhID0+IHsKICAgICAgICBjb25zb2xlLmxvZyhhKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
