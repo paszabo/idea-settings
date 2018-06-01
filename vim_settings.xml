@@ -85,16 +85,17 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.model.ts" timestamp="1527869546404">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.model.ts" timestamp="1527875912209">
+        <mark key="[" line="130" column="5" />
+        <mark key="]" line="130" column="5" />
+        <mark key="." line="130" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.service.ts" timestamp="1527868047380">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.service.ts" timestamp="1527876403548">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="28" column="35" />
+        <mark key="]" line="28" column="44" />
+        <mark key="." line="28" column="44" />
+        <mark key="^" line="28" column="44" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/graph/make.schema.ts" timestamp="1527663677090">
         <mark key="[" line="8" column="0" />
@@ -149,11 +150,11 @@
         <mark key="^" line="1" column="1" />
         <mark key="." line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-server/src/logging/console-logger.ts" timestamp="1527795414795">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="28" column="33" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/dev/repos/joyride-server/src/logging/console-logger.ts" timestamp="1527875285691">
+        <mark key="[" line="27" column="60" />
+        <mark key="]" line="27" column="66" />
+        <mark key="^" line="27" column="66" />
+        <mark key="." line="27" column="66" />
       </file>
     </filemarks>
     <jumps>
@@ -179,37 +180,38 @@
       <jump line="6" column="20" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.model.ts" />
       <jump line="83" column="20" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.model.ts" />
       <jump line="29" column="0" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.service.ts" />
+      <jump line="139" column="0" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.model.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Own</text>
       </register>
       <register name="-" type="4">
-        <text>target</text>
+        <text>Own</text>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text>O'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZ2V0TW9kZWxGaWVsZHModGFyZ2V0KSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlcXVpcmVkUGFyYW1ldGVyczogUGFyYW1bXSA9IFJlZmxlY3QuZ2V0T3duTWV0YWRhdGEoUGFyYW1NZXRhS2V5LCB0YXJnZXQsIHByb3BlcnR5S2V5KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IE1vZGVsRmllbGRNZXRhS2V5ID0gU3ltYm9sKCdhcGktbW9kZWwtZmllbGQnKTsKCiAgICBleHBvcnQgZnVuY3Rpb24gZ2V0TW9kZWxGaWVsZHMobW9kZWw6IGFueSk6IE1vZGVsRmllbGRbXSB7CiAgICAgICAgcmV0dXJuIFJlZmxlY3QuZ2V0TWV0YWRhdGEoTW9kZWxGaWVsZE1ldGFLZXksIG1vZGVsKSB8fCBbXTsKICAgIH0KCgogICAgZXhwb3J0IGZ1bmN0aW9uIHB1c2hNb2RlbEZpZWxkKG1vZGVsOiBhbnksIGZpZWxkOiBNb2RlbEZpZWxkKTogdm9pZCB7CiAgICAgICAgY29uc29sZS5sb2coYHB1c2hpbmcgbW9kZWwgZmllbGRzIGZvciBtb2RlbCAke21vZGVsfWApOwogICAgICAgIGNvbnNvbGUubG9nKG1vZGVsKTsKICAgICAgICBjb25zb2xlLmxvZyhtb2RlbC5uYW1lKTsKICAgICAgICBjb25zdCBmaWVsZHM6IE1vZGVsRmllbGRbXSA9IGdldE1vZGVsRmllbGRzKG1vZGVsKTsKICAgICAgICBmaWVsZHMucHVzaChmaWVsZCk7CgogICAgICAgIFJlZmxlY3QuZGVmaW5lTWV0YWRhdGEoTW9kZWxGaWVsZE1ldGFLZXksIGZpZWxkcywgbW9kZWwpOwogICAgfQoKCiAgICBleHBvcnQgZnVuY3Rpb24gbW9kZWxGaWVsZCgpIHsKICAgICAgICBmdW5jdGlvbiBtb2RlbEZpZWxkRGVjb3JhdG9yKHRhcmdldDogYW55LCBrZXk6IHN0cmluZykgewogICAgICAgICAgICBwdXNoTW9kZWxGaWVsZCh0YXJnZXQsIG5ldyBNb2RlbEZpZWxkKHRhcmdldCwga2V5KSk7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gbW9kZWxGaWVsZERlY29yYXRvcjsKICAgIH0KCgogICAgZXhwb3J0IGNsYXNzIE1vZGVsRmllbGQgewogICAgICAgIHB1YmxpYyByZWFkb25seSBuYW1lOiBzdHJpbmc7CgogICAgICAgIGNvbnN0cnVjdG9yKAogICAgICAgICAgICBwcml2YXRlIHJlYWRvbmx5IHRhcmdldDogYW55LAogICAgICAgICAgICBwcml2YXRlIHJlYWRvbmx5IGtleTogc3RyaW5nLAogICAgICAgICkgewogICAgICAgICAgICB0aGlzLm5hbWUgPSBrZXk7CiAgICAgICAgfQoKICAgICAgICAvKioKICAgICAgICAgKiBDcmVhdGUgQVBJIHR5cGUgaW5zdGFuY2UKICAgICAgICAgKgogICAgICAgICAqIEByZXR1cm5zIHthbnl9CiAgICAgICAgICovCiAgICAgICAgcHVibGljIHNlcmlhbGl6ZSgpOiBhbnkgewogICAgICAgICAgICBjb25zdCBhcGlUeXBlID0ge307CiAgICAgICAgICAgIGFwaVR5cGVbdGhpcy5uYW1lXSA9IHsgdHlwZTogdGhpcy5nZXRBUElUeXBlKCkgfTsKCiAgICAgICAgICAgIHJldHVybiBhcGlUeXBlOwogICAgICAgIH0KCiAgICAgICAgLyoqCiAgICAgICAgICogR2V0IG5hdGl2ZSBUeXBlU2NyaXB0IGJveGVkIHR5cGUKICAgICAgICAgKgogICAgICAgICAqIEByZXR1cm5zIHthbnl9CiAgICAgICAgICovCiAgICAgICAgcHVibGljIGdldE5hdGl2ZVR5cGUoKTogYW55IHsKICAgICAgICAgICAgcmV0dXJuIFJlZmxlY3QuZ2V0TWV0YWRhdGEoJ2Rlc2lnbjp0eXBlJywgdGhpcy50YXJnZXQsIHRoaXMua2V5KTsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBnZXRBUElUeXBlKCk6IGFueSB7CiAgICAgICAgICAgIGNvbnN0IHQgPSB0aGlzLmdldE5hdGl2ZVR5cGUoKTsKCiAgICAgICAgICAgIGlmICh0ID09PSBTdHJpbmcpIHsKICAgICAgICAgICAgICAgIHJldHVybiBHcmFwaFFMU3RyaW5nOwogICAgICAgICAgICB9IGVsc2UgaWYgKHQgPT09IE51bWJlcikgewogICAgICAgICAgICAgICAgcmV0dXJuIEdyYXBoUUxJbnQ7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHRocm93IG5ldyBUeXBlRXJyb3IoYENhbm5vdCBtYXAgdHlwZSAke3R9IHRvIGFuIEFQSSB0eXBlYCk7CiAgICAgICAgfQogICAgfQoKCiAgICBjb25zdCBNb2RlbE1ldGFLZXkgPSBTeW1ib2woJ2FwaS1tb2RlbCcpOwoKCiAgICBjbGFzcyBBcGlNb2RlbCB7CiAgICAgICAgY29uc3RydWN0b3IocHJpdmF0ZSB0YXJnZXQ6IGFueSkgewogICAgICAgIH0KCiAgICAgICAgcHVibGljIGdldEZpZWxkcygpOiBNb2RlbEZpZWxkW10gewogICAgICAgICAgICByZXR1cm4gZ2V0TW9kZWxGaWVsZHModGhpcy50YXJnZXQpOwogICAgICAgIH0KICAgIH0KCgogICAgZnVuY3Rpb24gcHVzaEFwaU1vZGVsKHRhcmdldDogYW55KTogdm9pZCB7CiAgICAgICAgUmVmbGVjdC5kZWZpbmVNZXRhZGF0YSgKICAgICAgICAgICAgTW9kZWxNZXRhS2V5LAogICAgICAgICAgICBuZXcgQXBpTW9kZWwodGFyZ2V0KSwKICAgICAgICAgICAgdGFyZ2V0LAogICAgICAgICk7CiAgICB9CgoKICAgIGZ1bmN0aW9uIGdldEFwaU1vZGVsKHRhcmdldDogYW55KTogQXBpTW9kZWwgewogICAgICAgIHJldHVybiBSZWZsZWN0LmdldE1ldGFkYXRhKE1vZGVsTWV0YUtleSwgdGFyZ2V0KTsKICAgIH0KCgogICAgZXhwb3J0IGZ1bmN0aW9uIGFwaU1vZGVsKG5hbWU/OiBzdHJpbmcpIHsKICAgICAgICBmdW5jdGlvbiBBcGlNb2RlbERlY29yYXRvcih0YXJnZXQ6IGFueSkgewogICAgICAgICAgICBwdXNoQXBpTW9kZWwobmV3IEFwaU1vZGVsKHRhcmdldCkpOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIEFwaU1vZGVsRGVjb3JhdG9yOwogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbW9kZWwgZmllbGRzJyk7CiAgICAgICAgY29uc29sZS5sb2coUmVmbGVjdC5nZXRNZXRhZGF0YSgnZGVzaWduOnByb3BlcnRpZXMnLCBtb2RlbCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zbwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gY29uc3QgbW9kZWwgPSA7Cg==</text>
+        <text encoding="base64">CmZ1bmN0aW9uIGZvbygpIHsKICAgIGNvbnN0IGYgPSBuZXcgTWFrZSgxMjMsICdmb28nKTsKCgogICAgY29uc29sZS5sb2coJ21vZGVsIGZpZWxkczogJyk7CiAgICBjb25zb2xlLmxvZyhhcGkuZ2V0TW9kZWxGaWVsZHMoZikpOwoKfQoKCmZvbygpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgZiA9IG5ldyBNYWtlKDEyMywgJ2ZvbycpOwoKCmNvbnNvbGUubG9nKCdtb2RlbCBmaWVsZHM6ICcpOwpjb25zb2xlLmxvZyhhcGkuZ2V0TW9kZWxGaWVsZHMoTWFrZSkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ21vZGVsJyk7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKG1vZGVsKTsKICAgICAgICAgICAgY29uc29sZS5sb2cobW9kZWwuZ2V0RmllbGRzKCkpOwo=</text>
+        <text encoding="base64">YXBpLgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -218,16 +220,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVmbGVjdC5kZWZpbmVNZXRhZGF0YSgKICAgICAgICAgICAgICAgIE1vZGVsTWV0YUtleSwKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBuYW1lOiBuYW1lIHx8IHRhcmdldC5uYW1lLAogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIHRhcmdldCwKICAgICAgICAgICAgKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbW9kZWwgZmllbGRzJyk7CiAgICAgICAgY29uc29sZS5sb2coUmVmbGVjdC5nZXRNZXRhZGF0YSgnZGVzaWduOnByb3BlcnRpZXMnLCBtb2RlbCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>log</last-search>
+      <last-search>O'</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
+      <last-pattern>O'</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -240,6 +242,7 @@
         <entry encoding="base64">XDxxdWVyeVw+</entry>
         <entry encoding="base64">XDxuZXdcPg==</entry>
         <entry>log</entry>
+        <entry>O'</entry>
       </history-search>
       <history-cmd>
         <entry>4</entry>
@@ -249,12 +252,13 @@
         <entry>11</entry>
         <entry>40</entry>
         <entry>we</entry>
-        <entry>wq</entry>
         <entry>0</entry>
         <entry>e</entry>
         <entry>89</entry>
         <entry>115</entry>
         <entry>q</entry>
+        <entry>wq</entry>
+        <entry>10</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -263,6 +267,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
