@@ -85,11 +85,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.model.ts" timestamp="1527882119384">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="^" line="92" column="44" />
-        <mark key="." line="92" column="0" />
+      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.model.ts" timestamp="1527894153111">
+        <mark key="'" line="122" column="23" />
+        <mark key="[" line="96" column="32" />
+        <mark key="]" line="96" column="32" />
+        <mark key="^" line="96" column="32" />
+        <mark key="." line="96" column="32" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.service.ts" timestamp="1527891203354">
         <mark key="'" line="35" column="0" />
@@ -180,60 +181,70 @@
       <jump line="27" column="0" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.model.ts" />
       <jump line="28" column="0" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.model.ts" />
       <jump line="84" column="20" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.model.ts" />
-      <jump line="2" column="38" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.model.ts" />
-      <jump line="6" column="20" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.model.ts" />
       <jump line="83" column="20" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.model.ts" />
       <jump line="29" column="0" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.service.ts" />
       <jump line="139" column="0" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.model.ts" />
+      <jump line="96" column="32" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.model.ts" />
+      <jump line="123" column="22" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.model.ts" />
+      <jump line="19" column="25" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.model.ts" />
+      <jump line="2" column="38" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.model.ts" />
+      <jump line="6" column="20" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.model.ts" />
+      <jump line="16" column="19" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.model.ts" />
+      <jump line="17" column="19" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.model.ts" />
+      <jump line="18" column="19" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.model.ts" />
+      <jump line="114" column="19" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.model.ts" />
+      <jump line="115" column="19" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.model.ts" />
+      <jump line="121" column="23" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.model.ts" />
+      <jump line="122" column="23" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.model.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXR1cm5UeXBlKTsKICAgICAgICBjb25zb2xlLmxvZygnbWFrZSBzZXJ2aWNlOyBtb2RlbCBmaWVsZHM6Jyk7CiAgICAgICAgY29uc29sZS5sb2coYXBpLmdldE1vZGVsRmllbGRzKHRhcmdldCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.prototype</text>
       </register>
       <register name="/" type="4">
-        <text>O'</text>
+        <text>log</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy50YXJnZXQucHJvdG90eXBlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXR1cm5UeXBlKTsKICAgICAgICBjb25zb2xlLmxvZygnbWFrZSBzZXJ2aWNlOyBtb2RlbCBmaWVsZHM6Jyk7CiAgICAgICAgY29uc29sZS5sb2coYXBpLmdldE1vZGVsRmllbGRzKHRhcmdldCkpOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coY29uZmlnLmVsZW1lbnRUeXBlKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZ3FsUXVlcnkudHlwZSA9Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCdnb3RGaWVsZHMnKTsKICAgICAgICAgICAgY29uc29sZS5sb2coZmllbGRzKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXR1cm5UeXBlKTsKICAgICAgICBjb25zb2xlLmxvZygnbWFrZSBzZXJ2aWNlOyBtb2RlbCBmaWVsZHM6Jyk7CiAgICAgICAgY29uc29sZS5sb2coYXBpLmdldE1vZGVsRmllbGRzKHRhcmdldCkpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coY29uZmlnLmVsZW1lbnRUeXBlKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCdnb3QgYW4gYXJyYXkgb2YgdHlwZScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZ3FsUXVlcnkudHlwZSA9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gcmV0dXJuIGdldE1vZGVsRmllbGRzKHRoaXMudGFyZ2V0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2dldHRpbmcgZmllbGRzIGZvciAnKTsKICAgICAgICAgICAgLy8gY29uc29sZS5sb2codGhpcy50YXJnZXQpOwogICAgICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnRhcmdldC5wcm90b3R5cGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCdnb3QgYW4gYXJyYXkgb2YgdHlwZScpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gcmV0dXJuIGdldE1vZGVsRmllbGRzKHRoaXMudGFyZ2V0KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>O'</last-search>
+      <last-search>log</last-search>
       <last-offset />
-      <last-pattern>O'</last-pattern>
+      <last-pattern>log</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -245,8 +256,8 @@
         <entry>new</entry>
         <entry encoding="base64">XDxxdWVyeVw+</entry>
         <entry encoding="base64">XDxuZXdcPg==</entry>
-        <entry>log</entry>
         <entry>O'</entry>
+        <entry>log</entry>
       </history-search>
       <history-cmd>
         <entry>4</entry>
