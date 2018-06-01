@@ -85,11 +85,16 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.model.ts" timestamp="1527803255986">
-        <mark key="[" line="86" column="5" />
-        <mark key="]" line="87" column="3" />
-        <mark key="^" line="87" column="3" />
-        <mark key="." line="87" column="3" />
+      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.model.ts" timestamp="1527869546404">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.service.ts" timestamp="1527868047380">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/graph/make.schema.ts" timestamp="1527663677090">
         <mark key="[" line="8" column="0" />
@@ -165,56 +170,65 @@
       <jump line="32" column="18" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.service.ts" />
       <jump line="31" column="62" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.service.ts" />
       <jump line="35" column="38" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.service.ts" />
+      <jump line="87" column="37" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.model.ts" />
+      <jump line="88" column="20" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.model.ts" />
+      <jump line="27" column="0" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.model.ts" />
+      <jump line="28" column="0" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.model.ts" />
+      <jump line="84" column="20" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.model.ts" />
+      <jump line="2" column="38" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.model.ts" />
+      <jump line="6" column="20" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.model.ts" />
+      <jump line="83" column="20" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.model.ts" />
+      <jump line="29" column="0" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.service.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gQXBpTW9kZWwobmFtZT86IHN0cmluZykgewogICAgZnVuY3Rpb24gQXBpTW9kZWxEZWNvcmF0b3IodGFyZ2V0OiBhbnkpIHsKICAgICAgICBjb25zb2xlLmxvZygnQXBpTW9kZWxEZWNvcmF0b3InKTsKICAgICAgICBjb25zb2xlLmxvZyh0YXJnZXQpOwoKICAgICAgICBSZWZsZWN0LmRlZmluZU1ldGFkYXRhKAogICAgICAgICAgICBNb2RlbE1ldGFLZXksCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIG5hbWU6IG5hbWUgfHwgdGFyZ2V0Lm5hbWUsCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHRhcmdldCwKICAgICAgICApOwogICAgfQoKICAgIHJldHVybiBBcGlNb2RlbERlY29yYXRvcjsKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>target</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuZXdcPg==</text>
+        <text>log</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZ2V0TW9kZWxGaWVsZHModGFyZ2V0KSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gQXBpTW9kZWwobmFtZT86IHN0cmluZykgewogICAgZnVuY3Rpb24gQXBpTW9kZWxEZWNvcmF0b3IodGFyZ2V0OiBhbnkpIHsKICAgICAgICBjb25zb2xlLmxvZygnQXBpTW9kZWxEZWNvcmF0b3InKTsKICAgICAgICBjb25zb2xlLmxvZyh0YXJnZXQpOwoKICAgICAgICBSZWZsZWN0LmRlZmluZU1ldGFkYXRhKAogICAgICAgICAgICBNb2RlbE1ldGFLZXksCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIG5hbWU6IG5hbWUgfHwgdGFyZ2V0Lm5hbWUsCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHRhcmdldCwKICAgICAgICApOwogICAgfQoKICAgIHJldHVybiBBcGlNb2RlbERlY29yYXRvcjsKfQo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbW9kZWwgZmllbGRzJyk7CiAgICAgICAgY29uc29sZS5sb2coUmVmbGVjdC5nZXRNZXRhZGF0YSgnZGVzaWduOnByb3BlcnRpZXMnLCBtb2RlbCkpOwo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gZnVuY3Rpb24gQXBpTW9kZWxGaWVsZCgpIHsKLy8gICAgIGZ1bmN0aW9uIEFwaU1vZGVsRmllbGREZWNvcmF0b3IodGFyZ2V0OiBhbnksIGtleTogc3RyaW5nKSB7Ci8vCi8vICAgICAgICAgY29uc3QgbW9kZWxGaWVsZDogQVBJTW9kZWxGaWVsZFQgPSBuZXcgQVBJTW9kZWxGaWVsZFQodGFyZ2V0LCBrZXkpOwovLwovLyAgICAgICAgIC8vIGNvbnN0IG5hdGl2ZVR5cGUgPQovLyAgICAgICAgIC8vIGNvbnN0IGdldEFQSVR5cGUgPSB0ID0+IHsKLy8gICAgICAgICAvLyB9OwovLyAgICAgICAgIC8vIGNvbnN0IGFwaVR5cGUgPSBnZXRBUElUeXBlKG5hdGl2ZVR5cGUpOwovLyAgICAgICAgIC8vCi8vICAgICAgICAgLy8gY29uc3QgbW9kZWxGaWVsZDogQXBpTW9kZWxGaWVsZFQgPSB7Ci8vICAgICAgICAgLy8gICAgIG5hbWU6IGtleSwKLy8gICAgICAgICAvLyAgICAgbmF0aXZlVHlwZSwKLy8gICAgICAgICAvLyAgICAgZ2V0QVBJVHlwZSwKLy8gICAgICAgICAvLyAgICAgYXBpVHlwZSwKLy8gICAgICAgICAvLyB9OwovLwovLyAgICAgICAgIGxvZy5kZWJ1ZygnbW9kZWxGaWVsZCcpOwovLyAgICAgICAgIGxvZy5kZWJ1ZyhgewovLyAgICAgICAgICAgICBuYW1lOiAke21vZGVsRmllbGQubmFtZX0sCi8vICAgICAgICAgICAgIG5hdGl2ZVR5cGU6ICR7bW9kZWxGaWVsZC5nZXROYXRpdmVUeXBlKCl9LAovLyAgICAgICAgICAgICBhcGlUeXBlOiAke21vZGVsRmllbGQuZ2V0QVBJVHlwZSgpfSwKLy8gICAgICAgICAgICAgZ2V0QVBJVHlwZTogJHttb2RlbEZpZWxkLnNlcmlhbGl6ZSgpfQovLyAgICAgICAgIH1gKTsKLy8KLy8KLy8gICAgICAgICBSZWZsZWN0LmRlZmluZU1ldGFkYXRhKAovLyAgICAgICAgICAgICBNb2RlbEZpZWxkTWV0YUtleSwKLy8gICAgICAgICAgICAgbW9kZWxGaWVsZCwKLy8gICAgICAgICAgICAgdGFyZ2V0LAovLyAgICAgICAgICAgICBrZXksCi8vICAgICAgICAgKTsKLy8gICAgIH0KLy8KLy8gICAgIHJldHVybiBBcGlNb2RlbEZpZWxkRGVjb3JhdG9yOwovLyB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zbwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVmbGVjdC5kZWZpbmVNZXRhZGF0YSggTW9kZWxGaWVsZE1ldGFLZXksCiAgICAgICAgICAgICAgICAsCiAgICAgICAgICAgICAgICB0YXJnZXQsCiAgICAgICAgICAgICAgICBrZXksCiAgICAgICAgICAgICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gY29uc3QgbW9kZWwgPSA7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgQVBJTW9kZWxGYWN0b3J5IHsKfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgTW9kZWxGaWVsZE1ldGFLZXkgPSBTeW1ib2woJ2FwaS1tb2RlbC1maWVsZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ21vZGVsJyk7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKG1vZGVsKTsKICAgICAgICAgICAgY29uc29sZS5sb2cobW9kZWwuZ2V0RmllbGRzKCkpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gdHlwZSBBcGlNb2RlbEZpZWxkVCA9IHsKLy8gICAgIG5hbWU/OiBzdHJpbmcsCi8vICAgICBuYXRpdmVUeXBlPzogYW55LAovLyAgICAgYXBpVHlwZT86IGFueSwKLy8gICAgIGdldEFQSVR5cGU/OiAodDogYW55KSA9PiBhbnksCi8vIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVmbGVjdC5kZWZpbmVNZXRhZGF0YSgKICAgICAgICAgICAgICAgIE1vZGVsTWV0YUtleSwKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBuYW1lOiBuYW1lIHx8IHRhcmdldC5uYW1lLAogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIHRhcmdldCwKICAgICAgICAgICAgKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuZXdcPg==</last-search>
+      <last-search>log</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuZXdcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>log</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -225,6 +239,7 @@
         <entry>new</entry>
         <entry encoding="base64">XDxxdWVyeVw+</entry>
         <entry encoding="base64">XDxuZXdcPg==</entry>
+        <entry>log</entry>
       </history-search>
       <history-cmd>
         <entry>4</entry>
@@ -234,10 +249,12 @@
         <entry>11</entry>
         <entry>40</entry>
         <entry>we</entry>
-        <entry>q</entry>
         <entry>wq</entry>
         <entry>0</entry>
         <entry>e</entry>
+        <entry>89</entry>
+        <entry>115</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
