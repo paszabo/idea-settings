@@ -2,7 +2,7 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks>
-      <mark key="H" line="168" column="13" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" protocol="file" />
+      <mark key="H" line="185" column="13" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" protocol="file" />
     </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/dev/repos/joyride-server/.prettierrc" timestamp="1527796652261">
@@ -17,17 +17,27 @@
         <mark key="^" line="0" column="21" />
         <mark key="." line="0" column="21" />
       </file>
+      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/graph/joyride.query.ts" timestamp="1528155522823">
+        <mark key="[" line="9" column="11" />
+        <mark key="]" line="9" column="19" />
+        <mark key="." line="9" column="19" />
+        <mark key="^" line="9" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.api.ts" timestamp="1528155430671">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="60" />
+      </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/model/graph/queries/index.ts" timestamp="1527666514017">
         <mark key="[" line="2" column="31" />
         <mark key="]" line="2" column="31" />
         <mark key="^" line="2" column="31" />
         <mark key="." line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/graph/joyride.schema.ts" timestamp="1527668061100">
-        <mark key="[" line="0" column="40" />
-        <mark key="]" line="2" column="18" />
-        <mark key="." line="2" column="18" />
-        <mark key="^" line="2" column="18" />
+      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/graph/joyride.schema.ts" timestamp="1528155544231">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="44" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/index.ts" timestamp="1527668131680">
         <mark key="[" line="4" column="0" />
@@ -50,11 +60,11 @@
       <file name="$USER_HOME$/dev/repos/joyride-server/src/api/api.ts" timestamp="1528124796885">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/index.ts" timestamp="1528124954997">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="3" column="0" />
+      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/index.ts" timestamp="1528147827034">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="21" />
+        <mark key="." line="2" column="21" />
+        <mark key="^" line="2" column="21" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/graph/queries/makes.query.ts" timestamp="1527880654148">
         <mark key="[" line="10" column="0" />
@@ -78,12 +88,12 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="11" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/graph/root.query.ts" timestamp="1528135395778">
+      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/graph/root.query.ts" timestamp="1528147856672">
         <mark key="'" line="21" column="21" />
-        <mark key="[" line="24" column="24" />
-        <mark key="]" line="24" column="24" />
-        <mark key="." line="24" column="24" />
-        <mark key="^" line="24" column="24" />
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="9" column="18" />
+        <mark key="." line="9" column="18" />
+        <mark key="^" line="9" column="18" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/schema.ts" timestamp="1527668014221">
         <mark key="[" line="2" column="0" />
@@ -91,18 +101,18 @@
         <mark key="^" line="16" column="19" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/model/model.service.ts" timestamp="1527668376660">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="10" column="3" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="0" column="24" />
+      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/model/model.service.ts" timestamp="1528156475637">
+        <mark key="[" line="59" column="25" />
+        <mark key="]" line="59" column="36" />
+        <mark key="." line="59" column="36" />
+        <mark key="^" line="59" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" timestamp="1528141018905">
-        <mark key="'" line="339" column="15" />
-        <mark key="[" line="349" column="30" />
-        <mark key="]" line="349" column="30" />
-        <mark key="^" line="343" column="30" />
-        <mark key="." line="349" column="30" />
+      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" timestamp="1528157046156">
+        <mark key="'" line="256" column="26" />
+        <mark key="[" line="13" column="27" />
+        <mark key="]" line="14" column="68" />
+        <mark key="." line="14" column="68" />
+        <mark key="^" line="14" column="68" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.model.ts" timestamp="1528135849886">
         <mark key="[" line="15" column="0" />
@@ -110,22 +120,28 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.service.ts" timestamp="1528141132710">
-        <mark key="[" line="29" column="43" />
-        <mark key="]" line="29" column="46" />
+      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.service.ts" timestamp="1528147587173">
+        <mark key="[" line="29" column="38" />
+        <mark key="]" line="29" column="38" />
         <mark key="^" line="29" column="46" />
-        <mark key="." line="29" column="46" />
+        <mark key="." line="29" column="38" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/graph/make.schema.ts" timestamp="1527663677090">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/model/index.ts" timestamp="1527667007659">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="2" column="7" />
+      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/model/index.ts" timestamp="1528155422124">
+        <mark key="[" line="1" column="32" />
+        <mark key="]" line="2" column="27" />
+        <mark key="^" line="2" column="27" />
+        <mark key="." line="2" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/model/model.api.ts" timestamp="1528155479442">
+        <mark key="[" line="4" column="49" />
+        <mark key="]" line="4" column="53" />
+        <mark key="." line="4" column="53" />
+        <mark key="^" line="4" column="53" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/graph/make.type.ts" timestamp="1527880679420">
         <mark key="[" line="3" column="28" />
@@ -137,7 +153,6 @@
         <mark key="^" line="11" column="51" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/graph/queries/make.query.ts" timestamp="1528131966050" />
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/model/graph/model.type.ts" timestamp="1527666223586">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="51" />
@@ -149,6 +164,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="^" line="10" column="39" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/api.ts" timestamp="1528147801255">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="20" />
+        <mark key="^" line="4" column="60" />
+        <mark key="." line="4" column="20" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/graph/index.ts" timestamp="1527665178941">
         <mark key="[" line="1" column="0" />
@@ -167,11 +188,17 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/graph/index.ts" timestamp="1527668087930">
-        <mark key="[" line="1" column="1" />
-        <mark key="]" line="1" column="1" />
-        <mark key="^" line="1" column="1" />
-        <mark key="." line="1" column="1" />
+      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/model/model.model.ts" timestamp="1528156626999">
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="13" column="16" />
+        <mark key="^" line="13" column="16" />
+        <mark key="." line="13" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/graph/index.ts" timestamp="1528155555107">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="23" />
+        <mark key="^" line="1" column="23" />
+        <mark key="." line="1" column="23" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/logging/console-logger.ts" timestamp="1527875285691">
         <mark key="[" line="27" column="60" />
@@ -220,7 +247,6 @@
       <jump line="188" column="20" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
       <jump line="198" column="39" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
       <jump line="248" column="48" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
-      <jump line="256" column="24" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
       <jump line="303" column="0" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
       <jump line="308" column="23" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
       <jump line="2" column="30" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
@@ -240,55 +266,60 @@
       <jump line="333" column="0" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
       <jump line="328" column="34" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
       <jump line="339" column="15" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
+      <jump line="343" column="6" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
+      <jump line="414" column="0" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
+      <jump line="465" column="23" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
+      <jump line="74" column="6" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
+      <jump line="256" column="26" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>makeById</text>
       </register>
       <register name="/" type="4">
-        <text>pushApiModel</text>
+        <text>view(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnaWQnKTsK</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IG1ha2VBUElzID0gYXBpLmdldFZpZXdzRnJvbVNlcnZpY2UoTWFrZVNlcnZpY2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCEoYXJncy5sZW5ndGggPj0gMSAmJiBhcmdzWzFdLmxlbmd0aCA+IDApKSB7CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnYXJnc1sxXS5sZW5ndGggPiAwKScpOwogICAgICAgICAgICAgICAgY29uc29sZS5sb2coYXJnc1sxXS5sZW5ndGgpOwogICAgICAgICAgICAgICAgY29uc29sZS5sb2coYXJnc1sxXSk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICogICogCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IHggPSBhcmdzWzFdOwoKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGBhcmdzWzFdLmxlbmd0aCA+IDBgKTsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHgpOwo=</text>
+        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9ncmFwaC9tb2RlbC5zY2hlbWEnOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIC8vIGlmIChhcmdzKSB7CiAgICAgICAgICAgIC8vCiAgICAgICAgICAgIC8vIH0K</text>
+        <text encoding="base64">LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGBgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>pushApiModel</last-search>
+      <last-search>view(</last-search>
       <last-offset />
-      <last-pattern>pushApiModel</last-pattern>
+      <last-pattern>view(</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -303,18 +334,15 @@
         <entry>O'</entry>
         <entry>returnType</entry>
         <entry>conf</entry>
-        <entry>log</entry>
         <entry>console</entry>
         <entry>pushModel</entry>
         <entry>getApiModel</entry>
         <entry>pushApiModel</entry>
+        <entry>log</entry>
+        <entry>view</entry>
+        <entry>view(</entry>
       </history-search>
       <history-cmd>
-        <entry>10</entry>
-        <entry>46</entry>
-        <entry>0-</entry>
-        <entry>3</entry>
-        <entry>we</entry>
         <entry>Lw</entry>
         <entry>W</entry>
         <entry>ew</entry>
@@ -329,6 +357,11 @@
         <entry>312</entry>
         <entry>23</entry>
         <entry>261</entry>
+        <entry>369</entry>
+        <entry>347d</entry>
+        <entry>1</entry>
+        <entry>ews</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
