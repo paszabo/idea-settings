@@ -1,9 +1,7 @@
 <application>
   <component name="VimSettings">
     <state version="4" enabled="true" />
-    <globalmarks>
-      <mark key="H" line="190" column="13" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" protocol="file" />
-    </globalmarks>
+    <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/dev/repos/joyride-server/.prettierrc" timestamp="1528161122261">
         <mark key="[" line="1" column="18" />
@@ -101,18 +99,17 @@
         <mark key="^" line="16" column="19" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/model/model.service.ts" timestamp="1528156475637">
-        <mark key="[" line="59" column="25" />
-        <mark key="]" line="59" column="36" />
-        <mark key="." line="59" column="36" />
-        <mark key="^" line="59" column="36" />
+      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/model/model.service.ts" timestamp="1528214112522">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" timestamp="1528162879835">
-        <mark key="'" line="200" column="0" />
-        <mark key="[" line="35" column="4" />
-        <mark key="]" line="35" column="4" />
-        <mark key="." line="35" column="4" />
-        <mark key="^" line="112" column="14" />
+      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" timestamp="1528214445602">
+        <mark key="'" line="299" column="19" />
+        <mark key="[" line="400" column="0" />
+        <mark key="]" line="404" column="10" />
+        <mark key="." line="404" column="10" />
+        <mark key="^" line="404" column="10" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.model.ts" timestamp="1528135849886">
         <mark key="[" line="15" column="0" />
@@ -279,31 +276,35 @@
       <jump line="178" column="0" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
       <jump line="188" column="0" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
       <jump line="199" column="0" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
+      <jump line="377" column="33" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
+      <jump line="407" column="16" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
+      <jump line="269" column="14" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
+      <jump line="299" column="19" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZXhwb3J0IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZXhwb3J0IA==</text>
+        <text>Return</text>
       </register>
       <register name="/" type="4">
-        <text>paramtypes</text>
+        <text>getAPIModel</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZXhwb3J0IGNvbnN0IG1ha2VBUElzID0gYXBpLmdldFZpZXdzRnJvbVNlcnZpY2UoTWFrZVNlcnZpY2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGdldEZpZWxkcygpOiBNb2RlbEZpZWxkW10gewogICAgICAgICAgICByZXR1cm4gZ2V0TW9kZWxGaWVsZHModGhpcy50YXJnZXQucHJvdG90eXBlKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIE5vdGU6IGBuYW1lYCBtdXN0IGJlIGNhcHR1cmVkIGJlY2F1c2UgZHVlIHRvIGEgbGltaXRhdGlvbiBvZiBUeXBlU2NyaXB0J3MgaW50cm9zcGVjdGlvbiBmZWF0dXJlcy4KICAgICAqIEBzZWUgaHR0cHM6Ly9naXRodWIuY29tL01pY3Jvc29mdC9UeXBlU2NyaXB0L2lzc3Vlcy8xMjYyNgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIAogICAgfQ==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -315,19 +316,19 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGdldEZpZWxkcygpOiBNb2RlbEZpZWxkW10gewogICAgICAgICAgICByZXR1cm4gZ2V0TW9kZWxGaWVsZHModGhpcy50YXJnZXQucHJvdG90eXBlKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>paramtypes</last-search>
+      <last-search>getAPIModel</last-search>
       <last-offset />
-      <last-pattern>paramtypes</last-pattern>
+      <last-pattern>getAPIModel</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -351,9 +352,10 @@
         <entry>view(</entry>
         <entry>Api</entry>
         <entry>paramtypes</entry>
+        <entry>getResolver</entry>
+        <entry>getAPIModel</entry>
       </history-search>
       <history-cmd>
-        <entry>W</entry>
         <entry>ew</entry>
         <entry>140</entry>
         <entry>27</entry>
@@ -372,6 +374,7 @@
         <entry>ews</entry>
         <entry>wq</entry>
         <entry>s</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
