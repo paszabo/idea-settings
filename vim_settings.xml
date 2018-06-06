@@ -49,13 +49,6 @@
         <mark key="^" line="1" column="17" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/models/types.ts" timestamp="1528307245188" />
-      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.service.ts" timestamp="1528307737625">
-        <mark key="'" line="21" column="17" />
-        <mark key="[" line="26" column="9" />
-        <mark key="]" line="26" column="17" />
-        <mark key="^" line="26" column="17" />
-        <mark key="." line="26" column="17" />
-      </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/package.json" timestamp="1528299736270" />
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/model/index.ts" timestamp="1528155422124">
         <mark key="[" line="1" column="32" />
@@ -70,11 +63,11 @@
         <mark key="." line="3" column="64" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/home/home.view.ts" timestamp="1528306872371" />
-      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/url-shortener/index.ts" timestamp="1528309071601">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="35" />
-        <mark key="^" line="0" column="35" />
-        <mark key="." line="0" column="35" />
+      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/url-shortener/index.ts" timestamp="1528313195358">
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="30" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="30" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/package.json" timestamp="1528310583536" />
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/model/graph/queries/models-by-make-id.query.ts" timestamp="1527666895567">
@@ -157,13 +150,6 @@
         <mark key="^" line="16" column="19" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/model/model.service.ts" timestamp="1528308168186">
-        <mark key="'" line="57" column="17" />
-        <mark key="[" line="62" column="9" />
-        <mark key="]" line="62" column="33" />
-        <mark key="." line="62" column="33" />
-        <mark key="^" line="62" column="33" />
-      </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/tsconfig.json" timestamp="1528310368047">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -177,6 +163,9 @@
         <mark key="^" line="0" column="22" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/bin/joyride-etl.js" timestamp="1528299976051" />
+      <file name="/GraphQL.result.json" timestamp="1528312879808">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/url-shortener/url-shortener.service.ts" timestamp="1528310815165">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -209,13 +198,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="25" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/models/urlshortener/bll.ts" timestamp="1528311317159">
-        <mark key="'" line="14" column="9" />
-        <mark key="[" line="50" column="9" />
-        <mark key="]" line="50" column="11" />
-        <mark key="^" line="50" column="11" />
-        <mark key="." line="50" column="11" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/models/urlshortener/dal.ts" timestamp="1528310747691" />
       <file name="$USER_HOME$/dev/repos/joyride-server/src/logging/console-logger.ts" timestamp="1528222136844">
@@ -329,11 +311,11 @@
       <jump line="14" column="9" filename="$USER_HOME$/dev/repos/automp-be/models/urlshortener/bll.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.service</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>.service</text>
       </register>
       <register name="/" type="4">
         <text>typeDefs</text>
