@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/repos/joyride-server/package.json" timestamp="1528310567345" />
+      <file name="$USER_HOME$/dev/repos/joyride-server/package.json" timestamp="1528319811218" />
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.api.ts" timestamp="1528306740349">
         <mark key="[" line="3" column="36" />
         <mark key="]" line="3" column="44" />
@@ -29,6 +29,8 @@
         <mark key="^" line="1" column="15" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/lib/util/graphql.ts" timestamp="1528311868212" />
+      <file name="$USER_HOME$/dev/repos/automp-be/services/index.ts" timestamp="1528320568179" />
+      <file name="$USER_HOME$/dev/repos/automp-be/services/types.ts" timestamp="1528320576159" />
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/model/model.resolvers.ts" timestamp="1527666768789">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="40" />
@@ -41,13 +43,14 @@
         <mark key="." line="16" column="11" />
         <mark key="^" line="16" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/models/index.ts" timestamp="1528308565384" />
+      <file name="$USER_HOME$/dev/repos/automp-be/models/index.ts" timestamp="1528320485979" />
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/queries/make.query.ts" timestamp="1527663262434">
         <mark key="[" line="0" column="41" />
         <mark key="]" line="1" column="17" />
         <mark key="." line="1" column="17" />
         <mark key="^" line="1" column="17" />
       </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/models/urlshortener/schema.graphqls" timestamp="1528318352425" />
       <file name="$USER_HOME$/dev/repos/automp-be/models/types.ts" timestamp="1528307245188" />
       <file name="$USER_HOME$/dev/repos/joyride-etl/package.json" timestamp="1528299736270" />
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/model/index.ts" timestamp="1528155422124">
@@ -77,6 +80,7 @@
         <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/index.js" timestamp="1528299953922" />
+      <file name="$USER_HOME$/dev/repos/automp-be/server/index.ts" timestamp="1528320524791" />
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/api.ts" timestamp="1528147801255">
         <mark key="[" line="4" column="19" />
         <mark key="]" line="4" column="20" />
@@ -101,6 +105,12 @@
         <mark key="^" line="1" column="23" />
         <mark key="." line="1" column="23" />
       </file>
+      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/url-shortener/url-shortener.dal.ts" timestamp="1528320145055">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+      </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/.prettierrc" timestamp="1528161122261">
         <mark key="[" line="1" column="18" />
         <mark key="]" line="1" column="19" />
@@ -120,7 +130,7 @@
         <mark key="." line="2" column="31" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/lib/logger/index.ts" timestamp="1528310287411" />
-      <file name="$USER_HOME$/dev/repos/automp-be/models/urlshortener/logic/shortener.ts" timestamp="1528308886889">
+      <file name="$USER_HOME$/dev/repos/automp-be/models/urlshortener/logic/shortener.ts" timestamp="1528318522757">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="82" column="0" />
       </file>
@@ -150,11 +160,6 @@
         <mark key="^" line="16" column="19" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-server/tsconfig.json" timestamp="1528310368047">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/automp-be/@types/custom.d.ts" timestamp="1528310172172" />
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.model.ts" timestamp="1528307723395">
         <mark key="[" line="15" column="0" />
@@ -163,13 +168,15 @@
         <mark key="^" line="0" column="22" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/bin/joyride-etl.js" timestamp="1528299976051" />
+      <file name="$USER_HOME$/dev/repos/automp-be/index.ts" timestamp="1528320626585" />
       <file name="/GraphQL.result.json" timestamp="1528312879808">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/url-shortener/url-shortener.service.ts" timestamp="1528310815165">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/url-shortener/url-shortener.service.ts" timestamp="1528320115067">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="17" column="39" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/url-shortener/shortened-url.model.ts" timestamp="1528316307749">
         <mark key="[" line="8" column="0" />
@@ -199,13 +206,18 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/models/urlshortener/bll.ts" timestamp="1528317059439">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="9" column="35" />
+      <file name="$USER_HOME$/dev/repos/automp-be/models/urlshortener/bll.ts" timestamp="1528320031102">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="37" column="33" />
         <mark key="^" line="9" column="35" />
-        <mark key="." line="9" column="35" />
+        <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/models/urlshortener/dal.ts" timestamp="1528310747691" />
+      <file name="$USER_HOME$/dev/repos/automp-be/models/urlshortener/dal.ts" timestamp="1528319517471">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="51" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/models/urlshortener/types.ts" timestamp="1528319118322" />
       <file name="$USER_HOME$/dev/repos/joyride-server/src/logging/console-logger.ts" timestamp="1528222136844">
         <mark key="[" line="11" column="60" />
         <mark key="]" line="11" column="67" />
@@ -215,7 +227,6 @@
       <file name="$USER_HOME$/dev/repos/automp-be/tslint.json" timestamp="1528314204797" />
     </filemarks>
     <jumps>
-      <jump line="286" column="15" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
       <jump line="171" column="20" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
       <jump line="283" column="19" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
       <jump line="183" column="12" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
@@ -315,46 +326,47 @@
       <jump line="58" column="7" filename="$USER_HOME$/dev/repos/automp-be/models/urlshortener/bll.ts" />
       <jump line="9" column="9" filename="$USER_HOME$/dev/repos/automp-be/models/urlshortener/bll.ts" />
       <jump line="14" column="9" filename="$USER_HOME$/dev/repos/automp-be/models/urlshortener/bll.ts" />
+      <jump line="51" column="0" filename="$USER_HOME$/dev/repos/automp-be/models/urlshortener/dal.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.service</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJyc7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.service</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text>typeDefs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LyoqCiAqIFRoaXMgb25lIGlzIHNvbGVseSByZXNwb25zaWJsZSBmb3IgZ2VuZXJhdGluZyB0aGUgc2hvcnRlbmVkIHVybC4KICogRGF0YWJhc2Ugb3BlcmF0aW9ucyBhcmUgYSBzZXBhcmF0ZSBjb25jZXJuIDsgdGhleSdyZSB1bmRlciBkYXRhYmFzZSBmb2xkZXIuCiAqLwoKaW1wb3J0IGNyeXB0byA9IHJlcXVpcmUoImNyeXB0byIpOwppbXBvcnQgXyA9IHJlcXVpcmUoImxvZGFzaCIpOwppbXBvcnQgQmlnIGZyb20gImJpZy5qcyI7CgovLwovLyBBbHBoYWJldCBkZWZpbml0aW9ucwoKY29uc3QgZGlnaXRzID0gWzQ4LCA1N107CmNvbnN0IGxvd2VyY2FzZXMgPSBbOTcsIDEyMl07CmNvbnN0IHVwcGVyY2FzZXMgPSBbNjUsIDkwXTsKCmNvbnN0IGFsbCA9IFtkaWdpdHMsIGxvd2VyY2FzZXMsIHVwcGVyY2FzZXNdOwoKY29uc3QgYWxsUmFuZ2UgPSBhbGwubWFwKChib3VuZHMpID0+IF8ucmFuZ2UoYm91bmRzWzBdLCBib3VuZHNbMV0gKyAxKSk7Cgpjb25zdCBhbHBoYWJldCA9IF8uZmxhdHRlbihhbGxSYW5nZSkubWFwKChvcmRpbmFsKSA9PiBTdHJpbmcuZnJvbUNoYXJDb2RlKG9yZGluYWwpKTsKCi8vCi8vCgpleHBvcnQgY2xhc3MgU2hvcnRlbmVyQ29yZSB7CiAgcHVibGljIHN0YXRpYyBnZXRCYXNlTnVtYmVySW5jcmVtZW50VmFsdWUoKSB7CiAgICByZXR1cm4gMSArIE1hdGguZmxvb3IoU2hvcnRlbmVyQ29yZS5nZXRSYW5kb21OdW1iZXIoKSAqIDYzKTsKICB9CgogIHB1YmxpYyBzdGF0aWMgZ2V0U2hvcnRVcmwobmV3VXJsQmFzZU51bWJlcjogQmlnLCB0ZXh0SW5wdXQ6IHN0cmluZykgewogICAgY29uc3QgaGFzaGVkOiBzdHJpbmcgPSBTaG9ydGVuZXJDb3JlLmdldFJhbmRvbWx5U2FsdGVkSGFzaE9mKHRleHRJbnB1dCk7CiAgICBjb25zdCBjaGVja3N1bUJ5dGUgPSBoYXNoZWQuc3Vic3RyKGhhc2hlZC5sZW5ndGggLSAzLCAyKTsKCiAgICBjb25zdCByZXMgPSBTaG9ydGVuZXJDb3JlLmRlY2ltYWxUb0FscGhhYmV0KG5ld1VybEJhc2VOdW1iZXIpOwoKICAgIGNvbnN0IHNob3J0ZW5lZENvcmVVcmxQYXJ0ID0gcmVzLm1hcCgoaXgpID0+IGFscGhhYmV0W2l4XSk7CgogICAgcmV0dXJuIHsKICAgICAgbmV3QmFzZURlY2ltYWw6IG5ld1VybEJhc2VOdW1iZXIsCiAgICAgIGNvbXBsZXRlU2hvcnRlbmVkVXJsOiBgJHtzaG9ydGVuZWRDb3JlVXJsUGFydC5qb2luKCIiKX0ke2NoZWNrc3VtQnl0ZX1gCiAgICB9OwogIH0KCiAgLy8KICAvLwoKICAvKioKICAgKiBTZWFtIDogVW5pdCB0ZXN0cyBjYW4gb3ZlcnJpZGUgdGhpcyB0byBlbnN1cmUgZGV0ZXJtaW5pc3RpYyByZXN1bHRzLgogICAqIEByZXR1cm5zIHtudW1iZXJ9CiAgICovCiAgcHJvdGVjdGVkIHN0YXRpYyBnZXRSYW5kb21OdW1iZXIoKSB7CiAgICByZXR1cm4gTWF0aC5yYW5kb20oKTsKICB9CgogIHByb3RlY3RlZCBzdGF0aWMgZ2V0UmFuZG9tbHlTYWx0ZWRIYXNoT2YobG9uZ1RleHQpIHsKICAgIGNvbnN0IGhhc2ggPSBjcnlwdG8uY3JlYXRlSGFzaCgic2hhMjU2Iik7CiAgICBoYXNoLnVwZGF0ZShsb25nVGV4dCk7CiAgICBoYXNoLnVwZGF0ZShOdW1iZXIucGFyc2VJbnQoTWF0aC5mbG9vcihNYXRoLnBvdygyLCAzMikgKiB0aGlzLmdldFJhbmRvbU51bWJlcigpKS50b1N0cmluZygpLCAxNikudG9TdHJpbmcoKSk7CiAgICByZXR1cm4gaGFzaC5kaWdlc3QoImhleCIpOwogIH0KCiAgcHJvdGVjdGVkIHN0YXRpYyBkZWNpbWFsVG9BbHBoYWJldChkZWNpbWFsVmFsdWUpIHsKICAgIGNvbnN0IGJhc2UgPSA2MjsKCiAgICBsZXQgY3VycmVudFZhbHVlID0gZGVjaW1hbFZhbHVlOwogICAgY29uc3QgZGlnaXRzID0gW107CiAgICB3aGlsZSAodHJ1ZSkgewogICAgICBjb25zdCBkaXZpc2lvbiA9IE1hdGguZmxvb3IoY3VycmVudFZhbHVlIC8gYmFzZSk7CiAgICAgIGNvbnN0IHJlbWFpbmRlciA9IGN1cnJlbnRWYWx1ZSAtIGRpdmlzaW9uICogYmFzZTsKICAgICAgZGlnaXRzLnB1c2gocmVtYWluZGVyKTsKCiAgICAgIGlmIChkaXZpc2lvbiA8IGJhc2UpIHsKICAgICAgICBkaWdpdHMucHVzaChkaXZpc2lvbik7CiAgICAgICAgYnJlYWs7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgY3VycmVudFZhbHVlID0gZGl2aXNpb247CiAgICAgIH0KICAgIH0KCiAgICByZXR1cm4gZGlnaXRzLnJldmVyc2UoKTsKICB9Cn0K</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgZGFsIH0gPSB0aGlzOwoKICAgIGNvbnN0IHJlc3VsdCA9IGF3YWl0IGRhbC5nZXRTaG9ydFVybEV4cGFuZGVkVmFsdWUoc2hvcnRVcmwpOwoKICAgIGlmIChyZXN1bHQubGVuZ3RoIDwgMSkgewogICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICByZXR1cm4gcmVzdWx0WzBdLmV4cGFuZGVkX3VybDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJyc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLwogIC8vCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">CiAgLy8KICAvLwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNyeXB0byA9IHJlcXVpcmUoImNyeXB0byIpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdXJsU2hvcnRlbmVyOiBVUkxTaG9ydGVuZXIgPSBVUkxTaG9ydGVuZXI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIkBqb3lyaWRlLyoiOiBbIi4vc3JjLyoiXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNyeXB0byA9IHJlcXVpcmUoJ2NyeXB0bycpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IGNyeXB0byA9IHJlcXVpcmUoJ2NyeXB0bycpOwovLyBpbXBvcnQgXyA9IHJlcXVpcmUoJ2xvZGFzaCcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -403,7 +415,6 @@
         <entry>2</entry>
         <entry>12</entry>
         <entry>35d</entry>
-        <entry>0</entry>
         <entry>460</entry>
         <entry>15</entry>
         <entry>%s/view/endpoint/g</entry>
@@ -412,6 +423,7 @@
         <entry>51</entry>
         <entry>62</entry>
         <entry>23</entry>
+        <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -426,6 +438,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
