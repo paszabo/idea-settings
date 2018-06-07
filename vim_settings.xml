@@ -22,6 +22,9 @@
         <mark key="^" line="33" column="45" />
         <mark key="." line="33" column="19" />
       </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/models/featureDescriptions/dal/standardFeatures.ts" timestamp="1528392198566">
+        <mark key="'" line="0" column="9" />
+      </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/graph/joyride.schema.ts" timestamp="1528294132373">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -77,6 +80,7 @@
         <mark key="[" line="27" column="0" />
         <mark key="]" line="43" column="4" />
       </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/models/comparison/types.ts" timestamp="1528392772182" />
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" timestamp="1528387468705">
         <mark key="'" line="383" column="30" />
         <mark key="[" line="333" column="19" />
@@ -114,6 +118,11 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/models/featureDescriptions/types.ts" timestamp="1528392177312">
+        <mark key="'" line="68" column="6" />
+        <mark key="[" line="68" column="10" />
+        <mark key="." line="68" column="22" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/package.json" timestamp="1528310583536" />
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/model/graph/queries/models-by-make-id.query.ts" timestamp="1527666895567">
@@ -321,11 +330,6 @@
       <file name="$USER_HOME$/dev/repos/automp-be/tslint.json" timestamp="1528314204797" />
     </filemarks>
     <jumps>
-      <jump line="339" column="15" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
-      <jump line="414" column="0" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
-      <jump line="465" column="23" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
-      <jump line="74" column="6" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
-      <jump line="253" column="0" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
       <jump line="294" column="22" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
       <jump line="297" column="18" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
       <jump line="463" column="17" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
@@ -421,6 +425,11 @@
       <jump line="6" column="18" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/core/dal/base.dal.ts" />
       <jump line="31" column="16" filename="$USER_HOME$/dev/repos/joyride-server/docker-compose.yml" />
       <jump line="8" column="3" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/url-shortener/url-shortener.service.ts" />
+      <jump line="78" column="6" filename="$USER_HOME$/dev/repos/automp-be/models/featureDescriptions/types.ts" />
+      <jump line="115" column="19" filename="$USER_HOME$/dev/repos/automp-be/models/featureDescriptions/types.ts" />
+      <jump line="68" column="6" filename="$USER_HOME$/dev/repos/automp-be/models/featureDescriptions/types.ts" />
+      <jump line="5944" column="8" filename="$USER_HOME$/dev/repos/automp-be/models/featureDescriptions/dal/standardFeatures.ts" />
+      <jump line="0" column="9" filename="$USER_HOME$/dev/repos/automp-be/models/featureDescriptions/dal/standardFeatures.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -430,7 +439,7 @@
         <text>new URLShortenerDAL()</text>
       </register>
       <register name="/" type="4">
-        <text>=</text>
+        <text>FEATURE_IDENTIFIERS</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMua25leC5yYXcoYCR7bmV3QmFzZU9iamVjdH0gOjogYmlnaW50YCksCg==</text>
@@ -467,9 +476,9 @@
       </register>
     </registers>
     <search>
-      <last-search>=</last-search>
+      <last-search>FEATURE_IDENTIFIERS</last-search>
       <last-offset />
-      <last-pattern>=</last-pattern>
+      <last-pattern>FEATURE_IDENTIFIERS</last-pattern>
       <last-replace>endpoint</last-replace>
       <last-substitute>view</last-substitute>
       <last-dir>1</last-dir>
@@ -477,10 +486,6 @@
     </search>
     <history>
       <history-search>
-        <entry>console</entry>
-        <entry>getParams</entry>
-        <entry>function getParams</entry>
-        <entry>getParamsSorted</entry>
         <entry>getViewsFrom</entry>
         <entry>\.serialize</entry>
         <entry>apiView = {}</entry>
@@ -497,6 +502,10 @@
         <entry>kn</entry>
         <entry>knex</entry>
         <entry>=</entry>
+        <entry>FUEL</entry>
+        <entry>FEATURE_TO_FUELD_TYPE_DESC</entry>
+        <entry>FEATURE_TO_FUEL_TYPE_DESC</entry>
+        <entry>FEATURE_IDENTIFIERS</entry>
       </history-search>
       <history-cmd>
         <entry>35d</entry>
