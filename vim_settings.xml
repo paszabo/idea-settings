@@ -260,11 +260,11 @@
         <mark key="^" line="0" column="22" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/bin/joyride-etl.js" timestamp="1528299976051" />
-      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/url-shortener/url-shortener.ts" timestamp="1528387885930">
-        <mark key="[" line="52" column="51" />
-        <mark key="]" line="52" column="58" />
-        <mark key="^" line="52" column="58" />
-        <mark key="." line="52" column="58" />
+      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/url-shortener/url-shortener.ts" timestamp="1528395792750">
+        <mark key="[" line="52" column="53" />
+        <mark key="]" line="52" column="55" />
+        <mark key="^" line="52" column="55" />
+        <mark key="." line="52" column="55" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/docker-compose.yml" timestamp="1528326799489">
         <mark key="'" line="31" column="16" />
@@ -433,10 +433,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>new URLShortenerDAL()</text>
+        <text>number</text>
       </register>
       <register name="-" type="4">
-        <text>new URLShortenerDAL()</text>
+        <text>number</text>
       </register>
       <register name="/" type="4">
         <text>FEATURE_IDENTIFIERS</text>
