@@ -149,11 +149,12 @@
         <mark key="^" line="1" column="23" />
         <mark key="." line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/url-shortener/url-shortener.dal.ts" timestamp="1528382929782">
+      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/url-shortener/url-shortener.dal.ts" timestamp="1528384280883">
         <mark key="'" line="29" column="32" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+        <mark key="[" line="51" column="36" />
+        <mark key="]" line="51" column="41" />
+        <mark key="." line="51" column="41" />
+        <mark key="^" line="51" column="41" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/.prettierrc" timestamp="1528161122261">
         <mark key="[" line="1" column="18" />
@@ -214,6 +215,13 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="11" column="39" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/graph/root.query.ts" timestamp="1528147856672">
+        <mark key="'" line="21" column="21" />
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="9" column="18" />
+        <mark key="." line="9" column="18" />
+        <mark key="^" line="9" column="18" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/doc/quickdata/DeepLink-2017.txt" timestamp="1528300031264" />
       <file name="$USER_HOME$/dev/repos/automp-be/server/routes/index.ts" timestamp="1528311521515" />
@@ -409,44 +417,44 @@
       <jump line="31" column="16" filename="$USER_HOME$/dev/repos/joyride-server/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgawo=</text>
+      <register name="&quot;" type="4">
+        <text>BaseObject</text>
       </register>
       <register name="-" type="4">
-        <text>newBaseObject</text>
+        <text>BaseObject</text>
       </register>
       <register name="/" type="4">
         <text>=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFlbGVtZW50VHlwZSkgewogICAgICAgICAgICAgICAgLy8gbGltaXRhdGlvbiB3aXRoIFRTIGludHJvc3BlY3Rpb24gLSBjYW5ub3QgZmluZCBvdXQgYXJyYXkgZWxlbWVudCB0eXBlcyBhdAogICAgICAgICAgICAgICAgLy8gZGVzaWduIHRpbWUKICAgICAgICAgICAgICAgIHRocm93IG5ldyBFcnJvcignUHJvdmlkZSBhbiBgZWxlbWVudFR5cGVgIHdoZW4geW91ciBBUEkgbWV0aG9kIHJldHVybnMgYW4gQXJyYXknKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMua25leC5yYXcoYCR7bmV3QmFzZU9iamVjdH0gOjogYmlnaW50YCksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgawo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gY29uc3QgY3VycmVudEJhc2VPYmplY3QgPSBhd2FpdCBrbmV4KCJzaG9ydGVuZWRfdXJsc19jb3VudF9tZXRhZGF0YSIpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBhd2FpdCBrbmV4LnRyYW5zYWN0aW9uKGFzeW5jICh0cngpID0+IHsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zdCB7IGtuZXggfSA9IHRoaXM7CiAgICAgICAgLy8gcmV0dXJuIGtuZXgoInNob3J0ZW5lZF91cmxzIikKCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zdCB7IGtuZXggfSA9IHRoaXM7CiAgICAgICAgLy8gcmV0dXJuIGtuZXgoInNob3J0ZW5lZF91cmxzIikuaW5zZXJ0KHsKCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zdCB7IGtuZXggfSA9IHRoaXM7CiAgICAgICAgLy8gcmV0dXJuIGtuZXgoInNob3J0ZW5lZF91cmxzIikKCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zdCB7IGtuZXggfSA9IHRoaXM7Cgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAge30uYWRkCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTnVtYmVyLgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gYXdhaXQgdHJ4KCdzaG9ydGVuZWRfdXJsc19jb3VudF9tZXRhZGF0YScpLnVwZGF0ZSgKICAgICAgICAgICAgLy8gICAgICdjdXJyZW50X2Jhc2UnLAogICAgICAgICAgICAvLyAgICAga25leC5yYXcoYCR7bmV3QmFzZU9iamVjdH0gOjogYmlnaW50YCksCiAgICAgICAgICAgIC8vICk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgawo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gY29uc3QgY3VycmVudEJhc2VPYmplY3QgPSBhd2FpdCBrbmV4KCJzaG9ydGVuZWRfdXJsc19jb3VudF9tZXRhZGF0YSIpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBhd2FpdCBrbmV4LnRyYW5zYWN0aW9uKGFzeW5jICh0cngpID0+IHsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBjb25zdCB7IGtuZXggfSA9IHRoaXM7CiAgICAgICAgLy8gcmV0dXJuIGtuZXgoInNob3J0ZW5lZF91cmxzIikKCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cK</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zdCB7IGtuZXggfSA9IHRoaXM7CiAgICAgICAgLy8gcmV0dXJuIGtuZXgoInNob3J0ZW5lZF91cmxzIikuaW5zZXJ0KHsKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
