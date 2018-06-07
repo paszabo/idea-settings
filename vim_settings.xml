@@ -274,12 +274,12 @@
         <mark key="." line="31" column="4" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/index.ts" timestamp="1528324273433" />
-      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/url-shortener/url-shortener.service.ts" timestamp="1528388032258">
+      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/url-shortener/url-shortener.service.ts" timestamp="1528398042866">
         <mark key="'" line="8" column="3" />
-        <mark key="[" line="38" column="20" />
-        <mark key="]" line="38" column="33" />
-        <mark key="." line="38" column="33" />
-        <mark key="^" line="38" column="33" />
+        <mark key="[" line="22" column="20" />
+        <mark key="]" line="22" column="32" />
+        <mark key="." line="22" column="32" />
+        <mark key="^" line="22" column="32" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/url-shortener/shortened-url.model.ts" timestamp="1528316307749">
         <mark key="[" line="8" column="0" />
@@ -433,10 +433,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>number</text>
+        <text>new URLShortenerDAL()</text>
       </register>
       <register name="-" type="4">
-        <text>number</text>
+        <text>new URLShortenerDAL()</text>
       </register>
       <register name="/" type="4">
         <text>FEATURE_IDENTIFIERS</text>
