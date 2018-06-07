@@ -251,11 +251,11 @@
         <mark key="^" line="0" column="22" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/bin/joyride-etl.js" timestamp="1528299976051" />
-      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/url-shortener/url-shortener.ts" timestamp="1528387394562">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="^" line="55" column="31" />
-        <mark key="." line="59" column="0" />
+      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/url-shortener/url-shortener.ts" timestamp="1528387885930">
+        <mark key="[" line="52" column="51" />
+        <mark key="]" line="52" column="58" />
+        <mark key="^" line="52" column="58" />
+        <mark key="." line="52" column="58" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/docker-compose.yml" timestamp="1528326799489">
         <mark key="'" line="31" column="16" />
@@ -265,10 +265,12 @@
         <mark key="." line="31" column="4" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/index.ts" timestamp="1528324273433" />
-      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/url-shortener/url-shortener.service.ts" timestamp="1528327065687">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/url-shortener/url-shortener.service.ts" timestamp="1528388032258">
+        <mark key="'" line="8" column="3" />
+        <mark key="[" line="38" column="20" />
+        <mark key="]" line="38" column="33" />
+        <mark key="." line="38" column="33" />
+        <mark key="^" line="38" column="33" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/url-shortener/shortened-url.model.ts" timestamp="1528316307749">
         <mark key="[" line="8" column="0" />
@@ -319,7 +321,6 @@
       <file name="$USER_HOME$/dev/repos/automp-be/tslint.json" timestamp="1528314204797" />
     </filemarks>
     <jumps>
-      <jump line="328" column="34" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
       <jump line="339" column="15" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
       <jump line="414" column="0" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
       <jump line="465" column="23" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
@@ -419,13 +420,14 @@
       <jump line="28" column="0" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/core/dal/base.dal.ts" />
       <jump line="6" column="18" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/core/dal/base.dal.ts" />
       <jump line="31" column="16" filename="$USER_HOME$/dev/repos/joyride-server/docker-compose.yml" />
+      <jump line="8" column="3" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/url-shortener/url-shortener.service.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>new URLShortenerDAL()</text>
       </register>
       <register name="-" type="4">
-        <text>BaseObject</text>
+        <text>new URLShortenerDAL()</text>
       </register>
       <register name="/" type="4">
         <text>=</text>
@@ -434,31 +436,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMua25leC5yYXcoYCR7bmV3QmFzZU9iamVjdH0gOjogYmlnaW50YCksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZGlnaXRzKTsK</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge30uYWRkCg==</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTnVtYmVyLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gYXdhaXQgdHJ4KCdzaG9ydGVuZWRfdXJsc19jb3VudF9tZXRhZGF0YScpLnVwZGF0ZSgKICAgICAgICAgICAgLy8gICAgICdjdXJyZW50X2Jhc2UnLAogICAgICAgICAgICAvLyAgICAga25leC5yYXcoYCR7bmV3QmFzZU9iamVjdH0gOjogYmlnaW50YCksCiAgICAgICAgICAgIC8vICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZGlnaXRzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gY29uc3QgY3VycmVudEJhc2VPYmplY3QgPSBhd2FpdCBrbmV4KCJzaG9ydGVuZWRfdXJsc19jb3VudF9tZXRhZGF0YSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAge30uYWRkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBhd2FpdCBrbmV4LnRyYW5zYWN0aW9uKGFzeW5jICh0cngpID0+IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTnVtYmVyLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
