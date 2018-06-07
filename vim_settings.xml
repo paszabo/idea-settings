@@ -149,12 +149,11 @@
         <mark key="^" line="1" column="23" />
         <mark key="." line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/url-shortener/url-shortener.dal.ts" timestamp="1528327955274">
-        <mark key="'" line="42" column="32" />
-        <mark key="[" line="47" column="27" />
-        <mark key="]" line="47" column="43" />
-        <mark key="." line="47" column="43" />
-        <mark key="^" line="47" column="43" />
+      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/url-shortener/url-shortener.dal.ts" timestamp="1528382929782">
+        <mark key="'" line="29" column="32" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/.prettierrc" timestamp="1528161122261">
         <mark key="[" line="1" column="18" />
@@ -410,8 +409,8 @@
       <jump line="31" column="16" filename="$USER_HOME$/dev/repos/joyride-server/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>newBaseObject</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgawo=</text>
       </register>
       <register name="-" type="4">
         <text>newBaseObject</text>
@@ -423,31 +422,31 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCFlbGVtZW50VHlwZSkgewogICAgICAgICAgICAgICAgLy8gbGltaXRhdGlvbiB3aXRoIFRTIGludHJvc3BlY3Rpb24gLSBjYW5ub3QgZmluZCBvdXQgYXJyYXkgZWxlbWVudCB0eXBlcyBhdAogICAgICAgICAgICAgICAgLy8gZGVzaWduIHRpbWUKICAgICAgICAgICAgICAgIHRocm93IG5ldyBFcnJvcignUHJvdmlkZSBhbiBgZWxlbWVudFR5cGVgIHdoZW4geW91ciBBUEkgbWV0aG9kIHJldHVybnMgYW4gQXJyYXknKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgawo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gY29uc3QgY3VycmVudEJhc2VPYmplY3QgPSBhd2FpdCBrbmV4KCJzaG9ydGVuZWRfdXJsc19jb3VudF9tZXRhZGF0YSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuICdmb28nOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBhd2FpdCBrbmV4LnRyYW5zYWN0aW9uKGFzeW5jICh0cngpID0+IHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zdCB7IGtuZXggfSA9IHRoaXM7CiAgICAgICAgLy8gcmV0dXJuIGtuZXgoInNob3J0ZW5lZF91cmxzIikKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi8nCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zdCB7IGtuZXggfSA9IHRoaXM7CiAgICAgICAgLy8gcmV0dXJuIGtuZXgoInNob3J0ZW5lZF91cmxzIikuaW5zZXJ0KHsKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIGZvbygpIHsKICAgICAgICBjb25zdCB4ID0gdGhpcy5nZXRMb25nVVJMKCcxMjMnKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zdCB7IGtuZXggfSA9IHRoaXM7CiAgICAgICAgLy8gcmV0dXJuIGtuZXgoInNob3J0ZW5lZF91cmxzIikKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zdCB7IGtuZXggfSA9IHRoaXM7Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgoKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
