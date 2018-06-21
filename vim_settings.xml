@@ -10,14 +10,24 @@
         <mark key="^" line="33" column="45" />
         <mark key="." line="33" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/models/featureDescriptions/dal/standardFeatures.ts" timestamp="1528392198566">
-        <mark key="'" line="0" column="9" />
-      </file>
       <file name="$USER_HOME$/dev/repos/automp-be/docker-compose.yml" timestamp="1528327506708">
         <mark key="[" line="15" column="11" />
         <mark key="]" line="16" column="11" />
         <mark key="." line="16" column="11" />
         <mark key="^" line="16" column="11" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/api-generator/tsconfig.json" timestamp="1529589476716">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="19" column="1" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/api-generator/src/api.ts" timestamp="1529589594837">
+        <mark key="'" line="402" column="25" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="485" column="1" />
+        <mark key="." line="0" column="100" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/models/types.ts" timestamp="1528477317753">
         <mark key="'" line="48" column="0" />
@@ -25,9 +35,9 @@
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" timestamp="1528387468705">
+      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" timestamp="1529589312185">
         <mark key="'" line="383" column="30" />
-        <mark key="[" line="333" column="19" />
+        <mark key="[" line="64" column="27" />
         <mark key="]" line="333" column="19" />
         <mark key="^" line="322" column="3" />
         <mark key="." line="333" column="19" />
@@ -47,11 +57,6 @@
         <mark key="." line="26" column="17" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/Dockerfile" timestamp="1529518114264" />
-      <file name="$USER_HOME$/dev/repos/automp-be/models/featureDescriptions/types.ts" timestamp="1528392177312">
-        <mark key="'" line="68" column="6" />
-        <mark key="[" line="68" column="10" />
-        <mark key="." line="68" column="22" />
-      </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/url-shortener/url-shortener.dal.ts" timestamp="1528384280883">
         <mark key="[" line="48" column="36" />
         <mark key="]" line="48" column="41" />
@@ -98,7 +103,9 @@
         <mark key="^" line="62" column="33" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/test/lib/chromedata/index.js" timestamp="1529430681056" />
-      <file name="$USER_HOME$/dev/repos/joyride-server/tsconfig.json" timestamp="1529518483456" />
+      <file name="$USER_HOME$/dev/repos/joyride-server/tsconfig.json" timestamp="1529589395593">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.model.ts" timestamp="1528307723395">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -139,14 +146,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="407" column="16" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
-      <jump line="269" column="14" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
-      <jump line="299" column="19" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
-      <jump line="410" column="49" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
-      <jump line="431" column="16" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
-      <jump line="196" column="13" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
-      <jump line="311" column="15" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
-      <jump line="37" column="13" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
       <jump line="48" column="37" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
       <jump line="300" column="13" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
       <jump line="421" column="40" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
@@ -239,34 +238,42 @@
       <jump line="51" column="0" filename="$USER_HOME$/dev/repos/automp-be/services/chrome/parsers/index.ts" />
       <jump line="52" column="0" filename="$USER_HOME$/dev/repos/automp-be/services/chrome/parsers/index.ts" />
       <jump line="95" column="1" filename="$USER_HOME$/dev/repos/automp-be/services/chrome/parsers/index.ts" />
+      <jump line="77" column="15" filename="$USER_HOME$/dev/repos/api-generator/src/api.ts" />
+      <jump line="85" column="35" filename="$USER_HOME$/dev/repos/api-generator/src/api.ts" />
+      <jump line="94" column="19" filename="$USER_HOME$/dev/repos/api-generator/src/api.ts" />
+      <jump line="129" column="46" filename="$USER_HOME$/dev/repos/api-generator/src/api.ts" />
+      <jump line="143" column="16" filename="$USER_HOME$/dev/repos/api-generator/src/api.ts" />
+      <jump line="144" column="19" filename="$USER_HOME$/dev/repos/api-generator/src/api.ts" />
+      <jump line="355" column="35" filename="$USER_HOME$/dev/repos/api-generator/src/api.ts" />
+      <jump line="402" column="25" filename="$USER_HOME$/dev/repos/api-generator/src/api.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8KLy8K</text>
+        <text encoding="base64">Ly8gICAgImluY2x1ZGUiOiBbInNyYy9zZXJ2ZXIudHMiXSwK</text>
       </register>
       <register name="-" type="4">
         <text>j</text>
       </register>
       <register name="/" type="4">
-        <text>export</text>
+        <text>getAPIType</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMua25leC5yYXcoYCR7bmV3QmFzZU9iamVjdH0gOjogYmlnaW50YCksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8KLy8K</text>
+        <text encoding="base64">Ly8gICAgImluY2x1ZGUiOiBbInNyYy9zZXJ2ZXIudHMiXSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8KLy8K</text>
+        <text encoding="base64">aQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Ly8KLy8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8KLy8K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Ly8KLy8K</text>
@@ -275,19 +282,19 @@
         <text encoding="base64">Ly8KLy8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">Ly8KLy8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">Ly8KLy8K</text>
       </register>
       <register name=":" type="4">
-        <text>248</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>export</last-search>
+      <last-search>getAPIType</last-search>
       <last-offset />
-      <last-pattern>export</last-pattern>
+      <last-pattern>getAPIType</last-pattern>
       <last-replace>endpoint</last-replace>
       <last-substitute>view</last-substitute>
       <last-dir>1</last-dir>
@@ -295,7 +302,6 @@
     </search>
     <history>
       <history-search>
-        <entry>apiView = {}</entry>
         <entry encoding="base64">XDxjb25zdFw+</entry>
         <entry>gql</entry>
         <entry>Gql</entry>
@@ -315,11 +321,11 @@
         <entry>FEATURE_IDENTIFIERS</entry>
         <entry>\/\/</entry>
         <entry>export</entry>
+        <entry>getAPIType</entry>
       </history-search>
       <history-cmd>
         <entry>51</entry>
         <entry>62</entry>
-        <entry>0</entry>
         <entry>1d</entry>
         <entry>we</entry>
         <entry>16</entry>
@@ -330,13 +336,14 @@
         <entry>23</entry>
         <entry>39</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>298,299d</entry>
         <entry>192</entry>
         <entry>291</entry>
         <entry>285</entry>
         <entry>269</entry>
         <entry>248</entry>
+        <entry>0</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
