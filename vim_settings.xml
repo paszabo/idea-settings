@@ -3,7 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/repos/joyride-server/package.json" timestamp="1529604245175" />
+      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/url-shortener/url-shortener.dal.ts" timestamp="1528384280883">
+        <mark key="[" line="48" column="36" />
+        <mark key="]" line="48" column="41" />
+        <mark key="." line="48" column="41" />
+        <mark key="^" line="48" column="41" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/joyride-server/package.json" timestamp="1529675244575" />
+      <file name="$USER_HOME$/dev/repos/joyride-server/.prettierrc" timestamp="1528477004765">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="1" column="19" />
+        <mark key="." line="1" column="19" />
+        <mark key="^" line="1" column="19" />
+      </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/config/index.js" timestamp="1528299932685">
         <mark key="[" line="33" column="19" />
         <mark key="]" line="33" column="19" />
@@ -21,88 +33,6 @@
         <mark key="]" line="235" column="0" />
         <mark key="^" line="133" column="52" />
         <mark key="." line="235" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/docker-compose.yml" timestamp="1528327506708">
-        <mark key="[" line="15" column="11" />
-        <mark key="]" line="16" column="11" />
-        <mark key="." line="16" column="11" />
-        <mark key="^" line="16" column="11" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/api-generator/tsconfig.json" timestamp="1529589476716">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="19" column="1" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/api-generator/src/api.ts" timestamp="1529607054335">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/api-generator/src/models/index.ts" timestamp="1529605748730">
-        <mark key="[" line="0" column="24" />
-        <mark key="]" line="1" column="23" />
-        <mark key="^" line="1" column="23" />
-        <mark key="." line="1" column="23" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/api-generator/src/models/field.ts" timestamp="1529606553714">
-        <mark key="'" line="48" column="4" />
-        <mark key="[" line="71" column="1" />
-        <mark key="]" line="36" column="25" />
-        <mark key="." line="38" column="28" />
-        <mark key="^" line="38" column="28" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" timestamp="1529607013398">
-        <mark key="'" line="373" column="30" />
-        <mark key="[" line="64" column="27" />
-        <mark key="]" line="298" column="20" />
-        <mark key="^" line="298" column="20" />
-        <mark key="." line="298" column="20" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/services/chrome/parsers/index.ts" timestamp="1528477581901">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="201" column="0" />
-        <mark key="]" line="201" column="0" />
-        <mark key="." line="201" column="0" />
-        <mark key="^" line="207" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.service.ts" timestamp="1528307737625">
-        <mark key="'" line="21" column="17" />
-        <mark key="[" line="26" column="9" />
-        <mark key="]" line="26" column="17" />
-        <mark key="^" line="26" column="17" />
-        <mark key="." line="26" column="17" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/joyride-server/Dockerfile" timestamp="1529518114264" />
-      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/url-shortener/index.ts" timestamp="1528326480446">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/url-shortener/url-shortener.api.ts" timestamp="1528387436377">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/joyride-etl/src/index.js" timestamp="1529597418668" />
-      <file name="$USER_HOME$/dev/repos/api-generator/src/endpoints/endpoint.ts" timestamp="1529607782374">
-        <mark key="'" line="67" column="31" />
-        <mark key="[" line="127" column="15" />
-        <mark key="]" line="127" column="14" />
-        <mark key="." line="127" column="14" />
-        <mark key="^" line="127" column="14" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/url-shortener/url-shortener.dal.ts" timestamp="1528384280883">
-        <mark key="[" line="48" column="36" />
-        <mark key="]" line="48" column="41" />
-        <mark key="." line="48" column="41" />
-        <mark key="^" line="48" column="41" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/joyride-server/.prettierrc" timestamp="1528477004765">
-        <mark key="[" line="1" column="18" />
-        <mark key="]" line="1" column="19" />
-        <mark key="." line="1" column="19" />
-        <mark key="^" line="1" column="19" />
       </file>
       <file name="$USER_HOME$/dev/repos/api-generator/src/service.ts" timestamp="1529605137947">
         <mark key="[" line="0" column="0" />
@@ -123,11 +53,23 @@
         <mark key="." line="19" column="30" />
         <mark key="^" line="19" column="30" />
       </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/docker-compose.yml" timestamp="1528327506708">
+        <mark key="[" line="15" column="11" />
+        <mark key="]" line="16" column="11" />
+        <mark key="." line="16" column="11" />
+        <mark key="^" line="16" column="11" />
+      </file>
       <file name="$USER_HOME$/dev/repos/automp-be/.automprc" timestamp="1529588570399">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="^" line="21" column="87" />
         <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/api-generator/tsconfig.json" timestamp="1529589476716">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="19" column="1" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/tslint.json" timestamp="1529603637779">
         <mark key="[" line="34" column="9" />
@@ -142,12 +84,30 @@
         <mark key="." line="9" column="18" />
         <mark key="^" line="9" column="18" />
       </file>
+      <file name="$USER_HOME$/dev/repos/api-generator/src/api.ts" timestamp="1529607054335">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/api-generator/src/models/index.ts" timestamp="1529605748730">
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="1" column="23" />
+        <mark key="^" line="1" column="23" />
+        <mark key="." line="1" column="23" />
+      </file>
       <file name="$USER_HOME$/dev/repos/api-generator/src/graphql.ts" timestamp="1529607774313">
         <mark key="'" line="4" column="49" />
         <mark key="[" line="89" column="14" />
         <mark key="]" line="89" column="14" />
         <mark key="." line="89" column="14" />
         <mark key="^" line="92" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/api-generator/src/models/field.ts" timestamp="1529606553714">
+        <mark key="'" line="48" column="4" />
+        <mark key="[" line="71" column="1" />
+        <mark key="]" line="36" column="25" />
+        <mark key="." line="38" column="28" />
+        <mark key="^" line="38" column="28" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/model/model.service.ts" timestamp="1528308168186">
         <mark key="'" line="57" column="17" />
@@ -156,9 +116,22 @@
         <mark key="." line="62" column="33" />
         <mark key="^" line="62" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-etl/src/test/lib/chromedata/index.js" timestamp="1529430681056" />
       <file name="$USER_HOME$/dev/repos/joyride-server/tsconfig.json" timestamp="1529589395593">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" timestamp="1529607013398">
+        <mark key="'" line="373" column="30" />
+        <mark key="[" line="64" column="27" />
+        <mark key="]" line="298" column="20" />
+        <mark key="^" line="298" column="20" />
+        <mark key="." line="298" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/services/chrome/parsers/index.ts" timestamp="1528477581901">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="201" column="0" />
+        <mark key="]" line="201" column="0" />
+        <mark key="." line="201" column="0" />
+        <mark key="^" line="207" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.model.ts" timestamp="1528307723395">
         <mark key="[" line="15" column="0" />
@@ -166,7 +139,6 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-etl/bin/joyride-etl.js" timestamp="1529597397205" />
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/url-shortener/url-shortener.ts" timestamp="1528395792750">
         <mark key="[" line="52" column="53" />
         <mark key="]" line="52" column="55" />
@@ -180,11 +152,28 @@
         <mark key="^" line="32" column="21" />
         <mark key="." line="31" column="4" />
       </file>
+      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.service.ts" timestamp="1528307737625">
+        <mark key="'" line="21" column="17" />
+        <mark key="[" line="26" column="9" />
+        <mark key="]" line="26" column="17" />
+        <mark key="^" line="26" column="17" />
+        <mark key="." line="26" column="17" />
+      </file>
       <file name="$USER_HOME$/dev/repos/api-generator/src/models/model.ts" timestamp="1529606004907">
         <mark key="[" line="90" column="0" />
         <mark key="]" line="90" column="6" />
         <mark key="^" line="90" column="6" />
         <mark key="." line="90" column="6" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/url-shortener/index.ts" timestamp="1528326480446">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/url-shortener/url-shortener.api.ts" timestamp="1528387436377">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/url-shortener/url-shortener.service.ts" timestamp="1528398042866">
         <mark key="'" line="7" column="3" />
@@ -205,6 +194,13 @@
         <mark key="]" line="77" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="77" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/api-generator/src/endpoints/endpoint.ts" timestamp="1529607782374">
+        <mark key="'" line="67" column="31" />
+        <mark key="[" line="127" column="15" />
+        <mark key="]" line="127" column="14" />
+        <mark key="." line="127" column="14" />
+        <mark key="^" line="127" column="14" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/models/urlshortener/bll.ts" timestamp="1528327775165">
         <mark key="[" line="30" column="0" />
