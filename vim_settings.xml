@@ -16,6 +16,12 @@
         <mark key="." line="1" column="19" />
         <mark key="^" line="1" column="19" />
       </file>
+      <file name="$USER_HOME$/dev/repos/motive-data/api/incentives/app.ts" timestamp="1529686814340">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="30" />
+        <mark key="." line="15" column="30" />
+        <mark key="^" line="15" column="30" />
+      </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/config/index.js" timestamp="1528299932685">
         <mark key="[" line="33" column="19" />
         <mark key="]" line="33" column="19" />
@@ -58,6 +64,11 @@
         <mark key="]" line="16" column="11" />
         <mark key="." line="16" column="11" />
         <mark key="^" line="16" column="11" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/motive-data/api/incentives/routes.ts" timestamp="1529686766054">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/.automprc" timestamp="1529588570399">
         <mark key="[" line="39" column="0" />
@@ -115,6 +126,12 @@
         <mark key="]" line="62" column="33" />
         <mark key="." line="62" column="33" />
         <mark key="^" line="62" column="33" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/motive-data/api/incentives/incentives/incentives.ts" timestamp="1529686758916">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="14" column="61" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/tsconfig.json" timestamp="1529677382521">
         <mark key="[" line="0" column="0" />
@@ -195,12 +212,23 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="77" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/motive-data/api/incentives/incentives/routes.ts" timestamp="1529687774319">
+        <mark key="[" line="12" column="67" />
+        <mark key="]" line="12" column="73" />
+        <mark key="." line="12" column="73" />
+        <mark key="^" line="12" column="73" />
+      </file>
       <file name="$USER_HOME$/dev/repos/api-generator/src/endpoints/endpoint.ts" timestamp="1529607782374">
         <mark key="'" line="67" column="31" />
         <mark key="[" line="127" column="15" />
         <mark key="]" line="127" column="14" />
         <mark key="." line="127" column="14" />
         <mark key="^" line="127" column="14" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/motive-data/api/incentives/core/error-handler.ts" timestamp="1529687455363">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/models/urlshortener/bll.ts" timestamp="1528327775165">
         <mark key="[" line="30" column="0" />
@@ -313,40 +341,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>eter</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>eter</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>getArgs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIXBhcmFtZXRlcnMpIHsKICAgICAgICAgICAgcmV0dXJuIHt9OwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBuZXh0OiBwYWdpbmF0ZS5ocmVmKHJlcXVlc3QpKGZhbHNlLCB7fSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUGFyYW0gfSBmcm9tICcuL2VuZHBvaW50cy9wYXJhbSc7Cg==</text>
+        <text encoding="base64">ICAgIHBhZ2luYXRlLmgK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIHNldCBsb2NhbHMsIG9ubHkgcHJvdmlkaW5nIGVycm9yIGluIGRldmVsb3BtZW50Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgcGFnaW5hdGUgZnJvbSAnZXhwcmVzcy1wYWdpbmF0ZSc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgcGFnaW5hdGUgZnJvbSAnZXhwcmVzcy1wYWdpbmF0ZSc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB0eXBlID0gdGhpcy5nZXRBUElSZXR1cm5UeXBlKGdldEFQSVR5cGUpOwogICAgICAgIGNvbnN0IGFyZ3MgPSB0aGlzLmdldEFyZ3MoKTsKICAgICAgICBjb25zdCByZXNvbHZlID0gdGhpcy5nZXRBUElNZXRob2QoKTsKCiAgICAgICAgY29uc3QgZW5kcG9pbnQgPSB7fTsKICAgICAgICBlbmRwb2ludFt0aGlzLmNvbmZpZy5wYXRoXSA9IHt0eXBlLCBhcmdzLCByZXNvbHZlfTsKCiAgICAgICAgcmV0dXJuIGVuZHBvaW50Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZW5kcAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgUGFyYW0gfSBmcm9tICcuL2VuZHBvaW50cy9wYXJhbSc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CmltcG9ydCB7QVBJTW9kZWx9IGZyb20gJy4vbW9kZWxzL21vZGVsJzsKaW1wb3J0IHtBUElTZXJ2aWNlfSBmcm9tICcuL3NlcnZpY2UnOwoKCi8vIGltcG9ydCB7IEpveXJpZGVNb2RlbCwgSm95cmlkZVNlcnZpY2UgfSBmcm9tICcuLi9jb3JlJzsKCi8qKgogKgogKiBXb3JraW5nLi4uCiAqCiAqIFRPRE86CiAqICAqIGNsZWFudXAKICogICogZG9jdW1lbnQKICogICogdW5pdCB0ZXN0CiAqICAqIGZpbGwgb3V0IG1vcmUgZ3FsLyhiYWNrZW5kL2ltcGxlbWVudGF0aW9uKSBmZWF0dXJlcwogKiAgKiBjbGVhbiBHUUwgb3V0IG9mIG5hbWVzLi4gbWFrZSBzdXJlIGl0J3MgbmVhdGx5IGFic3RyYWN0ZWQKICogICogZmFjdG9yIG91dCBvZiB0aGlzIHByb2plY3QgY29tcGxldGVseSAob25jZSBpdCdzIG1hdHVyZSBlbm91Z2gpCiAqCiAqLwoKCgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -388,8 +416,6 @@
         <entry>getArgs</entry>
       </history-search>
       <history-cmd>
-        <entry>192</entry>
-        <entry>291</entry>
         <entry>285</entry>
         <entry>269</entry>
         <entry>248</entry>
@@ -400,13 +426,15 @@
         <entry>2</entry>
         <entry>19</entry>
         <entry>1,2d</entry>
-        <entry>1</entry>
         <entry>78</entry>
         <entry>114d</entry>
         <entry>113</entry>
         <entry>122</entry>
         <entry>:w</entry>
         <entry>0</entry>
+        <entry>1</entry>
+        <entry>ew</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
