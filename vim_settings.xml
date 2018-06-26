@@ -194,11 +194,11 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="12" column="73" />
       </file>
-      <file name="$USER_HOME$/dev/repos/motive-data/packages/incentives/api/docker-compose.yml" timestamp="1529966060587">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="5" column="21" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/dev/repos/motive-data/packages/incentives/api/docker-compose.yml" timestamp="1530040860464">
+        <mark key="[" line="11" column="20" />
+        <mark key="]" line="11" column="20" />
+        <mark key="^" line="11" column="13" />
+        <mark key="." line="11" column="20" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/models/urlshortener/bll.ts" timestamp="1528327775165">
         <mark key="[" line="30" column="0" />
@@ -311,10 +311,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>localhost</text>
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>declaration</text>
@@ -323,35 +323,35 @@
         <text>0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXh0ZXJuYWw6IHRydWUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CgpydW4tZG9ja2VyOgoJZG9ja2VyIHJ1biAtdGkgLS1ybSAtcCAzMDAwOjMwMDAgaW5jZW50aXZlcy1hcGk6bG9jYWwK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">CgpydW4tZG9ja2VyOgoJZG9ja2VyIHJ1biAtdGkgLS1ybSAtcCAzMDAwOjMwMDAgaW5jZW50aXZlcy1hcGk6bG9jYWwK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>,
         &quot;src/bin/*&quot;</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>,
             &quot;@rbcv/incentives-api&quot;: [
                 &quot;src/*&quot;
             ]</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICJiaW4iOiB7CiAgICAgICAgImluY2VudGl2ZXMtYXBpIjogIi4vZGlzdC9iaW4vaW5jZW50aXZlcy1hcGkuanMiCiAgICB9LAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">YXBwLgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IF9fbmFtZV9fOiBzdHJpbmcgPSAnaW5jZW50aXZlcy1hcGknOwo=</text>
+        <text encoding="base64">YXBwLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
