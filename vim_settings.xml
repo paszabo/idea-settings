@@ -20,6 +20,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/core-api/src/core-api/graphql.ts" timestamp="1530127755140">
+        <mark key="[" line="56" column="18" />
+        <mark key="]" line="56" column="18" />
+        <mark key="." line="56" column="18" />
+        <mark key="^" line="56" column="18" />
+      </file>
       <file name="$USER_HOME$/dev/repos/motive-data/packages/incentives/api/src/app.ts" timestamp="1529964238695" />
       <file name="$USER_HOME$/dev/repos/core-api/tsconfig.json" timestamp="1530121437752">
         <mark key="'" line="13" column="22" />
@@ -52,13 +58,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/core-api/.clang-format" timestamp="1530125135022">
-        <mark key="'" line="48" column="27" />
-        <mark key="[" line="45" column="17" />
-        <mark key="]" line="45" column="17" />
-        <mark key="." line="45" column="17" />
-        <mark key="^" line="45" column="17" />
-      </file>
+      <file name="$USER_HOME$/dev/repos/core-api/.clang-format" timestamp="1530125135022" />
       <file name="$USER_HOME$/dev/repos/api-generator/tsconfig.json" timestamp="1529589476716">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -147,11 +147,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/core-api/src/core-api/endpoints/endpoint.ts" timestamp="1530121913596">
-        <mark key="[" line="1" column="18" />
-        <mark key="]" line="1" column="24" />
-        <mark key="." line="1" column="24" />
-        <mark key="^" line="1" column="24" />
+      <file name="$USER_HOME$/dev/repos/core-api/src/core-api/endpoints/endpoint.ts" timestamp="1530126595797">
+        <mark key="'" line="148" column="2" />
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="147" column="0" />
+        <mark key="." line="147" column="0" />
+        <mark key="^" line="20" column="10" />
       </file>
       <file name="$USER_HOME$/dev/repos/motive-data/packages/incentives/api/package.json" timestamp="1529965995707">
         <mark key="'" line="8" column="39" />
@@ -179,6 +180,11 @@
         <mark key="^" line="48" column="41" />
       </file>
       <file name="$USER_HOME$/dev/repos/motive-data/etl/airflow/dags/incentives/templates/create_vehicle_incentive_view.sql" timestamp="1529966283861" />
+      <file name="$USER_HOME$/dev/repos/core-api/src/core-api/endpoints/param.ts" timestamp="1530126166456">
+        <mark key="[" line="45" column="13" />
+        <mark key="]" line="45" column="13" />
+        <mark key="." line="45" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/.prettierrc" timestamp="1528477004765">
         <mark key="[" line="1" column="18" />
         <mark key="]" line="1" column="19" />
@@ -198,9 +204,9 @@
         <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/core-api/src/core-api/models/model.ts" timestamp="1530123069504">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/core-api/src/core-api/index.ts" timestamp="1530120950920">
         <mark key="[" line="0" column="17" />
@@ -350,10 +356,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="19" filename="$USER_HOME$/dev/repos/automp-be/models/featureDescriptions/types.ts" />
-      <jump line="68" column="6" filename="$USER_HOME$/dev/repos/automp-be/models/featureDescriptions/types.ts" />
-      <jump line="5944" column="8" filename="$USER_HOME$/dev/repos/automp-be/models/featureDescriptions/dal/standardFeatures.ts" />
-      <jump line="0" column="9" filename="$USER_HOME$/dev/repos/automp-be/models/featureDescriptions/dal/standardFeatures.ts" />
       <jump line="7" column="0" filename="$USER_HOME$/dev/repos/automp-be/models/types.ts" />
       <jump line="45" column="0" filename="$USER_HOME$/dev/repos/automp-be/models/types.ts" />
       <jump line="7" column="0" filename="$USER_HOME$/dev/repos/automp-be/services/chrome/parsers/index.ts" />
@@ -450,58 +452,62 @@
       <jump line="21" column="0" filename="$USER_HOME$/dev/repos/core-api/.clang-format" />
       <jump line="45" column="17" filename="$USER_HOME$/dev/repos/core-api/.clang-format" />
       <jump line="48" column="27" filename="$USER_HOME$/dev/repos/core-api/.clang-format" />
+      <jump line="30" column="1" filename="$USER_HOME$/dev/repos/core-api/src/core-api/endpoints/endpoint.ts" />
+      <jump line="143" column="38" filename="$USER_HOME$/dev/repos/core-api/src/core-api/endpoints/endpoint.ts" />
+      <jump line="20" column="0" filename="$USER_HOME$/dev/repos/core-api/src/core-api/endpoints/endpoint.ts" />
+      <jump line="148" column="2" filename="$USER_HOME$/dev/repos/core-api/src/core-api/endpoints/endpoint.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>false;</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>false;</text>
       </register>
       <register name="/" type="4">
-        <text>OneLine</text>
+        <text>APIService</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Q29uc3RydWN0b3JJbml0aWFsaXplckFsbE9uT25lTGluZU9yT25lUGVyTGluZTogdHJ1ZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RXhwZXJpbWVudGFsQXV0b0RldGVjdEJpblBhY2tpbmc6IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgIGlmICh0IHx8ICF0KSB7CiAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgfQoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QWxpZ25BZnRlck9wZW5CcmFja2V0OiBBbGlnbgo=</text>
+        <text encoding="base64">ICAgIHJldHVybiA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QnJlYWtDb25zdHJ1Y3RvckluaXRpYWxpemVyc0JlZm9yZUNvbW1hOiB0cnVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QWxsb3dBbGxQYXJhbWV0ZXJzT2ZEZWNsYXJhdGlvbk9uTmV4dExpbmU6IGZhbHNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">LyoqCiAqIEdldCBBUEkgQXJncwogKgogKiBUT0RPIChQYXVsKTogRG9jdW1lbnQgcmV0dXJuIHR5cGUKICoKICogQHBhcmFtIHRhcmdldAogKiBAcGFyYW0ge3N0cmluZ30ga2V5CiAqIEByZXR1cm5zIHthbnl9CiAqLwovLyBmdW5jdGlvbiBnZXRBUElBcmdzKHRhcmdldDogYW55LCBrZXk6IHN0cmluZykgewovLyAgICAgY29uc3QgcGFyYW1ldGVycyA9IGdldFBhcmFtcyh0YXJnZXQsIGtleSk7Ci8vCi8vICAgICBpZiAoIXBhcmFtZXRlcnMpIHsKLy8gICAgICAgICByZXR1cm4ge307Ci8vICAgICB9Ci8vCi8vICAgICByZXR1cm4gcGFyYW1ldGVycy5yZWR1Y2UoKGFjYywgY3VycikgPT4gewovLyAgICAgICAgIGNvbnN0IHAgPSB7fTsKLy8gICAgICAgICBwW2N1cnIubmFtZV0gPSB7dHlwZTogZ2V0QVBJVHlwZShjdXJyLnR5cGUpfTsKLy8KLy8gICAgICAgICByZXR1cm4gey4uLmFjYywgLi4ucH07Ci8vICAgICB9LCB7fSk7Ci8vIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNsYXNzIEFQSVNlcnZpY2Uge30KCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNob2ljZXM/OiBUW107Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgovLyBmdW5jdGlvbiBzb3J0UGFyYW1zKGE6IFBhcmFtLCBiOiBQYXJhbSk6IG51bWJlciB7Ci8vICAgICByZXR1cm4gYS5pbmRleCAtIGIuaW5kZXg7Ci8vIH0K</text>
+        <text encoding="base64">CiAgICAvLyBwdWJsaWMgc2VyaWFsaXplKGdldEFQSVR5cGU6IChyZXR1cm5UeXBlOiBhbnksIGVsZW1lbnRUeXBlOiBhbnkpID0+IGFueSkKICAgIC8vIHsKICAgIHB1YmxpYyBzZXJpYWxpemU8VCA9IGFueT4oYWRhcHRlcjogKGVuZHBvaW50OiBBUElFbmRwb2ludCkgPT4gVCk6IFQgewogICAgICAgIHJldHVybiBhZGFwdGVyKHRoaXMpOwogICAgICAgIC8vIGNvbnN0IHR5cGUgPSB0aGlzLmdldEFQSVJldHVyblR5cGUoZ2V0QVBJVHlwZSk7CiAgICAgICAgLy8gY29uc3QgYXJncyA9IHRoaXMuZ2V0QXJncygpOwogICAgICAgIC8vIGNvbnN0IHJlc29sdmUgPSB0aGlzLmdldEFQSU1ldGhvZCgpOwogICAgICAgIC8vCiAgICAgICAgLy8gY29uc3QgZW5kcG9pbnQgPSB7fTsKICAgICAgICAvLyBlbmRwb2ludFt0aGlzLmNvbmZpZy5wYXRoXSA9IHt0eXBlLCBhcmdzLCByZXNvbHZlfTsKICAgICAgICAvLwogICAgICAgIC8vIHJldHVybiBlbmRwb2ludDsKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIHJldHVybiBfZ2V0UGFyYW1zKHRhcmdldCwga2V5KS5zb3J0KHNvcnRQYXJhbXMpOwo=</text>
+        <text encoding="base64">RXhwZXJpbWVudGFsQXV0b0RldGVjdEJpblBhY2tpbmc6IGZhbHNlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>OneLine</last-search>
+      <last-search>APIService</last-search>
       <last-offset />
-      <last-pattern>OneLine</last-pattern>
+      <last-pattern>APIService</last-pattern>
       <last-replace>endpoint</last-replace>
       <last-substitute>view</last-substitute>
       <last-dir>1</last-dir>
@@ -509,7 +515,6 @@
     </search>
     <history>
       <history-search>
-        <entry>serialize</entry>
         <entry>}</entry>
         <entry>this</entry>
         <entry>param</entry>
@@ -529,9 +534,9 @@
         <entry>Bin</entry>
         <entry>Allow</entry>
         <entry>OneLine</entry>
+        <entry>APIService</entry>
       </history-search>
       <history-cmd>
-        <entry>:w</entry>
         <entry>0</entry>
         <entry>ew</entry>
         <entry>e</entry>
@@ -550,6 +555,7 @@
         <entry>29</entry>
         <entry>q</entry>
         <entry>82</entry>
+        <entry>46</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
