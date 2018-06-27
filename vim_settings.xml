@@ -52,6 +52,13 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/core-api/.clang-format" timestamp="1530125135022">
+        <mark key="'" line="48" column="27" />
+        <mark key="[" line="45" column="17" />
+        <mark key="]" line="45" column="17" />
+        <mark key="." line="45" column="17" />
+        <mark key="^" line="45" column="17" />
+      </file>
       <file name="$USER_HOME$/dev/repos/api-generator/tsconfig.json" timestamp="1529589476716">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -172,11 +179,6 @@
         <mark key="^" line="48" column="41" />
       </file>
       <file name="$USER_HOME$/dev/repos/motive-data/etl/airflow/dags/incentives/templates/create_vehicle_incentive_view.sql" timestamp="1529966283861" />
-      <file name="$USER_HOME$/dev/repos/core-api/src/core-api/endpoints/param.ts" timestamp="1530120915873">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/.prettierrc" timestamp="1528477004765">
         <mark key="[" line="1" column="18" />
         <mark key="]" line="1" column="19" />
@@ -194,6 +196,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/core-api/src/core-api/models/model.ts" timestamp="1530123069504">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/core-api/src/core-api/index.ts" timestamp="1530120950920">
         <mark key="[" line="0" column="17" />
@@ -343,28 +350,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="26" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
-      <jump line="158" column="31" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
-      <jump line="159" column="38" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
-      <jump line="355" column="27" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
-      <jump line="288" column="26" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
-      <jump line="313" column="27" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
-      <jump line="374" column="30" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
-      <jump line="34" column="16" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/model/model.service.ts" />
-      <jump line="45" column="17" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/model/model.service.ts" />
-      <jump line="57" column="17" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/model/model.service.ts" />
-      <jump line="21" column="17" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.service.ts" />
-      <jump line="58" column="7" filename="$USER_HOME$/dev/repos/automp-be/models/urlshortener/bll.ts" />
-      <jump line="9" column="9" filename="$USER_HOME$/dev/repos/automp-be/models/urlshortener/bll.ts" />
-      <jump line="14" column="9" filename="$USER_HOME$/dev/repos/automp-be/models/urlshortener/bll.ts" />
-      <jump line="51" column="0" filename="$USER_HOME$/dev/repos/automp-be/models/urlshortener/dal.ts" />
-      <jump line="41" column="12" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/url-shortener/url-shortener.dal.ts" />
-      <jump line="42" column="32" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/url-shortener/url-shortener.dal.ts" />
-      <jump line="28" column="0" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/core/dal/base.dal.ts" />
-      <jump line="6" column="18" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/core/dal/base.dal.ts" />
-      <jump line="31" column="16" filename="$USER_HOME$/dev/repos/joyride-server/docker-compose.yml" />
-      <jump line="8" column="3" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/url-shortener/url-shortener.service.ts" />
-      <jump line="78" column="6" filename="$USER_HOME$/dev/repos/automp-be/models/featureDescriptions/types.ts" />
       <jump line="115" column="19" filename="$USER_HOME$/dev/repos/automp-be/models/featureDescriptions/types.ts" />
       <jump line="68" column="6" filename="$USER_HOME$/dev/repos/automp-be/models/featureDescriptions/types.ts" />
       <jump line="5944" column="8" filename="$USER_HOME$/dev/repos/automp-be/models/featureDescriptions/dal/standardFeatures.ts" />
@@ -443,58 +428,80 @@
       <jump line="10" column="22" filename="$USER_HOME$/dev/repos/core-api/tsconfig.json" />
       <jump line="27" column="37" filename="$USER_HOME$/dev/repos/core-api/src/core-api/models/model.ts" />
       <jump line="50" column="15" filename="$USER_HOME$/dev/repos/core-api/src/core-api/models/model.ts" />
+      <jump line="8" column="26" filename="$USER_HOME$/dev/repos/core-api/.clang-format" />
+      <jump line="26" column="23" filename="$USER_HOME$/dev/repos/core-api/.clang-format" />
+      <jump line="42" column="36" filename="$USER_HOME$/dev/repos/core-api/.clang-format" />
+      <jump line="39" column="23" filename="$USER_HOME$/dev/repos/core-api/.clang-format" />
+      <jump line="41" column="35" filename="$USER_HOME$/dev/repos/core-api/.clang-format" />
+      <jump line="88" column="28" filename="$USER_HOME$/dev/repos/core-api/.clang-format" />
+      <jump line="44" column="19" filename="$USER_HOME$/dev/repos/core-api/.clang-format" />
+      <jump line="56" column="0" filename="$USER_HOME$/dev/repos/core-api/.clang-format" />
+      <jump line="83" column="4" filename="$USER_HOME$/dev/repos/core-api/.clang-format" />
+      <jump line="54" column="19" filename="$USER_HOME$/dev/repos/core-api/.clang-format" />
+      <jump line="57" column="22" filename="$USER_HOME$/dev/repos/core-api/.clang-format" />
+      <jump line="34" column="9" filename="$USER_HOME$/dev/repos/core-api/.clang-format" />
+      <jump line="9" column="0" filename="$USER_HOME$/dev/repos/core-api/.clang-format" />
+      <jump line="10" column="1" filename="$USER_HOME$/dev/repos/core-api/.clang-format" />
+      <jump line="16" column="6" filename="$USER_HOME$/dev/repos/core-api/.clang-format" />
+      <jump line="17" column="6" filename="$USER_HOME$/dev/repos/core-api/.clang-format" />
+      <jump line="18" column="6" filename="$USER_HOME$/dev/repos/core-api/.clang-format" />
+      <jump line="19" column="6" filename="$USER_HOME$/dev/repos/core-api/.clang-format" />
+      <jump line="12" column="38" filename="$USER_HOME$/dev/repos/core-api/.clang-format" />
+      <jump line="21" column="0" filename="$USER_HOME$/dev/repos/core-api/.clang-format" />
+      <jump line="45" column="17" filename="$USER_HOME$/dev/repos/core-api/.clang-format" />
+      <jump line="48" column="27" filename="$USER_HOME$/dev/repos/core-api/.clang-format" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>adapter</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>adapter</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>getModelFields</text>
+        <text>OneLine</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIG1vZGVsKG5hbWU/OiBzdHJpbmcpIHsK</text>
+        <text encoding="base64">Q29uc3RydWN0b3JJbml0aWFsaXplckFsbE9uT25lTGluZU9yT25lUGVyTGluZTogdHJ1ZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIHB1YmxpYyBnZXRBcmdzKCkgewo=</text>
+        <text encoding="base64">RXhwZXJpbWVudGFsQXV0b0RldGVjdEJpblBhY2tpbmc6IGZhbHNlCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gZ2V0QVBJQXJncyh0aGlzLnRhcmdldCwgdGhpcy5rZXkpOwo=</text>
+        <text encoding="base64">QWxpZ25BZnRlck9wZW5CcmFja2V0OiBBbGlnbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QnJlYWtDb25zdHJ1Y3RvckluaXRpYWxpemVyc0JlZm9yZUNvbW1hOiB0cnVlCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CgogICAgICAgIHJldHVybiBhZGFwdGVyKHBhcmFtZXRlcnMpCiAgICAgICAgLy8gaWYgKCFwYXJhbWV0ZXJzKSB7CiAgICAgICAgLy8gICAgIHJldHVybiB7fTsKICAgICAgICAvLyB9CiAgICAgICAgLy8KICAgICAgICAvLyByZXR1cm4gcGFyYW1ldGVycy5yZWR1Y2UoKGFjYywgY3VycikgPT4gewogICAgICAgIC8vICAgICBjb25zdCBwID0ge307CiAgICAgICAgLy8gICAgIHBbY3Vyci5uYW1lXSA9IHt0eXBlOiBnZXRBUElUeXBlKGN1cnIudHlwZSl9OwogICAgICAgIC8vCiAgICAgICAgLy8gICAgIHJldHVybiB7Li4uYWNjLCAuLi5wfTsKICAgICAgICAvLyB9LCB7fSk7</text>
+      <register name="4" type="2">
+        <text encoding="base64">QWxsb3dBbGxQYXJhbWV0ZXJzT2ZEZWNsYXJhdGlvbk9uTmV4dExpbmU6IGZhbHNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CgovKioKICogRXh0cmFjdCBhbGwgQVBJIGVuZHBvaW50cyBmcm9tIGEgc2VydmljZQogKgogKiBAcGFyYW0gc2VydmljZQogKiBAcmV0dXJucyB7e319CiAqLwpleHBvcnQgZnVuY3Rpb24gZmxhdHRlbkVuZHBvaW50cyhlbmRwb2ludHM6IEFQSUVuZHBvaW50W10pIHsKICAgIHJldHVybiBlbmRwb2ludHMucmVkdWNlKChhY2MsIGN1cnIpID0+IHsKICAgICAgICByZXR1cm4gey4uLmFjYywgLi4uY3Vyci5zZXJpYWxpemUoKX07CiAgICB9LCB7fSk7Cn0K</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gZXhwb3J0IGZ1bmN0aW9uIG1vZGVsKG5hbWU/OiBzdHJpbmcpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIHByaXZhdGUgc2VyaWFsaXplZE1vZGVsID0gbnVsbDsK</text>
+        <text encoding="base64">CgovLyBmdW5jdGlvbiBzb3J0UGFyYW1zKGE6IFBhcmFtLCBiOiBQYXJhbSk6IG51bWJlciB7Ci8vICAgICByZXR1cm4gYS5pbmRleCAtIGIuaW5kZXg7Ci8vIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzZXJpYWxpemU8VD1hbnk+KGFkYXB0ZXI6IChBUElNb2RlbCkgPT4gVCk6IFQgewogICAgICAgIHJldHVybiBhZGFwdGVyKHRoaXMpOwogICAgICAgIC8vIGlmICh0aGlzLnNlcmlhbGl6ZWRNb2RlbCkgewogICAgICAgIC8vICAgICByZXR1cm4gdGhpcy5zZXJpYWxpemVkTW9kZWw7CiAgICAgICAgLy8gfQogICAgICAgIC8vCiAgICAgICAgLy8gY29uc3QgZmllbGRzID0gdGhpcy5nZXRGaWVsZHMoKS5yZWR1Y2UoKGFjYywgY3VycikgPT4gewogICAgICAgIC8vICAgICByZXR1cm4gey4uLmFjYywgLi4uY3Vyci5zZXJpYWxpemUoKX07CiAgICAgICAgLy8gfSwge30pOwogICAgICAgIC8vCiAgICAgICAgLy8gdGhpcy5zZXJpYWxpemVkTW9kZWwgPSBuZXcgR3JhcGhRTE9iamVjdFR5cGUoewogICAgICAgIC8vICAgICBuYW1lOiB0aGlzLmdldE5hbWUoKSwKICAgICAgICAvLyAgICAgZmllbGRzOiB7CiAgICAgICAgLy8gICAgICAgICAuLi5maWVsZHMsCiAgICAgICAgLy8gICAgIH0sCiAgICAgICAgLy8gfSk7CiAgICAgICAgLy8KICAgICAgICAvLyByZXR1cm4gdGhpcy5zZXJpYWxpemUoKTsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgIC8vIHJldHVybiBfZ2V0UGFyYW1zKHRhcmdldCwga2V5KS5zb3J0KHNvcnRQYXJhbXMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getModelFields</last-search>
+      <last-search>OneLine</last-search>
       <last-offset />
-      <last-pattern>getModelFields</last-pattern>
+      <last-pattern>OneLine</last-pattern>
       <last-replace>endpoint</last-replace>
       <last-substitute>view</last-substitute>
       <last-dir>1</last-dir>
@@ -502,16 +509,6 @@
     </search>
     <history>
       <history-search>
-        <entry>export</entry>
-        <entry>getAPIType</entry>
-        <entry>Joyride</entry>
-        <entry>GraphQL</entry>
-        <entry>JoyrideService</entry>
-        <entry>JoyrideModel</entry>
-        <entry>getProto</entry>
-        <entry>APIModel</entry>
-        <entry>getParams</entry>
-        <entry>Param</entry>
         <entry>serialize</entry>
         <entry>}</entry>
         <entry>this</entry>
@@ -522,12 +519,18 @@
         <entry>exclude</entry>
         <entry>base</entry>
         <entry>getModelFields</entry>
+        <entry>comma</entry>
+        <entry>omma</entry>
+        <entry>aram</entry>
+        <entry>BinPack</entry>
+        <entry>BinPacking</entry>
+        <entry>AllowAll</entry>
+        <entry>Break</entry>
+        <entry>Bin</entry>
+        <entry>Allow</entry>
+        <entry>OneLine</entry>
       </history-search>
       <history-cmd>
-        <entry>78</entry>
-        <entry>114d</entry>
-        <entry>113</entry>
-        <entry>122</entry>
         <entry>:w</entry>
         <entry>0</entry>
         <entry>ew</entry>
@@ -543,6 +546,10 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>1,2d</entry>
         <entry>12d</entry>
+        <entry>63</entry>
+        <entry>29</entry>
+        <entry>q</entry>
+        <entry>82</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
