@@ -21,12 +21,12 @@
         <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/motive-data/packages/incentives/api/src/app.ts" timestamp="1529964238695" />
-      <file name="$USER_HOME$/dev/repos/core-api/tsconfig.json" timestamp="1530110139084">
+      <file name="$USER_HOME$/dev/repos/core-api/tsconfig.json" timestamp="1530121437752">
         <mark key="'" line="13" column="22" />
-        <mark key="[" line="5" column="11" />
-        <mark key="]" line="6" column="10" />
-        <mark key="^" line="6" column="10" />
-        <mark key="." line="6" column="10" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="3" column="22" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/api-generator/src/endpoint.ts" timestamp="1529605834391">
         <mark key="'" line="243" column="32" />
@@ -129,12 +129,22 @@
         <mark key="." line="13" column="20" />
         <mark key="^" line="13" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/repos/core-api/package.json" timestamp="1530109911932">
-        <mark key="'" line="9" column="36" />
-        <mark key="[" line="9" column="85" />
-        <mark key="]" line="9" column="85" />
-        <mark key="^" line="4" column="15" />
-        <mark key="." line="9" column="85" />
+      <file name="$USER_HOME$/dev/repos/core-api/src/core-api/models/field.ts" timestamp="1530121712282">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/core-api/package.json" timestamp="1530121029845">
+        <mark key="'" line="8" column="36" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/core-api/src/core-api/endpoints/endpoint.ts" timestamp="1530121913596">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="1" column="24" />
+        <mark key="." line="1" column="24" />
+        <mark key="^" line="1" column="24" />
       </file>
       <file name="$USER_HOME$/dev/repos/motive-data/packages/incentives/api/package.json" timestamp="1529965995707">
         <mark key="'" line="8" column="39" />
@@ -155,11 +165,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/motive-data/packages/incentives/api/src/bin/incentives-api.ts" timestamp="1529959046273">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/url-shortener/url-shortener.dal.ts" timestamp="1528384280883">
         <mark key="[" line="48" column="36" />
         <mark key="]" line="48" column="41" />
@@ -167,17 +172,22 @@
         <mark key="^" line="48" column="41" />
       </file>
       <file name="$USER_HOME$/dev/repos/motive-data/etl/airflow/dags/incentives/templates/create_vehicle_incentive_view.sql" timestamp="1529966283861" />
+      <file name="$USER_HOME$/dev/repos/core-api/src/core-api/endpoints/param.ts" timestamp="1530120915873">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/.prettierrc" timestamp="1528477004765">
         <mark key="[" line="1" column="18" />
         <mark key="]" line="1" column="19" />
         <mark key="." line="1" column="19" />
         <mark key="^" line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/repos/core-api/nodemon.json" timestamp="1530109726235">
-        <mark key="[" line="3" column="23" />
-        <mark key="]" line="3" column="26" />
-        <mark key="." line="3" column="26" />
-        <mark key="^" line="3" column="26" />
+      <file name="$USER_HOME$/dev/repos/core-api/nodemon.json" timestamp="1530121063467">
+        <mark key="[" line="3" column="35" />
+        <mark key="]" line="3" column="35" />
+        <mark key="." line="3" column="35" />
+        <mark key="^" line="3" column="35" />
       </file>
       <file name="$USER_HOME$/dev/repos/motive-data/packages/incentives/api/src/index.ts" timestamp="1529958946201">
         <mark key="[" line="0" column="49" />
@@ -185,11 +195,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/core-api/src/core-api/index.ts" timestamp="1530110257576">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+      <file name="$USER_HOME$/dev/repos/core-api/src/core-api/index.ts" timestamp="1530120950920">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="23" />
+        <mark key="." line="0" column="23" />
+        <mark key="^" line="0" column="23" />
       </file>
       <file name="$USER_HOME$/dev/repos/motive-data/packages/incentives/api/Dockerfile" timestamp="1529958851710">
         <mark key="'" line="8" column="43" />
@@ -249,11 +259,6 @@
         <mark key="]" line="62" column="33" />
         <mark key="." line="62" column="33" />
         <mark key="^" line="62" column="33" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/motive-data/packages/incentives/api/tsconfig.json" timestamp="1529964065193">
-        <mark key="[" line="31" column="22" />
-        <mark key="]" line="31" column="22" />
-        <mark key="." line="31" column="22" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.model.ts" timestamp="1528307723395">
         <mark key="[" line="15" column="0" />
@@ -330,10 +335,14 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/core-api/src/core-api/endpoints/index.ts" timestamp="1530120634427">
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="1" column="23" />
+        <mark key="^" line="1" column="23" />
+        <mark key="." line="1" column="23" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="471" column="51" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
-      <jump line="152" column="18" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
       <jump line="153" column="26" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
       <jump line="158" column="31" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
       <jump line="159" column="38" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
@@ -432,58 +441,60 @@
       <jump line="16" column="51" filename="$USER_HOME$/dev/repos/core-api/tsconfig.json" />
       <jump line="48" column="3" filename="$USER_HOME$/dev/repos/core-api/tsconfig.json" />
       <jump line="10" column="22" filename="$USER_HOME$/dev/repos/core-api/tsconfig.json" />
+      <jump line="27" column="37" filename="$USER_HOME$/dev/repos/core-api/src/core-api/models/model.ts" />
+      <jump line="50" column="15" filename="$USER_HOME$/dev/repos/core-api/src/core-api/models/model.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHtfX25hbWVfX30gZnJvbSAnJzsKCmNvbnNvbGUubG9nKF9fbmFtZV9fKTsK</text>
+      <register name="&quot;" type="4">
+        <text>adapter</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>adapter</text>
       </register>
       <register name="/" type="4">
-        <text>base</text>
+        <text>getModelFields</text>
       </register>
-      <register name="0" type="4">
-        <text>0</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIG1vZGVsKG5hbWU/OiBzdHJpbmcpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtfX25hbWVfX30gZnJvbSAnJzsKCmNvbnNvbGUubG9nKF9fbmFtZV9fKTsK</text>
+        <text encoding="base64">ICAgIC8vIHB1YmxpYyBnZXRBcmdzKCkgewo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0IjogImplc3QiCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gZ2V0QVBJQXJncyh0aGlzLnRhcmdldCwgdGhpcy5rZXkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJzdGFydCI6ICJub2RlIGRpc3Qvc2VydmVyLmpzIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICJiYXNlVXJsIjogIi4vIiwK</text>
+      <register name="4" type="4">
+        <text encoding="base64">CgogICAgICAgIHJldHVybiBhZGFwdGVyKHBhcmFtZXRlcnMpCiAgICAgICAgLy8gaWYgKCFwYXJhbWV0ZXJzKSB7CiAgICAgICAgLy8gICAgIHJldHVybiB7fTsKICAgICAgICAvLyB9CiAgICAgICAgLy8KICAgICAgICAvLyByZXR1cm4gcGFyYW1ldGVycy5yZWR1Y2UoKGFjYywgY3VycikgPT4gewogICAgICAgIC8vICAgICBjb25zdCBwID0ge307CiAgICAgICAgLy8gICAgIHBbY3Vyci5uYW1lXSA9IHt0eXBlOiBnZXRBUElUeXBlKGN1cnIudHlwZSl9OwogICAgICAgIC8vCiAgICAgICAgLy8gICAgIHJldHVybiB7Li4uYWNjLCAuLi5wfTsKICAgICAgICAvLyB9LCB7fSk7</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgovKioKICogRXh0cmFjdCBhbGwgQVBJIGVuZHBvaW50cyBmcm9tIGEgc2VydmljZQogKgogKiBAcGFyYW0gc2VydmljZQogKiBAcmV0dXJucyB7e319CiAqLwpleHBvcnQgZnVuY3Rpb24gZmxhdHRlbkVuZHBvaW50cyhlbmRwb2ludHM6IEFQSUVuZHBvaW50W10pIHsKICAgIHJldHVybiBlbmRwb2ludHMucmVkdWNlKChhY2MsIGN1cnIpID0+IHsKICAgICAgICByZXR1cm4gey4uLmFjYywgLi4uY3Vyci5zZXJpYWxpemUoKX07CiAgICB9LCB7fSk7Cn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vICJzb3VyY2VSb290IjogIi4vIiwgICAgICAgICAgICAgICAgICAgIC8qIFNwZWNpZnkgdGhlIGxvY2F0aW9uIHdoZXJlIGRlYnVnZ2VyIHNob3VsZCBsb2NhdGUgVHlwZVNjcmlwdCBmaWxlcyBpbnN0ZWFkIG9mIHNvdXJjZSBsb2NhdGlvbnMuICovCiAgICAvLyAibWFwUm9vdCI6ICIuLyIsICAgICAgICAgICAgICAgICAgICAgICAvKiBTcGVjaWZ5IHRoZSBsb2NhdGlvbiB3aGVyZSBkZWJ1Z2dlciBzaG91bGQgbG9jYXRlIG1hcCBmaWxlcyBpbnN0ZWFkIG9mIGdlbmVyYXRlZCBsb2NhdGlvbnMuICovCiAgICAvLyAiaW5saW5lU291cmNlTWFwIjogdHJ1ZSwgICAgICAgICAgICAgICAvKiBFbWl0IGEgc2luZ2xlIGZpbGUgd2l0aCBzb3VyY2UgbWFwcyBpbnN0ZWFkIG9mIGhhdmluZyBhIHNlcGFyYXRlIGZpbGUuICovCiAgICAvLyAiaW5saW5lU291cmNlcyI6IHRydWUsICAgICAgICAgICAgICAgICAvKiBFbWl0IHRoZSBzb3VyY2UgYWxvbmdzaWRlIHRoZSBzb3VyY2VtYXBzIHdpdGhpbiBhIHNpbmdsZSBmaWxlOyByZXF1aXJlcyAnLS1pbmxpbmVTb3VyY2VNYXAnIG9yICctLXNvdXJjZU1hcCcgdG8gYmUgc2V0LiAqLwoK</text>
+        <text encoding="base64">Ly8gZXhwb3J0IGZ1bmN0aW9uIG1vZGVsKG5hbWU/OiBzdHJpbmcpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qIFNvdXJjZSBNYXAgT3B0aW9ucyAqLwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC8vIHByaXZhdGUgc2VyaWFsaXplZE1vZGVsID0gbnVsbDsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qIEVuYWJsZXMgZW1pdCBpbnRlcm9wZXJhYmlsaXR5IGJldHdlZW4gQ29tbW9uSlMgYW5kIEVTIE1vZHVsZXMgdmlhIGNyZWF0aW9uIG9mIG5hbWVzcGFjZSBvYmplY3RzIGZvciBhbGwgaW1wb3J0cy4gSW1wbGllcyAnYWxsb3dTeW50aGV0aWNEZWZhdWx0SW1wb3J0cycuICovCiAgICAvLyAicHJlc2VydmVTeW1saW5rcyI6IHRydWUsICAgICAgICAgICAgICAvKiBEbyBub3QgcmVzb2x2ZSB0aGUgcmVhbCBwYXRoIG9mIHN5bWxpbmtzLiAqLwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzZXJpYWxpemU8VD1hbnk+KGFkYXB0ZXI6IChBUElNb2RlbCkgPT4gVCk6IFQgewogICAgICAgIHJldHVybiBhZGFwdGVyKHRoaXMpOwogICAgICAgIC8vIGlmICh0aGlzLnNlcmlhbGl6ZWRNb2RlbCkgewogICAgICAgIC8vICAgICByZXR1cm4gdGhpcy5zZXJpYWxpemVkTW9kZWw7CiAgICAgICAgLy8gfQogICAgICAgIC8vCiAgICAgICAgLy8gY29uc3QgZmllbGRzID0gdGhpcy5nZXRGaWVsZHMoKS5yZWR1Y2UoKGFjYywgY3VycikgPT4gewogICAgICAgIC8vICAgICByZXR1cm4gey4uLmFjYywgLi4uY3Vyci5zZXJpYWxpemUoKX07CiAgICAgICAgLy8gfSwge30pOwogICAgICAgIC8vCiAgICAgICAgLy8gdGhpcy5zZXJpYWxpemVkTW9kZWwgPSBuZXcgR3JhcGhRTE9iamVjdFR5cGUoewogICAgICAgIC8vICAgICBuYW1lOiB0aGlzLmdldE5hbWUoKSwKICAgICAgICAvLyAgICAgZmllbGRzOiB7CiAgICAgICAgLy8gICAgICAgICAuLi5maWVsZHMsCiAgICAgICAgLy8gICAgIH0sCiAgICAgICAgLy8gfSk7CiAgICAgICAgLy8KICAgICAgICAvLyByZXR1cm4gdGhpcy5zZXJpYWxpemUoKTsKICAgIH0KCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>base</last-search>
+      <last-search>getModelFields</last-search>
       <last-offset />
-      <last-pattern>base</last-pattern>
+      <last-pattern>getModelFields</last-pattern>
       <last-replace>endpoint</last-replace>
       <last-substitute>view</last-substitute>
       <last-dir>1</last-dir>
@@ -491,7 +502,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\/\/</entry>
         <entry>export</entry>
         <entry>getAPIType</entry>
         <entry>Joyride</entry>
@@ -511,11 +521,9 @@
         <entry encoding="base64">XDx0c1w+</entry>
         <entry>exclude</entry>
         <entry>base</entry>
+        <entry>getModelFields</entry>
       </history-search>
       <history-cmd>
-        <entry>2</entry>
-        <entry>19</entry>
-        <entry>1,2d</entry>
         <entry>78</entry>
         <entry>114d</entry>
         <entry>113</entry>
@@ -524,14 +532,17 @@
         <entry>0</entry>
         <entry>ew</entry>
         <entry>e</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>qw</entry>
         <entry>32</entry>
         <entry>wq</entry>
         <entry>1,6d</entry>
-        <entry>1</entry>
         <entry>11</entry>
         <entry>W</entry>
+        <entry>7</entry>
+        <entry>1</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>1,2d</entry>
+        <entry>12d</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
