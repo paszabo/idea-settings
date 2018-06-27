@@ -20,11 +20,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/core-api/src/core-api/graphql.ts" timestamp="1530127755140">
-        <mark key="[" line="56" column="18" />
-        <mark key="]" line="56" column="18" />
-        <mark key="." line="56" column="18" />
-        <mark key="^" line="56" column="18" />
+      <file name="$USER_HOME$/dev/repos/core-api/src/core-api/graphql.ts" timestamp="1530131450293">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="^" line="75" column="51" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/motive-data/packages/incentives/api/src/app.ts" timestamp="1529964238695" />
       <file name="$USER_HOME$/dev/repos/core-api/tsconfig.json" timestamp="1530121437752">
@@ -89,10 +89,10 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" timestamp="1529607013398">
-        <mark key="'" line="373" column="30" />
-        <mark key="[" line="64" column="27" />
-        <mark key="]" line="298" column="20" />
+      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" timestamp="1530130639362">
+        <mark key="'" line="106" column="22" />
+        <mark key="[" line="167" column="0" />
+        <mark key="]" line="182" column="35" />
         <mark key="^" line="298" column="20" />
         <mark key="." line="298" column="20" />
       </file>
@@ -203,10 +203,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/core-api/src/core-api/models/model.ts" timestamp="1530123069504">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/dev/repos/core-api/src/core-api/models/model.ts" timestamp="1530130479077">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="57" column="1" />
       </file>
       <file name="$USER_HOME$/dev/repos/core-api/src/core-api/index.ts" timestamp="1530120950920">
         <mark key="[" line="0" column="17" />
@@ -356,10 +357,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/dev/repos/automp-be/models/types.ts" />
-      <jump line="45" column="0" filename="$USER_HOME$/dev/repos/automp-be/models/types.ts" />
-      <jump line="7" column="0" filename="$USER_HOME$/dev/repos/automp-be/services/chrome/parsers/index.ts" />
-      <jump line="8" column="0" filename="$USER_HOME$/dev/repos/automp-be/services/chrome/parsers/index.ts" />
       <jump line="35" column="0" filename="$USER_HOME$/dev/repos/automp-be/services/chrome/parsers/index.ts" />
       <jump line="51" column="0" filename="$USER_HOME$/dev/repos/automp-be/services/chrome/parsers/index.ts" />
       <jump line="52" column="0" filename="$USER_HOME$/dev/repos/automp-be/services/chrome/parsers/index.ts" />
@@ -456,58 +453,64 @@
       <jump line="143" column="38" filename="$USER_HOME$/dev/repos/core-api/src/core-api/endpoints/endpoint.ts" />
       <jump line="20" column="0" filename="$USER_HOME$/dev/repos/core-api/src/core-api/endpoints/endpoint.ts" />
       <jump line="148" column="2" filename="$USER_HOME$/dev/repos/core-api/src/core-api/endpoints/endpoint.ts" />
+      <jump line="396" column="53" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
+      <jump line="64" column="15" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
+      <jump line="105" column="21" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
+      <jump line="106" column="22" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>false;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZXhwb3J0IHR5cGUgc2VyaWFsaXplZE1vZGVscyA9IHtBUElNb2RlbDogYW55fQo=</text>
       </register>
       <register name="-" type="4">
-        <text>false;</text>
+        <text>serialize()</text>
       </register>
       <register name="/" type="4">
-        <text>APIService</text>
+        <text>APIModel</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Q29uc3RydWN0b3JJbml0aWFsaXplckFsbE9uT25lTGluZU9yT25lUGVyTGluZTogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRoaXMuc2VyaWFsaXplZEVuZHBvaW50KSB7CiAgICAgICAgICAgICAgICByZXR1cm4gdGhpcy5zZXJpYWxpemVkRW5kcG9pbnQ7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGNvbnN0IGZpZWxkcyA9IHRoaXMuZ2V0RmllbGRzKCkucmVkdWNlKChhY2MsIGN1cnIpID0+IHsKICAgICAgICAgICAgICAgIHJldHVybiB7IC4uLmFjYywgLi4uY3Vyci5zZXJpYWxpemUoKSB9OwogICAgICAgICAgICB9LCB7fSk7CgogICAgICAgICAgICB0aGlzLnNlcmlhbGl6ZWRFbmRwb2ludCA9IG5ldyBHcmFwaFFMT2JqZWN0VHlwZSh7CiAgICAgICAgICAgICAgICBuYW1lOiB0aGlzLmdldE5hbWUoKSwKICAgICAgICAgICAgICAgIGZpZWxkczogewogICAgICAgICAgICAgICAgICAgIC4uLmZpZWxkcywKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgIH0pOwoKICAgICAgICAgICAgcmV0dXJuIHRoaXMuc2VyaWFsaXplKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmICh0IHx8ICF0KSB7CiAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgfQoK</text>
+        <text encoding="base64">ZXhwb3J0IHR5cGUgc2VyaWFsaXplZE1vZGVscyA9IHtBUElNb2RlbDogYW55fQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dHlwZSBzZXJpYWxpemVkTW9kZWxzID0ge3N0cmluZzogYW55fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dHlwZSBzZXJpYWxpemVkTW9kZWxzID0ge3N0cmluZzogYW55fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCiAqIEdldCBBUEkgQXJncwogKgogKiBUT0RPIChQYXVsKTogRG9jdW1lbnQgcmV0dXJuIHR5cGUKICoKICogQHBhcmFtIHRhcmdldAogKiBAcGFyYW0ge3N0cmluZ30ga2V5CiAqIEByZXR1cm5zIHthbnl9CiAqLwovLyBmdW5jdGlvbiBnZXRBUElBcmdzKHRhcmdldDogYW55LCBrZXk6IHN0cmluZykgewovLyAgICAgY29uc3QgcGFyYW1ldGVycyA9IGdldFBhcmFtcyh0YXJnZXQsIGtleSk7Ci8vCi8vICAgICBpZiAoIXBhcmFtZXRlcnMpIHsKLy8gICAgICAgICByZXR1cm4ge307Ci8vICAgICB9Ci8vCi8vICAgICByZXR1cm4gcGFyYW1ldGVycy5yZWR1Y2UoKGFjYywgY3VycikgPT4gewovLyAgICAgICAgIGNvbnN0IHAgPSB7fTsKLy8gICAgICAgICBwW2N1cnIubmFtZV0gPSB7dHlwZTogZ2V0QVBJVHlwZShjdXJyLnR5cGUpfTsKLy8KLy8gICAgICAgICByZXR1cm4gey4uLmFjYywgLi4ucH07Ci8vICAgICB9LCB7fSk7Ci8vIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGNsYXNzIEFQSVNlcnZpY2Uge30KCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNob2ljZXM/OiBUW107Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAvLyBwdWJsaWMgc2VyaWFsaXplKGdldEFQSVR5cGU6IChyZXR1cm5UeXBlOiBhbnksIGVsZW1lbnRUeXBlOiBhbnkpID0+IGFueSkKICAgIC8vIHsKICAgIHB1YmxpYyBzZXJpYWxpemU8VCA9IGFueT4oYWRhcHRlcjogKGVuZHBvaW50OiBBUElFbmRwb2ludCkgPT4gVCk6IFQgewogICAgICAgIHJldHVybiBhZGFwdGVyKHRoaXMpOwogICAgICAgIC8vIGNvbnN0IHR5cGUgPSB0aGlzLmdldEFQSVJldHVyblR5cGUoZ2V0QVBJVHlwZSk7CiAgICAgICAgLy8gY29uc3QgYXJncyA9IHRoaXMuZ2V0QXJncygpOwogICAgICAgIC8vIGNvbnN0IHJlc29sdmUgPSB0aGlzLmdldEFQSU1ldGhvZCgpOwogICAgICAgIC8vCiAgICAgICAgLy8gY29uc3QgZW5kcG9pbnQgPSB7fTsKICAgICAgICAvLyBlbmRwb2ludFt0aGlzLmNvbmZpZy5wYXRoXSA9IHt0eXBlLCBhcmdzLCByZXNvbHZlfTsKICAgICAgICAvLwogICAgICAgIC8vIHJldHVybiBlbmRwb2ludDsKICAgIH0K</text>
+        <text encoding="base64">LyoqCiAqIEV4dHJhY3QgYWxsIEFQSSBlbmRwb2ludHMgZnJvbSBhIHNlcnZpY2UKICoKICogQHBhcmFtIHNlcnZpY2UKICogQHJldHVybnMge3t9fQogKi8K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">RXhwZXJpbWVudGFsQXV0b0RldGVjdEJpblBhY2tpbmc6IGZhbHNlCg==</text>
+      <register name="9" type="8">
+        <text>-
+-
+-</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>APIService</last-search>
+      <last-search>APIModel</last-search>
       <last-offset />
-      <last-pattern>APIService</last-pattern>
+      <last-pattern>APIModel</last-pattern>
       <last-replace>endpoint</last-replace>
       <last-substitute>view</last-substitute>
       <last-dir>1</last-dir>
@@ -515,7 +518,6 @@
     </search>
     <history>
       <history-search>
-        <entry>}</entry>
         <entry>this</entry>
         <entry>param</entry>
         <entry>getArgs</entry>
@@ -535,13 +537,9 @@
         <entry>Allow</entry>
         <entry>OneLine</entry>
         <entry>APIService</entry>
+        <entry>APIModel</entry>
       </history-search>
       <history-cmd>
-        <entry>0</entry>
-        <entry>ew</entry>
-        <entry>e</entry>
-        <entry>qw</entry>
-        <entry>32</entry>
         <entry>wq</entry>
         <entry>1,6d</entry>
         <entry>11</entry>
@@ -556,6 +554,11 @@
         <entry>q</entry>
         <entry>82</entry>
         <entry>46</entry>
+        <entry>3</entry>
+        <entry encoding="base64">JzwsJz42Mg==</entry>
+        <entry>62</entry>
+        <entry>0</entry>
+        <entry>68</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
