@@ -21,11 +21,12 @@
         <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/motive-data/packages/incentives/api/src/app.ts" timestamp="1529964238695" />
-      <file name="$USER_HOME$/dev/repos/core-api/tsconfig.json" timestamp="1530074076273">
-        <mark key="[" line="5" column="15" />
-        <mark key="]" line="5" column="17" />
-        <mark key="." line="5" column="17" />
-        <mark key="^" line="5" column="17" />
+      <file name="$USER_HOME$/dev/repos/core-api/tsconfig.json" timestamp="1530108054335">
+        <mark key="'" line="28" column="3" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="12" column="26" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/api-generator/src/endpoint.ts" timestamp="1529605834391">
         <mark key="'" line="243" column="32" />
@@ -325,8 +326,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="12" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
-      <jump line="472" column="23" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
       <jump line="466" column="5" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
       <jump line="471" column="51" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
       <jump line="152" column="18" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
@@ -425,13 +424,15 @@
       <jump line="13" column="30" filename="$USER_HOME$/dev/repos/motive-data/packages/incentives/api/Makefile" />
       <jump line="8" column="39" filename="$USER_HOME$/dev/repos/motive-data/packages/incentives/api/package.json" />
       <jump line="10" column="36" filename="$USER_HOME$/dev/repos/core-api/package.json" />
+      <jump line="16" column="51" filename="$USER_HOME$/dev/repos/core-api/tsconfig.json" />
+      <jump line="48" column="3" filename="$USER_HOME$/dev/repos/core-api/tsconfig.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>node</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>node</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgLyogQSBzZXJpZXMgb2YgZW50cmllcyB3aGljaCByZS1tYXAgaW1wb3J0cyB0byBsb29rdXAgbG9jYXRpb25zIHJlbGF0aXZlIHRvIHRoZSAnYmFzZVVybCcuICov</text>
       </register>
       <register name="/" type="4">
         <text>exclude</text>
@@ -440,34 +441,34 @@
         <text>0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qIEFkZGl0aW9uYWwgQ2hlY2tzICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIC8vICJzb3VyY2VSb290IjogIi4vIiwgICAgICAgICAgICAgICAgICAgIC8qIFNwZWNpZnkgdGhlIGxvY2F0aW9uIHdoZXJlIGRlYnVnZ2VyIHNob3VsZCBsb2NhdGUgVHlwZVNjcmlwdCBmaWxlcyBpbnN0ZWFkIG9mIHNvdXJjZSBsb2NhdGlvbnMuICovCiAgICAvLyAibWFwUm9vdCI6ICIuLyIsICAgICAgICAgICAgICAgICAgICAgICAvKiBTcGVjaWZ5IHRoZSBsb2NhdGlvbiB3aGVyZSBkZWJ1Z2dlciBzaG91bGQgbG9jYXRlIG1hcCBmaWxlcyBpbnN0ZWFkIG9mIGdlbmVyYXRlZCBsb2NhdGlvbnMuICovCiAgICAvLyAiaW5saW5lU291cmNlTWFwIjogdHJ1ZSwgICAgICAgICAgICAgICAvKiBFbWl0IGEgc2luZ2xlIGZpbGUgd2l0aCBzb3VyY2UgbWFwcyBpbnN0ZWFkIG9mIGhhdmluZyBhIHNlcGFyYXRlIGZpbGUuICovCiAgICAvLyAiaW5saW5lU291cmNlcyI6IHRydWUsICAgICAgICAgICAgICAgICAvKiBFbWl0IHRoZSBzb3VyY2UgYWxvbmdzaWRlIHRoZSBzb3VyY2VtYXBzIHdpdGhpbiBhIHNpbmdsZSBmaWxlOyByZXF1aXJlcyAnLS1pbmxpbmVTb3VyY2VNYXAnIG9yICctLXNvdXJjZU1hcCcgdG8gYmUgc2V0LiAqLwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJpbmNsdWRlIgo=</text>
+        <text encoding="base64">ICAgIC8qIFNvdXJjZSBNYXAgT3B0aW9ucyAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vICJqc3giOiAicHJlc2VydmUiLCAgICAgICAgICAgICAgICAgICAgIC8qIFNwZWNpZnkgSlNYIGNvZGUgZ2VuZXJhdGlvbjogJ3ByZXNlcnZlJywgJ3JlYWN0LW5hdGl2ZScsIG9yICdyZWFjdCcuICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vICJjaGVja0pzIjogdHJ1ZSwgICAgICAgICAgICAgICAgICAgICAgIC8qIFJlcG9ydCBlcnJvcnMgaW4gLmpzIGZpbGVzLiAqLwo=</text>
+        <text encoding="base64">ICAgIC8qIEVuYWJsZXMgZW1pdCBpbnRlcm9wZXJhYmlsaXR5IGJldHdlZW4gQ29tbW9uSlMgYW5kIEVTIE1vZHVsZXMgdmlhIGNyZWF0aW9uIG9mIG5hbWVzcGFjZSBvYmplY3RzIGZvciBhbGwgaW1wb3J0cy4gSW1wbGllcyAnYWxsb3dTeW50aGV0aWNEZWZhdWx0SW1wb3J0cycuICovCiAgICAvLyAicHJlc2VydmVTeW1saW5rcyI6IHRydWUsICAgICAgICAgICAgICAvKiBEbyBub3QgcmVzb2x2ZSB0aGUgcmVhbCBwYXRoIG9mIHN5bWxpbmtzLiAqLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qIEV4cGVyaW1lbnRhbCBPcHRpb25zICovCg==</text>
+        <text encoding="base64">ICAgIC8vICJyb290RGlycyI6IFtdLCAgICAgICAgICAgICAgICAgICAgICAgIC8qIExpc3Qgb2Ygcm9vdCBmb2xkZXJzIHdob3NlIGNvbWJpbmVkIGNvbnRlbnQgcmVwcmVzZW50cyB0aGUgc3RydWN0dXJlIG9mIHRoZSBwcm9qZWN0IGF0IHJ1bnRpbWUuICovCiAgICAvLyAidHlwZVJvb3RzIjogW10sICAgICAgICAgICAgICAgICAgICAgICAvKiBMaXN0IG9mIGZvbGRlcnMgdG8gaW5jbHVkZSB0eXBlIGRlZmluaXRpb25zIGZyb20uICovCiAgICAvLyAidHlwZXMiOiBbXSwgICAgICAgICAgICAgICAgICAgICAgICAgICAvKiBUeXBlIGRlY2xhcmF0aW9uIGZpbGVzIHRvIGJlIGluY2x1ZGVkIGluIGNvbXBpbGF0aW9uLiAqLwogICAgLy8gImFsbG93U3ludGhldGljRGVmYXVsdEltcG9ydHMiOiB0cnVlLCAgLyogQWxsb3cgZGVmYXVsdCBpbXBvcnRzIGZyb20gbW9kdWxlcyB3aXRoIG5vIGRlZmF1bHQgZXhwb3J0LiBUaGlzIGRvZXMgbm90IGFmZmVjdCBjb2RlIGVtaXQsIGp1c3QgdHlwZWNoZWNraW5nLiAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAic3RhcnQiOiAibm9kZSBkaXN0L3NlcnZlci5qcyIsCiAgICAgICAgImRldiI6ICJub2RlbW9uIiwKICAgICAgICAiY2xlYW4iOiAicm0gLXJmIGRpc3QiLAogICAgICAgICJidWlsZCI6ICJ5YXJuIHJ1biBjbGVhbiAmJiB5YXJuIHJ1biBmb3JtYXQgJiYgdHNjIiwKICAgICAgICAiZm9ybWF0IjogImZpbmQgLi9zcmMgLWluYW1lICcqLnRzJyB8IHhhcmdzIHlhcm4gcnVuIGNsYW5nLWZvcm1hdCAtaSAtc3R5bGU9ZmlsZSIKewo=</text>
+        <text encoding="base64">ICAgIC8qIE1vZHVsZSBSZXNvbHV0aW9uIE9wdGlvbnMgKi8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJidWlsZCI6ICJ0c2MiLAo=</text>
+        <text encoding="base64">ICAgIC8qIEJhc2ljIE9wdGlvbnMgKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXh0ZXJuYWw6IHRydWUK</text>
+        <text encoding="base64">ICAgIC8qIFNwZWNpZnkgRUNNQVNjcmlwdCB0YXJnZXQgdmVyc2lvbjogJ0VTMycgKGRlZmF1bHQpLCAnRVM1JywgJ0VTMjAxNScsICdFUzIwMTYnLCAnRVMyMDE3JywnRVMyMDE4JyBvciAnRVNORVhUJy4gKi8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
