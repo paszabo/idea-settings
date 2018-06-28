@@ -21,12 +21,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/core-api/src/core-api/graphql.ts" timestamp="1530161880074">
-        <mark key="'" line="18" column="4" />
-        <mark key="[" line="133" column="42" />
-        <mark key="]" line="134" column="3" />
-        <mark key="^" line="134" column="3" />
-        <mark key="." line="134" column="3" />
+      <file name="$USER_HOME$/dev/repos/core-api/src/core-api/graphql.ts" timestamp="1530163452876">
+        <mark key="'" line="141" column="0" />
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="141" column="0" />
+        <mark key="." line="141" column="0" />
+        <mark key="^" line="141" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/core-api/tsconfig.json" timestamp="1530161457864">
         <mark key="'" line="13" column="22" />
@@ -105,7 +105,7 @@
         <mark key="^" line="3" column="32" />
         <mark key="." line="3" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" timestamp="1530158200953">
+      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" timestamp="1530162766620">
         <mark key="a" line="371" column="15" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/services/chrome/parsers/index.ts" timestamp="1528477581901">
@@ -173,12 +173,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/core-api/src/core-api/endpoints/endpoint.ts" timestamp="1530133562796">
-        <mark key="'" line="92" column="38" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="^" line="14" column="10" />
-        <mark key="." line="92" column="0" />
+      <file name="$USER_HOME$/dev/repos/core-api/src/core-api/endpoints/endpoint.ts" timestamp="1530163418197">
+        <mark key="'" line="5" column="31" />
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="." line="101" column="0" />
+        <mark key="^" line="99" column="49" />
       </file>
       <file name="$USER_HOME$/dev/repos/motive-data/packages/incentives/api/package.json" timestamp="1529965995707">
         <mark key="'" line="8" column="39" />
@@ -229,7 +229,7 @@
         <mark key="." line="3" column="35" />
         <mark key="^" line="3" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/graph/joyride.query.ts" timestamp="1530160950270">
+      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/graph/joyride.query.ts" timestamp="1530162749834">
         <mark key="[" line="4" column="57" />
         <mark key="]" line="4" column="57" />
         <mark key="." line="4" column="57" />
@@ -387,13 +387,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/dev/repos/api-generator/src/api.ts" />
-      <jump line="5" column="26" filename="$USER_HOME$/dev/repos/api-generator/src/api.ts" />
-      <jump line="459" column="41" filename="$USER_HOME$/dev/repos/api-generator/src/api.ts" />
-      <jump line="3" column="0" filename="$USER_HOME$/dev/repos/api-generator/src/api.ts" />
-      <jump line="462" column="43" filename="$USER_HOME$/dev/repos/api-generator/src/api.ts" />
-      <jump line="6" column="12" filename="$USER_HOME$/dev/repos/api-generator/src/api.ts" />
-      <jump line="166" column="17" filename="$USER_HOME$/dev/repos/api-generator/src/api.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/api-generator/src/api.ts" />
       <jump line="2" column="8" filename="$USER_HOME$/dev/repos/api-generator/src/api.ts" />
       <jump line="69" column="15" filename="$USER_HOME$/dev/repos/api-generator/src/api.ts" />
@@ -480,65 +473,72 @@
       <jump line="172" column="41" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
       <jump line="175" column="17" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
       <jump line="182" column="24" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
-      <jump line="14" column="5" filename="$USER_HOME$/dev/repos/core-api/src/core-api/endpoints/endpoint.ts" />
       <jump line="92" column="38" filename="$USER_HOME$/dev/repos/core-api/src/core-api/endpoints/endpoint.ts" />
       <jump line="11" column="49" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
       <jump line="109" column="25" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/repos/core-api/src/core-api/models/model.ts" />
       <jump line="6" column="8" filename="$USER_HOME$/dev/repos/core-api/src/core-api/models/model.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/joyride-server/.dockerignore" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/repos/core-api/src/core-api/graphql.ts" />
+      <jump line="131" column="0" filename="$USER_HOME$/dev/repos/core-api/src/core-api/graphql.ts" />
+      <jump line="14" column="0" filename="$USER_HOME$/dev/repos/core-api/src/core-api/endpoints/endpoint.ts" />
+      <jump line="95" column="0" filename="$USER_HOME$/dev/repos/core-api/src/core-api/endpoints/endpoint.ts" />
+      <jump line="91" column="38" filename="$USER_HOME$/dev/repos/core-api/src/core-api/endpoints/endpoint.ts" />
+      <jump line="96" column="5" filename="$USER_HOME$/dev/repos/core-api/src/core-api/endpoints/endpoint.ts" />
+      <jump line="5" column="31" filename="$USER_HOME$/dev/repos/core-api/src/core-api/endpoints/endpoint.ts" />
+      <jump line="141" column="0" filename="$USER_HOME$/dev/repos/core-api/src/core-api/graphql.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;@types&quot;, &quot;./src/@types&quot;</text>
+        <text>SerivceMetaKey</text>
       </register>
       <register name="/" type="4">
-        <text>push</text>
+        <text>APIService</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGdldEFQSVR5cGUodGhpcy5nZXROYXRpdmVUeXBlKCkpOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgR3JhcGhRTE9iamVjdFR5cGUoewogICAgICAgIG5hbWU6ICdRdWVyeScsCiAgICAgICAgZmllbGRzOiB7CiAgICAgICAgICAgIC4uLmVuZHBvaW50cy5maWx0ZXIoaXNRdWVyeSkKICAgICAgICB9CiAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJiaW4iOiB7CiAgICAgICAgInJ1bi1qb3lyaWRlLXNlcnZlciI6ICJzZXJ2ZXIuanMiCiAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIioiOiBbIm5vZGVfbW9kdWxlcy8qIiwgInNyYy9AdHlwZXMvKiJdCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdXJsU2hvcnRlbmVyRW5kcG9pbnRzIH0gZnJvbSAnLi4vdXJsc2hvcnRlbmVyJzsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdXJsU2hvcnRlbmVyRW5kcG9pbnRzIH0gZnJvbSAnLi4vdXJsLXNob3J0ZW5lci91cmwtc2hvcnRlbmVyLmFwaSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAiZGVjbGFydGlvbk1hcCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBuZXR3b3JrczoKICAgICAgICAgICAgLSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBleHRlcm5hbDogdHJ1ZQo=</text>
+        <text encoding="base64">ZXhwb3J0IHR5cGUgU2VydmljZUNvbmZpZyA9IHtuYW1lPzogc3RyaW5nfTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>push</last-search>
+      <last-search>APIService</last-search>
       <last-offset />
-      <last-pattern>push</last-pattern>
+      <last-pattern>APIService</last-pattern>
       <last-replace>endpoint</last-replace>
       <last-substitute>view</last-substitute>
       <last-dir>1</last-dir>
@@ -546,8 +546,6 @@
     </search>
     <history>
       <history-search>
-        <entry>base</entry>
-        <entry>getModelFields</entry>
         <entry>comma</entry>
         <entry>omma</entry>
         <entry>aram</entry>
@@ -562,16 +560,14 @@
         <entry>*</entry>
         <entry>curr</entry>
         <entry>serialize</entry>
-        <entry>APIService</entry>
         <entry>getAPIType</entry>
         <entry>isAPIModel</entry>
         <entry>push</entry>
+        <entry encoding="base64">XDxmdW5jdGlvblw+</entry>
+        <entry encoding="base64">XDx7XD4=</entry>
+        <entry>APIService</entry>
       </history-search>
       <history-cmd>
-        <entry>2d</entry>
-        <entry>4</entry>
-        <entry>13</entry>
-        <entry>20</entry>
         <entry>26</entry>
         <entry>18</entry>
         <entry>25</entry>
@@ -585,8 +581,12 @@
         <entry>11</entry>
         <entry>6</entry>
         <entry>5</entry>
-        <entry>0</entry>
         <entry>e</entry>
+        <entry>140</entry>
+        <entry>132</entry>
+        <entry>137</entry>
+        <entry>0</entry>
+        <entry>97</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
