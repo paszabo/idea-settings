@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/repos/joyride-server/package.json" timestamp="1530201947663">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="17" />
+        <mark key="." line="1" column="17" />
+        <mark key="^" line="1" column="17" />
+      </file>
       <file name="$USER_HOME$/dev/repos/motive-data/api/incentives/app.ts" timestamp="1529686814340">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="30" />
@@ -165,12 +171,6 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="33" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/repos/core-api/package.json" timestamp="1530121029845">
-        <mark key="'" line="8" column="36" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/core-api/src/core-api/endpoints/endpoint.ts" timestamp="1530164839810">
         <mark key="'" line="94" column="0" />
         <mark key="[" line="38" column="0" />
@@ -321,7 +321,7 @@
         <mark key="^" line="52" column="55" />
         <mark key="." line="52" column="55" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-server/docker-compose.yml" timestamp="1530159097859">
+      <file name="$USER_HOME$/dev/repos/joyride-server/docker-compose.yml" timestamp="1530201842052">
         <mark key="'" line="29" column="16" />
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -487,11 +487,11 @@
       <jump line="171" column="0" filename="$USER_HOME$/dev/repos/core-api/src/core-api/graphql.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCg==</text>
+      <register name="&quot;" type="4">
+        <text>joyride</text>
       </register>
       <register name="-" type="4">
-        <text>buildMutations</text>
+        <text>joyride</text>
       </register>
       <register name="/" type="4">
         <text>APIEndpoint</text>
