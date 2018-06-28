@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/repos/joyride-server/package.json" timestamp="1530201947663">
-        <mark key="[" line="1" column="14" />
-        <mark key="]" line="1" column="17" />
-        <mark key="." line="1" column="17" />
-        <mark key="^" line="1" column="17" />
+      <file name="$USER_HOME$/dev/repos/joyride-server/package.json" timestamp="1530203431536">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+        <mark key="^" line="6" column="21" />
       </file>
       <file name="$USER_HOME$/dev/repos/motive-data/api/incentives/app.ts" timestamp="1529686814340">
         <mark key="[" line="15" column="0" />
@@ -20,6 +20,12 @@
         <mark key="]" line="33" column="19" />
         <mark key="^" line="33" column="45" />
         <mark key="." line="33" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/joyride-server/bin/start-joyride-server.js" timestamp="1530203013427">
+        <mark key="[" line="11" column="29" />
+        <mark key="]" line="11" column="35" />
+        <mark key="^" line="11" column="35" />
+        <mark key="." line="11" column="35" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/graph/joyride.schema.ts" timestamp="1528294132373">
         <mark key="[" line="8" column="0" />
@@ -131,11 +137,11 @@
         <mark key="^" line="26" column="17" />
         <mark key="." line="26" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-server/Dockerfile" timestamp="1530160717920">
-        <mark key="[" line="7" column="42" />
-        <mark key="]" line="7" column="47" />
-        <mark key="^" line="7" column="47" />
-        <mark key="." line="7" column="47" />
+      <file name="$USER_HOME$/dev/repos/joyride-server/Dockerfile" timestamp="1530202817976">
+        <mark key="[" line="9" column="31" />
+        <mark key="]" line="9" column="34" />
+        <mark key="^" line="9" column="34" />
+        <mark key="." line="9" column="34" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/url-shortener/index.ts" timestamp="1528326480446">
         <mark key="[" line="3" column="0" />
@@ -158,7 +164,7 @@
         <mark key="." line="13" column="20" />
         <mark key="^" line="13" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-server/.dockerignore" timestamp="1530158427561">
+      <file name="$USER_HOME$/dev/repos/joyride-server/.dockerignore" timestamp="1530203591735">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="1" column="5" />
         <mark key="]" line="2" column="4" />
@@ -308,6 +314,12 @@
         <mark key="]" line="62" column="33" />
         <mark key="." line="62" column="33" />
         <mark key="^" line="62" column="33" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/joyride-server/tsconfig.json" timestamp="1530203636919">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="7" column="26" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.model.ts" timestamp="1530135675810">
         <mark key="[" line="15" column="0" />
@@ -487,11 +499,11 @@
       <jump line="171" column="0" filename="$USER_HOME$/dev/repos/core-api/src/core-api/graphql.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>joyride</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAicGF0aHMiOiB7CiAgICAgICAgICAgICIqIjogWyJub2RlX21vZHVsZXMvKiIsICJzcmMvQHR5cGVzLyoiXQogICAgICAgIH0sCiAgICAgICAgInR5cGVSb290cyI6IFsiQHR5cGVzIiwgIi4vc3JjL0B0eXBlcyJdLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>joyride</text>
+        <text>server.ts</text>
       </register>
       <register name="/" type="4">
         <text>APIEndpoint</text>
@@ -500,31 +512,31 @@
         <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIHJlZ2lzdGVyU2VydmljZSh0YXJnZXQ6IGFueSwgc2VydmljZTogU2VydmljZSk6IHZvaWQgewogICAgUmVmbGVjdC5kZWZpbmVNZXRhZGF0YShTZXJ2aWNlTWV0YUtleSwgc2VydmljZSwgdGFyZ2V0KTsKfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCg==</text>
+        <text encoding="base64">ICAgICAgICAicGF0aHMiOiB7CiAgICAgICAgICAgICIqIjogWyJub2RlX21vZHVsZXMvKiIsICJzcmMvQHR5cGVzLyoiXQogICAgICAgIH0sCiAgICAgICAgInR5cGVSb290cyI6IFsiQHR5cGVzIiwgIi4vc3JjL0B0eXBlcyJdLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUgQVBJU2VydmljZSA9IGFueTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IHR5cGUgQVBJU2VydmljZSA9IGFueTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -567,7 +579,6 @@
       </history-search>
       <history-cmd>
         <entry>11</entry>
-        <entry>6</entry>
         <entry>5</entry>
         <entry>e</entry>
         <entry>140</entry>
@@ -585,6 +596,7 @@
         <entry>164</entry>
         <entry>142</entry>
         <entry>168</entry>
+        <entry>6</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
