@@ -58,6 +58,12 @@
         <mark key="." line="16" column="11" />
         <mark key="^" line="16" column="11" />
       </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/packages/etl/bin/joyride-etl.js" timestamp="1530301919517">
+        <mark key="'" line="22" column="57" />
+        <mark key="[" line="41" column="5" />
+        <mark key="]" line="41" column="5" />
+        <mark key="." line="41" column="5" />
+      </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/api/database/migrations/20180626094633_quickDataCountry.js" timestamp="1530298107899" />
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.service.ts" timestamp="1528307737625">
         <mark key="'" line="21" column="17" />
@@ -186,8 +192,8 @@
         <mark key="^" line="23" column="8" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/packages/api/tsconfig.json" timestamp="1530493038896" />
-      <file name="$USER_HOME$/dev/repos/automp-be/packages/api/package.json" timestamp="1530484760597">
+      <file name="$USER_HOME$/dev/repos/automp-be/packages/api/tsconfig.json" timestamp="1530499790545" />
+      <file name="$USER_HOME$/dev/repos/automp-be/packages/api/package.json" timestamp="1530499821179">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="1" column="30" />
         <mark key="^" line="1" column="30" />
@@ -330,6 +336,11 @@
         <mark key="." line="12" column="18" />
         <mark key="^" line="12" column="18" />
       </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/packages/api/services/carproof/index.ts" timestamp="1530499954127">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/url-shortener/url-shortener.dal.ts" timestamp="1530160878866">
         <mark key="[" line="11" column="45" />
         <mark key="]" line="11" column="49" />
@@ -444,11 +455,11 @@
         <mark key="^" line="7" column="31" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/api/database/constants.js" timestamp="1530298811221" />
-      <file name="$USER_HOME$/dev/repos/automp-be/packages/api/database/migrate.ts" timestamp="1530498305454">
-        <mark key="[" line="4" column="35" />
-        <mark key="]" line="4" column="42" />
-        <mark key="." line="4" column="42" />
-        <mark key="^" line="4" column="42" />
+      <file name="$USER_HOME$/dev/repos/automp-be/packages/api/database/migrate.ts" timestamp="1530499102352">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="3" column="12" />
       </file>
       <file name="$USER_HOME$/dev/repos/api-generator/src/model.ts" timestamp="1529604572649">
         <mark key="'" line="1" column="0" />
@@ -463,12 +474,11 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="12" column="73" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/packages/api/dbClients/index.ts" timestamp="1530493142320">
+      <file name="$USER_HOME$/dev/repos/automp-be/packages/api/dbClients/index.ts" timestamp="1530499115738">
         <mark key="'" line="43" column="2" />
         <mark key="[" line="9" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/db/src/tables.ts" timestamp="1530487173039">
         <mark key="[" line="3" column="17" />
@@ -593,46 +603,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gbGlicwo=</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text encoding="base64">YXdhaXQg</text>
       </register>
       <register name="/" type="4">
         <text>knexPostgis</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNsaWVudDogIiIsCiAgICBjb25uZWN0aW9uOiB7CiAgICAgIGRhdGFiYXNlOiAiIiwKICAgICAgdXNlcjogIiIsCiAgICAgIHBhc3N3b3JkOiAiIgogICAgfSwKICAgIHBvb2w6IHsKICAgICAgbWluOiAyLAogICAgICBtYXg6IDEwCiAgICB9LAogICAgbWlncmF0aW9uczogewogICAgICB0YWJsZU5hbWU6ICJrbmV4X21pZ3JhdGlvbnMiLAogICAgICBkaXJlY3Rvcnk6ICIuL2RhdGFiYXNlL21pZ3JhdGlvbnMiCiAgICB9LAogICAgc2VlZHM6IHsKICAgICAgZGlyZWN0b3J5OiAiLi9kYXRhYmFzZS9zZWVkcyIKICAgIH0K</text>
+        <text encoding="base64">ZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIHJ1bk1pZ3JhdGlvbnMoa25leDogS25leCwgZGJjb25maWc6IGFueSk6IFByb21pc2VMaWtlPGFueT4gewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gbGlicwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA6OWQK</text>
+        <text encoding="base64">aW1wb3J0IHsgICB9IGZyb20gJy4uL0B0eXBlcy9jdXN0b20nOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyBzZW5kIGNvbnRhY3QgdXMgbWVzc2FnZQoK</text>
+        <text encoding="base64">Ly8gZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIHJ1bk1pZ3JhdGlvbnMoa25leDogS25leCwgZGJjb25maWc6IGFueSk6IFByb21pc2U8YW55PiB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgLy8gY29uZmlnIHZhbGlkYXRpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBzZXQgdXAgYWRkcmVzcwo=</text>
+        <text encoding="base64">ICA6OWQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBzZW5kIGNvbnRhY3QgdXMgbWVzc2FnZQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBwYXlsb2FkIHZhbGlkYXRpb24K</text>
+        <text encoding="base64">CiAgLy8gY29uZmlnIHZhbGlkYXRpb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBzZXQgdXAgYWRkcmVzcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyB1bi1tYXJzaGFsIHBheWxvYWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
