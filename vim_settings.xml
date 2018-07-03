@@ -183,6 +183,14 @@
         <mark key="^" line="21" column="87" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/joyride-etl/Dockerfile" timestamp="1530635607307">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/joyride-etl/src/test/lib/chromedata/index.js" timestamp="1530636352057" />
+      <file name="$USER_HOME$/dev/repos/joyride-etl/bin/joyride-etl.js" timestamp="1530635998452" />
       <file name="$USER_HOME$/dev/repos/core-api/src/index.ts" timestamp="1530110156831">
         <mark key="[" line="2" column="21" />
         <mark key="]" line="2" column="21" />
@@ -274,11 +282,11 @@
         <mark key="." line="15" column="30" />
         <mark key="^" line="15" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-etl/src/config/index.js" timestamp="1528299932685">
-        <mark key="[" line="33" column="19" />
-        <mark key="]" line="33" column="19" />
-        <mark key="^" line="33" column="45" />
-        <mark key="." line="33" column="19" />
+      <file name="$USER_HOME$/dev/repos/joyride-etl/src/config/index.js" timestamp="1530635843097">
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="8" column="19" />
+        <mark key="^" line="8" column="45" />
+        <mark key="." line="8" column="19" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/server.ts" timestamp="1530213443837">
         <mark key="[" line="7" column="48" />
@@ -342,6 +350,12 @@
         <mark key="]" line="15" column="43" />
         <mark key="." line="15" column="43" />
         <mark key="^" line="15" column="43" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/joyride-etl/src/index.js" timestamp="1530636281916">
+        <mark key="[" line="16" column="7" />
+        <mark key="]" line="16" column="7" />
+        <mark key="^" line="16" column="24" />
+        <mark key="." line="16" column="7" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/api/server/routes/health.ts" timestamp="1530488584864">
         <mark key="'" line="31" column="0" />
@@ -411,6 +425,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/joyride-etl/.dockerignore" timestamp="1530635647319">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="6" />
+        <mark key="^" line="3" column="6" />
+        <mark key="." line="3" column="6" />
       </file>
       <file name="$USER_HOME$/dev/repos/core-api/src/core-api/models/model.ts" timestamp="1530161660427">
         <mark key="'" line="6" column="8" />
@@ -655,10 +675,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAoKVkFMSURBVEVfVVJMPWxvY2FsaG9zdDo4MC9oZWFsdGgKTUFYX0FUVEVNUFRTPTEwCgpBVFRFTVBUUz0wCgpmdW5jdGlvbiB2YWxpZGF0ZSgpewoJKChBVFRFTVBUUysrKSkKCWVjaG8gIlZhbGlkYXRpbmcgZW5kcG9pbnQgJHtWQUxJREFURV9VUkx9IgoJUkVTUD0kKGN1cmwgLXNTaSAiJHtWQUxJREFURV9VUkx9IiAyPiYxKQoJaWYgWyAkPyAhPSAwIF07IHRoZW4KCQllY2hvIEVSUk9SOgoJCWVjaG8gIiR7UkVTUH0iCgkJcmV0dXJuIDIKCWZpCglsb2NhbCBDT0RFPSQoZWNobyAkUkVTUCB8IGhlYWQgLW4gMSB8IGF3ayAne3ByaW50ICQyfScpCgllY2hvICJSZXNwb25zZTogJHtDT0RFfSIKCWlmIFsgJENPREUgLWdlIDIwMCBdICYmIFsgJENPREUgLWx0IDQwMCBdOyB0aGVuCgkJcmV0dXJuIDAKCWZpCglyZXR1cm4gMQp9Cgp2YWxpZGF0ZQp3aGlsZSBbICQ/ICE9IDAgXSAmJiBbICRBVFRFTVBUUyAtbHQgJE1BWF9BVFRFTVBUUyBdOyBkbwoJc2xlZXAgMgoJdmFsaWRhdGUKZG9uZQoKaWYgWyAkPyAhPSAwIF07IHRoZW4KCWVjaG8gIlNlcnZpY2UgZmFpbGVkIHRvIHZhbGlkYXRlIGFmdGVyICR7QVRURU1QVFN9IGF0dGVtcHRzIgoJZXhpdCAxCmVsc2UKCWVjaG8gIlZhbGlkYXRlZCBzZXJ2aWNlIGFmdGVyICR7QVRURU1QVFN9IGF0dGVtcHRzIgoJZXhpdCAwCmZp</text>
+        <text encoding="base64">ID0g</text>
       </register>
       <register name="-" type="4">
-        <text>expects [msrp, invoice, destination]</text>
+        <text encoding="base64">ID0g</text>
       </register>
       <register name="/" type="4">
         <text>getADSGenericFeatureIds</text>

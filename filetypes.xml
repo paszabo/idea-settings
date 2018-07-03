@@ -5,6 +5,7 @@
       <mapping pattern="*Dockerfile*" type="Dockerfile" />
       <mapping pattern=".prettierignore" type="JSON" />
       <mapping pattern=".docker-compose.dev.yml.swp" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="hadoop" type="PLAIN_TEXT" />
       <mapping pattern="edldump" type="PLAIN_TEXT" />
