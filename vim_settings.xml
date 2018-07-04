@@ -126,12 +126,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-etl/src/index.js" timestamp="1530732340329">
+      <file name="$USER_HOME$/dev/repos/joyride-etl/src/index.js" timestamp="1530735966970">
         <mark key="'" line="24" column="2" />
-        <mark key="[" line="47" column="31" />
-        <mark key="]" line="47" column="34" />
-        <mark key="." line="47" column="34" />
-        <mark key="^" line="47" column="34" />
+        <mark key="[" line="71" column="13" />
+        <mark key="]" line="72" column="13" />
+        <mark key="." line="72" column="13" />
+        <mark key="^" line="72" column="13" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/api/docker-compose.yml" timestamp="1530720857031">
         <mark key="'" line="48" column="0" />
@@ -253,8 +253,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/dealer/index.ts" timestamp="1530652303609">
-        <mark key="'" line="208" column="15" />
+      <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/dealer/index.ts" timestamp="1530735935522">
+        <mark key="'" line="204" column="13" />
+        <mark key="[" line="123" column="19" />
+        <mark key="]" line="123" column="19" />
+        <mark key="." line="123" column="19" />
+        <mark key="^" line="123" column="19" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/.automprc" timestamp="1529588570399">
         <mark key="[" line="39" column="0" />
@@ -285,10 +289,11 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-etl/bin/joyride-etl.js" timestamp="1530731819367">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/dev/repos/joyride-etl/bin/joyride-etl.js" timestamp="1530735989411">
+        <mark key="[" line="27" column="64" />
+        <mark key="]" line="28" column="54" />
+        <mark key="." line="28" column="54" />
+        <mark key="^" line="28" column="54" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/make/make.model.ts" timestamp="1530135675810">
         <mark key="[" line="15" column="0" />
@@ -418,8 +423,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/dev/repos/core-api/src/core-api/models/model.ts" />
-      <jump line="28" column="0" filename="$USER_HOME$/dev/repos/core-api/src/core-api/models/model.ts" />
       <jump line="116" column="10" filename="$USER_HOME$/dev/repos/core-api/src/core-api/graphql.ts" />
       <jump line="18" column="4" filename="$USER_HOME$/dev/repos/core-api/src/core-api/graphql.ts" />
       <jump line="41" column="18" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
@@ -518,16 +521,18 @@
       <jump line="48" column="0" filename="$USER_HOME$/dev/repos/automp-be/packages/api/docker-compose.yml" />
       <jump line="16" column="0" filename="$USER_HOME$/dev/repos/joyride-etl/src/index.js" />
       <jump line="24" column="2" filename="$USER_HOME$/dev/repos/joyride-etl/src/index.js" />
+      <jump line="152" column="12" filename="$USER_HOME$/dev/repos/joyride-etl/src/lib/dealer/index.ts" />
+      <jump line="201" column="13" filename="$USER_HOME$/dev/repos/joyride-etl/src/lib/dealer/index.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>skipCondition</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>skipCondition</text>
       </register>
       <register name="/" type="4">
-        <text>skipBodytypes</text>
+        <text>skipCondition</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC0tc2tpcC1ib2R5dHlwZXMgXAo=</text>
@@ -539,37 +544,37 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAogICAgZnMucmVhZGRpcihxdWlja2RhdGFEaXIsIChlcnJvciwgY29udGVudHMpID0+IHsKICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZm91bmRGaWxlcyA9IChjb250ZW50cyB8fCBbXSkubWFwKGYgPT4gYCR7cXVpY2tkYXRhRGlyfS8ke2Z9YCk7CiAgICAgIGNvbnNvbGUubG9nKGBGb3VuZCBmaWxlczogJHtmb3VuZEZpbGVzLmpvaW4oJywgJyl9YCk7CgogICAgICBmaWxlcyA9IFtdLmNvbmNhdChmaWxlcyB8fCBbXSwgZm91bmRGaWxlcyk7Cg==</text>
+        <text encoding="base64">ICAgIAogICAgZnMucmVhZGRpcihxdWlja2RhdGFEaXIsIChlcnJvciwgY29udGVudHMpID0+IHsKICAgIH0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgZm91bmRGaWxlcyA9IChjb250ZW50cyB8fCBbXSkubWFwKGYgPT4gYCR7cXVpY2tkYXRhRGlyfS8ke2Z9YCk7CiAgICAgIGNvbnNvbGUubG9nKGBGb3VuZCBmaWxlczogJHtmb3VuZEZpbGVzLmpvaW4oJywgJyl9YCk7CgogICAgICBmaWxlcyA9IFtdLmNvbmNhdChmaWxlcyB8fCBbXSwgZm91bmRGaWxlcyk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0tc2tpcC1ib2R5dHlwZXMgXAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC0tc2tpcC1ib2R5dHlwZXMK</text>
+        <text encoding="base64">ICAgIC0tc2tpcC1ib2R5dHlwZXMgXAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0tcXVpY2stZGF0YS1jb3VudHJ5IHVzCg==</text>
+        <text encoding="base64">ICAgIC0tc2tpcC1ib2R5dHlwZXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0tcXVpY2stZGF0YS1jb3VudHJ5IHVzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>skipBodytypes</last-search>
+      <last-search>skipCondition</last-search>
       <last-offset />
-      <last-pattern>skipBodytypes</last-pattern>
+      <last-pattern>skipCondition</last-pattern>
       <last-replace>endpoint</last-replace>
       <last-substitute>view</last-substitute>
       <last-dir>1</last-dir>
@@ -577,7 +582,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmdW5jdGlvblw+</entry>
         <entry encoding="base64">XDx7XD4=</entry>
         <entry>APIService</entry>
         <entry>APIEndpoint</entry>
@@ -597,6 +601,7 @@
         <entry>&quot;&quot;</entry>
         <entry>Processing</entry>
         <entry>skipBodytypes</entry>
+        <entry>skipCondition</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
