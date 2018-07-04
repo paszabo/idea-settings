@@ -92,11 +92,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-etl/.joyride-etlrc.template" timestamp="1530648761132">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="21" />
-        <mark key="^" line="1" column="20" />
-        <mark key="." line="1" column="20" />
+      <file name="$USER_HOME$/dev/repos/joyride-etl/.joyride-etlrc.template" timestamp="1530728217636">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="16" />
+        <mark key="^" line="7" column="16" />
+        <mark key="." line="7" column="16" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/nodemon.json" timestamp="1530219556617">
         <mark key="[" line="2" column="47" />
@@ -126,11 +126,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-etl/src/index.js" timestamp="1530722827353">
-        <mark key="[" line="49" column="44" />
-        <mark key="]" line="49" column="53" />
-        <mark key="." line="49" column="53" />
-        <mark key="^" line="49" column="53" />
+      <file name="$USER_HOME$/dev/repos/joyride-etl/src/index.js" timestamp="1530732340329">
+        <mark key="'" line="24" column="2" />
+        <mark key="[" line="47" column="31" />
+        <mark key="]" line="47" column="34" />
+        <mark key="." line="47" column="34" />
+        <mark key="^" line="47" column="34" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/api/docker-compose.yml" timestamp="1530720857031">
         <mark key="'" line="48" column="0" />
@@ -157,12 +158,11 @@
         <mark key="." line="12" column="18" />
         <mark key="^" line="12" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-etl/bin/seed-db.sh" timestamp="1530726907720">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="54" />
-        <mark key="." line="7" column="54" />
-        <mark key="^" line="7" column="54" />
+      <file name="$USER_HOME$/dev/repos/joyride-etl/bin/seed-db.sh" timestamp="1530731959967">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/settings/settings.ts" timestamp="1530214334669">
         <mark key="[" line="2" column="81" />
@@ -230,6 +230,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/joyride-etl/.joyride-etlrc.dev" timestamp="1530728237917">
+        <mark key="[" line="24" column="14" />
+        <mark key="]" line="24" column="17" />
+        <mark key="^" line="24" column="17" />
+        <mark key="." line="24" column="17" />
+      </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/.dockerignore" timestamp="1530635647319">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="6" />
@@ -256,11 +262,11 @@
         <mark key="^" line="21" column="87" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-etl/Dockerfile" timestamp="1530727495562">
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="26" />
-        <mark key="." line="4" column="26" />
-        <mark key="^" line="4" column="26" />
+      <file name="$USER_HOME$/dev/repos/joyride-etl/Dockerfile" timestamp="1530728272743">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="2" column="24" />
+        <mark key="." line="2" column="24" />
+        <mark key="^" line="2" column="24" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/tslint.json" timestamp="1529603637779">
         <mark key="[" line="34" column="9" />
@@ -279,7 +285,7 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-etl/bin/joyride-etl.js" timestamp="1530721279933">
+      <file name="$USER_HOME$/dev/repos/joyride-etl/bin/joyride-etl.js" timestamp="1530731819367">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
@@ -412,8 +418,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="15" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
-      <jump line="105" column="21" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/repos/core-api/src/core-api/models/model.ts" />
       <jump line="28" column="0" filename="$USER_HOME$/dev/repos/core-api/src/core-api/models/model.ts" />
       <jump line="116" column="10" filename="$USER_HOME$/dev/repos/core-api/src/core-api/graphql.ts" />
@@ -512,19 +516,21 @@
       <jump line="208" column="15" filename="$USER_HOME$/dev/repos/joyride-etl/src/lib/dealer/index.ts" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/repos/joyride-etl/bin/seed-db.sh" />
       <jump line="48" column="0" filename="$USER_HOME$/dev/repos/automp-be/packages/api/docker-compose.yml" />
+      <jump line="16" column="0" filename="$USER_HOME$/dev/repos/joyride-etl/src/index.js" />
+      <jump line="24" column="2" filename="$USER_HOME$/dev/repos/joyride-etl/src/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/opt/joyride-etl</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>/opt/joyride-etl</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>Processing</text>
+        <text>skipBodytypes</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhlcnIpOwo=</text>
+        <text encoding="base64">ICAgIC0tc2tpcC1ib2R5dHlwZXMgXAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -533,25 +539,25 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYEZvdW5kIGZpbGVzOiAke2ZvdW5kRmlsZXN9YCk7Cg==</text>
+        <text encoding="base64">ICAgIAogICAgZnMucmVhZGRpcihxdWlja2RhdGFEaXIsIChlcnJvciwgY29udGVudHMpID0+IHsKICAgIH0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgZm91bmRGaWxlcyA9IChjb250ZW50cyB8fCBbXSkubWFwKGYgPT4gYCR7cXVpY2tkYXRhRGlyfS8ke2Z9YCk7CiAgICAgIGNvbnNvbGUubG9nKGBGb3VuZCBmaWxlczogJHtmb3VuZEZpbGVzLmpvaW4oJywgJyl9YCk7CgogICAgICBmaWxlcyA9IFtdLmNvbmNhdChmaWxlcyB8fCBbXSwgZm91bmRGaWxlcyk7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhlcnIuc3RhY2spOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhlcnIpOwo=</text>
+        <text encoding="base64">ICAgIC0tc2tpcC1ib2R5dHlwZXMgXAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLnRyYWNlKGVycik7Cg==</text>
+        <text encoding="base64">ICAgIC0tc2tpcC1ib2R5dHlwZXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Q01EIFsiYmluL3NlZWQtZGIuc2giXQo=</text>
+        <text encoding="base64">ICAgIC0tcXVpY2stZGF0YS1jb3VudHJ5IHVzCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -561,9 +567,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Processing</last-search>
+      <last-search>skipBodytypes</last-search>
       <last-offset />
-      <last-pattern>Processing</last-pattern>
+      <last-pattern>skipBodytypes</last-pattern>
       <last-replace>endpoint</last-replace>
       <last-substitute>view</last-substitute>
       <last-dir>1</last-dir>
@@ -571,7 +577,6 @@
     </search>
     <history>
       <history-search>
-        <entry>push</entry>
         <entry encoding="base64">XDxmdW5jdGlvblw+</entry>
         <entry encoding="base64">XDx7XD4=</entry>
         <entry>APIService</entry>
@@ -591,12 +596,9 @@
         <entry>getADSGenericFeatureIds</entry>
         <entry>&quot;&quot;</entry>
         <entry>Processing</entry>
+        <entry>skipBodytypes</entry>
       </history-search>
       <history-cmd>
-        <entry>44</entry>
-        <entry>57</entry>
-        <entry>2</entry>
-        <entry>q</entry>
         <entry>wq</entry>
         <entry>29</entry>
         <entry>61</entry>
@@ -612,6 +614,10 @@
         <entry>qw</entry>
         <entry>1</entry>
         <entry>13d</entry>
+        <entry>25</entry>
+        <entry>8</entry>
+        <entry>23</entry>
+        <entry>10</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
