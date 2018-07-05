@@ -105,10 +105,10 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/db.ts" timestamp="1530751979955">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="36" />
-        <mark key="." line="0" column="36" />
+      <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/db.ts" timestamp="1530753629227">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="8" column="28" />
+        <mark key="." line="8" column="28" />
         <mark key="^" line="0" column="36" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/.joyride-etlrc.template" timestamp="1530728217636">
@@ -280,7 +280,7 @@
         <mark key="[" line="27" column="14" />
         <mark key="]" line="27" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/dealer/index.ts" timestamp="1530751616088">
+      <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/dealer/index.ts" timestamp="1530753850095">
         <mark key="'" line="198" column="13" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -323,6 +323,7 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
       </file>
+      <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/csv/types.ts" timestamp="1530753922965" />
       <file name="$USER_HOME$/dev/repos/joyride-etl/bin/joyride-etl.js" timestamp="1530738697464">
         <mark key="[" line="27" column="64" />
         <mark key="]" line="28" column="54" />
@@ -413,6 +414,13 @@
         <mark key="." line="3" column="25" />
         <mark key="^" line="3" column="25" />
       </file>
+      <file name="$USER_HOME$/dev/repos/joyride-etl/tsconfig.json" timestamp="1530754058373">
+        <mark key="'" line="7" column="22" />
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="13" column="19" />
+        <mark key="." line="13" column="19" />
+        <mark key="^" line="13" column="19" />
+      </file>
       <file name="$USER_HOME$/dev/repos/core-api/src/core-api/endpoints/index.ts" timestamp="1530120634427">
         <mark key="[" line="1" column="23" />
         <mark key="]" line="1" column="23" />
@@ -451,7 +459,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="10" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
       <jump line="127" column="15" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
       <jump line="162" column="16" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
       <jump line="166" column="15" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
@@ -551,13 +558,14 @@
       <jump line="59" column="2" filename="$USER_HOME$/dev/repos/joyride-etl/src/lib/csv/index.ts" />
       <jump line="5" column="32" filename="$USER_HOME$/dev/repos/joyride-etl/src/lib/csv/index.ts" />
       <jump line="8" column="39" filename="$USER_HOME$/dev/repos/joyride-etl/src/lib/csv/index.ts" />
+      <jump line="7" column="22" filename="$USER_HOME$/dev/repos/joyride-etl/tsconfig.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>index.ts&quot;, &quot;@types/**/*&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>index.ts&quot;, &quot;@types/**/*&quot;</text>
       </register>
       <register name="/" type="4">
         <text>JoyRideStyleID</text>
@@ -566,7 +574,7 @@
         <text encoding="base64">ZXhwb3J0ICogZnJvbSAnJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICJ0eXBlUm9vdHMiOiBbIkB0eXBlcyIsICIuL3NyYy9AdHlwZXMiXSwK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -575,25 +583,25 @@
         <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgfSBmcm9tICcuLi9jc3YvZGF0YS1jbGVhbmluZyc7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgIH0gZnJvbSAnLi4vY3N2L3BhcnNlcic7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgfSBmcm9tICcuLi9jc3YvZGF0YS1jbGVhbmluZyc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgfSBmcm9tICcuLi9jc3YvdHlwZXMnOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgIH0gZnJvbSAnLi4vY3N2L3BhcnNlcic7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgIH0gZnJvbSAnLi4vY3N2L2RhdGEtY2xlYW5pbmcnOwppbXBvcnQgeyAgfSBmcm9tICcuLi9jc3YvY29uY3VycmVuY3knOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgfSBmcm9tICcuLi9jc3YvdHlwZXMnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgIH0gZnJvbSAnLi4vY3N2L2RhdGEtY2xlYW5pbmcnOwppbXBvcnQgeyAgfSBmcm9tICcuLi9jc3YvY29uY3VycmVuY3knOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gLnBpcGUoZXMubWFwKGNzdlBhcnNlcnMuY3JlYXRlTG9hZExpbmUodGhpcy5rbmV4LCB0aGlzLnRhYmxlTmFtZSkpKQo=</text>
+        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gLnBpcGUoZXMubWFwKGNzdlBhcnNlcnMuY3JlYXRlTG9hZExpbmUodGhpcy5rbmV4LCB0aGlzLnRhYmxlTmFtZSkpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
