@@ -57,6 +57,12 @@
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
+      <file name="$USER_HOME$/dev/repos/joyride-etl/src/test/lib/custombodytypes/bodyTypeInference.js" timestamp="1530816854394">
+        <mark key="[" line="48" column="34" />
+        <mark key="]" line="48" column="35" />
+        <mark key="." line="48" column="35" />
+        <mark key="^" line="48" column="35" />
+      </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/server.ts" timestamp="1530215014199">
         <mark key="[" line="51" column="36" />
         <mark key="]" line="51" column="43" />
@@ -307,20 +313,16 @@
         <mark key="." line="4" column="28" />
         <mark key="^" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/packages/api/database/migrations/20180522133535_quickDataTables.ts" timestamp="1530749484544">
-        <mark key="[" line="27" column="14" />
-        <mark key="]" line="27" column="27" />
-      </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/api/index.ts" timestamp="1530488093652">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/dealer/index.ts" timestamp="1530808806471">
+      <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/dealer/index.ts" timestamp="1530815497792">
         <mark key="'" line="208" column="0" />
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
+        <mark key="[" line="228" column="0" />
+        <mark key="]" line="228" column="0" />
+        <mark key="." line="228" column="0" />
         <mark key="^" line="7" column="61" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/.automprc" timestamp="1529588570399">
@@ -342,11 +344,10 @@
         <mark key="." line="35" column="45" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/api/database/migrations/20180620113944_dealersTable.js" timestamp="1530808721486" />
-      <file name="$USER_HOME$/dev/repos/joyride-etl/docker-compose.yml" timestamp="1530803999710">
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="13" column="25" />
-        <mark key="." line="13" column="25" />
-        <mark key="^" line="13" column="25" />
+      <file name="$USER_HOME$/dev/repos/joyride-etl/docker-compose.yml" timestamp="1530815623290">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/csv/index.ts" timestamp="1530751602439">
         <mark key="[" line="2" column="32" />
@@ -518,6 +519,7 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/custombodytypes/bodyTypeInference.js" timestamp="1530816657172" />
     </filemarks>
     <jumps>
       <jump line="4" column="0" filename="$USER_HOME$/dev/repos/core-api/src/core-api/graphql.ts" />
@@ -622,47 +624,47 @@
       <jump line="28" column="0" filename="$USER_HOME$/dev/repos/joyride-etl/bin/joyride-etl.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAub3B0aW9uKCctLXNraXAtZ29vZ2xlLW1hcHMnLCAnU2tpcCBHb29nbGUgbWFwcyBBUEkgc2NyYXBpbmcnKQo=</text>
+      <register name="&quot;" type="4">
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>skipGoogleMaps</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>skipGoogleMaps</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGdvdCA9IHJlcXVpcmUoImdvdCIpOwo=</text>
+        <text encoding="base64">ICAgIGV4cGVjdChyZXN1bHQuU1VWLmN1bXVsYXRpdmVXZWlnaHQpLnRvLmJlLmVxMTYoCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAub3B0aW9uKCctLXNraXAtZ29vZ2xlLW1hcHMnLCAnU2tpcCBHb29nbGUgbWFwcyBBUEkgc2NyYXBpbmcnKQo=</text>
+        <text encoding="base64">IyAgICAgIC0gLS1za2lwLWdvb2dsZS1tYXBzCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHJlYWRvbmx5IHNraXBHb29nbGVNYXBzOiBib29sZWFuOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLnNraXBHb29nbGVNYXBzKSB7CiAgICAgIHJldHVybiBjYihudWxsLCBkZWFsZXIpOwogICAgfQoK</text>
+        <text encoding="base64">ICAub3B0aW9uKCctLXNraXAtZ29vZ2xlLW1hcHMnLCAnU2tpcCBHb29nbGUgbWFwcyBBUEkgc2NyYXBpbmcnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2tpcEdvb2dsZU1hcHMgPSBza2lwR29vZ2xlTWFwczsK</text>
+        <text encoding="base64">ICBwcml2YXRlIHJlYWRvbmx5IHNraXBHb29nbGVNYXBzOiBib29sZWFuOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBza2lwR29vZ2xlTWFwczogYm9vbGVhbjsK</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLnNraXBHb29nbGVNYXBzKSB7CiAgICAgIHJldHVybiBjYihudWxsLCBkZWFsZXIpOwogICAgfQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSUxpY2VuY2VQbGF0ZVJlcG9zaXRvcnksIExpY2VuY2VQbGF0ZVJlc3BvbnNlIH0gZnJvbSAiLi4vLi4vbW9kZWxzL3R5cGVzIjsK</text>
+        <text encoding="base64">ICAgIHRoaXMuc2tpcEdvb2dsZU1hcHMgPSBza2lwR29vZ2xlTWFwczsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgZ290IGZyb20gImdvdCI7Cg==</text>
+        <text encoding="base64">ICBza2lwR29vZ2xlTWFwczogYm9vbGVhbjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGdvdCA9IHJlcXVpcmUoImdvdCIpOwoKCmV4cG9ydCBjbGFzcyBDYXJwcm9vZkNsaWVudCB7CiAgcHJpdmF0ZSBjdXJyZW50QWNjZXNzVG9rZW46IHN0cmluZzsKICBwcml2YXRlIHJlZnJlc2hUaW1lb3V0SGFuZGxlOiBudW1iZXI7CiAgcHJpdmF0ZSBUT0tFTl9WQUxJRElUWV9QRVJJT0Q6IG51bWJlcjsKICBwcml2YXRlIFRPS0VOX0ZFVENIX1JFVFJZX1BFUklPRDogbnVtYmVyOwoKICBjb25zdHJ1Y3RvcigKICAgIHByaXZhdGUgcmVhZG9ubHkgbG9nZ2VyLAogICAgcHJpdmF0ZSByZWFkb25seSBjb25maWcsCiAgICB0cmlnZ2VyVG9rZW5SZXRyaWV2YWwgPSB0cnVlCiAgKSB7CiAgICB0aGlzLmN1cnJlbnRBY2Nlc3NUb2tlbiA9IG51bGw7CgogICAgLy8gVG9rZW5zIHdpbGwgYmVjb21lIGludmFsaWQgaW4gYXBwcm94aW1hdGVseSAxIGhvdXIuIFdlJ2xsIHJlZnJlc2ggdGhlbSBldmVyeSA1NSBtaW51dGVzLgogICAgdGhpcy5UT0tFTl9WQUxJRElUWV9QRVJJT0QgPSB0aGlzLmNvbmZpZy50b2tlblZhbGlkaXR5UGVyaW9kSW5NaW51dGVzICogNjAgKiAxMDAwOwoKICAgIC8vIFJldHJ5IGluIDEwIHNlY3MgaW4gY2FzZSB3ZSByZWNlaXZlIGFuIGVycm9yIGZyb20gY2FycHJvb2YuCiAgICB0aGlzLlRPS0VOX0ZFVENIX1JFVFJZX1BFUklPRCA9IHRoaXMuY29uZmlnLnRva2VuUmV0cmlldmFsUmV0cnlQZXJpb2RJblNlY29uZHMgKiAxMDAwOwoKICAgIGlmICh0cmlnZ2VyVG9rZW5SZXRyaWV2YWwpIHsKICAgICAgdGhpcy50cmlnZ2VyUGVyaW9kaWNUb2tlblJldHJpZXZhbCgpOwogICAgfQogIH0KCiAgcHVibGljIGdldEFjY2Vzc1Rva2VuKCkgewogICAgaWYgKCFCb29sZWFuKHRoaXMuY3VycmVudEFjY2Vzc1Rva2VuKSkgewogICAgICB0aHJvdyBuZXcgRXJyb3IoIkFjY2VzcyB0b2tlbiB1bmF2YWlsYWJsZS4iKTsKICAgIH0KCiAgICByZXR1cm4gdGhpcy5jdXJyZW50QWNjZXNzVG9rZW47CiAgfQoKCiAgcHJvdGVjdGVkIGNvbnN0cnVjdFRva2VuQXV0aFN0cmluZygpOiBzdHJpbmcgewogICAgY29uc3QgeyBsb2dpbiB9ID0gdGhpcy5jb25maWc7CgogICAgY29uc3QgbG9naW5DcmVkZW50aWFscyA9IG5ldyBCdWZmZXIobG9naW4udXNlciArICI6IiArIGxvZ2luLnBhc3N3b3JkKS50b1N0cmluZygiYmFzZTY0Iik7CiAgICByZXR1cm4gYEJhc2ljICR7bG9naW5DcmVkZW50aWFsc31gOwogIH0KCiAgcHJvdGVjdGVkIGZldGNoQWNjZXNzVG9rZW5Gcm9tQ2FycHJvb2YoKSB7CiAgICByZXR1cm4gZ290KHRoaXMuY29uZmlnLnRva2VuRW5kcG9pbnQsIHsKICAgICAgaGVhZGVyczogewogICAgICAgIEF1dGhvcml6YXRpb246IHRoaXMuY29uc3RydWN0VG9rZW5BdXRoU3RyaW5nKCkKICAgICAgfSwKICAgICAgdGltZW91dDogdGhpcy5jb25maWcudG9rZW5FbmRwb2ludENhbGxUaW1lb3V0SW5NaWxsaXNlY29uZHMKICAgIH0pOwogIH0KCiAgcHJvdGVjdGVkIHNjaGVkdWxlVG9rZW5SZXRyaWV2YWxUcmlnZ2VyKGFtb3VudCk6IHZvaWQgewogICAgdGhpcy5yZWZyZXNoVGltZW91dEhhbmRsZSA9IHNldFRpbWVvdXQodGhpcy50cmlnZ2VyUGVyaW9kaWNUb2tlblJldHJpZXZhbC5iaW5kKHRoaXMpLCBhbW91bnQpOwogIH0KCiAgcHJvdGVjdGVkIGFzeW5jIHRyaWdnZXJQZXJpb2RpY1Rva2VuUmV0cmlldmFsKCkgewogICAgdHJ5IHsKICAgICAgY29uc3QgYWNjZXNzVG9rZW5SZXRyaWV2YWxQcm9taXNlID0gdGhpcy5mZXRjaEFjY2Vzc1Rva2VuRnJvbUNhcnByb29mKCk7CgogICAgICBjb25zdCB0b2tlblJlc3BvbnNlID0gYXdhaXQgYWNjZXNzVG9rZW5SZXRyaWV2YWxQcm9taXNlOwoKICAgICAgaWYgKHRva2VuUmVzcG9uc2Uuc3RhdHVzQ29kZSA9PT0gMjAwKSB7CiAgICAgICAgdGhpcy5jdXJyZW50QWNjZXNzVG9rZW4gPSB0b2tlblJlc3BvbnNlLmJvZHkucmVwbGFjZSgvIi9nLCAiIik7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgdGhyb3cgbmV3IEVycm9yKEpTT04uc3RyaW5naWZ5KHsgdW5leHBlY3RlZENhcnByb29mVG9rZW5TdGF0dXNDb2RlOiB0b2tlblJlc3BvbnNlLnN0YXR1c0NvZGUgfSkpOwogICAgICB9CgogICAgICB0aGlzLnNjaGVkdWxlVG9rZW5SZXRyaWV2YWxUcmlnZ2VyKHRoaXMuVE9LRU5fVkFMSURJVFlfUEVSSU9EKTsKCiAgICAgIHRoaXMubG9nZ2VyLmluZm8oIlJldHJpZXZlZCAmIG1lbW9yaXplZCBjYXJwcm9vZiB0b2tlbi4iKTsKICAgIH0gY2F0Y2ggKGV4KSB7CiAgICAgIHRoaXMubG9nZ2VyLmVycm9yKGBFcnJvciBkdXJpbmcgY2FycHJvb2YgdG9rZW4gcmV0cmlldmFsIDogJHtleH1gKTsKICAgICAgdGhpcy5zY2hlZHVsZVRva2VuUmV0cmlldmFsVHJpZ2dlcih0aGlzLlRPS0VOX0ZFVENIX1JFVFJZX1BFUklPRCk7CiAgICB9CiAgfQp9CgoK</text>
+        <text encoding="base64">aW1wb3J0IHsgSUxpY2VuY2VQbGF0ZVJlcG9zaXRvcnksIExpY2VuY2VQbGF0ZVJlc3BvbnNlIH0gZnJvbSAiLi4vLi4vbW9kZWxzL3R5cGVzIjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgUiBmcm9tICJyYW1kYSI7CmltcG9ydCB7IElMaWNlbmNlUGxhdGVSZXBvc2l0b3J5LCBMaWNlbmNlUGxhdGVSZXNwb25zZSB9IGZyb20gIi4uLy4uL21vZGVscy90eXBlcyI7Cg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgZ290IGZyb20gImdvdCI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -701,7 +703,6 @@
         <entry>skipGoogleMaps</entry>
       </history-search>
       <history-cmd>
-        <entry>25</entry>
         <entry>8</entry>
         <entry>23</entry>
         <entry>10</entry>
@@ -720,6 +721,7 @@
         <entry>2</entry>
         <entry>1</entry>
         <entry>0</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
