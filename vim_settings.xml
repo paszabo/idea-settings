@@ -109,7 +109,7 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-etl/bin/seed-db" timestamp="1530751061070">
+      <file name="$USER_HOME$/dev/repos/joyride-etl/bin/seed-db" timestamp="1530808618413">
         <mark key="'" line="8" column="16" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -193,6 +193,12 @@
         <mark key="." line="12" column="18" />
         <mark key="^" line="12" column="18" />
       </file>
+      <file name="$USER_HOME$/dev/repos/joyride-etl/bin/seed-db.sh" timestamp="1530738093058">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/settings/settings.ts" timestamp="1530214334669">
         <mark key="[" line="2" column="81" />
         <mark key="]" line="2" column="81" />
@@ -217,11 +223,11 @@
         <mark key="^" line="3" column="18" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-etl/bin/joyride-etl.ts" timestamp="1530744426604">
-        <mark key="[" line="28" column="18" />
-        <mark key="]" line="28" column="24" />
-        <mark key="^" line="28" column="24" />
-        <mark key="." line="28" column="24" />
+      <file name="$USER_HOME$/dev/repos/joyride-etl/bin/joyride-etl.ts" timestamp="1530808830624">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/api/services/chrome/parsers/types.ts" timestamp="1530501548019">
         <mark key="[" line="6" column="0" />
@@ -310,11 +316,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/dealer/index.ts" timestamp="1530753850095">
-        <mark key="'" line="198" column="13" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/dealer/index.ts" timestamp="1530808806471">
+        <mark key="'" line="208" column="0" />
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
         <mark key="^" line="7" column="61" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/.automprc" timestamp="1529588570399">
@@ -335,6 +341,7 @@
         <mark key="^" line="35" column="45" />
         <mark key="." line="35" column="45" />
       </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/packages/api/database/migrations/20180620113944_dealersTable.js" timestamp="1530808721486" />
       <file name="$USER_HOME$/dev/repos/joyride-etl/docker-compose.yml" timestamp="1530803999710">
         <mark key="[" line="12" column="17" />
         <mark key="]" line="13" column="25" />
@@ -513,10 +520,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="25" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/repos/core-api/src/core-api/models/model.ts" />
-      <jump line="6" column="8" filename="$USER_HOME$/dev/repos/core-api/src/core-api/models/model.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/joyride-server/.dockerignore" />
       <jump line="4" column="0" filename="$USER_HOME$/dev/repos/core-api/src/core-api/graphql.ts" />
       <jump line="14" column="0" filename="$USER_HOME$/dev/repos/core-api/src/core-api/endpoints/endpoint.ts" />
       <jump line="95" column="0" filename="$USER_HOME$/dev/repos/core-api/src/core-api/endpoints/endpoint.ts" />
@@ -613,58 +616,62 @@
       <jump line="86" column="15" filename="$USER_HOME$/dev/repos/automp-be/packages/api/services/carproof/index.ts" />
       <jump line="81" column="15" filename="$USER_HOME$/dev/repos/automp-be/packages/api/services/carproof/index.ts" />
       <jump line="2" column="27" filename="$USER_HOME$/dev/repos/automp-be/packages/api/services/carproof/index.ts" />
+      <jump line="115" column="68" filename="$USER_HOME$/dev/repos/joyride-etl/src/lib/dealer/index.ts" />
+      <jump line="121" column="0" filename="$USER_HOME$/dev/repos/joyride-etl/src/lib/dealer/index.ts" />
+      <jump line="209" column="0" filename="$USER_HOME$/dev/repos/joyride-etl/src/lib/dealer/index.ts" />
+      <jump line="28" column="0" filename="$USER_HOME$/dev/repos/joyride-etl/bin/joyride-etl.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSUxpY2VuY2VQbGF0ZVJlcG9zaXRvcnksIExpY2VuY2VQbGF0ZVJlc3BvbnNlIH0gZnJvbSAiLi4vLi4vbW9kZWxzL3R5cGVzIjsK</text>
+        <text encoding="base64">ICAub3B0aW9uKCctLXNraXAtZ29vZ2xlLW1hcHMnLCAnU2tpcCBHb29nbGUgbWFwcyBBUEkgc2NyYXBpbmcnKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>skipGoogleMaps</text>
       </register>
       <register name="/" type="4">
-        <text>this.config</text>
+        <text>skipGoogleMaps</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGdvdCA9IHJlcXVpcmUoImdvdCIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSUxpY2VuY2VQbGF0ZVJlcG9zaXRvcnksIExpY2VuY2VQbGF0ZVJlc3BvbnNlIH0gZnJvbSAiLi4vLi4vbW9kZWxzL3R5cGVzIjsK</text>
+        <text encoding="base64">ICAub3B0aW9uKCctLXNraXAtZ29vZ2xlLW1hcHMnLCAnU2tpcCBHb29nbGUgbWFwcyBBUEkgc2NyYXBpbmcnKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgZ290IGZyb20gImdvdCI7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHJlYWRvbmx5IHNraXBHb29nbGVNYXBzOiBib29sZWFuOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGdvdCA9IHJlcXVpcmUoImdvdCIpOwoKCmV4cG9ydCBjbGFzcyBDYXJwcm9vZkNsaWVudCB7CiAgcHJpdmF0ZSBjdXJyZW50QWNjZXNzVG9rZW46IHN0cmluZzsKICBwcml2YXRlIHJlZnJlc2hUaW1lb3V0SGFuZGxlOiBudW1iZXI7CiAgcHJpdmF0ZSBUT0tFTl9WQUxJRElUWV9QRVJJT0Q6IG51bWJlcjsKICBwcml2YXRlIFRPS0VOX0ZFVENIX1JFVFJZX1BFUklPRDogbnVtYmVyOwoKICBjb25zdHJ1Y3RvcigKICAgIHByaXZhdGUgcmVhZG9ubHkgbG9nZ2VyLAogICAgcHJpdmF0ZSByZWFkb25seSBjb25maWcsCiAgICB0cmlnZ2VyVG9rZW5SZXRyaWV2YWwgPSB0cnVlCiAgKSB7CiAgICB0aGlzLmN1cnJlbnRBY2Nlc3NUb2tlbiA9IG51bGw7CgogICAgLy8gVG9rZW5zIHdpbGwgYmVjb21lIGludmFsaWQgaW4gYXBwcm94aW1hdGVseSAxIGhvdXIuIFdlJ2xsIHJlZnJlc2ggdGhlbSBldmVyeSA1NSBtaW51dGVzLgogICAgdGhpcy5UT0tFTl9WQUxJRElUWV9QRVJJT0QgPSB0aGlzLmNvbmZpZy50b2tlblZhbGlkaXR5UGVyaW9kSW5NaW51dGVzICogNjAgKiAxMDAwOwoKICAgIC8vIFJldHJ5IGluIDEwIHNlY3MgaW4gY2FzZSB3ZSByZWNlaXZlIGFuIGVycm9yIGZyb20gY2FycHJvb2YuCiAgICB0aGlzLlRPS0VOX0ZFVENIX1JFVFJZX1BFUklPRCA9IHRoaXMuY29uZmlnLnRva2VuUmV0cmlldmFsUmV0cnlQZXJpb2RJblNlY29uZHMgKiAxMDAwOwoKICAgIGlmICh0cmlnZ2VyVG9rZW5SZXRyaWV2YWwpIHsKICAgICAgdGhpcy50cmlnZ2VyUGVyaW9kaWNUb2tlblJldHJpZXZhbCgpOwogICAgfQogIH0KCiAgcHVibGljIGdldEFjY2Vzc1Rva2VuKCkgewogICAgaWYgKCFCb29sZWFuKHRoaXMuY3VycmVudEFjY2Vzc1Rva2VuKSkgewogICAgICB0aHJvdyBuZXcgRXJyb3IoIkFjY2VzcyB0b2tlbiB1bmF2YWlsYWJsZS4iKTsKICAgIH0KCiAgICByZXR1cm4gdGhpcy5jdXJyZW50QWNjZXNzVG9rZW47CiAgfQoKCiAgcHJvdGVjdGVkIGNvbnN0cnVjdFRva2VuQXV0aFN0cmluZygpOiBzdHJpbmcgewogICAgY29uc3QgeyBsb2dpbiB9ID0gdGhpcy5jb25maWc7CgogICAgY29uc3QgbG9naW5DcmVkZW50aWFscyA9IG5ldyBCdWZmZXIobG9naW4udXNlciArICI6IiArIGxvZ2luLnBhc3N3b3JkKS50b1N0cmluZygiYmFzZTY0Iik7CiAgICByZXR1cm4gYEJhc2ljICR7bG9naW5DcmVkZW50aWFsc31gOwogIH0KCiAgcHJvdGVjdGVkIGZldGNoQWNjZXNzVG9rZW5Gcm9tQ2FycHJvb2YoKSB7CiAgICByZXR1cm4gZ290KHRoaXMuY29uZmlnLnRva2VuRW5kcG9pbnQsIHsKICAgICAgaGVhZGVyczogewogICAgICAgIEF1dGhvcml6YXRpb246IHRoaXMuY29uc3RydWN0VG9rZW5BdXRoU3RyaW5nKCkKICAgICAgfSwKICAgICAgdGltZW91dDogdGhpcy5jb25maWcudG9rZW5FbmRwb2ludENhbGxUaW1lb3V0SW5NaWxsaXNlY29uZHMKICAgIH0pOwogIH0KCiAgcHJvdGVjdGVkIHNjaGVkdWxlVG9rZW5SZXRyaWV2YWxUcmlnZ2VyKGFtb3VudCk6IHZvaWQgewogICAgdGhpcy5yZWZyZXNoVGltZW91dEhhbmRsZSA9IHNldFRpbWVvdXQodGhpcy50cmlnZ2VyUGVyaW9kaWNUb2tlblJldHJpZXZhbC5iaW5kKHRoaXMpLCBhbW91bnQpOwogIH0KCiAgcHJvdGVjdGVkIGFzeW5jIHRyaWdnZXJQZXJpb2RpY1Rva2VuUmV0cmlldmFsKCkgewogICAgdHJ5IHsKICAgICAgY29uc3QgYWNjZXNzVG9rZW5SZXRyaWV2YWxQcm9taXNlID0gdGhpcy5mZXRjaEFjY2Vzc1Rva2VuRnJvbUNhcnByb29mKCk7CgogICAgICBjb25zdCB0b2tlblJlc3BvbnNlID0gYXdhaXQgYWNjZXNzVG9rZW5SZXRyaWV2YWxQcm9taXNlOwoKICAgICAgaWYgKHRva2VuUmVzcG9uc2Uuc3RhdHVzQ29kZSA9PT0gMjAwKSB7CiAgICAgICAgdGhpcy5jdXJyZW50QWNjZXNzVG9rZW4gPSB0b2tlblJlc3BvbnNlLmJvZHkucmVwbGFjZSgvIi9nLCAiIik7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgdGhyb3cgbmV3IEVycm9yKEpTT04uc3RyaW5naWZ5KHsgdW5leHBlY3RlZENhcnByb29mVG9rZW5TdGF0dXNDb2RlOiB0b2tlblJlc3BvbnNlLnN0YXR1c0NvZGUgfSkpOwogICAgICB9CgogICAgICB0aGlzLnNjaGVkdWxlVG9rZW5SZXRyaWV2YWxUcmlnZ2VyKHRoaXMuVE9LRU5fVkFMSURJVFlfUEVSSU9EKTsKCiAgICAgIHRoaXMubG9nZ2VyLmluZm8oIlJldHJpZXZlZCAmIG1lbW9yaXplZCBjYXJwcm9vZiB0b2tlbi4iKTsKICAgIH0gY2F0Y2ggKGV4KSB7CiAgICAgIHRoaXMubG9nZ2VyLmVycm9yKGBFcnJvciBkdXJpbmcgY2FycHJvb2YgdG9rZW4gcmV0cmlldmFsIDogJHtleH1gKTsKICAgICAgdGhpcy5zY2hlZHVsZVRva2VuUmV0cmlldmFsVHJpZ2dlcih0aGlzLlRPS0VOX0ZFVENIX1JFVFJZX1BFUklPRCk7CiAgICB9CiAgfQp9CgoK</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLnNraXBHb29nbGVNYXBzKSB7CiAgICAgIHJldHVybiBjYihudWxsLCBkZWFsZXIpOwogICAgfQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgUiBmcm9tICJyYW1kYSI7CmltcG9ydCB7IElMaWNlbmNlUGxhdGVSZXBvc2l0b3J5LCBMaWNlbmNlUGxhdGVSZXNwb25zZSB9IGZyb20gIi4uLy4uL21vZGVscy90eXBlcyI7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2tpcEdvb2dsZU1hcHMgPSBza2lwR29vZ2xlTWFwczsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cAo=</text>
+        <text encoding="base64">ICBza2lwR29vZ2xlTWFwczogYm9vbGVhbjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGNsYXNzIENhcnByb29mIGltcGxlbWVudHMgSUxpY2VuY2VQbGF0ZVJlcG9zaXRvcnkgewogIHByb3RlY3RlZCBzdGF0aWMgY2FycHJvb2ZUb0xpY2VuY2VQbGF0ZVJlc3BvbnNlOiAob2JqZWN0KSA9PiBMaWNlbmNlUGxhdGVSZXNwb25zZSA9IFIudHJ5Q2F0Y2goCiAgICBSLnBpcGUoCiAgICAgIFIucHJvcCgiYm9keSIpLAogICAgICBKU09OLnBhcnNlLAogICAgICBSLnByb3AoIlZlaGljbGUiKSwKICAgICAgUi5hcHBseVNwZWMoewogICAgICAgIHZpbjogUi5wcm9wKCJWSU4iKSwKICAgICAgICB0cmltOiBSLnByb3AoIlRyaW0iKQogICAgICB9KQogICAgKSwKICAgIFIuYWx3YXlzKHsKICAgICAgdmluOiBudWxsLAogICAgICB0cmltOiAiIgogICAgfSkKICApOwoKICBwcml2YXRlIHJlYWRvbmx5IGNvbmZpZzsKICBwcml2YXRlIHJlYWRvbmx5IGNhcnByb29mQ2xpZW50OiBDYXJwcm9vZkNsaWVudDsKCiAgY29uc3RydWN0b3IocHJpdmF0ZSByZWFkb25seSBsb2dnZXIsIGNhcnByb29mQ29uZmlnLCB0cmlnZ2VyVG9rZW5SZXRyaWV2YWwgPSB0cnVlKSB7CiAgICB0aGlzLmNvbmZpZyA9IGNhcnByb29mQ29uZmlnOwogICAgdGhpcy5jYXJwcm9vZkNsaWVudCA9IG5ldyBDYXJwcm9vZkNsaWVudCh0aGlzLmxvZ2dlciwgdGhpcy5jb25maWcsIHRyaWdnZXJUb2tlblJldHJpZXZhbCk7CiAgfQoKICBwdWJsaWMgYXN5bmMgZmV0Y2hMaWNlbmNlUGxhdGUoeyBsaWNlbmNlUGxhdGUsIHByb3ZpbmNlIH0pOiBQcm9taXNlPExpY2VuY2VQbGF0ZVJlc3BvbnNlPiB7CiAgICBjb25zdCB0b2tlbiA9IHRoaXMuY2FycHJvb2ZDbGllbnQuZ2V0QWNjZXNzVG9rZW4oKTsKCiAgICByZXR1cm4gdGhpcy5zZW5kTGljZW5jZVBsYXRlUmVxdWVzdFRvQ2FycHJvb2YoewogICAgICB0b2tlbiwKICAgICAgbGljZW5jZVBsYXRlLAogICAgICByZWdpb246IHByb3ZpbmNlCiAgICB9KS50aGVuKChyZXNwKSA9PiBDYXJwcm9vZi5jYXJwcm9vZlRvTGljZW5jZVBsYXRlUmVzcG9uc2UocmVzcCkpOwogIH0KCiAgcHJvdGVjdGVkIHNlbmRMaWNlbmNlUGxhdGVSZXF1ZXN0VG9DYXJwcm9vZih7IHRva2VuLCBsaWNlbmNlUGxhdGUsIHJlZ2lvbiB9KSB7CiAgICBjb25zdCBmaW5hbFVybCA9IGAke3RoaXMuY29uZmlnLmxpY2Vuc2VQbGF0ZUVuZHBvaW50fT9MaWNlbnNlUGxhdGU9JHtsaWNlbmNlUGxhdGV9JlByb3ZpbmNlPSR7cmVnaW9ufWA7CgogICAgcmV0dXJuIGdvdChmaW5hbFVybCwgewogICAgICBoZWFkZXJzOiB7CiAgICAgICAgd2Vic2VydmljZXRva2VuOiB0b2tlbiwKICAgICAgICBhY2NlcHQ6ICIqLyoiLAogICAgICAgICJjYWNoZS1jb250cm9sIjogIm5vLWNhY2hlIgogICAgICB9LAogICAgICB0aW1lb3V0OiB0aGlzLmNvbmZpZy5saWNlbnNlUGxhdGVDYWxsVGltZW91dEluTWlsbGlzZWNvbmRzCiAgICB9KTsKICB9Cn0K</text>
+        <text encoding="base64">aW1wb3J0IHsgSUxpY2VuY2VQbGF0ZVJlcG9zaXRvcnksIExpY2VuY2VQbGF0ZVJlc3BvbnNlIH0gZnJvbSAiLi4vLi4vbW9kZWxzL3R5cGVzIjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgZ290IGZyb20gImdvdCI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMubG9nZ2VyID0gbG9nZ2VyOwo=</text>
+        <text encoding="base64">aW1wb3J0IGdvdCA9IHJlcXVpcmUoImdvdCIpOwoKCmV4cG9ydCBjbGFzcyBDYXJwcm9vZkNsaWVudCB7CiAgcHJpdmF0ZSBjdXJyZW50QWNjZXNzVG9rZW46IHN0cmluZzsKICBwcml2YXRlIHJlZnJlc2hUaW1lb3V0SGFuZGxlOiBudW1iZXI7CiAgcHJpdmF0ZSBUT0tFTl9WQUxJRElUWV9QRVJJT0Q6IG51bWJlcjsKICBwcml2YXRlIFRPS0VOX0ZFVENIX1JFVFJZX1BFUklPRDogbnVtYmVyOwoKICBjb25zdHJ1Y3RvcigKICAgIHByaXZhdGUgcmVhZG9ubHkgbG9nZ2VyLAogICAgcHJpdmF0ZSByZWFkb25seSBjb25maWcsCiAgICB0cmlnZ2VyVG9rZW5SZXRyaWV2YWwgPSB0cnVlCiAgKSB7CiAgICB0aGlzLmN1cnJlbnRBY2Nlc3NUb2tlbiA9IG51bGw7CgogICAgLy8gVG9rZW5zIHdpbGwgYmVjb21lIGludmFsaWQgaW4gYXBwcm94aW1hdGVseSAxIGhvdXIuIFdlJ2xsIHJlZnJlc2ggdGhlbSBldmVyeSA1NSBtaW51dGVzLgogICAgdGhpcy5UT0tFTl9WQUxJRElUWV9QRVJJT0QgPSB0aGlzLmNvbmZpZy50b2tlblZhbGlkaXR5UGVyaW9kSW5NaW51dGVzICogNjAgKiAxMDAwOwoKICAgIC8vIFJldHJ5IGluIDEwIHNlY3MgaW4gY2FzZSB3ZSByZWNlaXZlIGFuIGVycm9yIGZyb20gY2FycHJvb2YuCiAgICB0aGlzLlRPS0VOX0ZFVENIX1JFVFJZX1BFUklPRCA9IHRoaXMuY29uZmlnLnRva2VuUmV0cmlldmFsUmV0cnlQZXJpb2RJblNlY29uZHMgKiAxMDAwOwoKICAgIGlmICh0cmlnZ2VyVG9rZW5SZXRyaWV2YWwpIHsKICAgICAgdGhpcy50cmlnZ2VyUGVyaW9kaWNUb2tlblJldHJpZXZhbCgpOwogICAgfQogIH0KCiAgcHVibGljIGdldEFjY2Vzc1Rva2VuKCkgewogICAgaWYgKCFCb29sZWFuKHRoaXMuY3VycmVudEFjY2Vzc1Rva2VuKSkgewogICAgICB0aHJvdyBuZXcgRXJyb3IoIkFjY2VzcyB0b2tlbiB1bmF2YWlsYWJsZS4iKTsKICAgIH0KCiAgICByZXR1cm4gdGhpcy5jdXJyZW50QWNjZXNzVG9rZW47CiAgfQoKCiAgcHJvdGVjdGVkIGNvbnN0cnVjdFRva2VuQXV0aFN0cmluZygpOiBzdHJpbmcgewogICAgY29uc3QgeyBsb2dpbiB9ID0gdGhpcy5jb25maWc7CgogICAgY29uc3QgbG9naW5DcmVkZW50aWFscyA9IG5ldyBCdWZmZXIobG9naW4udXNlciArICI6IiArIGxvZ2luLnBhc3N3b3JkKS50b1N0cmluZygiYmFzZTY0Iik7CiAgICByZXR1cm4gYEJhc2ljICR7bG9naW5DcmVkZW50aWFsc31gOwogIH0KCiAgcHJvdGVjdGVkIGZldGNoQWNjZXNzVG9rZW5Gcm9tQ2FycHJvb2YoKSB7CiAgICByZXR1cm4gZ290KHRoaXMuY29uZmlnLnRva2VuRW5kcG9pbnQsIHsKICAgICAgaGVhZGVyczogewogICAgICAgIEF1dGhvcml6YXRpb246IHRoaXMuY29uc3RydWN0VG9rZW5BdXRoU3RyaW5nKCkKICAgICAgfSwKICAgICAgdGltZW91dDogdGhpcy5jb25maWcudG9rZW5FbmRwb2ludENhbGxUaW1lb3V0SW5NaWxsaXNlY29uZHMKICAgIH0pOwogIH0KCiAgcHJvdGVjdGVkIHNjaGVkdWxlVG9rZW5SZXRyaWV2YWxUcmlnZ2VyKGFtb3VudCk6IHZvaWQgewogICAgdGhpcy5yZWZyZXNoVGltZW91dEhhbmRsZSA9IHNldFRpbWVvdXQodGhpcy50cmlnZ2VyUGVyaW9kaWNUb2tlblJldHJpZXZhbC5iaW5kKHRoaXMpLCBhbW91bnQpOwogIH0KCiAgcHJvdGVjdGVkIGFzeW5jIHRyaWdnZXJQZXJpb2RpY1Rva2VuUmV0cmlldmFsKCkgewogICAgdHJ5IHsKICAgICAgY29uc3QgYWNjZXNzVG9rZW5SZXRyaWV2YWxQcm9taXNlID0gdGhpcy5mZXRjaEFjY2Vzc1Rva2VuRnJvbUNhcnByb29mKCk7CgogICAgICBjb25zdCB0b2tlblJlc3BvbnNlID0gYXdhaXQgYWNjZXNzVG9rZW5SZXRyaWV2YWxQcm9taXNlOwoKICAgICAgaWYgKHRva2VuUmVzcG9uc2Uuc3RhdHVzQ29kZSA9PT0gMjAwKSB7CiAgICAgICAgdGhpcy5jdXJyZW50QWNjZXNzVG9rZW4gPSB0b2tlblJlc3BvbnNlLmJvZHkucmVwbGFjZSgvIi9nLCAiIik7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgdGhyb3cgbmV3IEVycm9yKEpTT04uc3RyaW5naWZ5KHsgdW5leHBlY3RlZENhcnByb29mVG9rZW5TdGF0dXNDb2RlOiB0b2tlblJlc3BvbnNlLnN0YXR1c0NvZGUgfSkpOwogICAgICB9CgogICAgICB0aGlzLnNjaGVkdWxlVG9rZW5SZXRyaWV2YWxUcmlnZ2VyKHRoaXMuVE9LRU5fVkFMSURJVFlfUEVSSU9EKTsKCiAgICAgIHRoaXMubG9nZ2VyLmluZm8oIlJldHJpZXZlZCAmIG1lbW9yaXplZCBjYXJwcm9vZiB0b2tlbi4iKTsKICAgIH0gY2F0Y2ggKGV4KSB7CiAgICAgIHRoaXMubG9nZ2VyLmVycm9yKGBFcnJvciBkdXJpbmcgY2FycHJvb2YgdG9rZW4gcmV0cmlldmFsIDogJHtleH1gKTsKICAgICAgdGhpcy5zY2hlZHVsZVRva2VuUmV0cmlldmFsVHJpZ2dlcih0aGlzLlRPS0VOX0ZFVENIX1JFVFJZX1BFUklPRCk7CiAgICB9CiAgfQp9CgoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGxvZ2dlcjsK</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgUiBmcm9tICJyYW1kYSI7CmltcG9ydCB7IElMaWNlbmNlUGxhdGVSZXBvc2l0b3J5LCBMaWNlbmNlUGxhdGVSZXNwb25zZSB9IGZyb20gIi4uLy4uL21vZGVscy90eXBlcyI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>this.config</last-search>
+      <last-search>skipGoogleMaps</last-search>
       <last-offset />
-      <last-pattern>this.config</last-pattern>
+      <last-pattern>skipGoogleMaps</last-pattern>
       <last-replace>endpoint</last-replace>
       <last-substitute>view</last-substitute>
       <last-dir>1</last-dir>
@@ -672,7 +679,6 @@
     </search>
     <history>
       <history-search>
-        <entry>log</entry>
         <entry>from</entry>
         <entry>collect</entry>
         <entry>L</entry>
@@ -692,6 +698,7 @@
         <entry>0b112390</entry>
         <entry>JoyRideStyleID</entry>
         <entry>this.config</entry>
+        <entry>skipGoogleMaps</entry>
       </history-search>
       <history-cmd>
         <entry>25</entry>
