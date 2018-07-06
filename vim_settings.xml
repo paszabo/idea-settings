@@ -89,7 +89,13 @@
         <mark key="." line="8" column="28" />
         <mark key="^" line="0" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/config/index.ts" timestamp="1530905251154" />
+      <file name="$USER_HOME$/dev/repos/automp-be/config/index.ts" timestamp="1530906672040">
+        <mark key="'" line="7" column="38" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="54" column="9" />
+      </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/.joyride-etlrc.template" timestamp="1530728217636">
         <mark key="[" line="7" column="15" />
         <mark key="]" line="7" column="16" />
@@ -568,6 +574,13 @@
         <mark key="^" line="90" column="6" />
         <mark key="." line="90" column="6" />
       </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/config/database.ts" timestamp="1530906630796">
+        <mark key="'" line="0" column="6" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="0" column="6" />
+      </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/quickdata/alterations.js" timestamp="1530890506775">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -651,8 +664,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/dev/repos/automp-be/packages/api/server/routes/health.ts" />
-      <jump line="23" column="0" filename="$USER_HOME$/dev/repos/automp-be/packages/api/server/routes/health.ts" />
       <jump line="24" column="0" filename="$USER_HOME$/dev/repos/automp-be/packages/api/server/routes/health.ts" />
       <jump line="30" column="0" filename="$USER_HOME$/dev/repos/automp-be/packages/api/server/routes/health.ts" />
       <jump line="31" column="0" filename="$USER_HOME$/dev/repos/automp-be/packages/api/server/routes/health.ts" />
@@ -751,49 +762,69 @@
       <jump line="7" column="13" filename="$USER_HOME$/dev/repos/joyride-etl/src/lib/chromedata/index.ts" />
       <jump line="2" column="50" filename="$USER_HOME$/dev/repos/joyride-etl/src/test/lib/quickdata/alterations.ts" />
       <jump line="9" column="32" filename="$USER_HOME$/dev/repos/joyride-etl/src/cli.ts" />
+      <jump line="0" column="6" filename="$USER_HOME$/dev/repos/automp-be/config/database.ts" />
+      <jump line="7" column="38" filename="$USER_HOME$/dev/repos/automp-be/config/index.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text encoding="base64">Y29uc3QgRGJDb25maWcg</text>
       </register>
       <register name="/" type="4">
         <text>DealerDataRow</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZlcmJvc2UsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWZpbml0aW9ucywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlYWxlckZpbGU6IGRlYWxlckZpbGVzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2tpcEJvZHl0eXBlcywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHF1aWNrRGF0YUNvdW50cnksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkb0VsYXN0aWNHYwo=</text>
+      <register name="0" type="4">
+        <text>{
+    client: &quot;&quot;,
+    connection: {
+      database: &quot;&quot;,
+      user: &quot;&quot;,
+      password: &quot;&quot;
+    },
+    pool: {
+      min: 2,
+      max: 10
+    },
+    migrations: {
+      tableName: &quot;knex_migrations&quot;,
+      directory: &quot;./database/migrations&quot;
+    },
+    seeds: {
+      directory: &quot;./database/seeds&quot;
+    }
+  }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1hcCA9IHsKICAgIH07Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkYXRhYmFzZTogewogICAgY2xpZW50OiAiIiwKICAgIGNvbm5lY3Rpb246IHsKICAgICAgZGF0YWJhc2U6ICIiLAogICAgICB1c2VyOiAiIiwKICAgICAgcGFzc3dvcmQ6ICIiCiAgICB9LAogICAgcG9vbDogewogICAgICBtaW46IDIsCiAgICAgIG1heDogMTAKICAgIH0sCiAgICBtaWdyYXRpb25zOiB7CiAgICAgIHRhYmxlTmFtZTogImtuZXhfbWlncmF0aW9ucyIsCiAgICAgIGRpcmVjdG9yeTogIi4vZGF0YWJhc2UvbWlncmF0aW9ucyIKICAgIH0sCiAgICBzZWVkczogewogICAgICBkaXJlY3Rvcnk6ICIuL2RhdGFiYXNlL3NlZWRzIgogICAgfQogIH0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgUFE6ICdRQycsCiAgICAgIE1BOiAnTUInLAogICAgICBTQTogJ1NLJwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgRGJDb25maWc7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gY29uc3QgY29uZmlnID0gcmVxdWlyZSgnLi4vLi4vY29uZmlnJyk7Ci8vIGNvbnN0IGNyZWF0ZUNocm9tZUNsaWVudCA9IHJlcXVpcmUoJy4uL2Nocm9tZWRhdGEvY2xpZW50Jyk7Ci8vIGNvbnN0IGludmFyaWFudCA9IHJlcXVpcmUoJ2ludmFyaWFudCcpOwo=</text>
+        <text encoding="base64">ICAgIHBhc3N3b3JkOiAiIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gY29uc3QgeyBleHBlY3QgfSA9IHJlcXVpcmUoJy4uLy4uL3V0aWwnKTsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gY29uc3QgeyBzY29yZUJ5Q2FyUHJvcGVydHksIGluZmVyIH0gPSByZXF1aXJlKCcuLi8uLi8uLi9saWIvY3VzdG9tYm9keXR5cGVzL2JvZHlUeXBlSW5mZXJlbmNlJyk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wbwo=</text>
+        <text encoding="base64">ewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -832,17 +863,13 @@
         <entry>DealerDataRow</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz53</entry>
-        <entry>115</entry>
         <entry>9</entry>
         <entry>13</entry>
         <entry>21</entry>
         <entry>22</entry>
         <entry>63</entry>
         <entry>94</entry>
-        <entry>2</entry>
         <entry>18</entry>
-        <entry>1</entry>
         <entry>ew</entry>
         <entry>20</entry>
         <entry>45</entry>
@@ -851,6 +878,10 @@
         <entry encoding="base64">JzwsJz4=</entry>
         <entry>0</entry>
         <entry>3</entry>
+        <entry>2</entry>
+        <entry>1</entry>
+        <entry>31</entry>
+        <entry>54</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
