@@ -70,12 +70,20 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/dealer/dealer-loader.ts" timestamp="1530903533971">
+        <mark key="'" line="58" column="58" />
+        <mark key="[" line="82" column="72" />
+        <mark key="]" line="82" column="85" />
+        <mark key="^" line="82" column="85" />
+        <mark key="." line="82" column="85" />
+      </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/db.ts" timestamp="1530753629227">
         <mark key="[" line="8" column="28" />
         <mark key="]" line="8" column="28" />
         <mark key="." line="8" column="28" />
         <mark key="^" line="0" column="36" />
       </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/config/index.ts" timestamp="1530904135265" />
       <file name="$USER_HOME$/dev/repos/joyride-etl/.joyride-etlrc.template" timestamp="1530728217636">
         <mark key="[" line="7" column="15" />
         <mark key="]" line="7" column="16" />
@@ -320,7 +328,7 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-etl/src/cli.ts" timestamp="1530897212722">
+      <file name="$USER_HOME$/dev/repos/joyride-etl/src/cli.ts" timestamp="1530903146469">
         <mark key="'" line="9" column="32" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -391,7 +399,7 @@
         <mark key="^" line="2" column="20" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-etl/bin/joyride-etl.ts" timestamp="1530893030661">
+      <file name="$USER_HOME$/dev/repos/joyride-etl/bin/joyride-etl.ts" timestamp="1530904172429">
         <mark key="'" line="34" column="101" />
         <mark key="[" line="20" column="1" />
         <mark key="]" line="21" column="0" />
@@ -540,6 +548,13 @@
         <mark key="." line="1" column="49" />
         <mark key="^" line="1" column="49" />
       </file>
+      <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/elasticsearch/data.ts" timestamp="1530888512401">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="12" />
+        <mark key="." line="83" column="12" />
+        <mark key="^" line="83" column="12" />
+      </file>
       <file name="$USER_HOME$/dev/repos/api-generator/src/models/model.ts" timestamp="1529606004907">
         <mark key="[" line="90" column="0" />
         <mark key="]" line="90" column="6" />
@@ -595,6 +610,13 @@
         <mark key="^" line="2" column="59" />
         <mark key="." line="3" column="18" />
       </file>
+      <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/quickdata/constants.ts" timestamp="1530890670670">
+        <mark key="'" line="4" column="6" />
+        <mark key="[" line="17" column="35" />
+        <mark key="]" line="17" column="40" />
+        <mark key="." line="17" column="40" />
+        <mark key="^" line="17" column="40" />
+      </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/tsconfig.json" timestamp="1530888702245">
         <mark key="'" line="7" column="22" />
         <mark key="[" line="13" column="20" />
@@ -602,11 +624,11 @@
         <mark key="." line="13" column="26" />
         <mark key="^" line="13" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/dealer/constants.ts" timestamp="1530889525365">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="7" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="1" column="6" />
+      <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/dealer/constants.ts" timestamp="1530903488985">
+        <mark key="[" line="32" column="25" />
+        <mark key="]" line="32" column="25" />
+        <mark key="." line="32" column="25" />
+        <mark key="^" line="32" column="25" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/models/urlshortener/bll.ts" timestamp="1528327775165">
         <mark key="[" line="30" column="0" />
@@ -725,10 +747,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>run</text>
+        <text>createLoadLine</text>
       </register>
       <register name="-" type="4">
-        <text>run</text>
+        <text>createLoadLine</text>
       </register>
       <register name="/" type="4">
         <text>DealerDataRow</text>
@@ -737,34 +759,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZlcmJvc2UsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWZpbml0aW9ucywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlYWxlckZpbGU6IGRlYWxlckZpbGVzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2tpcEJvZHl0eXBlcywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHF1aWNrRGF0YUNvdW50cnksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkb0VsYXN0aWNHYwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IG1hcCA9IHsKICAgIH07Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gY29uc3QgY29uZmlnID0gcmVxdWlyZSgnLi4vLi4vY29uZmlnJyk7Ci8vIGNvbnN0IGNyZWF0ZUNocm9tZUNsaWVudCA9IHJlcXVpcmUoJy4uL2Nocm9tZWRhdGEvY2xpZW50Jyk7Ci8vIGNvbnN0IGludmFyaWFudCA9IHJlcXVpcmUoJ2ludmFyaWFudCcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gY29uc3QgeyBleHBlY3QgfSA9IHJlcXVpcmUoJy4uLy4uL3V0aWwnKTsK</text>
+        <text encoding="base64">ICAgICAgUFE6ICdRQycsCiAgICAgIE1BOiAnTUInLAogICAgICBTQTogJ1NLJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gY29uc3QgeyBzY29yZUJ5Q2FyUHJvcGVydHksIGluZmVyIH0gPSByZXF1aXJlKCcuLi8uLi8uLi9saWIvY3VzdG9tYm9keXR5cGVzL2JvZHlUeXBlSW5mZXJlbmNlJyk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gY29uc3QgY29uZmlnID0gcmVxdWlyZSgnLi4vLi4vY29uZmlnJyk7Ci8vIGNvbnN0IGNyZWF0ZUNocm9tZUNsaWVudCA9IHJlcXVpcmUoJy4uL2Nocm9tZWRhdGEvY2xpZW50Jyk7Ci8vIGNvbnN0IGludmFyaWFudCA9IHJlcXVpcmUoJ2ludmFyaWFudCcpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gY29uc3QgeyBleHBlY3QgfSA9IHJlcXVpcmUoJy4uLy4uL3V0aWwnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gY29uc3QgeyBzY29yZUJ5Q2FyUHJvcGVydHksIGluZmVyIH0gPSByZXF1aXJlKCcuLi8uLi8uLi9saWIvY3VzdG9tYm9keXR5cGVzL2JvZHlUeXBlSW5mZXJlbmNlJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wbwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
