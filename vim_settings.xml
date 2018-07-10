@@ -64,7 +64,7 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/docker-compose.yml" timestamp="1531169071226">
+      <file name="$USER_HOME$/dev/repos/automp-be/docker-compose.yml" timestamp="1531253910406">
         <mark key="'" line="58" column="6" />
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
@@ -75,9 +75,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/database/migrations/20180625163242_dealerViewFix.ts" timestamp="1531169953451">
-        <mark key="^" line="0" column="24" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/dealer/dealer-loader.ts" timestamp="1531169518591">
         <mark key="'" line="58" column="58" />
@@ -143,11 +140,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/package.json" timestamp="1531170234423">
-        <mark key="[" line="94" column="25" />
-        <mark key="]" line="94" column="25" />
-        <mark key="^" line="94" column="25" />
-        <mark key="." line="94" column="25" />
+      <file name="$USER_HOME$/dev/repos/automp-be/package.json" timestamp="1531253583384">
+        <mark key="[" line="24" column="48" />
+        <mark key="]" line="24" column="55" />
+        <mark key="^" line="24" column="55" />
+        <mark key="." line="24" column="55" />
       </file>
       <file name="$USER_HOME$/dev/repos/motive-data/packages/incentives/api/Makefile" timestamp="1529965968107">
         <mark key="[" line="13" column="10" />
@@ -260,6 +257,12 @@
         <mark key="]" line="1" column="31" />
         <mark key="." line="1" column="31" />
         <mark key="^" line="1" column="31" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/config/knexfile.ts" timestamp="1531253635120">
+        <mark key="[" line="7" column="9" />
+        <mark key="]" line="7" column="23" />
+        <mark key="^" line="7" column="23" />
+        <mark key="." line="7" column="23" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/bin/joyride-etl.js" timestamp="1530738697464">
         <mark key="[" line="27" column="64" />
@@ -485,6 +488,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/config/joyride-config.ts" timestamp="1531253682835">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="21" />
+        <mark key="." line="48" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/api/services/chrome/parsers/media.parser.ts" timestamp="1530501905103">
         <mark key="[" line="2" column="64" />
         <mark key="]" line="3" column="0" />
@@ -602,6 +611,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/database/migrations/20180710161653_woof.ts" timestamp="1531253940853">
+        <mark key="[" line="7" column="9" />
+        <mark key="]" line="7" column="9" />
+        <mark key="." line="7" column="9" />
+        <mark key="^" line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/tslint.json" timestamp="1529603637779">
         <mark key="[" line="34" column="9" />
         <mark key="]" line="35" column="45" />
@@ -669,6 +684,13 @@
         <mark key="]" line="6" column="16" />
         <mark key="^" line="6" column="16" />
         <mark key="." line="6" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/config/database.ts" timestamp="1531253538918">
+        <mark key="'" line="0" column="6" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/quickdata/alterations.js" timestamp="1530890506775">
         <mark key="[" line="15" column="0" />
@@ -770,8 +792,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="6" filename="$USER_HOME$/dev/repos/automp-be/packages/api/services/chrome/parsers/common.parser.ts" />
-      <jump line="5" column="18" filename="$USER_HOME$/dev/repos/automp-be/packages/api/services/chrome/parsers/construct.parser.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/automp-be/packages/api/services/chrome/parsers/ads.parser.ts" />
       <jump line="9" column="24" filename="$USER_HOME$/dev/repos/automp-be/packages/api/services/chrome/parsers/ads.parser.ts" />
       <jump line="10" column="27" filename="$USER_HOME$/dev/repos/automp-be/packages/api/services/chrome/parsers/index.ts" />
@@ -870,19 +890,38 @@
       <jump line="0" column="11" filename="$USER_HOME$/dev/repos/automp-be/Dockerfile" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/repos/automp-be/database/views.ts" />
       <jump line="0" column="38" filename="$USER_HOME$/dev/repos/automp-be/src/injector/registry.ts" />
+      <jump line="9" column="9" filename="$USER_HOME$/dev/repos/automp-be/config/knexfile.ts" />
+      <jump line="8" column="12" filename="$USER_HOME$/dev/repos/automp-be/config/knexfile.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">YXdhaXQg</text>
       </register>
       <register name="-" type="4">
-        <text>constructor</text>
+        <text encoding="base64">YXdhaXQg</text>
       </register>
       <register name="/" type="4">
         <text>:\.\/</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIE5vdEltcGxlbWVudGVkRXJyb3IoKTsK</text>
+      <register name="0" type="4">
+        <text>{
+  client: &quot;pg&quot;,
+  connection: {
+    database: &quot;automp_v1&quot;,
+    user: &quot;admin&quot;
+  },
+  pool: {
+    min: 2,
+    max: 10
+  },
+  migrations: {
+    tableName: &quot;knex_migrations&quot;,
+    directory: path.join(configDir, &quot;migrations&quot;)
+  },
+  seeds: {
+    directory: path.join(configDir, &quot;seeds&quot;)
+  }
+}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -891,28 +930,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q01EIG5wbSBzdGFydCAtcwo=</text>
+        <text encoding="base64">ICByZXR1cm4gYXdhaXQga25leC5zY2hlbWEucmF3KCdkcm9wIHRhYmxlIHdvb2YnKTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkYXRhYmFzZTogZGJDb25maWcsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gZXhwb3J0ID0gewovLyAgIGNsaWVudDogInBnIiwKLy8gICBjb25uZWN0aW9uOiB7Ci8vICAgICBkYXRhYmFzZTogImF1dG9tcF92MSIsCi8vICAgICB1c2VyOiAiYWRtaW4iCi8vICAgfSwKLy8gICBwb29sOiB7Ci8vICAgICBtaW46IDIsCi8vICAgICBtYXg6IDEwCi8vICAgfSwKLy8gICBtaWdyYXRpb25zOiB7Ci8vICAgICB0YWJsZU5hbWU6ICJrbmV4X21pZ3JhdGlvbnMiLAovLyAgICAgZGlyZWN0b3J5OiBwYXRoLmpvaW4oY29uZmlnRGlyLCAibWlncmF0aW9ucyIpCi8vICAgfSwKLy8gICBzZWVkczogewovLyAgICAgZGlyZWN0b3J5OiBwYXRoLmpvaW4oY29uZmlnRGlyLCAic2VlZHMiKQovLyAgIH0KLy8gfTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgfQo=</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgcGF0aCBmcm9tICJwYXRoIjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMgZ2V0Qm9va2luZyhib29raW5nSWQ6IElEKTogdm9pZCB7CiAgICBOb3RJbXBsZW1lbnRlZEVycm9yKCk7CiAgfQo=</text>
+        <text encoding="base64">Y29uc3QgY29uZmlnRGlyID0gcGF0aC5qb2luKHBhdGguZGlybmFtZShfX2Rpcm5hbWUpLCAiZGF0YWJhc2UiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -951,9 +990,6 @@
         <entry>:\.\/</entry>
       </history-search>
       <history-cmd>
-        <entry>%:.\//:\/app</entry>
-        <entry>:./</entry>
-        <entry>\:\.\/</entry>
         <entry>:\.\/</entry>
         <entry>%s/:\.\/:\/app\//g</entry>
         <entry>%s/:\.\/:\/app\//</entry>
@@ -962,14 +998,17 @@
         <entry>%s/:\.\//:\/app/</entry>
         <entry>%s/:\.\//:\/app\/</entry>
         <entry>8</entry>
-        <entry>3</entry>
-        <entry>1</entry>
         <entry>2</entry>
         <entry>56</entry>
         <entry>87'</entry>
         <entry>wq</entry>
         <entry>87</entry>
+        <entry>1</entry>
+        <entry>9</entry>
+        <entry>3</entry>
         <entry>54</entry>
+        <entry>4</entry>
+        <entry>d</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
