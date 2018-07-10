@@ -9,13 +9,6 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/definitions.ts" timestamp="1530897795094">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="129" column="0" />
-        <mark key="." line="129" column="0" />
-        <mark key="^" line="129" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/automp-be/models/textualsearch/index.ts" timestamp="1531187384759" />
       <file name="$USER_HOME$/dev/repos/joyride-server/bin/start-joyride-server.js" timestamp="1530203013427">
         <mark key="[" line="11" column="29" />
@@ -127,6 +120,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/src/dealer/test-drive.ts" timestamp="1531195422688">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="68" column="34" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/api/server/index.ts" timestamp="1530487756514">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
@@ -138,25 +137,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/Dockerfile" timestamp="1531165699764">
-        <mark key="'" line="0" column="11" />
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
-        <mark key="^" line="0" column="10" />
-      </file>
       <file name="$USER_HOME$/dev/repos/automp-be/package.json" timestamp="1531170234423">
         <mark key="[" line="94" column="25" />
         <mark key="]" line="94" column="25" />
         <mark key="^" line="94" column="25" />
         <mark key="." line="94" column="25" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/packages/api/docker-compose.yml" timestamp="1530720857031">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="12" />
-        <mark key="^" line="0" column="12" />
-        <mark key="." line="0" column="12" />
       </file>
       <file name="$USER_HOME$/dev/repos/motive-data/packages/incentives/api/Makefile" timestamp="1529965968107">
         <mark key="[" line="13" column="10" />
@@ -210,7 +195,14 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/models/dealer/types.ts" timestamp="1531193813328" />
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/test/lib/quickdata/alterations.js" timestamp="1530897007024" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/dal/abstract.dal.ts" timestamp="1531192435261">
+        <mark key="[" line="3" column="31" />
+        <mark key="]" line="3" column="36" />
+        <mark key="^" line="3" column="36" />
+        <mark key="." line="3" column="36" />
+      </file>
       <file name="$USER_HOME$/dev/repos/automp-be/lib/logger/index.ts" timestamp="1531164493061">
         <mark key="[" line="3" column="7" />
         <mark key="]" line="3" column="7" />
@@ -362,6 +354,7 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/models/dealer/dal.ts" timestamp="1531193852152" />
       <file name="$USER_HOME$/dev/repos/motive-data/api/incentives/app.ts" timestamp="1529686814340">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="30" />
@@ -385,13 +378,6 @@
         <mark key="]" line="48" column="35" />
         <mark key="." line="48" column="35" />
         <mark key="^" line="48" column="35" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/elasticsearch/index.js" timestamp="1530885266400">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="236" column="0" />
-        <mark key="]" line="236" column="0" />
-        <mark key="^" line="19" column="6" />
-        <mark key="." line="236" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/injector/registry.ts" timestamp="1531190002547">
         <mark key="'" line="0" column="38" />
@@ -467,8 +453,10 @@
         <mark key="." line="15" column="43" />
         <mark key="^" line="15" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/dal/base.dal.ts" timestamp="1531192343184">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/dal/base.dal.ts" timestamp="1531192999423">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="45" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/database/migrations/20180706162415_dealers_table_pk.ts" timestamp="1531168073941">
         <mark key="[" line="18" column="27" />
@@ -476,15 +464,9 @@
         <mark key="." line="18" column="27" />
         <mark key="^" line="18" column="27" />
       </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/models/dealer/bll.ts" timestamp="1531193442851" />
       <file name="$USER_HOME$/dev/repos/joyride-etl/node_modules/commander/typings/index.d.ts" timestamp="1530892763237" />
       <file name="$USER_HOME$/dev/repos/joyride-etl/doc/dealer/dealers-20180620.sql" timestamp="1530909212941" />
-      <file name="$USER_HOME$/dev/repos/joyride-etl/src/index.js" timestamp="1530738677112">
-        <mark key="'" line="29" column="2" />
-        <mark key="[" line="14" column="52" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="17" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/etl/tsconfig.json" timestamp="1530301887680">
         <mark key="[" line="12" column="14" />
         <mark key="]" line="12" column="18" />
@@ -497,20 +479,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-etl/src/test/lib/quickdata/alterations.ts" timestamp="1530897134120">
-        <mark key="'" line="2" column="50" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/config/joyride-config.ts" timestamp="1531165296180">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="36" column="14" />
-        <mark key="]" line="36" column="14" />
-        <mark key="." line="36" column="14" />
-        <mark key="^" line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/api/services/chrome/parsers/media.parser.ts" timestamp="1530501905103">
         <mark key="[" line="2" column="64" />
         <mark key="]" line="3" column="0" />
@@ -518,13 +486,6 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/database/migrations/20180626094633_quickDataCountry.ts" timestamp="1531167115967" />
-      <file name="$USER_HOME$/dev/repos/joyride-etl/.joyride-etlrc" timestamp="1530715188267">
-        <mark key="'" line="32" column="23" />
-        <mark key="[" line="22" column="15" />
-        <mark key="]" line="22" column="27" />
-        <mark key="." line="22" column="27" />
-        <mark key="^" line="22" column="27" />
-      </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/config.js" timestamp="1530885105753">
         <mark key="[" line="2" column="21" />
         <mark key="]" line="2" column="21" />
@@ -623,13 +584,6 @@
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-etl/mock-data/index.ts" timestamp="1530890931590">
-        <mark key="'" line="0" column="17" />
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="17" />
-        <mark key="." line="0" column="17" />
-        <mark key="^" line="0" column="17" />
-      </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/dealer/index.ts" timestamp="1530884789158">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -710,13 +664,6 @@
         <mark key="^" line="6" column="16" />
         <mark key="." line="6" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/config/database.ts" timestamp="1531166917667">
-        <mark key="'" line="0" column="6" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="8" column="2" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/quickdata/alterations.js" timestamp="1530890506775">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -751,13 +698,6 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/elasticsearch/definitions.ts" timestamp="1530891269138">
-        <mark key="'" line="115" column="6" />
-        <mark key="[" line="113" column="2" />
-        <mark key="]" line="114" column="0" />
-        <mark key="." line="114" column="0" />
-        <mark key="^" line="114" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/motive-data/api/incentives/incentives/routes.ts" timestamp="1529694348667">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -788,12 +728,11 @@
         <mark key="." line="17" column="40" />
         <mark key="^" line="17" column="40" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-etl/tsconfig.json" timestamp="1530888702245">
-        <mark key="'" line="7" column="22" />
-        <mark key="[" line="13" column="20" />
-        <mark key="]" line="13" column="26" />
-        <mark key="." line="13" column="26" />
-        <mark key="^" line="13" column="26" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/dal/index.ts" timestamp="1531192392681">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="26" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/dealer/constants.ts" timestamp="1530903488985">
         <mark key="[" line="32" column="25" />
@@ -931,13 +870,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>Booking</text>
       </register>
       <register name="/" type="4">
         <text>:\.\/</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLnBpcGUoZXMubWFwKGNzdlBhcnNlcnMuY3JlYXRlVXBzZXJ0TGluZSh0aGlzLmtuZXgsIHRoaXMudGFibGVOYW1lLCBbJ0NNU0lOdW1iZXInXSkpKQo=</text>
+        <text encoding="base64">ICAgIE5vdEltcGxlbWVudGVkRXJyb3IoKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -946,28 +885,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IHR5cGUgRGVhbGVySUQgPSBzdHJpbmc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dHlwZSBCb29raW5nSUQ6IHN0cmluZzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBzZW5kQ29tcGFyaXNvbjogYm9vbGVhbjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjb21tZW50czogc3RyaW5nOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnJlZ2kK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRocm93IG5ldyBFcnJvcigiTm90IGltcGxlbWVudGVkIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1006,12 +945,6 @@
         <entry>:\.\/</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz4=</entry>
-        <entry>0</entry>
-        <entry>2</entry>
-        <entry>31</entry>
-        <entry>54</entry>
-        <entry>121</entry>
         <entry>%:.\//:\/app</entry>
         <entry>:./</entry>
         <entry>\:\.\/</entry>
@@ -1025,6 +958,12 @@
         <entry>8</entry>
         <entry>3</entry>
         <entry>1</entry>
+        <entry>2</entry>
+        <entry>56</entry>
+        <entry>87'</entry>
+        <entry>wq</entry>
+        <entry>87</entry>
+        <entry>54</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
