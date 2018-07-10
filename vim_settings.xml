@@ -34,6 +34,12 @@
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/src/drive/client.ts" timestamp="1531198636273">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="30" />
+        <mark key="." line="8" column="30" />
+        <mark key="^" line="8" column="30" />
+      </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/README.md" timestamp="1530905601982">
         <mark key="[" line="45" column="57" />
         <mark key="]" line="45" column="57" />
@@ -866,11 +872,11 @@
       <jump line="0" column="38" filename="$USER_HOME$/dev/repos/automp-be/src/injector/registry.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>constructor</text>
       </register>
       <register name="-" type="4">
-        <text>submitContactForm</text>
+        <text>constructor</text>
       </register>
       <register name="/" type="4">
         <text>:\.\/</text>
@@ -894,19 +900,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwdWJsaWMgZ2V0Qm9va2luZyhib29raW5nSWQ6IElEKTogdm9pZCB7CiAgICBOb3RJbXBsZW1lbnRlZEVycm9yKCk7CiAgfQo=</text>
+        <text encoding="base64">CiAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBwdWJsaWMgZ2V0Qm9va2luZyhib29raW5nSWQ6IElEKTogdm9pZCB7CiAgICBOb3RJbXBsZW1lbnRlZEVycm9yKCk7CiAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IGRzZAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IGRzZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
