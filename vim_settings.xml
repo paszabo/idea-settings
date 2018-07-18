@@ -73,23 +73,11 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/docker-compose.yml" timestamp="1531253910406">
-        <mark key="'" line="58" column="6" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/csv/parser.ts" timestamp="1531157969602">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/dealer/dealer-loader.ts" timestamp="1531169518591">
-        <mark key="'" line="58" column="58" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/database/migrations/20180620113944_dealersTable.js" timestamp="1530910961068">
         <mark key="'" line="30" column="20" />
@@ -382,6 +370,7 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/models/dealer/dal.ts" timestamp="1531928630257" />
       <file name="$USER_HOME$/dev/repos/motive-data/api/incentives/app.ts" timestamp="1529686814340">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="30" />
@@ -500,12 +489,6 @@
         <mark key="." line="12" column="18" />
         <mark key="^" line="12" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-etl/bin/seed-db.sh" timestamp="1530738093058">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/test/lib/quickdata/alterations.ts" timestamp="1530897134120">
         <mark key="'" line="2" column="50" />
         <mark key="[" line="27" column="0" />
@@ -618,6 +601,7 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/models/dealer/schema.graphqls" timestamp="1531928662717" />
       <file name="$USER_HOME$/dev/repos/joyride-etl/.dockerignore" timestamp="1530635647319">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="6" />
@@ -684,12 +668,6 @@
         <mark key="]" line="52" column="55" />
         <mark key="^" line="52" column="55" />
         <mark key="." line="52" column="55" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/chromedata/client.ts" timestamp="1530899037556">
-        <mark key="'" line="63" column="2" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/doc/quickdata/ca/DeepLink-2015.txt" timestamp="1530750424827">
         <mark key="[" line="1" column="48" />
