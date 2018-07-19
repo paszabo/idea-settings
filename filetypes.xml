@@ -12,6 +12,7 @@
       <mapping pattern="edldump" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="j2" type="Jinja2" />
     </extensionMap>
   </component>
