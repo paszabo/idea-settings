@@ -83,6 +83,7 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/hackday-1-business-1/src/App.js" timestamp="1532022947862" />
       <file name="$USER_HOME$/dev/repos/devops-starter/packer/ami.json" timestamp="1532011082234">
         <mark key="[" line="8" column="36" />
         <mark key="]" line="8" column="36" />
@@ -120,7 +121,7 @@
         <mark key="." line="7" column="16" />
       </file>
       <file name="$USER_HOME$/dev/repos/auto-core-infrastructure/packer/scripts/02_setup_docker.sh" timestamp="1532011508289" />
-      <file name="$USER_HOME$/dev/repos/joyride-etl/package.json" timestamp="1530900177805">
+      <file name="$USER_HOME$/dev/repos/joyride-etl/package.json" timestamp="1532023558308">
         <mark key="[" line="13" column="5" />
         <mark key="]" line="13" column="11" />
         <mark key="." line="13" column="11" />
@@ -278,6 +279,12 @@
         <mark key="." line="28" column="54" />
         <mark key="^" line="28" column="54" />
       </file>
+      <file name="$USER_HOME$/hackday-1-business-1/src/geo.js" timestamp="1532023475138">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="9" column="11" />
+        <mark key="^" line="9" column="11" />
+        <mark key="." line="9" column="11" />
+      </file>
       <file name="$USER_HOME$/dev/repos/core-api/src/index.ts" timestamp="1530110156831">
         <mark key="[" line="2" column="21" />
         <mark key="]" line="2" column="21" />
@@ -302,6 +309,9 @@
         <mark key="]" line="1" column="35" />
         <mark key="." line="1" column="35" />
         <mark key="^" line="1" column="35" />
+      </file>
+      <file name="$USER_HOME$/hackday-1-business-1/ios/ridegoggles/Info.plist" timestamp="1532023223970">
+        <mark key="'" line="39" column="9" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/url-shortener/shortened-url.model.ts" timestamp="1528316307749">
         <mark key="[" line="8" column="0" />
@@ -451,6 +461,7 @@
         <mark key="^" line="1" column="23" />
         <mark key="." line="1" column="23" />
       </file>
+      <file name="$USER_HOME$/hackday-1-business-1/package.json" timestamp="1532022551466" />
       <file name="$USER_HOME$/dev/repos/joyride-etl/bin/seed-db" timestamp="1531257730535">
         <mark key="[" line="20" column="27" />
         <mark key="]" line="20" column="28" />
@@ -649,6 +660,7 @@
         <mark key="." line="5" column="27" />
         <mark key="^" line="5" column="27" />
       </file>
+      <file name="$USER_HOME$/hackday-1-business-1/src/graphql.js" timestamp="1532023253941" />
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/dealer/index.ts" timestamp="1530884789158">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -825,8 +837,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="27" filename="$USER_HOME$/dev/repos/automp-be/packages/api/services/chrome/parsers/index.ts" />
-      <jump line="22" column="21" filename="$USER_HOME$/dev/repos/joyride-etl/bin/joyride-etl.js" />
       <jump line="5" column="12" filename="$USER_HOME$/dev/repos/joyride-etl/.joyride-etlrc" />
       <jump line="6" column="14" filename="$USER_HOME$/dev/repos/joyride-etl/.joyride-etlrc" />
       <jump line="8" column="18" filename="$USER_HOME$/dev/repos/joyride-etl/.joyride-etlrc" />
@@ -925,6 +935,8 @@
       <jump line="8" column="12" filename="$USER_HOME$/dev/repos/automp-be/config/knexfile.ts" />
       <jump line="7" column="14" filename="$USER_HOME$/dev/repos/automp-be/database/migrations/20180710163948_woof3.ts" />
       <jump line="5" column="2" filename="$USER_HOME$/dev/repos/auto-core-incentives-api/.autocorerc" />
+      <jump line="0" column="0" filename="$USER_HOME$/hackday-1-business-1/ios/ridegoggles/Info.plist" />
+      <jump line="39" column="9" filename="$USER_HOME$/hackday-1-business-1/ios/ridegoggles/Info.plist" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -934,7 +946,7 @@
         <text>3</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzY2hlbWFcPg==</text>
+        <text>NSLocationWhenInUse</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjbGllbnQ6ICdwZycsCiAgICAgICAgY29ubmVjdGlvbjogewogICAgICAgICAgICBob3N0OiAnYXV0b2NvcmUtc2VydmljZXMtZGInLAogICAgICAgICAgICB1c2VyOiAnYXV0b2NvcmUnLAogICAgICAgICAgICBwYXNzd29yZDogJ2F1dG9jb3JlJywKICAgICAgICAgICAgZGF0YWJhc2U6ICdhdXRvY29yZScsCiAgICAgICAgICAgIHBvcnQ6IDU0MzIsCiAgICAgICAgfQogICAgfQo=</text>
@@ -983,17 +995,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzY2hlbWFcPg==</last-search>
+      <last-search>NSLocationWhenInUse</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzY2hlbWFcPg==</last-pattern>
+      <last-pattern>NSLocationWhenInUse</last-pattern>
       <last-replace>:\/app\/</last-replace>
       <last-substitute>:\.\/</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>skipCondition</entry>
         <entry>skipMaps</entry>
         <entry>0b112390</entry>
         <entry>JoyRideStyleID</entry>
@@ -1013,6 +1024,7 @@
         <entry>:\.\/:\/app\/</entry>
         <entry>:\.\/</entry>
         <entry encoding="base64">XDxzY2hlbWFcPg==</entry>
+        <entry>NSLocationWhenInUse</entry>
       </history-search>
       <history-cmd>
         <entry>%s/:\.\/:\/app\/</entry>
