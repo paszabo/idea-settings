@@ -46,9 +46,6 @@
         <mark key="." line="8" column="30" />
         <mark key="^" line="8" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/custombodytypes/bodyTypeInference.ts" timestamp="1531580337298">
-        <mark key="'" line="60" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/README.md" timestamp="1530905601982">
         <mark key="[" line="45" column="57" />
         <mark key="]" line="45" column="57" />
@@ -79,8 +76,11 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/database/migrations/20180620113944_dealersTable.js" timestamp="1530910961068">
-        <mark key="'" line="30" column="20" />
+      <file name="$USER_HOME$/dev/repos/devops-starter/packer/ami.json" timestamp="1532011082234">
+        <mark key="[" line="8" column="36" />
+        <mark key="]" line="8" column="36" />
+        <mark key="." line="8" column="36" />
+        <mark key="^" line="8" column="36" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/database/constants.ts" timestamp="1530911197903">
         <mark key="'" line="0" column="21" />
@@ -216,9 +216,9 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/auto-core-incentives-api/src/config.ts" timestamp="1532009612673">
-        <mark key="[" line="1" column="46" />
-        <mark key="]" line="1" column="56" />
+      <file name="$USER_HOME$/dev/repos/auto-core-incentives-api/src/config.ts" timestamp="1532010371078">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="15" column="4" />
         <mark key="." line="1" column="56" />
         <mark key="^" line="1" column="56" />
       </file>
@@ -239,6 +239,13 @@
         <mark key="]" line="17" column="15" />
         <mark key="." line="17" column="15" />
         <mark key="^" line="17" column="15" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/auto-core-incentives-api/.autocorerc" timestamp="1532010609808">
+        <mark key="'" line="5" column="2" />
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="4" column="34" />
+        <mark key="^" line="4" column="34" />
+        <mark key="." line="4" column="34" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/database/migrations/20180625163242_dealerViewFix.js" timestamp="1530911020025">
         <mark key="[" line="0" column="36" />
@@ -350,10 +357,11 @@
         <mark key="^" line="13" column="1" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/auto-core-incentives-api/docker-compose.yml" timestamp="1531770610958">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/dev/repos/auto-core-incentives-api/docker-compose.yml" timestamp="1532010596591">
+        <mark key="[" line="9" column="29" />
+        <mark key="]" line="9" column="45" />
+        <mark key="." line="9" column="45" />
+        <mark key="^" line="9" column="45" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/custombodytypes/bodyTypeInference.js" timestamp="1530889955354">
         <mark key="[" line="103" column="0" />
@@ -506,6 +514,7 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/devops-starter/packer/scripts/03_install_docker_compose.sh" timestamp="1532011003768" />
       <file name="$USER_HOME$/dev/repos/joyride-etl/.joyride-etlrc" timestamp="1530715188267">
         <mark key="'" line="32" column="23" />
         <mark key="[" line="22" column="15" />
@@ -538,6 +547,8 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/auto-core-incentives-api/deployment/.autocorerc" timestamp="1532010357311" />
+      <file name="$USER_HOME$/dev/repos/devops-starter/packer/scripts/05_install_sumologic.sh" timestamp="1532011099367" />
       <file name="$USER_HOME$/dev/repos/automp-be/packages/api/services/carproof/index.ts" timestamp="1530799664158">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -793,7 +804,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="24" filename="$USER_HOME$/dev/repos/automp-be/packages/api/services/chrome/parsers/ads.parser.ts" />
       <jump line="10" column="27" filename="$USER_HOME$/dev/repos/automp-be/packages/api/services/chrome/parsers/index.ts" />
       <jump line="22" column="21" filename="$USER_HOME$/dev/repos/joyride-etl/bin/joyride-etl.js" />
       <jump line="5" column="12" filename="$USER_HOME$/dev/repos/joyride-etl/.joyride-etlrc" />
@@ -893,22 +903,23 @@
       <jump line="9" column="9" filename="$USER_HOME$/dev/repos/automp-be/config/knexfile.ts" />
       <jump line="8" column="12" filename="$USER_HOME$/dev/repos/automp-be/config/knexfile.ts" />
       <jump line="7" column="14" filename="$USER_HOME$/dev/repos/automp-be/database/migrations/20180710163948_woof3.ts" />
+      <jump line="5" column="2" filename="$USER_HOME$/dev/repos/auto-core-incentives-api/.autocorerc" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzY2hlbWFcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICByZXR1cm4ga25leC5zY2hlbWEucmF3KCdkcm9wIHRhYmxlIGZvb2JhcicpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnQ6ICdwZycsCiAgICAgICAgY29ubmVjdGlvbjogewogICAgICAgICAgICBob3N0OiAnYXV0b2NvcmUtc2VydmljZXMtZGInLAogICAgICAgICAgICB1c2VyOiAnYXV0b2NvcmUnLAogICAgICAgICAgICBwYXNzd29yZDogJ2F1dG9jb3JlJywKICAgICAgICAgICAgZGF0YWJhc2U6ICdhdXRvY29yZScsCiAgICAgICAgICAgIHBvcnQ6IDU0MzIsCiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnQ6ICdwZycsCiAgICAgICAgY29ubmVjdGlvbjogewogICAgICAgICAgICBob3N0OiAnYXV0b2NvcmUtc2VydmljZXMtZGInLAogICAgICAgICAgICB1c2VyOiAnYXV0b2NvcmUnLAogICAgICAgICAgICBwYXNzd29yZDogJ2F1dG9jb3JlJywKICAgICAgICAgICAgZGF0YWJhc2U6ICdhdXRvY29yZScsCiAgICAgICAgICAgIHBvcnQ6IDU0MzIsCiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -917,9 +928,12 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0ICogYXMgcmMgZnJvbSAncmMnOwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>{
         client: 'pg',
         connection: {
@@ -931,20 +945,17 @@
         }
     }</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aW1wbwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkYXRhYmFzZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0ICogYXMgcmMgZnJvbSAicmMiOwo=</text>
+        <text encoding="base64">ICBkYXRhYmFzZSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0ICogYXMgcmMgZnJvbSAicmMiOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -999,9 +1010,9 @@
         <entry>4</entry>
         <entry>d</entry>
         <entry>W</entry>
-        <entry>wq</entry>
         <entry>we</entry>
         <entry>6</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
