@@ -216,6 +216,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/auto-core-incentives-api/src/config.ts" timestamp="1532007979375">
+        <mark key="[" line="3" column="42" />
+        <mark key="]" line="3" column="56" />
+        <mark key="." line="3" column="56" />
+        <mark key="^" line="3" column="56" />
+      </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/bin/start-joyride-server.ts" timestamp="1530218608366">
         <mark key="[" line="4" column="26" />
         <mark key="]" line="4" column="28" />
@@ -612,6 +618,12 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
       </file>
+      <file name="$USER_HOME$/dev/repos/auto-core-incentives-api/src/core/knex.ts" timestamp="1532007872248">
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="27" />
+        <mark key="." line="5" column="27" />
+        <mark key="^" line="5" column="27" />
+      </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/dealer/index.ts" timestamp="1530884789158">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -883,11 +895,11 @@
       <jump line="7" column="14" filename="$USER_HOME$/dev/repos/automp-be/database/migrations/20180710163948_woof3.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>config</text>
       </register>
       <register name="-" type="4">
-        <text>/motive/incentives/api</text>
+        <text>config</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzY2hlbWFcPg==</text>
@@ -895,35 +907,44 @@
       <register name="0" type="2">
         <text encoding="base64">ICByZXR1cm4ga25leC5zY2hlbWEucmF3KCdkcm9wIHRhYmxlIGZvb2JhcicpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>{
+        client: 'pg',
+        connection: {
+            host: 'autocore-services-db',
+            user: 'autocore',
+            password: 'autocore',
+            database: 'autocore',
+            port: 5432,
+        }
+    }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkYXRhYmFzZSwK</text>
+        <text encoding="base64">aW1wbwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0ICogYXMgcmMgZnJvbSAicmMiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkYXRhYmFzZSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0ICogYXMgcmMgZnJvbSAicmMiOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZXR1cm4gYXdhaXQga25leC5zY2hlbWEucmF3KCdkcm9wIHRhYmxlIHdvb2YnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICByZXR1cm4gYXdhaXQga25leC5zY2hlbWEucmF3KCdkcm9wIHRhYmxlIHdvb2YnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -962,8 +983,6 @@
         <entry encoding="base64">XDxzY2hlbWFcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/:\.\/:\/app\//g</entry>
-        <entry>%s/:\.\/:\/app\//</entry>
         <entry>%s/:\.\/:\/app\/</entry>
         <entry>%s/:\.\//:\/app</entry>
         <entry>%s/:\.\//:\/app/</entry>
@@ -981,6 +1000,8 @@
         <entry>d</entry>
         <entry>W</entry>
         <entry>wq</entry>
+        <entry>we</entry>
+        <entry>6</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
