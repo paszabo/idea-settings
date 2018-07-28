@@ -81,11 +81,11 @@
         <mark key="." line="27" column="16" />
         <mark key="^" line="27" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" timestamp="1532767819097">
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="0" column="21" />
-        <mark key="^" line="0" column="21" />
-        <mark key="." line="0" column="21" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" timestamp="1532790353332">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="25" column="107" />
+        <mark key="^" line="25" column="107" />
+        <mark key="." line="25" column="107" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/csv/parser.ts" timestamp="1531157969602">
         <mark key="[" line="5" column="0" />
@@ -331,7 +331,7 @@
         <mark key="." line="0" column="32" />
         <mark key="^" line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" timestamp="1532768358458">
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" timestamp="1532790284858">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
@@ -360,14 +360,6 @@
         <mark key="]" line="5" column="24" />
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/models/dealer/test-drive/test-drive.manager.ts" timestamp="1532763883963">
-        <mark key="a" line="37" column="2" />
-        <mark key="'" line="0" column="30" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/api/package.json" timestamp="1530893919514">
         <mark key="[" line="1" column="17" />
@@ -510,10 +502,10 @@
         <mark key="." line="3" column="66" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.manager.ts" timestamp="1532767676480">
-        <mark key="[" line="70" column="25" />
-        <mark key="]" line="70" column="30" />
-        <mark key="." line="70" column="30" />
-        <mark key="^" line="70" column="30" />
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="7" column="30" />
+        <mark key="." line="7" column="30" />
+        <mark key="^" line="7" column="30" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/server/app-server.ts" timestamp="1530214259992">
         <mark key="[" line="15" column="45" />
@@ -538,6 +530,12 @@
         <mark key="]" line="8" column="23" />
         <mark key="." line="8" column="23" />
         <mark key="^" line="8" column="23" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.validators.ts" timestamp="1532791060005">
+        <mark key="[" line="6" column="41" />
+        <mark key="]" line="6" column="40" />
+        <mark key="^" line="6" column="40" />
+        <mark key="." line="6" column="40" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/etl/tsconfig.json" timestamp="1530301887680">
         <mark key="[" line="12" column="14" />
@@ -727,6 +725,7 @@
         <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/server/routes/api-docs/index.ts" timestamp="1532709664730" />
+      <file name="$USER_HOME$/dev/repos/automp-be/node_modules/@types/joi/index.d.ts" timestamp="1532790809559" />
       <file name="$USER_HOME$/dev/repos/joyride-server/tsconfig.json" timestamp="1530212083455">
         <mark key="[" line="8" column="19" />
         <mark key="]" line="8" column="19" />
@@ -950,7 +949,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>Table</text>
@@ -965,28 +964,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBuZXh0KCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybjsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygiR290IHRlc3QgZHJpdmU6ICIsIHRlc3REcml2ZSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBuZXh0KCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJldHVybjsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygiR290IHRlc3QgZHJpdmU6ICIsIHRlc3REcml2ZSk7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyByZXNwb25zZS5qc29uKHsgbWVzc2FnZTogYFRlc3QgZHJpdmUgJHtyZXF1ZXN0LnBhcmFtcy5pZH0gc3RhdHVzIHVwZGF0ZWQgc3VjY2Vzc2Z1bGx5YCB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA7Cg==</text>
+        <text encoding="base64">ICAvLyByZXNwb25zZS5qc29uKHsgbWVzc2FnZTogYFRlc3QgZHJpdmUgJHtyZXF1ZXN0LnBhcmFtcy5pZH0gc3RhdHVzIHVwZGF0ZWQgc3VjY2Vzc2Z1bGx5YCB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHggPSAxOwo=</text>
+        <text encoding="base64">ICA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
