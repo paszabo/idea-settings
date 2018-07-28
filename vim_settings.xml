@@ -358,13 +358,13 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/models/dealer/test-drive/test-drive.manager.ts" timestamp="1532713365549">
-        <mark key="a" line="33" column="2" />
+      <file name="$USER_HOME$/dev/repos/automp-be/models/dealer/test-drive/test-drive.manager.ts" timestamp="1532740985400">
+        <mark key="a" line="36" column="2" />
         <mark key="'" line="0" column="30" />
-        <mark key="[" line="21" column="10" />
-        <mark key="]" line="21" column="10" />
-        <mark key="." line="21" column="10" />
-        <mark key="^" line="21" column="15" />
+        <mark key="[" line="23" column="5" />
+        <mark key="]" line="24" column="3" />
+        <mark key="." line="24" column="3" />
+        <mark key="^" line="24" column="3" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/api/package.json" timestamp="1530893919514">
         <mark key="[" line="1" column="17" />
@@ -1029,8 +1029,8 @@
       <jump line="36" column="4" filename="$USER_HOME$/dev/repos/automp-be/server/routes/test-drive.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>$</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJldHVybjsK</text>
       </register>
       <register name="-" type="4">
         <text>$</text>
@@ -1042,36 +1042,34 @@
         <text encoding="base64">ICAgIHJlc3BvbnNlLnN0YXR1cyg0MDQpLmpzb24oewogICAgICBtZXNzYWdlOiBgQSB0ZXN0IGRyaXZlIHdpdGggaWQ6ICQke3JlcXVlc3QucGFyYW1zLmlkfSBkb2VzIG5vdCBleGlzdGAKICAgIH0pOwogICAgcmV0dXJuOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3QuYm9keS50aW1lc3RhbXAK</text>
+        <text encoding="base64">ICAgIHJldHVybjsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdObyBlcnJvcnMnKTsK</text>
+        <text encoding="base64">ICAgIHJlcXVlc3QuYm9keS50aW1lc3RhbXAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXNwb25zZS5zdGF0dXMoNDAwKS5qc29uKHsKICAgIG1lc3NhZ2U6ICJUZXN0IGRyaXZlIHN0YXR1cyB1cGRhdGUgQVBJIHBheWxvYWQgaW52YWxpZCIsCiAgICBlcnJvcnMKICB9KTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdObyBlcnJvcnMnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG5leHQoKTsK</text>
+        <text encoding="base64">ICByZXNwb25zZS5zdGF0dXMoNDAwKS5qc29uKHsKICAgIG1lc3NhZ2U6ICJUZXN0IGRyaXZlIHN0YXR1cyB1cGRhdGUgQVBJIHBheWxvYWQgaW52YWxpZCIsCiAgICBlcnJvcnMKICB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5leHQoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmVycm9yKCdJbnZhbGlkIHRlc3QgZHJpdmUgc3RhdHVzIHVwZGF0ZSBwYXlsb2FkJywgcmVxdWVzdC5ib2R5LnN0YXR1cyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBlbHNlIHsKCiAgICByZXNwb25zZS5zdGF0dXMoNDA0KS5qc29uKHsKICAgICAgbWVzc2FnZTogYEEgdGVzdCBkcml2ZSB3aXRoIGlkOiAkJHtyZXF1ZXN0LnBhcmFtcy5pZH0gZG9lcyBub3QgZXhpc3RgCiAgICB9KTsKICAgIHJldHVybjsKICB9Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmVycm9yKCdJbnZhbGlkIHRlc3QgZHJpdmUgc3RhdHVzIHVwZGF0ZSBwYXlsb2FkJywgcmVxdWVzdC5ib2R5LnN0YXR1cyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlc3BvbnNlOwo=</text>
+        <text encoding="base64">ICBlbHNlIHsKCiAgICByZXNwb25zZS5zdGF0dXMoNDA0KS5qc29uKHsKICAgICAgbWVzc2FnZTogYEEgdGVzdCBkcml2ZSB3aXRoIGlkOiAkJHtyZXF1ZXN0LnBhcmFtcy5pZH0gZG9lcyBub3QgZXhpc3RgCiAgICB9KTsKICAgIHJldHVybjsKICB9Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>.json({
-      message: `A test drive with id: $${request.params.id} does not exist`
-    })</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHJlc3BvbnNlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
