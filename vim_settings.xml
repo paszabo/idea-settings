@@ -132,6 +132,7 @@
         <mark key="^" line="7" column="16" />
         <mark key="." line="7" column="16" />
       </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/something.sql" timestamp="1532759667680" />
       <file name="$USER_HOME$/dev/repos/joyride-etl/package.json" timestamp="1532023558308">
         <mark key="[" line="13" column="5" />
         <mark key="]" line="13" column="11" />
@@ -156,7 +157,7 @@
         <mark key="^" line="6" column="16" />
         <mark key="." line="6" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/package.json" timestamp="1531253583384">
+      <file name="$USER_HOME$/dev/repos/automp-be/package.json" timestamp="1532759372151">
         <mark key="[" line="24" column="48" />
         <mark key="]" line="24" column="55" />
         <mark key="^" line="24" column="55" />
@@ -334,9 +335,6 @@
         <mark key="." line="1" column="35" />
         <mark key="^" line="1" column="35" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1532553380273">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/url-shortener/shortened-url.model.ts" timestamp="1528316307749">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="7" column="0" />
@@ -374,9 +372,6 @@
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
         <mark key="^" line="3" column="25" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/tsconfig.json" timestamp="1531493221361">
-        <mark key="[" line="24" column="17" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/database/migrations/20180709203111_dealers_table_pk.ts" timestamp="1531168776901">
         <mark key="[" line="2" column="73" />
@@ -755,11 +750,11 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/database/migrations/20180727233613_test-drive-tables.ts" timestamp="1532758190218">
-        <mark key="[" line="24" column="43" />
-        <mark key="]" line="24" column="44" />
-        <mark key="." line="24" column="44" />
-        <mark key="^" line="24" column="44" />
+      <file name="$USER_HOME$/dev/repos/automp-be/database/migrations/20180727233613_test-drive-tables.ts" timestamp="1532759344647">
+        <mark key="[" line="35" column="29" />
+        <mark key="]" line="35" column="29" />
+        <mark key="." line="35" column="29" />
+        <mark key="^" line="84" column="77" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/csv/index.ts" timestamp="1530751602439">
         <mark key="[" line="2" column="32" />
@@ -1035,46 +1030,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>next</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAnMF90b18xX21vbnRoJywKICAnMl90b180X21vbnRoJywKICAnZ3RfNF9tb250aHMnCg==</text>
+      <register name="0" type="4">
+        <text>${quoteChar}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB3Cg==</text>
+        <text encoding="base64">Ly8gZnVuY3Rpb24gQ3JlYXRlVGFibGUodGFibGU6IEtuZXguQ3JlYXRlVGFibGVCdWlsZGVyKTogdm9pZCB7Ci8vCi8vIH0KCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0YWJsZS5lbnVtKCJwdXJjaGFzZV90aW1lbGluZSIsIFB1cmNoYXNlVGltZWxpbmVzKTsKICB0YWJsZS5zdHJpbmcoInNodXR0bGVfc2VydmljZV9yZXF1aXJlZCIsIDUpOwogIHRhYmxlLnN0cmluZygicHJlZmVycmVkX2NvbnRhY3RfbWV0aG9kIiwgMjUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgLy8gY2hlY2sgY29uc3RyYWludHMgb24gcXVlc3Rpb25uYWlyZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICByZXR1cm4gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmdW5jdGlvbiBxdW90ZShzdHIpIHsKICAgIHJldHVybiBgJyR7c3RyfSdgCiAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHF1b3RlQ2hhciA9ICInIjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAnMF90b18xX21vbnRoJywKICAnMl90b180X21vbnRoJywKICAnZ3RfNF9tb250aHMnCl07Cg==</text>
+        <text encoding="base64">ICB3Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0YWJsZS5lbnVtKCJwdXJjaGFzZV90aW1lbGluZSIsIFB1cmNoYXNlVGltZWxpbmVzKTsKICB0YWJsZS5zdHJpbmcoInNodXR0bGVfc2VydmljZV9yZXF1aXJlZCIsIDUpOwogIHRhYmxlLnN0cmluZygicHJlZmVycmVkX2NvbnRhY3RfbWV0aG9kIiwgMjUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAKICAK</text>
+        <text encoding="base64">CiAgLy8gY2hlY2sgY29uc3RyYWludHMgb24gcXVlc3Rpb25uYWlyZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1113,8 +1108,6 @@
         <entry>next</entry>
       </history-search>
       <history-cmd>
-        <entry>w\</entry>
-        <entry>ew</entry>
         <entry>lw</entry>
         <entry>59</entry>
         <entry>8</entry>
@@ -1132,6 +1125,8 @@
         <entry>0</entry>
         <entry>5</entry>
         <entry>6</entry>
+        <entry>11</entry>
+        <entry>38</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
