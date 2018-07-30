@@ -581,6 +581,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive-timeslot.manager.ts" timestamp="1532984226453">
+        <mark key="[" line="15" column="30" />
+        <mark key="]" line="15" column="51" />
+        <mark key="." line="15" column="51" />
+        <mark key="^" line="15" column="51" />
+      </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/url-shortener/url-shortener.dal.ts" timestamp="1530160878866">
         <mark key="[" line="11" column="45" />
         <mark key="]" line="11" column="49" />
@@ -942,7 +948,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgLyoqCiAgICoKICAgKiBAcGFyYW0gZGVhbGVySWQKICAgKiBAcGFyYW0gdmVoaWNsZUlkCiAgICogQHBhcmFtIGNvbnRhY3RGb3JtCiAgICogQHBhcmFtIHthbnlbXX0gdGltZVNsb3RzCiAgICogQHBhcmFtIHF1ZXN0aW9ubmFpcmUKICAgKiBAcGFyYW0ge3N0cmluZ30gY29tbWVudHMKICAgKiBAcmV0dXJucyB7SUR9CiAgICovCgoK</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgUHJvbWlzZSBmcm9tICdibHVlYmlyZCcK</text>
       </register>
       <register name="-" type="4">
         <text>create new test drive</text>
@@ -954,37 +960,34 @@
         <text encoding="base64">ICAgIHJlc3BvbnNlLnN0YXR1cyg1MDApLmpzb24oeyBtZXNzYWdlOiAiRmFpbGVkIHRvIGNyZWF0ZSBuZXcgdGVzdCBkcml2ZSIsIHN0YWNrOiBlcnJvci5zdGFjay5zcGxpdCgiXG4iKSwgZXJyb3IgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgLyoqCiAgICoKICAgKiBAcGFyYW0gZGVhbGVySWQKICAgKiBAcGFyYW0gdmVoaWNsZUlkCiAgICogQHBhcmFtIGNvbnRhY3RGb3JtCiAgICogQHBhcmFtIHthbnlbXX0gdGltZVNsb3RzCiAgICogQHBhcmFtIHF1ZXN0aW9ubmFpcmUKICAgKiBAcGFyYW0ge3N0cmluZ30gY29tbWVudHMKICAgKiBAcmV0dXJucyB7SUR9CiAgICovCgoK</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgUHJvbWlzZSBmcm9tICdibHVlYmlyZCcK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgKiBTdG9yZSBhIG5ldyB0ZXN0IGRyaXZlIGluIHRoZSBkYXRhYmFzZSBidXQgZG8gbm90IHJlbGVhc2UgaXQuCiAgICoKICAgKiBJbml0aWF0ZSBlbWFpbCB2YWxpZGF0aW9uIGZsb3cuCg==</text>
+        <text encoding="base64">CiAgLyoqCiAgICoKICAgKiBAcGFyYW0gZGVhbGVySWQKICAgKiBAcGFyYW0gdmVoaWNsZUlkCiAgICogQHBhcmFtIGNvbnRhY3RGb3JtCiAgICogQHBhcmFtIHthbnlbXX0gdGltZVNsb3RzCiAgICogQHBhcmFtIHF1ZXN0aW9ubmFpcmUKICAgKiBAcGFyYW0ge3N0cmluZ30gY29tbWVudHMKICAgKiBAcmV0dXJucyB7SUR9CiAgICovCgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgKiBTdG9yZSBhIG5ldyB0ZXN0IGRyaXZlIGluIHRoZSBkYXRhYmFzZSBidXQgZG8gbm90IHJlbGVhc2UgaXQuCiAgICoKICAgKiBJbml0aWF0ZSBlbWFpbCB2YWxpZGF0aW9uIGZsb3cuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCB0ZXN0RHJpdmU6IFRlc3REcml2ZSA9IGF3YWl0IHRlc3REcml2ZU1hbmFnZXIuZ2V0KHJlcXVlc3QucGFyYW1zLmlkKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjb25zdCB0ZXN0RHJpdmU6IFRlc3REcml2ZSA9IGF3YWl0IHRlc3REcml2ZU1hbmFnZXIuZ2V0KHJlcXVlc3QucGFyYW1zLmlkKTsK</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-      ...result,
-      ...contactForm
-    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
