@@ -701,10 +701,12 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/database/migrations/20180727233613_test-drive-tables.ts" timestamp="1532978733396">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="52" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/dev/repos/automp-be/database/migrations/20180727233613_test-drive-tables.ts" timestamp="1532980434327">
+        <mark key="'" line="49" column="8" />
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="11" column="28" />
+        <mark key="." line="11" column="28" />
+        <mark key="^" line="11" column="28" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/csv/index.ts" timestamp="1530751602439">
         <mark key="[" line="2" column="32" />
@@ -837,10 +839,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="0" filename="$USER_HOME$/dev/repos/joyride-etl/src/lib/definitions.ts" />
-      <jump line="114" column="6" filename="$USER_HOME$/dev/repos/joyride-etl/src/lib/elasticsearch/definitions.ts" />
-      <jump line="16" column="3" filename="$USER_HOME$/dev/repos/joyride-etl/src/lib/chromedata/client.ts" />
-      <jump line="17" column="2" filename="$USER_HOME$/dev/repos/joyride-etl/src/lib/chromedata/client.ts" />
       <jump line="8" column="30" filename="$USER_HOME$/dev/repos/joyride-etl/src/lib/dealer/dealer-loader.ts" />
       <jump line="63" column="58" filename="$USER_HOME$/dev/repos/joyride-etl/src/lib/dealer/dealer-loader.ts" />
       <jump line="6" column="22" filename="$USER_HOME$/dev/repos/joyride-etl/src/lib/custombodytypes/index.ts" />
@@ -937,6 +935,10 @@
       <jump line="67" column="10" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" />
       <jump line="101" column="5" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" />
       <jump line="61" column="5" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" />
+      <jump line="35" column="26" filename="$USER_HOME$/dev/repos/automp-be/database/migrations/20180727233613_test-drive-tables.ts" />
+      <jump line="11" column="28" filename="$USER_HOME$/dev/repos/automp-be/database/migrations/20180727233613_test-drive-tables.ts" />
+      <jump line="40" column="8" filename="$USER_HOME$/dev/repos/automp-be/database/migrations/20180727233613_test-drive-tables.ts" />
+      <jump line="49" column="8" filename="$USER_HOME$/dev/repos/automp-be/database/migrations/20180727233613_test-drive-tables.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -946,7 +948,7 @@
         <text>create new test drive</text>
       </register>
       <register name="/" type="4">
-        <text>atch</text>
+        <text>timestamps</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJlc3BvbnNlLnN0YXR1cyg1MDApLmpzb24oeyBtZXNzYWdlOiAiRmFpbGVkIHRvIGNyZWF0ZSBuZXcgdGVzdCBkcml2ZSIsIHN0YWNrOiBlcnJvci5zdGFjay5zcGxpdCgiXG4iKSwgZXJyb3IgfSk7Cg==</text>
@@ -989,9 +991,9 @@
       </register>
     </registers>
     <search>
-      <last-search>atch</last-search>
+      <last-search>timestamps</last-search>
       <last-offset />
-      <last-pattern>atch</last-pattern>
+      <last-pattern>timestamps</last-pattern>
       <last-replace>:\/app\/</last-replace>
       <last-substitute>:\.\/</last-substitute>
       <last-dir>1</last-dir>
@@ -999,7 +1001,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwiXD4=</entry>
         <entry>:\.\/:\/app\/</entry>
         <entry encoding="base64">XDxzY2hlbWFcPg==</entry>
         <entry>NSLocationWhenInUse</entry>
@@ -1019,6 +1020,7 @@
         <entry>Table</entry>
         <entry>catch</entry>
         <entry>atch</entry>
+        <entry>timestamps</entry>
       </history-search>
       <history-cmd>
         <entry>11,12d</entry>
