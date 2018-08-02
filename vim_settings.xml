@@ -384,12 +384,11 @@
         <mark key="." line="0" column="32" />
         <mark key="^" line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" timestamp="1533224389312">
-        <mark key="'" line="190" column="39" />
-        <mark key="[" line="190" column="41" />
-        <mark key="]" line="190" column="41" />
-        <mark key="." line="190" column="41" />
-        <mark key="^" line="190" column="41" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" timestamp="1533231151992">
+        <mark key="[" line="283" column="30" />
+        <mark key="]" line="283" column="56" />
+        <mark key="." line="283" column="56" />
+        <mark key="^" line="283" column="56" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/custombodytypes/index.ts" timestamp="1530897741555">
         <mark key="[" line="1" column="35" />
@@ -1019,7 +1018,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="22" filename="$USER_HOME$/dev/repos/automp-be/docker-compose.yml" />
       <jump line="53" column="23" filename="$USER_HOME$/dev/repos/automp-be/docker-compose.yml" />
       <jump line="42" column="17" filename="$USER_HOME$/dev/repos/automp-be/docker-compose.yml" />
       <jump line="54" column="6" filename="$USER_HOME$/dev/repos/automp-be/docker-compose.yml" />
@@ -1080,7 +1078,6 @@
       <jump line="5" column="36" filename="$USER_HOME$/dev/repos/automp-be/src/constants.ts" />
       <jump line="4" column="29" filename="$USER_HOME$/dev/repos/automp-be/src/constants.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/constants.ts" />
-      <jump line="5" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" />
       <jump line="87" column="28" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" />
       <jump line="56" column="5" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" />
       <jump line="88" column="4" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" />
@@ -1119,67 +1116,69 @@
       <jump line="17" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" />
       <jump line="193" column="22" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" />
       <jump line="190" column="39" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" />
+      <jump line="5" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" />
+      <jump line="231" column="13" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(...</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>(...</text>
+        <text>this.data</text>
       </register>
       <register name="/" type="4">
-        <text>data</text>
+        <text encoding="base64">XDxWYWxpZGF0ZWREYXRhXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGF3YWl0IGYuYXBwbHkodGFyZ2V0LCAuLi5hcmd1bWVudHMpCg==</text>
+        <text encoding="base64">ICAgIGlmKGRlc2NyaXB0b3IgPT09IHVuZGVmaW5lZCkgewogICAgICBkZXNjcmlwdG9yID0gT2JqZWN0LmdldE93blByb3BlcnR5RGVzY3JpcHRvcih0YXJnZXQsIGtleSk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJkZWNsYXJhdGlvbiI6IHRydWUsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlc2NyCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICByZXR1cm4gdmFsaWRhdG9yPFQ+Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBwdWJsaWMgZ2V0IFZhbGlkYXRlZERhdGEoKTogUGFydGlhbDxUPiB7CiAgICByZXR1cm4gey4uLnRoaXMudmFsaWRhdGVkRGF0YX07CiAgfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGlmIChyZXN1bHQuZXJyb3IpIHsKICAgICAgcmV0dXJuIHRoaXMuaGFuZGxlRXJyb3IocmVzdWx0LmVycm9yKTsKICAgIH0KCiAgICByZXR1cm4gdGhpcy5oYW5kbGVTdWNjZXNzKHJlc3VsdC52YWx1ZSk7Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text>else {
+      
+    }</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgVGVzdERyaXZlQVBJID0gbmV3IFRlc3REcml2ZUFwaSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dHlwZSBQcm9taXNlPFQ+ID0gQkJQcm9taXNlPFQ+Owo=</text>
+        <text encoding="base64">ICBwdWJsaWMgdmFsaWRhdGVkRGF0YTogUGFydGlhbDxUPiA9IHt9Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>data</last-search>
+      <last-search encoding="base64">XDxWYWxpZGF0ZWREYXRhXD4=</last-search>
       <last-offset />
-      <last-pattern>data</last-pattern>
+      <last-pattern encoding="base64">XDxWYWxpZGF0ZWREYXRhXD4=</last-pattern>
       <last-replace>:\/app\/</last-replace>
       <last-substitute>:\.\/</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>client</entry>
-        <entry>ParseLicensePlate</entry>
         <entry>license_plate_query</entry>
         <entry>cat</entry>
         <entry encoding="base64">XDxUT0RPXD4=</entry>
@@ -1198,12 +1197,13 @@
         <entry>log</entry>
         <entry>void</entry>
         <entry>data</entry>
+        <entry encoding="base64">XDx7XD4=</entry>
+        <entry encoding="base64">XDxWYWxpZGF0ZWREYXRhXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>83</entry>
         <entry>86</entry>
         <entry>W</entry>
-        <entry>0</entry>
         <entry>20d</entry>
         <entry>5</entry>
         <entry>we</entry>
@@ -1219,6 +1219,7 @@
         <entry>e</entry>
         <entry>36</entry>
         <entry>52</entry>
+        <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
