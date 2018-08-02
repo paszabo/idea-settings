@@ -16,6 +16,7 @@
         <mark key="." line="129" column="0" />
         <mark key="^" line="129" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/services/chrome/index.ts" timestamp="1533246485698" />
       <file name="$USER_HOME$/dev/repos/automp-be/src/base-manager.ts" timestamp="1533245240249">
         <mark key="[" line="4" column="26" />
         <mark key="]" line="6" column="1" />
@@ -88,13 +89,6 @@
         <mark key="." line="27" column="16" />
         <mark key="^" line="27" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" timestamp="1533221671526">
-        <mark key="'" line="10" column="62" />
-        <mark key="[" line="120" column="114" />
-        <mark key="]" line="120" column="114" />
-        <mark key="." line="120" column="114" />
-        <mark key="^" line="120" column="114" />
-      </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/csv/parser.ts" timestamp="1531157969602">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="6" column="0" />
@@ -120,6 +114,7 @@
         <mark key="." line="8" column="36" />
         <mark key="^" line="8" column="36" />
       </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/models/index.ts" timestamp="1533246060584" />
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/api/constants.ts" timestamp="1533243566281">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -427,11 +422,10 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/core/api/exceptions.ts" timestamp="1533242594718">
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="8" />
-        <mark key="^" line="4" column="8" />
-        <mark key="." line="4" column="8" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/core/api/exceptions.ts" timestamp="1533247099092">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/api/package.json" timestamp="1530893919514">
         <mark key="[" line="1" column="17" />
@@ -859,6 +853,7 @@
         <mark key="." line="7" column="9" />
         <mark key="^" line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/models/common.graphqls" timestamp="1533245949485" />
       <file name="$USER_HOME$/dev/repos/joyride-server/tslint.json" timestamp="1529603637779">
         <mark key="[" line="34" column="9" />
         <mark key="]" line="35" column="45" />
@@ -908,12 +903,8 @@
         <mark key="^" line="52" column="55" />
         <mark key="." line="52" column="55" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer.ts" timestamp="1533244912959">
-        <mark key="'" line="11" column="29" />
-        <mark key="[" line="24" column="24" />
-        <mark key="]" line="24" column="24" />
-        <mark key="." line="24" column="24" />
-        <mark key="^" line="24" column="24" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer.ts" timestamp="1533247902322">
+        <mark key="[" line="3" column="40" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/doc/quickdata/ca/DeepLink-2015.txt" timestamp="1530750424827">
         <mark key="[" line="1" column="48" />
@@ -1148,47 +1139,50 @@
       <jump line="11" column="29" filename="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUuZXJyb3IoZXJyb3IpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIG9yaWdpbmFsTWV0aG9kLmFwcGx5KHRoaXMsIFtyZXF1ZXN0LCByZXNwb25zZSwgdmFsaWREYXRhXSk7Cg==</text>
+      <register name="0" type="4">
+        <text>const validData =</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuZXJyb3IoZXJyb3IpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gYXN5bmMgZnVuY3Rpb24gVGVzdERyaXZlU3RhdHVzQ2FsbGJhY2socmVxdWVzdDogUmVxdWVzdCwgcmVzcG9uc2U6IFJlc3BvbnNlKTogUHJvbWlzZTx2b2lkPiB7Ci8vICAgY29uc3QgdGVzdERyaXZlU2VydmljZTogVGVzdERyaXZlU2VydmljZSA9IG5ldyBUZXN0RHJpdmVTZXJ2aWNlKCk7Ci8vICAgdHJ5IHsKLy8gICAgIGNvbnN0IHJlc3VsdCA9IGF3YWl0IHRlc3REcml2ZVNlcnZpY2UudXBkYXRlVGVzdERyaXZlU3RhdHVzKAovLyAgICAgICByZXF1ZXN0LnBhcmFtcy5pZCwKLy8gICAgICAgcmVxdWVzdC5ib2R5LnN0YXR1cywKLy8gICAgICAgcmVxdWVzdC5ib2R5LmNvbW1lbnRzCi8vICAgICApOwovLyAgICAgcmVzcG9uc2UuanNvbihyZXN1bHQpOwovLyAgIH0gY2F0Y2ggKGVycm9yKSB7Ci8vICAgICByZXNwb25zZS5zdGF0dXMoNTAwKS5qc29uKHsKLy8gICAgICAgbWVzc2FnZTogIkZhaWxlZCB0byB1cGRhdGUgdGVzdCBkcml2ZSBzdGF0dXMiLAovLyAgICAgICBzdGFjazogZXJyb3Iuc3RhY2suc3BsaXQoIlxuIiksCi8vICAgICAgIGVycm9yCi8vICAgICB9KTsKLy8gICAgIHJldHVybjsKLy8gICB9Ci8vIH0K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuZXJyb3IoZXJyb3IpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gVGVzdERyaXZlQXBwLnBvc3QoIi8iLCBWYWxpZGF0ZVJlcXVlc3QoQ3JlYXRlVGVzdERyaXZlU2VyaWFsaXplciksIChyZXEsIHJlc3ApID0+IHsK</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIGZvcm1hdHRlcihkKSB7CiAgICAgIHJldHVybiB7CiAgICAgICAgbWVzc2FnZTogZC5tZXNzYWdlLnJlcGxhY2UoLyIvZywgIiciKSwKICAgICAgICBmaWVsZDogZC5wYXRoLmpvaW4oJy4nKQogICAgICB9OwogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gVGVzdERyaXZlQXBwLmdldCgiLzppZCIsIFZhbGlkYXRlVGVzdERyaXZlRXhpc3RzLCBHZXRUZXN0RHJpdmUpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGFyZ2V0LCB0aGlzKTsK</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="8" type="4">
+        <text>{
+        message: d.message.replace(/&quot;/g, &quot;'&quot;),
+        field: d.path.join('.')
+      }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gcmV0dXJuIG9yaWdpbmFsTWV0aG9kLmFwcGx5KHRoaXMsIFtyZXF1ZXN0LCByZXNwb25zZSwgdmFsaWREYXRhXSk7Cg==</text>
+        <text encoding="base64">ICBkZXRhaWxzPzogYW55IHwgYW55W107Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1244,8 +1238,8 @@
         <entry>130,180d</entry>
         <entry>160</entry>
         <entry>1</entry>
-        <entry>0</entry>
         <entry>32</entry>
+        <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
