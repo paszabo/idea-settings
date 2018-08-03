@@ -406,11 +406,11 @@
         <mark key="." line="0" column="32" />
         <mark key="^" line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" timestamp="1533245212606">
-        <mark key="[" line="29" column="4" />
-        <mark key="]" line="29" column="7" />
-        <mark key="." line="29" column="7" />
-        <mark key="^" line="29" column="7" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" timestamp="1533315024488">
+        <mark key="[" line="4" column="56" />
+        <mark key="]" line="4" column="66" />
+        <mark key="." line="4" column="66" />
+        <mark key="^" line="4" column="66" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/custombodytypes/index.ts" timestamp="1530897741555">
         <mark key="[" line="1" column="35" />
@@ -917,8 +917,10 @@
         <mark key="^" line="52" column="55" />
         <mark key="." line="52" column="55" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer.ts" timestamp="1533311070463">
-        <mark key="[" line="3" column="40" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer.ts" timestamp="1533315118042">
+        <mark key="[" line="126" column="18" />
+        <mark key="]" line="126" column="18" />
+        <mark key="." line="126" column="18" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/doc/quickdata/ca/DeepLink-2015.txt" timestamp="1530750424827">
         <mark key="[" line="1" column="48" />
@@ -1051,7 +1053,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="11" filename="$USER_HOME$/dev/repos/automp-be/Dockerfile" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/repos/automp-be/database/views.ts" />
       <jump line="0" column="38" filename="$USER_HOME$/dev/repos/automp-be/src/injector/registry.ts" />
       <jump line="9" column="9" filename="$USER_HOME$/dev/repos/automp-be/config/knexfile.ts" />
@@ -1151,69 +1152,66 @@
       <jump line="182" column="14" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" />
       <jump line="162" column="30" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" />
       <jump line="11" column="29" filename="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer.ts" />
+      <jump line="80" column="21" filename="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Validator</text>
+        <text>Result</text>
       </register>
       <register name="-" type="4">
-        <text>Validator</text>
+        <text>Result</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXN1bHRcPg==</text>
+        <text>ValidationErrorStatus</text>
       </register>
       <register name="0" type="4">
         <text>const validData =</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuZXJyb3IoZXJyb3IpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgLyoqCiAgICoKICAgKiBAcGFyYW0ge1ZhbGlkYXRpb25SZXN1bHR9IHJlc3VsdAogICAqIEByZXR1cm5zIHthbnl9CiAgICovCiAgcHJvdGVjdGVkIGhhbmRsZVJlc3VsdChyZXN1bHQ6IEpvaS5WYWxpZGF0aW9uUmVzdWx0PFQ+KTogUGFydGlhbDxUPiB7CiAgICBjb25zb2xlLmxvZyhyZXN1bHQpOwogICAgaWYgKHJlc3VsdC5lcnJvcikgewogICAgICB0aHJvdyB0aGlzLnZhbGlkYXRpb25FcnJvclBheWxvYWQocmVzdWx0LmVycm9yKTsKICAgIH0KCiAgICByZXR1cm4gdGhpcy52YWxpZGF0aW9uU3VjY2VzcyhyZXN1bHQpOwogIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcm90ZWN0ZWQgaGFuZGxlKHJlc3VsdDogSm9pLlZhbGlkYXRpb25SZXN1bHQ8VD4pOiBQYXJ0aWFsPFQ+IHsKICAgIAogIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuZXJyb3IoZXJyb3IpOwo=</text>
+        <text encoding="base64">ICAgIEpvaS52YWxpZGF0ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIGZvcm1hdHRlcihkKSB7CiAgICAgIHJldHVybiB7CiAgICAgICAgbWVzc2FnZTogZC5tZXNzYWdlLnJlcGxhY2UoLyIvZywgIiciKSwKICAgICAgICBmaWVsZDogZC5wYXRoLmpvaW4oJy4nKQogICAgICB9OwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zY2hlbWEsCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>{
-        message: d.message.replace(/&quot;/g, &quot;'&quot;),
-        field: d.path.join('.')
-      }</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBkZXRhaWxzPzogYW55IHwgYW55W107Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgLyoqCiAgICoKICAgKiBAcmV0dXJucyB7UGFydGlhbDxUPn0KICAgKiBAY29uc3RydWN0b3IKICAgKi8KICBwdWJsaWMgZ2V0IFZhbGlkYXRlZERhdGEoKTogUGFydGlhbDxUPiB7CiAgICByZXR1cm4gdGhpcy52YWxpZGF0ZWREYXRhOwogIH0=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXN1bHRcPg==</last-search>
+      <last-search>ValidationErrorStatus</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXN1bHRcPg==</last-pattern>
+      <last-pattern>ValidationErrorStatus</last-pattern>
       <last-replace>:\/app\/</last-replace>
       <last-substitute>:\.\/</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>cat</entry>
         <entry encoding="base64">XDxUT0RPXD4=</entry>
         <entry encoding="base64">XDxUZXN0XD4=</entry>
         <entry>next</entry>
@@ -1233,6 +1231,7 @@
         <entry encoding="base64">XDx7XD4=</entry>
         <entry encoding="base64">XDxWYWxpZGF0ZWREYXRhXD4=</entry>
         <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
+        <entry>ValidationErrorStatus</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
