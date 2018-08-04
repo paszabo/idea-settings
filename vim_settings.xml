@@ -571,11 +571,12 @@
         <mark key="^" line="19" column="6" />
         <mark key="." line="236" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer/base-serializer.ts" timestamp="1533323195327">
-        <mark key="[" line="8" column="29" />
-        <mark key="]" line="8" column="38" />
-        <mark key="." line="8" column="38" />
-        <mark key="^" line="8" column="38" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer/base-serializer.ts" timestamp="1533425125178">
+        <mark key="'" line="39" column="50" />
+        <mark key="[" line="72" column="37" />
+        <mark key="]" line="72" column="64" />
+        <mark key="." line="72" column="64" />
+        <mark key="^" line="72" column="64" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/injector/registry.ts" timestamp="1531190002547">
         <mark key="'" line="0" column="38" />
@@ -589,6 +590,13 @@
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer/joi-serializer.ts" timestamp="1533425183542">
+        <mark key="'" line="50" column="33" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="30" column="6" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/mock-data/index.js" timestamp="1530889095764">
         <mark key="[" line="0" column="0" />
@@ -902,6 +910,9 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
+      <file name="/fragment.ts" timestamp="1533424364995">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/automp-be/database/migrations/20180710161653_woof.ts" timestamp="1531253940853">
         <mark key="[" line="7" column="9" />
         <mark key="]" line="7" column="9" />
@@ -1096,9 +1107,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="31" filename="$USER_HOME$/hackday-1-business-1/src/App.js" />
-      <jump line="149" column="35" filename="$USER_HOME$/hackday-1-business-1/src/App.js" />
-      <jump line="192" column="14" filename="$USER_HOME$/hackday-1-business-1/src/App.js" />
       <jump line="31" column="33" filename="$USER_HOME$/hackday-1-business-1/src/App.js" />
       <jump line="18" column="37" filename="$USER_HOME$/hackday-1-business-1/src/App.js" />
       <jump line="25" column="14" filename="$USER_HOME$/hackday-1-business-1/src/App.js" />
@@ -1196,58 +1204,61 @@
       <jump line="73" column="56" filename="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer/joi-serializer.ts" />
       <jump line="23" column="5" filename="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer/joi-serializer.ts" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/core/api/exceptions.ts" />
+      <jump line="20" column="50" filename="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer/base-serializer.ts" />
+      <jump line="115" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer/joi-serializer.ts" />
+      <jump line="50" column="33" filename="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer/joi-serializer.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ID4vZGV2L251bGw=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICovCgoK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID4vZGV2L251bGw=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>pres</text>
+        <text>getdata</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAicGFyc2VyIjogInR5cGVzY3JpcHQiLAo=</text>
+        <text encoding="base64">ICAgICAqIEdldCBhY2Nlc3MgdG8gYSBjb3B5IG9mIGFsbCBhdmFpbGFibGUgZGF0YQogICAgICoKICAgICAqIEluY2x1ZGVzIGRhdGEgZnJvbToKICAgICAqICAqIFJlcXVlc3QgYm9keQogICAgICogICogRGF0YSBwYXNzZWQgaW50byBjb25zdHJ1Y3RvcgogICAgICogICogQW55IGV4dHJhIGRhdGEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICovCgoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICIqIjogWwogICAgICAicHJldHRpZXIgLS13cml0ZSBzcmMvKiIKICAgIF0s</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSB7T2JqZWN0U2NoZW1hfSBzY2hlbWEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSB7T2JqZWN0U2NoZW1hfSBzY2hlbWEgLSBJZiBwYXNzZWQgaW4gd2lsbCBvdmVycmlkZSBkZWNsYXJhdGl2ZQogICAgICogIHNjaGVtYSBpZiBkZWZpbmVkIGF0IHRoZSBjbGFzcyBsZXZlbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIiIK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSB7UGFydGlhbDxUPn0gc3RhdGU6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgImZpbGVzIjogInNyYy8qLnRzIiwKICAgICAgIm9wdGlvbnMiOiB7CiAgICAgICAgInBhcnNlciI6ICJ0eXBlc2NyaXB0IiwKICAgICAgICAidGFiV2lkdGgiOiA0LAogICAgICAgICJwcmludFdpZHRoIjogODAsCiAgICAgICAgInNlbWkiOiB0cnVlLAogICAgICAgICJ0cmFpbGluZ0NvbW1hIjogImFsbCIsCiAgICAgICAgInNpbmdsZVF1b3RlIjogdHJ1ZSwKICAgICAgICAiYnJhY2tldFNwYWNpbmciOiBmYWxzZSwKICAgICAgICAidXNlVGFicyI6IGZhbHNlCiAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgICAqICAgIHByZXNlbnQgaW4gcmVxdWVzdCBib2R5Lgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAqICBzY2hlbWEgaWYgZGVmaW5lZCBhdCB0aGUgY2xhc3MgbGV2ZWwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSB7ZS5SZXF1ZXN0fSByZXF1ZXN0CiAgICAgKiBAcGFyYW0ge2UuUmVzcG9uc2V9IHJlc3Bvc2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSB7ZS5SZXF1ZXN0fSByZXF1ZXN0CiAgICAgKiBAcGFyYW0ge2UuUmVzcG9uc2V9IHJlc3BvbnNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSB7ZS5SZXF1ZXN0fSByZXF1ZXN0CiAgICAgKiBAcGFyYW0ge2UuUmVzcG9uc2V9IHJlc3BvbnNlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>pres</last-search>
+      <last-search>getdata</last-search>
       <last-offset />
-      <last-pattern>pres</last-pattern>
+      <last-pattern>getdata</last-pattern>
       <last-replace>:\/app\/</last-replace>
       <last-substitute>:\.\/</last-substitute>
       <last-dir>1</last-dir>
@@ -1255,8 +1266,6 @@
     </search>
     <history>
       <history-search>
-        <entry>TestDriveSlotsTable</entry>
-        <entry>:\.\/</entry>
         <entry>Table</entry>
         <entry>catch</entry>
         <entry>atch</entry>
@@ -1275,10 +1284,10 @@
         <entry>Tables</entry>
         <entry>prot</entry>
         <entry>pres</entry>
+        <entry>this.data</entry>
+        <entry>getdata</entry>
       </history-search>
       <history-cmd>
-        <entry>49</entry>
-        <entry>68</entry>
         <entry>100</entry>
         <entry>194</entry>
         <entry>227</entry>
@@ -1293,9 +1302,11 @@
         <entry>1</entry>
         <entry>13</entry>
         <entry>3</entry>
-        <entry>0</entry>
         <entry>ew</entry>
         <entry>25</entry>
+        <entry>47</entry>
+        <entry>0</entry>
+        <entry>35</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
