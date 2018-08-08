@@ -704,10 +704,11 @@
         <mark key="." line="9" column="26" />
         <mark key="^" line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/.dockerignore" timestamp="1533220197513">
+      <file name="$USER_HOME$/dev/repos/automp-be/.dockerignore" timestamp="1533755947019">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
+        <mark key="^" line="0" column="3" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/injector/provide.ts" timestamp="1531190091714">
         <mark key="[" line="2" column="16" />
@@ -774,10 +775,11 @@
         <mark key="^" line="17" column="65" />
         <mark key="." line="17" column="65" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer/exceptions.ts" timestamp="1533324355887">
-        <mark key="[" line="31" column="53" />
-        <mark key="]" line="31" column="53" />
-        <mark key="." line="31" column="53" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer/exceptions.ts" timestamp="1533756266221">
+        <mark key="[" line="4" column="39" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/api/server/routes/index.ts" timestamp="1530487560673">
         <mark key="[" line="0" column="0" />
@@ -853,12 +855,12 @@
         <mark key="." line="59" column="12" />
         <mark key="^" line="59" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer/joi-serializer.ts" timestamp="1533744588102">
-        <mark key="'" line="127" column="16" />
-        <mark key="[" line="23" column="48" />
-        <mark key="]" line="23" column="56" />
-        <mark key="." line="23" column="56" />
-        <mark key="^" line="23" column="56" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer/joi-serializer.ts" timestamp="1533756304297">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="5" column="37" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/api/error-handler.ts" timestamp="1533423323385">
         <mark key="[" line="0" column="0" />
@@ -1117,7 +1119,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="224" column="12" filename="$USER_HOME$/hackday-1-business-1/src/App.js" />
       <jump line="26" column="7" filename="$USER_HOME$/hackday-1-business-1/src/App.js" />
       <jump line="123" column="13" filename="$USER_HOME$/hackday-1-business-1/src/parse_license_plate.js" />
       <jump line="13" column="6" filename="$USER_HOME$/hackday-1-business-1/src/parse_license_plate.js" />
@@ -1217,10 +1218,11 @@
       <jump line="122" column="11" filename="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer/joi-serializer.ts" />
       <jump line="127" column="16" filename="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer/joi-serializer.ts" />
       <jump line="20" column="25" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/types.ts" />
+      <jump line="6" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer/joi-serializer.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gY29uc3QgeyBUQUJMRVMgfSA9IHJlcXVpcmUoIi4uL2NvbnN0YW50cyIpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHtQYXJ0aWFsfSBmcm9tICcuLi8uLi8uLi90ZXN0LWRyaXZlJzsK</text>
       </register>
       <register name="-" type="4">
         <text>, Partial</text>
@@ -1232,34 +1234,34 @@
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocy5uYW1lKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gY29uc3QgeyBUQUJMRVMgfSA9IHJlcXVpcmUoIi4uL2NvbnN0YW50cyIpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHtQYXJ0aWFsfSBmcm9tICcuLi8uLi8uLi90ZXN0LWRyaXZlJzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gY29uc3QgeyBUQUJMRVMgfSA9IHJlcXVpcmUoIi4uL2NvbnN0YW50cyIpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHtBUElFcnJvcn0gZnJvbSAnLi4vZXhjZXB0aW9ucyc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0ZXN0RHJpdmVJZFswXSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtBUElFcnJvcn0gZnJvbSAnLi4vZXhjZXB0aW9ucyc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtSZXNwb25zZX0gZnJvbSAnZXhwcmVzcyc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY3JlYXRlZCBuZXcgdGVzdGRyaXZlIHdpdGggaWQnLCB0ZXN0RHJpdmVJZFswXSk7CgogICAgICAgIGNvbnNvbGUubG9nKHRpbWVzbG90cyk7Cgo=</text>
+        <text encoding="base64">Ly8gY29uc3QgeyBUQUJMRVMgfSA9IHJlcXVpcmUoIi4uL2NvbnN0YW50cyIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnRhY3RfZm9ybT86IENvbnRhY3RGb3JtOwo=</text>
+        <text encoding="base64">Ly8gY29uc3QgeyBUQUJMRVMgfSA9IHJlcXVpcmUoIi4uL2NvbnN0YW50cyIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCiAqIFNrZWxldG9uIG9mIGEgdGVzdCBkcml2ZQogKgogKiBUT0RPOiBBZGQgZmllbGRzOgogKiAgLSBRdWVzdGlvbm5haXJlCiAqLwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0ZXN0RHJpdmVJZFswXSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbXBvc2l0aW9uIGZpZWxkcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByZWZlcnJlZENvbnRhY3RNZXRob2Q6ICdwaG9uZScgfCAnZW1haWwnOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY3JlYXRlZCBuZXcgdGVzdGRyaXZlIHdpdGggaWQnLCB0ZXN0RHJpdmVJZFswXSk7CgogICAgICAgIGNvbnNvbGUubG9nKHRpbWVzbG90cyk7Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1298,7 +1300,6 @@
         <entry>ObjectSchema</entry>
       </history-search>
       <history-cmd>
-        <entry>194</entry>
         <entry>227</entry>
         <entry>e</entry>
         <entry>36</entry>
@@ -1317,6 +1318,7 @@
         <entry>35</entry>
         <entry>57</entry>
         <entry>0</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
