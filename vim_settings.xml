@@ -82,7 +82,7 @@
         <mark key="^" line="51" column="43" />
         <mark key="." line="51" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.serializers.ts" timestamp="1533744058166">
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.serializers.ts" timestamp="1533746456175">
         <mark key="[" line="70" column="0" />
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
@@ -106,12 +106,12 @@
         <mark key="." line="27" column="16" />
         <mark key="^" line="27" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" timestamp="1533221671526">
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" timestamp="1533746605964">
         <mark key="'" line="10" column="62" />
-        <mark key="[" line="120" column="114" />
-        <mark key="]" line="120" column="114" />
-        <mark key="." line="120" column="114" />
-        <mark key="^" line="120" column="114" />
+        <mark key="[" line="42" column="22" />
+        <mark key="]" line="42" column="33" />
+        <mark key="." line="42" column="33" />
+        <mark key="^" line="42" column="33" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/csv/parser.ts" timestamp="1531157969602">
         <mark key="[" line="5" column="0" />
@@ -181,12 +181,12 @@
         <mark key="^" line="86" column="3" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/types.ts" timestamp="1533235796211">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="38" column="25" />
-        <mark key="]" line="39" column="21" />
-        <mark key="." line="39" column="21" />
-        <mark key="^" line="39" column="21" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/types.ts" timestamp="1533746712487">
+        <mark key="'" line="20" column="25" />
+        <mark key="[" line="28" column="1" />
+        <mark key="]" line="28" column="14" />
+        <mark key="." line="28" column="14" />
+        <mark key="^" line="28" column="14" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/api/server/index.ts" timestamp="1530487756514">
         <mark key="[" line="0" column="0" />
@@ -1106,7 +1106,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="11" filename="$USER_HOME$/hackday-1-business-1/src/App.js" />
       <jump line="224" column="12" filename="$USER_HOME$/hackday-1-business-1/src/App.js" />
       <jump line="26" column="7" filename="$USER_HOME$/hackday-1-business-1/src/App.js" />
       <jump line="123" column="13" filename="$USER_HOME$/hackday-1-business-1/src/parse_license_plate.js" />
@@ -1206,13 +1205,14 @@
       <jump line="32" column="20" filename="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer/joi-serializer.ts" />
       <jump line="122" column="11" filename="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer/joi-serializer.ts" />
       <jump line="127" column="16" filename="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer/joi-serializer.ts" />
+      <jump line="20" column="25" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/types.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>validatie</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnRhY3RfZm9ybT86IENvbnRhY3RGb3JtOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>validatie</text>
+        <text>any</text>
       </register>
       <register name="/" type="4">
         <text>ObjectSchema</text>
@@ -1221,34 +1221,34 @@
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocy5uYW1lKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgIGNvbnRhY3RfZm9ybT86IENvbnRhY3RGb3JtOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHtPYmplY3RTY2hlbWF9IGZyb20gJ2pvaSc7Cg==</text>
+        <text encoding="base64">LyoqCiAqIFNrZWxldG9uIG9mIGEgdGVzdCBkcml2ZQogKgogKiBUT0RPOiBBZGQgZmllbGRzOgogKiAgLSBRdWVzdGlvbm5haXJlCiAqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbXBvc2l0aW9uIGZpZWxkcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByZWZlcnJlZENvbnRhY3RNZXRob2Q6ICdwaG9uZScgfCAnZW1haWwnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHtSZXF1ZXN0LCBSZXNwb25zZX0gZnJvbSAnZXhwcmVzcyc7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU2VyaWFsaXplPFQ+KAogICAgICAgIGNsczogSm9pU2VyaWFsaXplcjxUPiwKICAgICAgICByZXF1ZXN0OiBSZXF1ZXN0LAogICAgICAgIHJlc3BvbnNlOiBSZXNwb25zZSwKICAgICAgICBkYXRhOiBQYXJ0aWFsPFQ+LAogICAgICAgIHNjaGVtYTogT2JqZWN0U2NoZW1hID0gbnVsbCwKICAgICkgewogICAgICAgIGNvbnN0IGluc3QgPSBjbHMuY29uc3RydWN0b3IocmVxdWVzdCwgcmVzcG9uc2UsIGRhdGEsIHNjaGVtYSk7CgogICAgICAgIHJldHVybjsKICAgIH0K</text>
+        <text encoding="base64">ICogIC0gY29tbWVudHMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCiAqIERlY29yYXRvciB0byB2YWxpZGF0ZSB0aGUgcmVxdWVzdCBhZ2FpbnN0IHRoZSBnaXZlbiBzY2hlbWEKICoKICogQHBhcmFtIHtPYmplY3RTY2hlbWF9IHNjaGVtYQogKiBAcGFyYW0geyhBUElFcnJvciwgUmVzcG9uc2UsIG51bWJlcikgPT4gdm9pZH0gZXJyb3JIYW5kbGVyCiAqIEByZXR1cm5zIHsodGFyZ2V0OiBhbnksIGtleTogKHN0cmluZyB8IHN5bWJvbCksIGRlc2NyaXB0b3I6IFByb3BlcnR5RGVzY3JpcHRvcikgPT4gUHJvcGVydHlEZXNjcmlwdG9yfQogKi8KCg==</text>
+        <text encoding="base64">ICogIC0gQ29udGFjdCBmb3JtCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogIC0gY29tbWVudHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbXBvc2l0ZSBmaWVsZHMK</text>
+        <text encoding="base64">ICogIC0gUXVlc3Rpb25uYWlyZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1287,7 +1287,6 @@
         <entry>ObjectSchema</entry>
       </history-search>
       <history-cmd>
-        <entry>100</entry>
         <entry>194</entry>
         <entry>227</entry>
         <entry>e</entry>
@@ -1304,8 +1303,9 @@
         <entry>ew</entry>
         <entry>25</entry>
         <entry>47</entry>
-        <entry>0</entry>
         <entry>35</entry>
+        <entry>0</entry>
+        <entry>57</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
