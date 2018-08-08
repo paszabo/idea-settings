@@ -82,11 +82,11 @@
         <mark key="^" line="51" column="43" />
         <mark key="." line="51" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.serializers.ts" timestamp="1533432111296">
-        <mark key="[" line="78" column="14" />
-        <mark key="]" line="78" column="22" />
-        <mark key="." line="78" column="22" />
-        <mark key="^" line="78" column="22" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.serializers.ts" timestamp="1533744058166">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+        <mark key="^" line="60" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/motive-data/packages/incentives/api/src/bin/incentives-api" timestamp="1529955277919">
         <mark key="[" line="15" column="0" />
@@ -428,7 +428,7 @@
         <mark key="." line="0" column="32" />
         <mark key="^" line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" timestamp="1533433452374">
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" timestamp="1533743647627">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
@@ -570,10 +570,12 @@
         <mark key="^" line="19" column="6" />
         <mark key="." line="236" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer/base-serializer.ts" timestamp="1533433498071">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer/base-serializer.ts" timestamp="1533744174471">
+        <mark key="'" line="76" column="32" />
+        <mark key="[" line="59" column="12" />
+        <mark key="]" line="59" column="12" />
+        <mark key="." line="59" column="12" />
+        <mark key="^" line="59" column="50" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/injector/registry.ts" timestamp="1531190002547">
         <mark key="'" line="0" column="38" />
@@ -588,12 +590,12 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer/joi-serializer.ts" timestamp="1533434057592">
-        <mark key="'" line="50" column="33" />
-        <mark key="[" line="51" column="70" />
-        <mark key="]" line="51" column="20" />
-        <mark key="." line="51" column="20" />
-        <mark key="^" line="51" column="20" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer/joi-serializer.ts" timestamp="1533744588102">
+        <mark key="'" line="127" column="16" />
+        <mark key="[" line="23" column="48" />
+        <mark key="]" line="23" column="56" />
+        <mark key="." line="23" column="56" />
+        <mark key="^" line="23" column="56" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/mock-data/index.js" timestamp="1530889095764">
         <mark key="[" line="0" column="0" />
@@ -736,10 +738,10 @@
         <mark key="." line="22" column="27" />
         <mark key="^" line="22" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/server/index.ts" timestamp="1532768007027">
-        <mark key="[" line="16" column="51" />
-        <mark key="]" line="16" column="51" />
-        <mark key="." line="16" column="51" />
+      <file name="$USER_HOME$/dev/repos/automp-be/server/index.ts" timestamp="1533743785082">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
         <mark key="^" line="67" column="21" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/config.js" timestamp="1530885105753">
@@ -1104,14 +1106,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="14" filename="$USER_HOME$/hackday-1-business-1/src/App.js" />
-      <jump line="95" column="37" filename="$USER_HOME$/hackday-1-business-1/src/App.js" />
-      <jump line="112" column="11" filename="$USER_HOME$/hackday-1-business-1/src/App.js" />
-      <jump line="179" column="12" filename="$USER_HOME$/hackday-1-business-1/src/App.js" />
-      <jump line="30" column="49" filename="$USER_HOME$/hackday-1-business-1/src/parse_license_plate.js" />
-      <jump line="81" column="15" filename="$USER_HOME$/hackday-1-business-1/src/parse_license_plate.js" />
-      <jump line="59" column="6" filename="$USER_HOME$/hackday-1-business-1/src/parse_license_plate.js" />
-      <jump line="68" column="17" filename="$USER_HOME$/hackday-1-business-1/src/App.js" />
       <jump line="156" column="11" filename="$USER_HOME$/hackday-1-business-1/src/App.js" />
       <jump line="224" column="12" filename="$USER_HOME$/hackday-1-business-1/src/App.js" />
       <jump line="26" column="7" filename="$USER_HOME$/hackday-1-business-1/src/App.js" />
@@ -1204,66 +1198,73 @@
       <jump line="50" column="33" filename="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer/joi-serializer.ts" />
       <jump line="25" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer/base-serializer.ts" />
       <jump line="26" column="22" filename="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer/base-serializer.ts" />
+      <jump line="71" column="32" filename="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer/base-serializer.ts" />
+      <jump line="18" column="3" filename="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer/joi-serializer.ts" />
+      <jump line="44" column="15" filename="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer/joi-serializer.ts" />
+      <jump line="1" column="8" filename="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer/joi-serializer.ts" />
+      <jump line="26" column="15" filename="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer/joi-serializer.ts" />
+      <jump line="32" column="20" filename="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer/joi-serializer.ts" />
+      <jump line="122" column="11" filename="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer/joi-serializer.ts" />
+      <jump line="127" column="16" filename="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer/joi-serializer.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>validatie</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>validatie</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJbnN0YW5jZVw+</text>
+        <text>ObjectSchema</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocy5uYW1lKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">aW1wb3J0IHtPYmplY3RTY2hlbWF9IGZyb20gJ2pvaSc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBzZXJpYWxpemU8VGVzdERyaXZlPihDcmVhdGVUZXN0RHJpdmVTZXJpYWxpemVyVjIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCd0eXBlb2YgcycpOwogICAgICAgICAgICBjb25zb2xlLmxvZyh0eXBlb2Ygcyk7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKHMubmFtZSk7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKHMuY29uc3RydWN0b3IubmFtZSk7</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHtSZXF1ZXN0LCBSZXNwb25zZX0gZnJvbSAnZXhwcmVzcyc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU2VyaWFsaXplPFQ+KAogICAgICAgIGNsczogSm9pU2VyaWFsaXplcjxUPiwKICAgICAgICByZXF1ZXN0OiBSZXF1ZXN0LAogICAgICAgIHJlc3BvbnNlOiBSZXNwb25zZSwKICAgICAgICBkYXRhOiBQYXJ0aWFsPFQ+LAogICAgICAgIHNjaGVtYTogT2JqZWN0U2NoZW1hID0gbnVsbCwKICAgICkgewogICAgICAgIGNvbnN0IGluc3QgPSBjbHMuY29uc3RydWN0b3IocmVxdWVzdCwgcmVzcG9uc2UsIGRhdGEsIHNjaGVtYSk7CgogICAgICAgIHJldHVybjsKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgUyBleHRlbmRzIEpvaS5PYmplY3RTY2hlbWEgewogICAgCn0K</text>
+        <text encoding="base64">LyoqCiAqIERlY29yYXRvciB0byB2YWxpZGF0ZSB0aGUgcmVxdWVzdCBhZ2FpbnN0IHRoZSBnaXZlbiBzY2hlbWEKICoKICogQHBhcmFtIHtPYmplY3RTY2hlbWF9IHNjaGVtYQogKiBAcGFyYW0geyhBUElFcnJvciwgUmVzcG9uc2UsIG51bWJlcikgPT4gdm9pZH0gZXJyb3JIYW5kbGVyCiAqIEByZXR1cm5zIHsodGFyZ2V0OiBhbnksIGtleTogKHN0cmluZyB8IHN5bWJvbCksIGRlc2NyaXB0b3I6IFByb3BlcnR5RGVzY3JpcHRvcikgPT4gUHJvcGVydHlEZXNjcmlwdG9yfQogKi8KCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbXBvc2l0ZSBmaWVsZHMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxJbnN0YW5jZVw+</last-search>
+      <last-search>ObjectSchema</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJbnN0YW5jZVw+</last-pattern>
+      <last-pattern>ObjectSchema</last-pattern>
       <last-replace>:\/app\/</last-replace>
       <last-substitute>:\.\/</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>catch</entry>
         <entry>atch</entry>
         <entry>timestamps</entry>
         <entry>Tie</entry>
@@ -1283,6 +1284,7 @@
         <entry>this.data</entry>
         <entry>getdata</entry>
         <entry encoding="base64">XDxJbnN0YW5jZVw+</entry>
+        <entry>ObjectSchema</entry>
       </history-search>
       <history-cmd>
         <entry>100</entry>
