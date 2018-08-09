@@ -708,9 +708,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/database/seeds/test-drive-status-codes.ts" timestamp="1533836782061">
-        <mark key="'" line="6" column="69" />
-        <mark key="[" line="0" column="29" />
+      <file name="$USER_HOME$/dev/repos/automp-be/database/seeds/test-drive-status-codes.ts" timestamp="1533837253356">
+        <mark key="'" line="13" column="69" />
+        <mark key="[" line="57" column="14" />
+        <mark key="]" line="57" column="20" />
+        <mark key="^" line="57" column="20" />
+        <mark key="." line="57" column="20" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/.joyride-etlrc" timestamp="1532026420454">
         <mark key="'" line="32" column="23" />
@@ -908,12 +911,12 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/database/migrations/20180727233613_test-drive-tables.ts" timestamp="1533833090350">
-        <mark key="'" line="66" column="8" />
-        <mark key="[" line="13" column="44" />
-        <mark key="]" line="13" column="57" />
-        <mark key="." line="13" column="57" />
-        <mark key="^" line="13" column="57" />
+      <file name="$USER_HOME$/dev/repos/automp-be/database/migrations/20180727233613_test-drive-tables.ts" timestamp="1533837089259">
+        <mark key="'" line="59" column="8" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+        <mark key="^" line="11" column="57" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/csv/index.ts" timestamp="1530751602439">
         <mark key="[" line="2" column="32" />
@@ -1031,10 +1034,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/constants.ts" timestamp="1533837001705">
-        <mark key="[" line="25" column="45" />
-        <mark key="]" line="25" column="45" />
-        <mark key="." line="25" column="45" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/constants.ts" timestamp="1533837281656">
+        <mark key="[" line="30" column="44" />
+        <mark key="]" line="30" column="70" />
+        <mark key="." line="30" column="70" />
+        <mark key="^" line="30" column="70" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/db/src/tables.ts" timestamp="1530487173039">
         <mark key="[" line="3" column="17" />
@@ -1190,11 +1194,11 @@
       <jump line="5" column="69" filename="$USER_HOME$/dev/repos/automp-be/database/seeds/test-drive-status-codes.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text encoding="base64">Y29kZXMg</text>
       </register>
       <register name="/" type="4">
         <text>rows</text>
@@ -1203,34 +1207,34 @@
         <text encoding="base64">ICAgIFN0YXR1c01hcHBpbmcuc2V0KENvbXBsZXRlLCAnVGVzdCBEcml2ZSBDb21wbGV0ZScpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgogICAgLy8gU3RhdHVzTWFwcGluZ1tOZXddID0gJ05ldyc7CiAgICAvLyBTdGF0dXNNYXBwaW5nW1BlbmRpbmdWYWxpZGF0aW9uXSA9ICdQZW5kaW5nIEVtYWlsIEFkZHJlc3MgVmFsaWRhdGlvbic7CiAgICAvLyBTdGF0dXNNYXBwaW5nW1N1Ym1pdHRlZF0gPSAnVGVzdCBEcml2ZSBSZXF1ZXN0IFN1Ym1pdHRlZCB0byBEZWFsZXInOwogICAgLy8gU3RhdHVzTWFwcGluZ1tCb29rZWRdID0gJ1Rlc3QgRHJpdmUgQm9va2VkJzsKICAgIC8vIFN0YXR1c01hcHBpbmdbQ2FuY2VsbGVkXSA9ICdUZXN0IERyaXZlIENhbmNlbGxlZCc7CiAgICAvLyBTdGF0dXNNYXBwaW5nW0NvbXBsZXRlXSA9ICdUZXN0IERyaXZlIENvbXBsZXRlJzsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFN0YXR1c01hcHBpbmcuc2V0KENvbXBsZXRlLCAnVGVzdCBEcml2ZSBDb21wbGV0ZWQnKTsK</text>
+        <text encoding="base64">ICAgIC8vIHRhYmxlLmVudW0oJ3N0YXR1cycsIFN0YXR1c0Nob2ljZXMpLm5vdE51bGxhYmxlKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IFN0YXR1c01hcHBpbmcgPSBUZXN0RHJpdmVTdGF0dXNlcy5TdGF0dXNNYXBwaW5nOwo=</text>
+        <text encoding="base64">ICAgIC8vIHRhYmxlCiAgICAvLyAgICAgLmVudW0oJ3N0YXR1cycsIFN0YXR1c0Nob2ljZXMpCiAgICAvLyAgICAgLm5vdE51bGxhYmxlKCkKICAgIC8vICAgICAuZGVmYXVsdFRvKCduZXcnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ci8vIGNvbnN0IFN0YXR1c0Nob2ljZXM6IHN0cmluZ1tdID0gWyduZXcnLCAncGVuZGluZy12YWxpZGF0aW9uJywgJ2Jvb2tlZCcsICdjYW5jZWxsZWQnLCAnY29tcGxldGUnXTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgogICAgLy8gU3RhdHVzTWFwcGluZ1tOZXddID0gJ05ldyc7CiAgICAvLyBTdGF0dXNNYXBwaW5nW1BlbmRpbmdWYWxpZGF0aW9uXSA9ICdQZW5kaW5nIEVtYWlsIEFkZHJlc3MgVmFsaWRhdGlvbic7CiAgICAvLyBTdGF0dXNNYXBwaW5nW1N1Ym1pdHRlZF0gPSAnVGVzdCBEcml2ZSBSZXF1ZXN0IFN1Ym1pdHRlZCB0byBEZWFsZXInOwogICAgLy8gU3RhdHVzTWFwcGluZ1tCb29rZWRdID0gJ1Rlc3QgRHJpdmUgQm9va2VkJzsKICAgIC8vIFN0YXR1c01hcHBpbmdbQ2FuY2VsbGVkXSA9ICdUZXN0IERyaXZlIENhbmNlbGxlZCc7CiAgICAvLyBTdGF0dXNNYXBwaW5nW0NvbXBsZXRlXSA9ICdUZXN0IERyaXZlIENvbXBsZXRlJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IHVwc2VydE5ld1ZhbHVlcyA9IFtdOwogICAgLy8gZm9yIChjb25zdCBbY29kZSwgZGVzY3JpcHRpb25dIG9mIFRlc3REcml2ZVN0YXR1c2VzLlN0YXR1c01hcHBpbmcuZW50cmllcygpKSB7CiAgICAvLyAgICAgdXBzZXJ0TmV3VmFsdWVzLnB1c2goVXBzZXJ0U3RhdHVzKGtuZXgsIGNvZGUsIGRlc2NyaXB0aW9uKSk7CiAgICAvLyB9Cg==</text>
+        <text encoding="base64">ICAgIFN0YXR1c01hcHBpbmcuc2V0KENvbXBsZXRlLCAnVGVzdCBEcml2ZSBDb21wbGV0ZWQnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgUHJvbWlzZSBmcm9tICdibHVlYmlyZCc7Cg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0IFN0YXR1c01hcHBpbmcgPSBUZXN0RHJpdmVTdGF0dXNlcy5TdGF0dXNNYXBwaW5nOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAvLyByZXR1cm4gUHJvbWlzZS5hbGwoWy4uLmluc2VydFN0YXR1c0NvZGVzLCBpbnNlcnRTdGF0dXNDb2Rlc10pOwogICAgLy8gcmV0dXJuIFByb21pc2UuYWxsKFsuLi5pbnNlcnRTdGF0dXNDb2RlcywgZGVhY3RpdmF0ZU9sZFZhbHVlc10pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGluc2VydFN0YXR1c0NvZGVzID0gTmV3VmFsdWVzKGtuZXgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
