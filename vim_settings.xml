@@ -28,9 +28,6 @@
         <mark key="." line="171" column="0" />
         <mark key="^" line="168" column="6" />
       </file>
-      <file name="/a.dummy" timestamp="1533839564559">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/api/database/index.ts" timestamp="1530488272641">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="0" column="17" />
@@ -62,11 +59,23 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="36" column="17" />
       </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/src/core/auth/oauth.ts" timestamp="1534091204410">
+        <mark key="[" line="4" column="38" />
+        <mark key="]" line="4" column="48" />
+        <mark key="." line="4" column="48" />
+        <mark key="^" line="4" column="48" />
+      </file>
       <file name="$USER_HOME$/dev/repos/auto-core-incentives-api/.circleci/codedeploy/appspec.yml" timestamp="1532017678552">
         <mark key="[" line="27" column="15" />
         <mark key="]" line="27" column="16" />
         <mark key="." line="27" column="16" />
         <mark key="^" line="27" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/src/core/auth/oauth/bearer-token.ts" timestamp="1534091730814">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="62" />
+        <mark key="^" line="9" column="62" />
+        <mark key="." line="9" column="62" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" timestamp="1533850307507">
         <mark key="[" line="17" column="7" />
@@ -80,7 +89,6 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/models/index.ts" timestamp="1533834439976" />
       <file name="$USER_HOME$/dev/repos/automp-be/config/index.ts" timestamp="1530911601161">
         <mark key="[" line="0" column="31" />
         <mark key="]" line="0" column="32" />
@@ -245,9 +253,6 @@
         <mark key="]" line="1" column="35" />
         <mark key="." line="1" column="35" />
         <mark key="^" line="1" column="35" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1533760763848">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/url-shortener/shortened-url.model.ts" timestamp="1528316307749">
         <mark key="[" line="8" column="0" />
@@ -500,10 +505,6 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/database/migrations/20180727233613_test-drive-tables.ts" timestamp="1533839849828">
-        <mark key="[" line="19" column="25" />
-        <mark key="]" line="42" column="24" />
-      </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/csv/index.ts" timestamp="1530751602439">
         <mark key="[" line="2" column="32" />
         <mark key="]" line="3" column="23" />
@@ -736,7 +737,6 @@
         <mark key="." line="15" column="33" />
         <mark key="^" line="15" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/services/sendgrid/index.ts" timestamp="1533839735852" />
       <file name="$USER_HOME$/dev/repos/automp-be/.dockerignore" timestamp="1533755947019">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
@@ -966,6 +966,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/drive.client.ts" timestamp="1534090984169">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/automp-be/database/seeds/test-drive-status-codes.ts" timestamp="1533842479384">
         <mark key="'" line="13" column="69" />
         <mark key="[" line="32" column="0" />
@@ -1040,6 +1045,12 @@
         <mark key="]" line="5" column="27" />
         <mark key="." line="5" column="27" />
         <mark key="^" line="5" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/src/core/auth/types.ts" timestamp="1534091071329">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="32" />
+        <mark key="^" line="1" column="32" />
+        <mark key="." line="1" column="32" />
       </file>
       <file name="$USER_HOME$/hackday-1-business-1/src/graphql.js" timestamp="1532032382436">
         <mark key="[" line="16" column="0" />
@@ -1251,46 +1262,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>string</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUZXN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">KiBgQmFzZU1hbmFnZXJgCg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgRXJyb3IoJ05vdCBpbXBsZW1lbnRlZCcpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtCZWFyZXJTZWN1cml0eX0gZnJvbSAnc29hcCc7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBgY29yZWAK</text>
+        <text encoding="base64">Y2xhc3MgT2t0YU9BdXRoIHsgcHVibGljIHN0YXRpYyBHZW5lcmF0ZVRva2VuKGNsaWVudElkOiBzdHJpbmcsIGNsaWVudFNlY3JldDogc3RyaW5nKTogc3RyaW5nIHsKICAgICAgICB0aHJvdyBuZXcgRXJyb3IoJ05vdCBpbXBsZW1lbnRlZCcpOwogICAgfQoKICAgIGNvbnN0cnVjdG9yKHByaXZhdGUgY2xpZW50SWQ6IHN0cmluZywgcHJpdmF0ZSBjbGllbnRTZWNyZXQ6IHN0cmluZykgewogICAgICAgIHRocm93IG5ldyBFcnJvcignTm90IGltcGxlbWVudGVkJyk7CiAgICB9CgogICAgcHVibGljIGdlbmVyYXRlVG9rZW4oKTogc3RyaW5nIHsKICAgICAgICB0aHJvdyBuZXcgRXJyb3IoJ05vdCBpbXBsZW1lbnRlZCcpOwogICAgICAgIHJldHVybjsKICAgIH0KfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHtCYXNlQVBJLCBzZXJpYWxpemV9IGZyb20gJy4uLy4uL2NvcmUvYXBpJzsK</text>
+        <text encoding="base64">CgoKCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIDp3Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgR2VuZXJhdGVUb2tlbihjbGllbnRJZDogc3RyaW5nLCBjbGllbnRTZWNyZXQ6IHN0cmluZyk6IHN0cmluZyB7CiAgICAgICAgdGhyb3cgbmV3IEVycm9yKCdOb3QgaW1wbGVtZW50ZWQnKTsKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyByZWFkb25seSBHZXRGaWVsZHM6IHN0cmluZ1tdID0gWwogICAgICAgICdpZCcsCiAgICAgICAgJ3N0YXR1cycsCiAgICAgICAgJ2NvbW1lbnRzJywKICAgICAgICAnY3JlYXRlZF9hdCcsCiAgICAgICAgJ3VwZGF0ZWRfYXQnLAogICAgXTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgR2VuZXJhdGVUb2tlbihjbGllbnRJZDogc3RyaW5nLCBjbGllbnRTZWNyZXQ6IHN0cmluZyk6IHN0cmluZyB7CiAgICAgICAgdGhyb3cgbmV3IEVycm9yKCdOb3QgaW1wbGVtZW50ZWQnKTsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgogICAgLyoqCiAgICAgKiAKICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IHN0YXR1c1VwZGF0ZU1hbmFnZXI6IFRlc3REcml2ZVN0YXR1c1VwZGF0ZU1hbmFnZXIgPSBuZXcgVGVzdERyaXZlU3RhdHVzVXBkYXRlTWFuYWdlcigpLAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1329,11 +1340,6 @@
         <entry encoding="base64">XDxUZXN0XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>W</entry>
-        <entry>182,205d</entry>
-        <entry>130,180d</entry>
-        <entry>160</entry>
-        <entry>32</entry>
         <entry>1</entry>
         <entry>13</entry>
         <entry>3</entry>
@@ -1344,10 +1350,15 @@
         <entry>0</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>4</entry>
         <entry>29</entry>
         <entry>ew</entry>
         <entry>e</entry>
+        <entry>6</entry>
+        <entry>11</entry>
+        <entry>4</entry>
+        <entry>14e</entry>
+        <entry>14d</entry>
+        <entry>1,13d</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
