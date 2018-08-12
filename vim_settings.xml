@@ -71,11 +71,11 @@
         <mark key="." line="27" column="16" />
         <mark key="^" line="27" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/core/auth/oauth/bearer-token.ts" timestamp="1534093060257">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="10" column="62" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/core/auth/oauth/bearer-token.ts" timestamp="1534093202978">
+        <mark key="[" line="24" column="68" />
+        <mark key="]" line="24" column="68" />
+        <mark key="." line="24" column="68" />
+        <mark key="^" line="24" column="68" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" timestamp="1533850307507">
         <mark key="[" line="17" column="7" />
@@ -1289,50 +1289,50 @@
       <jump line="8" column="15" filename="$USER_HOME$/dev/repos/automp-be/src/core/auth/oauth/okta/client-flow.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>?</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmVhZG9ubHkg</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUZXN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgRXJyb3IoJ05vdCBpbXBsZW1lbnRlZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgRXJyb3IoJ0JlYXJlclRva2VuLmV4cGlyZWQgbm90IGltcGxlbWVudGVkJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBnZXQgdXJsKCk6IHN0cmluZyB7CiAgICAgICAgcmV0dXJuIHRoaXMuY29uZmlnLmF1dGh1cmw7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgdGhpcy51cmwgPSBjb25maWcuYXV0aHVybDsK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy51cmw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgcmVhZG9ubHkgY3JlZGVudGlhbHM6IE9rdGFDcmVkZW50aWFsczsK</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBnZXQgdXJsKCk6IHN0cmluZyB7CiAgICAgICAgcmV0dXJuIHRoaXMuY29uZmlnLmF1dGh1cmw7CiAgICB9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgdGhpcy51cmwgPSBjb25maWcudXJsKHRoaXMudXJsKTsKICAgICAgICB0aGlzLmNyZWRlbnRpYWxzID0gY29uZmlnLmNyZWRlbnRpYWxzKGNvbmZpZyk7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgdGhpcy51cmwgPSBjb25maWcuYXV0aHVybDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUgT09rdGFDb25maWcgPSBPa3RhQ3JlZGVudGlhbHMgJiB7CiAgICB1cmw6ICh1OiBzdHJpbmcpID0+IHN0cmluZzsKICAgIGNyZWRlbnRpYWxzOiAoYz86IE9rdGFDb25maWcpID0+IE9rdGFDcmVkZW50aWFsczsKICAgIGhvc3Q/OiBzdHJpbmc7CiAgICBwb3J0PzogbnVtYmVyOwp9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy51cmw7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgcmVhZG9ubHkgY3JlZGVudGlhbHM6IE9rdGFDcmVkZW50aWFsczsK</text>
       </register>
       <register name=":" type="4">
-        <text>1,2d</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1386,8 +1386,8 @@
         <entry>17d</entry>
         <entry>5</entry>
         <entry>9</entry>
-        <entry>w</entry>
         <entry>1,2d</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
