@@ -527,12 +527,12 @@
         <mark key="." line="7" column="9" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/core/structures/maps.ts" timestamp="1534144280564">
+      <file name="$USER_HOME$/dev/repos/automp-be/src/core/structures/maps.ts" timestamp="1534145002333">
         <mark key="'" line="44" column="11" />
-        <mark key="[" line="44" column="33" />
-        <mark key="]" line="45" column="11" />
-        <mark key="^" line="45" column="11" />
-        <mark key="." line="45" column="11" />
+        <mark key="[" line="33" column="53" />
+        <mark key="]" line="33" column="53" />
+        <mark key="^" line="33" column="35" />
+        <mark key="." line="33" column="53" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/server/routes/index.ts" timestamp="1532710513840">
         <mark key="[" line="14" column="0" />
@@ -1344,11 +1344,11 @@
       <jump line="44" column="11" filename="$USER_HOME$/dev/repos/automp-be/src/core/structures/maps.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RyaW5nLCA=</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>ma</text>
@@ -1423,7 +1423,6 @@
         <entry>ma</entry>
       </history-search>
       <history-cmd>
-        <entry>72</entry>
         <entry>58</entry>
         <entry>62</entry>
         <entry>28</entry>
@@ -1442,6 +1441,7 @@
         <entry>0</entry>
         <entry>45</entry>
         <entry>1</entry>
+        <entry>11</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
