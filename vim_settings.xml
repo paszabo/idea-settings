@@ -1037,12 +1037,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/drive.client.ts" timestamp="1534131541537">
-        <mark key="'" line="14" column="14" />
-        <mark key="[" line="7" column="49" />
-        <mark key="]" line="7" column="48" />
-        <mark key="." line="7" column="48" />
-        <mark key="^" line="7" column="48" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/drive.client.ts" timestamp="1534429951051">
+        <mark key="'" line="27" column="14" />
+        <mark key="[" line="13" column="42" />
+        <mark key="]" line="13" column="41" />
+        <mark key="^" line="13" column="41" />
+        <mark key="." line="13" column="41" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/database/seeds/test-drive-status-codes.ts" timestamp="1533842479384">
         <mark key="'" line="13" column="69" />
@@ -1358,63 +1358,62 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IC8vIFRPRE8gKFBTKTogTGlmdCBJRCB0eXBlIHRvIHRvcCBsZXZlbA==</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8vIFRPRE8gKFBTKTogTGlmdCBJRCB0eXBlIHRvIHRvcCBsZXZlbA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>aa</text>
+        <text encoding="base64">XDwnXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBnZXQoaWQ6IG51bWJlcik6IEVtYWlsVmFsaWRhdGlvbiB7IC8vIFRPRE8gKFBTKTogTGlmdCBJRCB0eXBlIHRvIHRvcCBsZXZlbAogICAgICAgIHRocm93IG5ldyBFcnJvcignRW1haWxWYWxpZGF0aW9uTWFuYWdlci5nZXQgaXMgbm90IGltcGxlbWVudGVkJyk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBnZXQoaWQ6IG51bWJlcik6IEVtYWlsVmFsaWRhdGlvbiB7IC8vIFRPRE8gKFBTKTogTGlmdCBJRCB0eXBlIHRvIHRvcCBsZXZlbAogICAgICAgIHRocm93IG5ldyBFcnJvcignRW1haWxWYWxpZGF0aW9uTWFuYWdlci5nZXQgaXMgbm90IGltcGxlbWVudGVkJyk7CiAgICB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICAgIGV4cG9ydCBjb25zdCBUZXN0RHJpdmVTdWJtaXNzaW9uVVJMOiAoZGVhbGVySWQ6IHN0cmluZykgPT4gc3RyaW5nID0gewogICAgfQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgRXJyb3IoJ0VtYWlsU2VydmljZS52YWxpZGF0ZUhhc2ggaXMgbm90IGltcGxlbWVudGVkJyk7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgYA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgc2VhcmNoKGZpbHRlcnM6IFBhcnRpYWw8RW1haWxWYWxpZGF0aW9uPik6IEVtYWlsVmFsaWRhdGlvbltdIHsKICAgICAgICB0aHJvdyBuZXcgRXJyb3IoJ0VtYWlsVmFsaWRhdGlvbk1hbmFnZXIuc2VhcmNoIGlzIG5vdCBpbXBsZW1lbnRlZCcpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCiAgICAgICBgL2RyaXZlcHJvL2RlYWxlcnMvJHtkZWFsZXJJZH0vc2VydmljZXMvdGVzdGRyaXZlYDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgaQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqICAgICAgKiBIYXNuJ3QgYWxyZWFkeSBiZWVuIGFjY2Vzc2VkCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBnZXQoaWQ6IG51bWJlcik6IEVtYWlsVmFsaWRhdGlvbiB7IC8vIFRPRE8gKFBTKTogTGlmdCBJRCB0eXBlIHRvIHRvcCBsZXZlbAogICAgICAgIHRocm93IG5ldyBFcnJvcignRW1haWxWYWxpZGF0aW9uTWFuYWdlci5nZXQgaXMgbm90IGltcGxlbWVudGVkJyk7CiAgICB9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>aa</last-search>
+      <last-search encoding="base64">XDwnXD4=</last-search>
       <last-offset />
-      <last-pattern>aa</last-pattern>
+      <last-pattern encoding="base64">XDwnXD4=</last-pattern>
       <last-replace>Headers</last-replace>
       <last-substitute>HeadersMap</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ValidationErrorStatus</entry>
         <entry>prot</entry>
         <entry>pres</entry>
         <entry>this.data</entry>
@@ -1434,6 +1433,7 @@
         <entry>ma</entry>
         <entry>HeadersMap</entry>
         <entry>aa</entry>
+        <entry encoding="base64">XDwnXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>7d</entry>
