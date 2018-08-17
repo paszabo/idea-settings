@@ -113,12 +113,12 @@
         <mark key="^" line="86" column="3" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/package.json" timestamp="1534526041504">
-        <mark key="'" line="101" column="5" />
-        <mark key="[" line="22" column="73" />
-        <mark key="]" line="22" column="107" />
-        <mark key="." line="22" column="73" />
-        <mark key="^" line="20" column="96" />
+      <file name="$USER_HOME$/dev/repos/automp-be/package.json" timestamp="1534528178566">
+        <mark key="'" line="102" column="5" />
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="14" column="21" />
+        <mark key="." line="14" column="21" />
+        <mark key="^" line="14" column="24" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/api/docker-compose.yml" timestamp="1530720857031">
         <mark key="'" line="48" column="0" />
@@ -371,6 +371,7 @@
         <mark key="." line="48" column="35" />
         <mark key="^" line="48" column="35" />
       </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/.circleci/codedeploy/scripts/start_container.sh" timestamp="1534527697229" />
       <file name="$USER_HOME$/dev/repos/automp-be/src/injector/registry.ts" timestamp="1531190002547">
         <mark key="'" line="0" column="38" />
         <mark key="[" line="18" column="0" />
@@ -396,7 +397,7 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/.circleci/config.yml" timestamp="1534527103341">
+      <file name="$USER_HOME$/dev/repos/automp-be/.circleci/config.yml" timestamp="1534528093865">
         <mark key="[" line="22" column="29" />
         <mark key="]" line="22" column="30" />
         <mark key="." line="22" column="30" />
@@ -446,9 +447,6 @@
         <mark key="]" line="34" column="100" />
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive-status-update.manager.ts" timestamp="1534521319502">
-        <mark key="^" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/api/services/chrome/parsers/types.ts" timestamp="1530501548019">
         <mark key="[" line="6" column="0" />
@@ -787,11 +785,11 @@
         <mark key="." line="0" column="32" />
         <mark key="^" line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/Dockerfile" timestamp="1532003319301">
-        <mark key="[" line="6" column="16" />
-        <mark key="]" line="6" column="16" />
-        <mark key="^" line="6" column="16" />
-        <mark key="." line="6" column="16" />
+      <file name="$USER_HOME$/dev/repos/automp-be/Dockerfile" timestamp="1534528565105">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="7" column="16" />
+        <mark key="^" line="7" column="16" />
+        <mark key="." line="7" column="16" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/models/joyrideIdMapper/dal.ts" timestamp="1533053148574">
         <mark key="[" line="13" column="32" />
@@ -823,11 +821,11 @@
         <mark key="." line="15" column="33" />
         <mark key="^" line="15" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/.dockerignore" timestamp="1533755947019">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="3" />
-        <mark key="^" line="0" column="3" />
+      <file name="$USER_HOME$/dev/repos/automp-be/.dockerignore" timestamp="1534528553189">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="11" />
+        <mark key="." line="8" column="11" />
+        <mark key="^" line="8" column="11" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/drive/index.ts" timestamp="1534525671195">
         <mark key="[" line="0" column="52" />
@@ -913,6 +911,7 @@
         <mark key="." line="0" column="32" />
         <mark key="^" line="0" column="32" />
       </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/.circleci/scripts/create_image.sh" timestamp="1534527723495" />
       <file name="$USER_HOME$/dev/repos/automp-be/packages/api/package.json" timestamp="1530893919514">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="1" column="30" />
@@ -1384,11 +1383,11 @@
       <jump line="54" column="46" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.manager.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Knex</text>
