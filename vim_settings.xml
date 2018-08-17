@@ -84,7 +84,7 @@
         <mark key="." line="12" column="7" />
         <mark key="^" line="12" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" timestamp="1534519683945">
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" timestamp="1534519928905">
         <mark key="[" line="82" column="21" />
         <mark key="]" line="82" column="35" />
         <mark key="." line="82" column="35" />
@@ -262,7 +262,6 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/node_modules/@types/express-serve-static-core/index.d.ts" timestamp="1534519431432" />
       <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" timestamp="1534519538390">
         <mark key="'" line="0" column="12" />
         <mark key="[" line="61" column="0" />
@@ -1004,8 +1003,8 @@
         <mark key="^" line="3" column="66" />
         <mark key="." line="3" column="66" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.manager.ts" timestamp="1534519290558">
-        <mark key="'" line="27" column="37" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.manager.ts" timestamp="1534519857446">
+        <mark key="'" line="54" column="46" />
         <mark key="[" line="56" column="38" />
         <mark key="]" line="56" column="38" />
         <mark key="." line="56" column="38" />
@@ -1275,9 +1274,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" />
-      <jump line="140" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" />
-      <jump line="74" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" />
       <jump line="139" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" />
       <jump line="70" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" />
       <jump line="41" column="18" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.validators.ts" />
@@ -1375,6 +1371,9 @@
       <jump line="12" column="66" filename="$USER_HOME$/dev/repos/automp-be/package.json" />
       <jump line="106" column="8" filename="$USER_HOME$/dev/repos/automp-be/package.json" />
       <jump line="100" column="5" filename="$USER_HOME$/dev/repos/automp-be/package.json" />
+      <jump line="0" column="12" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.manager.ts" />
+      <jump line="76" column="57" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.manager.ts" />
+      <jump line="54" column="46" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.manager.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1384,7 +1383,7 @@
         <text>TestDrive</text>
       </register>
       <register name="/" type="4">
-        <text>node</text>
+        <text>Knex</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdC5wYXJhbXMuYm9va2luZ0lkLAo=</text>
@@ -1420,21 +1419,20 @@
         <text encoding="base64">ICAgICAqIFVwZGF0ZSBhIHRlc3QgZHJpdmUgcmVjb3JkCiAgICAgKgogICAgICogV2lsbCBiZSB1c2VkIGJ5IHRoZSB1cGRhdGUgc3RhdHVzIG1ldGhvZAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>node</last-search>
+      <last-search>Knex</last-search>
       <last-offset />
-      <last-pattern>node</last-pattern>
+      <last-pattern>Knex</last-pattern>
       <last-replace>Headers</last-replace>
       <last-substitute>HeadersMap</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>pres</entry>
         <entry>this.data</entry>
         <entry>getdata</entry>
         <entry encoding="base64">XDxJbnN0YW5jZVw+</entry>
@@ -1454,9 +1452,9 @@
         <entry>aa</entry>
         <entry encoding="base64">XDwnXD4=</entry>
         <entry>node</entry>
+        <entry>Knex</entry>
       </history-search>
       <history-cmd>
-        <entry>12</entry>
         <entry>3</entry>
         <entry>4,5d</entry>
         <entry>1d</entry>
@@ -1465,9 +1463,7 @@
         <entry>37</entry>
         <entry>39</entry>
         <entry>1</entry>
-        <entry>0</entry>
         <entry>$</entry>
-        <entry>q</entry>
         <entry>33</entry>
         <entry>45</entry>
         <entry>32,44d</entry>
@@ -1476,6 +1472,9 @@
         <entry>wq</entry>
         <entry>85</entry>
         <entry>w</entry>
+        <entry>0</entry>
+        <entry>:q</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
