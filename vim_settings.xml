@@ -595,12 +595,12 @@
         <mark key="^" line="88" column="70" />
         <mark key="." line="64" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/index.ts" timestamp="1534789873197">
-        <mark key="'" line="37" column="33" />
-        <mark key="[" line="6" column="39" />
-        <mark key="]" line="6" column="39" />
-        <mark key="." line="6" column="39" />
-        <mark key="^" line="6" column="39" />
+      <file name="$USER_HOME$/dev/repos/automp-be/index.ts" timestamp="1534791164320">
+        <mark key="'" line="37" column="6" />
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/config/database.ts" timestamp="1534540155513">
         <mark key="[" line="22" column="0" />
@@ -824,7 +824,6 @@
         <mark key="." line="15" column="33" />
         <mark key="^" line="15" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/.dockerignore" timestamp="1534528553189" />
       <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/drive/index.ts" timestamp="1534525671195">
         <mark key="[" line="0" column="52" />
         <mark key="]" line="2" column="27" />
@@ -1275,7 +1274,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" />
       <jump line="41" column="18" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.validators.ts" />
       <jump line="46" column="54" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
       <jump line="61" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
@@ -1375,71 +1373,66 @@
       <jump line="76" column="57" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.manager.ts" />
       <jump line="54" column="46" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.manager.ts" />
       <jump line="36" column="33" filename="$USER_HOME$/dev/repos/automp-be/index.ts" />
+      <jump line="35" column="6" filename="$USER_HOME$/dev/repos/automp-be/index.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>Knex</text>
+        <text>and</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnVuY3Rpb24gTmV3VmFsdWVzKGtuZXg6IEtuZXgpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gZnVuY3Rpb24gVXBzZXJ0U3RhdHVzKGtuZXg6IEtuZXgsIGNvZGU6IHN0cmluZywgZGVzY3JpcHRpb246IHN0cmluZykgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgS25leCBmcm9tICJrbmV4IjsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICoKICAgICAqLwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgIH0gZnJvbSA7Cg==</text>
+      <register name="3" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gTmV3VmFsdWVzKGtuZXg6IEtuZXgpIHsK</text>
+        <text encoding="base64">ICAvLyBhd2FpdCBkYkNsaWVudHMua25leC5zZWVkLnJ1bigpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gLndoZXJlTm90SW4oInN0YXR1c19jb2RlIiwgQXJyYXkuZnJvbShUZXN0RHJpdmVTdGF0dXMuU3RhdHVzRGVzY3JpcHRpb25zLmtleXMoKSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIHJldHVybiBBcnJheS5mcm9tKFRlc3REcml2ZVN0YXR1cy5TdGF0dXNEZXNjcmlwdGlvbnMuZW50cmllcygpKS5tYXAodXBkYXRlKTsK</text>
+        <text encoding="base64">Ly8gZnVuY3Rpb24gVXBzZXJ0U3RhdHVzKGtuZXg6IEtuZXgsIGNvZGU6IHN0cmluZywgZGVzY3JpcHRpb246IHN0cmluZykgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgS25leCBmcm9tICJrbmV4IjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgIH0gZnJvbSA7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>import {config} from '@joyride/config';
-console.log(config);
-
-import {carproof} from '@joyride/config/carproof';
-
-console.error(carproof);</text>
+      <register name="9" type="2">
+        <text encoding="base64">ZnVuY3Rpb24gTmV3VmFsdWVzKGtuZXg6IEtuZXgpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Knex</last-search>
+      <last-search>and</last-search>
       <last-offset />
-      <last-pattern>Knex</last-pattern>
+      <last-pattern>and</last-pattern>
       <last-replace>Headers</last-replace>
       <last-substitute>HeadersMap</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>this.data</entry>
         <entry>getdata</entry>
         <entry encoding="base64">XDxJbnN0YW5jZVw+</entry>
         <entry>ObjectSchema</entry>
@@ -1459,6 +1452,7 @@ console.error(carproof);</text>
         <entry encoding="base64">XDwnXD4=</entry>
         <entry>node</entry>
         <entry>Knex</entry>
+        <entry>and</entry>
       </history-search>
       <history-cmd>
         <entry>4,5d</entry>
