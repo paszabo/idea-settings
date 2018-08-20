@@ -28,6 +28,9 @@
         <mark key="." line="171" column="0" />
         <mark key="^" line="168" column="6" />
       </file>
+      <file name="/a.dummy" timestamp="1534800290421">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/api/database/index.ts" timestamp="1530488272641">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="0" column="17" />
@@ -296,18 +299,21 @@
         <mark key="." line="1" column="35" />
         <mark key="^" line="1" column="35" />
       </file>
+      <file name="/GraphQL.result.json" timestamp="1534525728812">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/url-shortener/shortened-url.model.ts" timestamp="1528316307749">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="5" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/core/api-client/headers.ts" timestamp="1534148566981">
+      <file name="$USER_HOME$/dev/repos/automp-be/src/core/api-client/headers.ts" timestamp="1534801161475">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="3" column="38" />
-        <mark key="." line="3" column="38" />
-        <mark key="^" line="3" column="38" />
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="17" column="37" />
+        <mark key="." line="17" column="37" />
+        <mark key="^" line="17" column="37" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/.circleci/config.yml" timestamp="1530722363292">
         <mark key="[" line="22" column="30" />
@@ -702,6 +708,7 @@
         <mark key="." line="8" column="30" />
         <mark key="^" line="8" column="30" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts" timestamp="1534800992288" />
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer/types.ts" timestamp="1533322549303">
         <mark key="[" line="7" column="19" />
         <mark key="]" line="8" column="0" />
@@ -778,11 +785,12 @@
         <mark key="^" line="7" column="16" />
         <mark key="." line="7" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/core/auth/oauth/okta/okta.config.ts" timestamp="1534093054309">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/core/auth/oauth/okta/okta.config.ts" timestamp="1534800927640">
+        <mark key="'" line="54" column="7" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="9" column="35" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/package.json" timestamp="1532023558308">
         <mark key="[" line="13" column="5" />
@@ -1195,11 +1203,11 @@
         <mark key="^" line="35" column="45" />
         <mark key="." line="35" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/core/auth/oauth/okta/okta-oauth.client.ts" timestamp="1534127786283">
-        <mark key="[" line="11" column="35" />
-        <mark key="]" line="11" column="46" />
-        <mark key="^" line="11" column="46" />
-        <mark key="." line="11" column="46" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/core/auth/oauth/okta/okta-oauth.client.ts" timestamp="1534801815938">
+        <mark key="[" line="34" column="16" />
+        <mark key="]" line="34" column="16" />
+        <mark key="^" line="34" column="16" />
+        <mark key="." line="34" column="16" />
       </file>
       <file name="$USER_HOME$/dev/repos/auto-core-incentives-api/config.env" timestamp="1532015277819">
         <mark key="[" line="0" column="0" />
@@ -1290,7 +1298,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="193" column="22" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" />
       <jump line="190" column="39" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" />
       <jump line="231" column="13" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" />
@@ -1390,58 +1397,59 @@
       <jump line="0" column="6" filename="$USER_HOME$/dev/repos/automp-be/database/migrations/20180727233613_test-drive-tables.ts" />
       <jump line="64" column="11" filename="$USER_HOME$/dev/repos/automp-be/database/migrations/20180727233613_test-drive-tables.ts" />
       <jump line="73" column="11" filename="$USER_HOME$/dev/repos/automp-be/database/migrations/20180727233613_test-drive-tables.ts" />
+      <jump line="54" column="7" filename="$USER_HOME$/dev/repos/automp-be/src/core/auth/oauth/okta/okta.config.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAiZGF0YWJhc2UiOiB7CiAgICAiY2xpZW50IjogInBnIgogIH0sCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGFzIGFueQ==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IGFzIGFueQ==</text>
       </register>
       <register name="/" type="4">
-        <text>Promise</text>
+        <text>in</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gTmV3VmFsdWVzKGtuZXg6IEtuZXgpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgWyxdLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAiZGF0YWJhc2UiOiB7CiAgICAiY2xpZW50IjogInBnIgogIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJjb25uZWN0aW9uIjogewogICAgICAiaG9zdCI6ICJhdXRvbXAtZGV2LmNvcWszbXpqbmJuby5jYS1jZW50cmFsLTEucmRzLmFtYXpvbmF3cy5jb20iLAogICAgICAidXNlciI6ICJhdXRvbXBfYWRtaW4iLAogICAgICAicGFzc3dvcmQiOiAidDdkRFlpSks5V2FTa1Q5dDJ3RTNkUnJiWHFTRlBKWiIsCiAgICAgICJkYXRhYmFzZSI6ICJhdXRvbXAiCiAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBva3RhQmFzZVVybCA9IDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJjb25uZWN0aW9uIjogewogICAgICAiaG9zdCI6ICJqb3lyaWRlLWRiIiwKICAgICAgImRhdGFiYXNlIjogImF1dG9tcF92MSIsCiAgICAgICJ1c2VyIjogImFkbWluIiwKICAgICAgInBhc3N3b3JkIjogIiIKICAgIH0K</text>
+        <text encoding="base64">CiAgICAgICAgLy8gY29uc3Qge2Jhc2VVcmwsIG9hdXRoRW5kcG9pbnQsIGNsaWVudGlkLCBjbGllbnRzZWNyZXR9ID0gY29uZmlnLm9rdGE7Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0cy5kb3duID0gZG93bjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8jIHNvdXJjZU1hcHBpbmdVUkw9MjAxODA4MTYxMTU2MjBfdGVzdGRyaXZlLWFkZC1waG9uZS1udW1iZXIuanMubWFwCg==</text>
+        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgZ2V0IHVybCgpOiBzdHJpbmcgewogICAgICAgIHJldHVybiB0aGlzLmNvbmZpZy5hdXRodXJsOwogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fTsKKQo7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgcmVxdWVzdEhlYWRlcnMoKTogYW55IHsKICAgICAgICByZXR1cm4gdGhpcy5jb25maWcuQXV0aFJlcXVlc3RIZWFkZXJzOwogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fTsKKQo7Cg==</text>
+        <text encoding="base64">ICAgICAgICBoZWFkZXJzLkFzT2JqZWN0KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBfX2F3YWl0ZXIodGhpcywgdm9pZCAwLCB2b2lkIDAsIGZ1bmN0aW9uKiAoKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBIZWFkZXJzLkFzT2JqZWN0KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">ICAgICAgICBIZWFkZXJzLkFzOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Promise</last-search>
+      <last-search>in</last-search>
       <last-offset />
-      <last-pattern>Promise</last-pattern>
+      <last-pattern>in</last-pattern>
       <last-replace>Headers</last-replace>
       <last-substitute>HeadersMap</last-substitute>
       <last-dir>1</last-dir>
@@ -1449,8 +1457,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Express</entry>
-        <entry>Tables</entry>
         <entry>rows</entry>
         <entry>status</entry>
         <entry encoding="base64">XDxUZXN0XD4=</entry>
@@ -1469,11 +1475,10 @@
         <entry>dev-serv</entry>
         <entry>knex</entry>
         <entry>Promise</entry>
+        <entry encoding="base64">XDxzdWJtaXR0ZWRcPg==</entry>
+        <entry>in</entry>
       </history-search>
       <history-cmd>
-        <entry>37</entry>
-        <entry>39</entry>
-        <entry>1</entry>
         <entry>$</entry>
         <entry>33</entry>
         <entry>45</entry>
@@ -1490,6 +1495,9 @@
         <entry>wq</entry>
         <entry>11</entry>
         <entry>19</entry>
+        <entry>2d</entry>
+        <entry>W</entry>
+        <entry>7</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
