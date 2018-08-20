@@ -16,7 +16,7 @@
         <mark key="^" line="11" column="35" />
         <mark key="." line="11" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/database/migrations/20180402161947_urls.ts" timestamp="1533757972665">
+      <file name="$USER_HOME$/dev/repos/automp-be/database/migrations/20180402161947_urls.ts" timestamp="1534795695821">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -159,6 +159,12 @@
         <mark key="]" line="2" column="34" />
         <mark key="^" line="2" column="34" />
         <mark key="." line="2" column="34" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/database/migrations/20180816115620_testdrive-add-phone-number.js" timestamp="1534794583102">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/database/seeds/test-drive-status-codes.js" timestamp="1534789211429">
         <mark key="[" line="53" column="29" />
@@ -556,7 +562,9 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/database/migrations/20180727233613_test-drive-tables.ts" timestamp="1534783337429" />
+      <file name="$USER_HOME$/dev/repos/automp-be/database/migrations/20180727233613_test-drive-tables.ts" timestamp="1534794670063">
+        <mark key="'" line="73" column="11" />
+      </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/auth/oauth/index.ts" timestamp="1534113958612">
         <mark key="[" line="1" column="43" />
         <mark key="]" line="2" column="0" />
@@ -575,12 +583,13 @@
         <mark key="^" line="5" column="17" />
         <mark key="." line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/.automprc.dev" timestamp="1534532760755">
-        <mark key="[" line="5" column="15" />
-        <mark key="]" line="12" column="20" />
-        <mark key="." line="12" column="20" />
-        <mark key="^" line="12" column="20" />
+      <file name="$USER_HOME$/dev/repos/automp-be/.automprc.dev" timestamp="1534795417927">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="9" column="5" />
+        <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/.circleci/codedeploy/scripts/pull_image.sh" timestamp="1534793684148" />
       <file name="$USER_HOME$/dev/repos/automp-be/.circleci/scripts/load_and_publish_image.sh" timestamp="1534784108375" />
       <file name="$USER_HOME$/dev/repos/api-generator/src/models/model.ts" timestamp="1529606004907">
         <mark key="[" line="90" column="0" />
@@ -596,17 +605,16 @@
         <mark key="." line="64" column="19" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/index.ts" timestamp="1534791164320">
-        <mark key="'" line="37" column="6" />
-        <mark key="[" line="9" column="24" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="0" />
+        <mark key="'" line="35" column="6" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/config/database.ts" timestamp="1534540155513">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="36" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="21" column="44" />
+      <file name="$USER_HOME$/dev/repos/automp-be/config/database.ts" timestamp="1534795186808">
+        <mark key="[" line="16" column="16" />
+        <mark key="]" line="16" column="16" />
+        <mark key="." line="16" column="16" />
+        <mark key="^" line="16" column="31" />
       </file>
       <file name="$USER_HOME$/dev/repos/motive-data/packages/incentives/api/src/core/knex.ts" timestamp="1530039733022">
         <mark key="[" line="7" column="19" />
@@ -731,7 +739,8 @@
         <mark key="." line="170" column="20" />
         <mark key="^" line="170" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/docker-compose.yml" timestamp="1534782851822">
+      <file name="$USER_HOME$/dev/repos/automp-be/docker-compose.yml" timestamp="1534794153311">
+        <mark key="'" line="5" column="29" />
         <mark key="[" line="4" column="2" />
         <mark key="]" line="4" column="9" />
         <mark key="." line="4" column="9" />
@@ -951,6 +960,13 @@
         <mark key="]" line="103" column="0" />
         <mark key="^" line="56" column="6" />
         <mark key="." line="103" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/database/migrations/20180727233613_test-drive-tables.js" timestamp="1534794427445">
+        <mark key="'" line="66" column="8" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="72" column="14" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/motive-data/api/incentives/app.ts" timestamp="1529686814340">
         <mark key="[" line="15" column="0" />
@@ -1274,22 +1290,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="18" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.validators.ts" />
-      <jump line="46" column="54" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
-      <jump line="61" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
-      <jump line="62" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
-      <jump line="58" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.manager.ts" />
-      <jump line="44" column="47" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.validators.ts" />
-      <jump line="39" column="10" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.validators.ts" />
-      <jump line="40" column="10" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.validators.ts" />
-      <jump line="10" column="62" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
-      <jump line="49" column="5" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.manager.ts" />
-      <jump line="100" column="28" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" />
-      <jump line="72" column="10" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" />
-      <jump line="64" column="10" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" />
-      <jump line="132" column="63" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" />
-      <jump line="192" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" />
-      <jump line="17" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" />
       <jump line="193" column="22" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" />
       <jump line="190" column="39" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" />
@@ -1374,58 +1374,74 @@
       <jump line="54" column="46" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.manager.ts" />
       <jump line="36" column="33" filename="$USER_HOME$/dev/repos/automp-be/index.ts" />
       <jump line="35" column="6" filename="$USER_HOME$/dev/repos/automp-be/index.ts" />
+      <jump line="5" column="29" filename="$USER_HOME$/dev/repos/automp-be/docker-compose.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/automp-be/database/migrations/20180727233613_test-drive-tables.js" />
+      <jump line="67" column="8" filename="$USER_HOME$/dev/repos/automp-be/database/migrations/20180727233613_test-drive-tables.js" />
+      <jump line="68" column="8" filename="$USER_HOME$/dev/repos/automp-be/database/migrations/20180727233613_test-drive-tables.js" />
+      <jump line="72" column="24" filename="$USER_HOME$/dev/repos/automp-be/database/migrations/20180727233613_test-drive-tables.js" />
+      <jump line="74" column="8" filename="$USER_HOME$/dev/repos/automp-be/database/migrations/20180727233613_test-drive-tables.js" />
+      <jump line="75" column="8" filename="$USER_HOME$/dev/repos/automp-be/database/migrations/20180727233613_test-drive-tables.js" />
+      <jump line="76" column="8" filename="$USER_HOME$/dev/repos/automp-be/database/migrations/20180727233613_test-drive-tables.js" />
+      <jump line="77" column="8" filename="$USER_HOME$/dev/repos/automp-be/database/migrations/20180727233613_test-drive-tables.js" />
+      <jump line="63" column="22" filename="$USER_HOME$/dev/repos/automp-be/database/migrations/20180727233613_test-drive-tables.js" />
+      <jump line="65" column="8" filename="$USER_HOME$/dev/repos/automp-be/database/migrations/20180727233613_test-drive-tables.js" />
+      <jump line="66" column="8" filename="$USER_HOME$/dev/repos/automp-be/database/migrations/20180727233613_test-drive-tables.js" />
+      <jump line="17" column="37" filename="$USER_HOME$/dev/repos/automp-be/database/migrations/20180727233613_test-drive-tables.ts" />
+      <jump line="0" column="6" filename="$USER_HOME$/dev/repos/automp-be/database/migrations/20180727233613_test-drive-tables.ts" />
+      <jump line="64" column="11" filename="$USER_HOME$/dev/repos/automp-be/database/migrations/20180727233613_test-drive-tables.ts" />
+      <jump line="73" column="11" filename="$USER_HOME$/dev/repos/automp-be/database/migrations/20180727233613_test-drive-tables.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAiZGF0YWJhc2UiOiB7CiAgICAiY2xpZW50IjogInBnIgogIH0sCg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>and</text>
+        <text>Promise</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnVuY3Rpb24gTmV3VmFsdWVzKGtuZXg6IEtuZXgpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiZGF0YWJhc2UiOiB7CiAgICAiY2xpZW50IjogInBnIgogIH0sCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICoKICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICJjb25uZWN0aW9uIjogewogICAgICAiaG9zdCI6ICJhdXRvbXAtZGV2LmNvcWszbXpqbmJuby5jYS1jZW50cmFsLTEucmRzLmFtYXpvbmF3cy5jb20iLAogICAgICAidXNlciI6ICJhdXRvbXBfYWRtaW4iLAogICAgICAicGFzc3dvcmQiOiAidDdkRFlpSks5V2FTa1Q5dDJ3RTNkUnJiWHFTRlBKWiIsCiAgICAgICJkYXRhYmFzZSI6ICJhdXRvbXAiCiAgICB9LAo=</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICJjb25uZWN0aW9uIjogewogICAgICAiaG9zdCI6ICJqb3lyaWRlLWRiIiwKICAgICAgImRhdGFiYXNlIjogImF1dG9tcF92MSIsCiAgICAgICJ1c2VyIjogImFkbWluIiwKICAgICAgInBhc3N3b3JkIjogIiIKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBhd2FpdCBkYkNsaWVudHMua25leC5zZWVkLnJ1bigpOwo=</text>
+        <text encoding="base64">ZXhwb3J0cy5kb3duID0gZG93bjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8jIHNvdXJjZU1hcHBpbmdVUkw9MjAxODA4MTYxMTU2MjBfdGVzdGRyaXZlLWFkZC1waG9uZS1udW1iZXIuanMubWFwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gZnVuY3Rpb24gVXBzZXJ0U3RhdHVzKGtuZXg6IEtuZXgsIGNvZGU6IHN0cmluZywgZGVzY3JpcHRpb246IHN0cmluZykgewo=</text>
+        <text encoding="base64">fTsKKQo7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgS25leCBmcm9tICJrbmV4IjsK</text>
+        <text encoding="base64">fTsKKQo7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgIH0gZnJvbSA7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBfX2F3YWl0ZXIodGhpcywgdm9pZCAwLCB2b2lkIDAsIGZ1bmN0aW9uKiAoKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gTmV3VmFsdWVzKGtuZXg6IEtuZXgpIHsK</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>and</last-search>
+      <last-search>Promise</last-search>
       <last-offset />
-      <last-pattern>and</last-pattern>
+      <last-pattern>Promise</last-pattern>
       <last-replace>Headers</last-replace>
       <last-substitute>HeadersMap</last-substitute>
       <last-dir>1</last-dir>
@@ -1433,9 +1449,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getdata</entry>
-        <entry encoding="base64">XDxJbnN0YW5jZVw+</entry>
-        <entry>ObjectSchema</entry>
         <entry>Express</entry>
         <entry>Tables</entry>
         <entry>rows</entry>
@@ -1453,12 +1466,11 @@
         <entry>node</entry>
         <entry>Knex</entry>
         <entry>and</entry>
+        <entry>dev-serv</entry>
+        <entry>knex</entry>
+        <entry>Promise</entry>
       </history-search>
       <history-cmd>
-        <entry>4,5d</entry>
-        <entry>1d</entry>
-        <entry>8</entry>
-        <entry>7</entry>
         <entry>37</entry>
         <entry>39</entry>
         <entry>1</entry>
@@ -1468,12 +1480,16 @@
         <entry>32,44d</entry>
         <entry>54</entry>
         <entry>59</entry>
-        <entry>wq</entry>
         <entry>85</entry>
         <entry>0</entry>
         <entry>:q</entry>
         <entry>4</entry>
         <entry>q</entry>
+        <entry>75</entry>
+        <entry>1,8d</entry>
+        <entry>wq</entry>
+        <entry>11</entry>
+        <entry>19</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
