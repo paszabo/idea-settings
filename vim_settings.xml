@@ -84,12 +84,12 @@
         <mark key="." line="12" column="57" />
         <mark key="^" line="12" column="57" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" timestamp="1534952917852">
-        <mark key="'" line="125" column="14" />
-        <mark key="[" line="125" column="48" />
-        <mark key="]" line="125" column="47" />
-        <mark key="^" line="125" column="47" />
-        <mark key="." line="125" column="47" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" timestamp="1534954678012">
+        <mark key="'" line="7" column="16" />
+        <mark key="[" line="129" column="52" />
+        <mark key="]" line="129" column="52" />
+        <mark key="." line="129" column="52" />
+        <mark key="^" line="129" column="52" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/csv/parser.ts" timestamp="1531157969602">
         <mark key="[" line="5" column="0" />
@@ -1325,7 +1325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="12" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" />
       <jump line="1" column="35" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.serializers.ts" />
       <jump line="4" column="8" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.manager.ts" />
       <jump line="26" column="37" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.manager.ts" />
@@ -1425,10 +1424,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
       <jump line="182" column="3" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
       <jump line="125" column="14" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
+      <jump line="8" column="16" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgY3JlYXRlZF9hdDogbmV3IERhdGUoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVwZGF0ZWRfYXQ6IG5ldyBEYXRlKCksCiAgICAgICAgICAgICAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>updateTestDriveStatus()</text>
@@ -1440,31 +1440,31 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IERhdGUoRGF0ZS5wYXJzZShjb250ZXh0LnN0YXJ0X3RpbWUpICsgc2Vjb25kcyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgY3JlYXRlZF9hdDogbmV3IERhdGUoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVwZGF0ZWRfYXQ6IG5ldyBEYXRlKCksCiAgICAgICAgICAgICAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLmNyZWF0ZVRpbWVzdGFtcHMoKSwK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCB0aGlzLnRlc3REcml2ZVN0YXR1c1VwZGF0ZS5jcmVhdGUoewogICAgICAgICAgICB0ZXN0X2RyaXZlX2Jvb2tpbmdfaWQ6IGlkLAogICAgICAgICAgICBzdGF0dXM6IFRlc3REcml2ZVN0YXR1cy5TdWJtaXR0ZWQsCiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmxvZy5pbmZvKCdib29raW5nIHJlc3VsdCcsIHJlc3VsdCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgY3JlYXRlZF9hdDogbmV3IERhdGUoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVwZGF0ZWRfYXQ6IG5ldyBEYXRlKCksCiAgICAgICAgICAgICAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbWFpbDogRHJpdmVCb29sZWFuOwogICAgICAgIG1vYmlsZVBob25lOiBEcml2ZUJvb2xlYW47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLmNyZWF0ZVRpbWVzdGFtcHMoKSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
