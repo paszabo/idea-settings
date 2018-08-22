@@ -102,11 +102,11 @@
         <mark key="^" line="86" column="3" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/package.json" timestamp="1534871515408">
+      <file name="$USER_HOME$/dev/repos/automp-be/package.json" timestamp="1534959785032">
         <mark key="'" line="97" column="5" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="22" />
+        <mark key="." line="46" column="0" />
         <mark key="^" line="14" column="24" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/api/docker-compose.yml" timestamp="1530720857031">
@@ -353,7 +353,6 @@
         <mark key="." line="48" column="35" />
         <mark key="^" line="48" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/.circleci/codedeploy/scripts/start_container.sh" timestamp="1534540264832" />
       <file name="$USER_HOME$/dev/repos/automp-be/src/injector/registry.ts" timestamp="1531190002547">
         <mark key="'" line="0" column="38" />
         <mark key="[" line="18" column="0" />
@@ -378,6 +377,13 @@
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/database/migrations/20180822135417_lengthen-expanded-url.js" timestamp="1534961542743">
+        <mark key="'" line="4" column="9" />
+        <mark key="[" line="5" column="3" />
+        <mark key="]" line="5" column="3" />
+        <mark key="^" line="4" column="112" />
+        <mark key="." line="5" column="3" />
       </file>
       <file name="$USER_HOME$/dev/repos/api-generator/tsconfig.json" timestamp="1529589476716">
         <mark key="[" line="18" column="0" />
@@ -711,6 +717,13 @@
         <mark key="]" line="170" column="20" />
         <mark key="." line="170" column="20" />
         <mark key="^" line="170" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/docker-compose.yml" timestamp="1534960172828">
+        <mark key="'" line="5" column="29" />
+        <mark key="[" line="4" column="2" />
+        <mark key="]" line="4" column="9" />
+        <mark key="." line="4" column="9" />
+        <mark key="^" line="4" column="9" />
       </file>
       <file name="$USER_HOME$/dev/repos/devops-starter/packer/ami.json" timestamp="1532011082234">
         <mark key="[" line="8" column="36" />
@@ -1175,12 +1188,6 @@
         <mark key="^" line="35" column="45" />
         <mark key="." line="35" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/core/auth/oauth/okta/okta-oauth.client.ts" timestamp="1534884272815">
-        <mark key="'" line="54" column="44" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/auto-core-incentives-api/config.env" timestamp="1532015277819">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
@@ -1275,9 +1282,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="35" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.serializers.ts" />
-      <jump line="4" column="8" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.manager.ts" />
-      <jump line="26" column="37" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.manager.ts" />
       <jump line="53" column="4" filename="$USER_HOME$/dev/repos/automp-be/src/core/database/joyride-knex.ts" />
       <jump line="46" column="48" filename="$USER_HOME$/dev/repos/automp-be/src/core/database/joyride-knex.ts" />
       <jump line="5" column="69" filename="$USER_HOME$/dev/repos/automp-be/database/seeds/test-drive-status-codes.ts" />
@@ -1375,68 +1379,68 @@
       <jump line="182" column="3" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
       <jump line="125" column="14" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
       <jump line="8" column="16" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
+      <jump line="9" column="26" filename="$USER_HOME$/dev/repos/automp-be/database/migrations/20180822135417_lengthen-expanded-url.js" />
+      <jump line="2" column="36" filename="$USER_HOME$/dev/repos/automp-be/database/migrations/20180822135417_lengthen-expanded-url.js" />
+      <jump line="4" column="9" filename="$USER_HOME$/dev/repos/automp-be/database/migrations/20180822135417_lengthen-expanded-url.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.map(knex.schema.raw)</text>
       </register>
       <register name="-" type="4">
-        <text>updateTestDriveStatus()</text>
+        <text>.map(knex.schema.raw)</text>
       </register>
       <register name="/" type="4">
-        <text>this.testDriveStatus</text>
+        <text>on</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IERhdGUoRGF0ZS5wYXJzZShjb250ZXh0LnN0YXJ0X3RpbWUpICsgc2Vjb25kcyk7Cg==</text>
+      <register name="0" type="4">
+        <text>knex.schema.raw</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">J2luc2VydCBpbnRvIHNob3J0ZW5lZF91cmxzIHZhbHVlcyAoJ2ZvbycsICdiYXInKSBvbiBjb25mbGljdCAoc2hvcnRfdXJsKSBkbyBub3RoaW5nJywK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCB0aGlzLnRlc3REcml2ZVN0YXR1c1VwZGF0ZS5jcmVhdGUoewogICAgICAgICAgICB0ZXN0X2RyaXZlX2Jvb2tpbmdfaWQ6IGlkLAogICAgICAgICAgICBzdGF0dXM6IFRlc3REcml2ZVN0YXR1cy5TdWJtaXR0ZWQsCiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmxvZy5pbmZvKCdib29raW5nIHJlc3VsdCcsIHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgY3JlYXRlZF9hdDogbmV3IERhdGUoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVwZGF0ZWRfYXQ6IG5ldyBEYXRlKCksCiAgICAgICAgICAgICAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgS25leCBmcm9tICJrbmV4IjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLmNyZWF0ZVRpbWVzdGFtcHMoKSwK</text>
+        <text encoding="base64">ICAgICJCdWZmZXIiOiAiMC4wLjAiLAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="8" type="4">
+        <text encoding="base64">CgoJ</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSQoY2F0IC9ob21lL2VjMi11c2VyL2ltYWdlLnR4dCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>this.testDriveStatus</last-search>
+      <last-search>on</last-search>
       <last-offset />
-      <last-pattern>this.testDriveStatus</last-pattern>
-      <last-replace>Headers</last-replace>
-      <last-substitute>HeadersMap</last-substitute>
+      <last-pattern>on</last-pattern>
+      <last-replace>&quot;</last-replace>
+      <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>dev-serv</entry>
-        <entry>knex</entry>
-        <entry>Promise</entry>
         <entry encoding="base64">XDxzdWJtaXR0ZWRcPg==</entry>
         <entry>in</entry>
         <entry>constructor</entry>
@@ -1454,9 +1458,11 @@
         <entry>phone</entry>
         <entry>console.log</entry>
         <entry>this.testDriveStatus</entry>
+        <entry>'</entry>
+        <entry>typ</entry>
+        <entry>on</entry>
       </history-search>
       <history-cmd>
-        <entry>64</entry>
         <entry>16</entry>
         <entry>84</entry>
         <entry>91</entry>
@@ -1475,6 +1481,7 @@
         <entry>12</entry>
         <entry>0</entry>
         <entry>124</entry>
+        <entry>%s/'/&quot;/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
