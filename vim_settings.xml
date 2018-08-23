@@ -83,11 +83,10 @@
         <mark key="." line="12" column="57" />
         <mark key="^" line="12" column="57" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" timestamp="1535031391672">
-        <mark key="[" line="189" column="63" />
-        <mark key="]" line="190" column="7" />
-        <mark key="." line="190" column="7" />
-        <mark key="^" line="190" column="7" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" timestamp="1535034034228">
+        <mark key="[" line="189" column="53" />
+        <mark key="]" line="189" column="0" />
+        <mark key="." line="189" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/csv/parser.ts" timestamp="1531157969602">
         <mark key="[" line="5" column="0" />
@@ -114,6 +113,7 @@
         <mark key="^" line="86" column="3" />
         <mark key="." line="89" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/.circleci/codedeploy/scripts/validate_service.sh" timestamp="1535033639334" />
       <file name="$USER_HOME$/dev/repos/automp-be/package.json" timestamp="1534975286103">
         <mark key="'" line="97" column="5" />
         <mark key="[" line="2" column="16" />
@@ -1041,6 +1041,11 @@
         <mark key="." line="59" column="12" />
         <mark key="^" line="59" column="50" />
       </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/config/okta.ts" timestamp="1534948732404">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/api-generator/src/models/index.ts" timestamp="1529605748730">
         <mark key="[" line="0" column="24" />
         <mark key="]" line="1" column="23" />
@@ -1266,6 +1271,11 @@
         <mark key="." line="83" column="12" />
         <mark key="^" line="83" column="12" />
       </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/src/core/index.ts" timestamp="1534526765188">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/quickdata/alterations.js" timestamp="1530890506775">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -1420,17 +1430,17 @@
       <jump line="4" column="9" filename="$USER_HOME$/dev/repos/automp-be/database/migrations/20180822135417_lengthen-expanded-url.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/object-filter</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/object-filter</text>
+        <text>, bookingId: DriveBookingID</text>
       </register>
       <register name="/" type="4">
         <text>on</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyByZWFkb25seSBEZWZhdWx0VXNlck1lc3NhZ2U6IHN0cmluZyA9ICdUaGUgb2JqZWN0IHJlcXVlc3QgZG9lcyBub3QgZXhpc3QnOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1439,7 +1449,7 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZ2V0VGVzdERyaXZlKGlkOiBJRCkgewogICAgICAgIHJldHVybjsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1448,19 +1458,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">J2luc2VydCBpbnRvIHNob3J0ZW5lZF91cmxzIHZhbHVlcyAoJ2ZvbycsICdiYXInKSBvbiBjb25mbGljdCAoc2hvcnRfdXJsKSBkbyBub3RoaW5nJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
