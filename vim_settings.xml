@@ -83,10 +83,12 @@
         <mark key="." line="12" column="57" />
         <mark key="^" line="12" column="57" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" timestamp="1535034034228">
-        <mark key="[" line="189" column="53" />
-        <mark key="]" line="189" column="0" />
-        <mark key="." line="189" column="0" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" timestamp="1535034711003">
+        <mark key="'" line="10" column="20" />
+        <mark key="[" line="145" column="49" />
+        <mark key="]" line="145" column="50" />
+        <mark key="." line="145" column="50" />
+        <mark key="^" line="145" column="48" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/csv/parser.ts" timestamp="1531157969602">
         <mark key="[" line="5" column="0" />
@@ -1041,11 +1043,6 @@
         <mark key="." line="59" column="12" />
         <mark key="^" line="59" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/config/okta.ts" timestamp="1534948732404">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/api-generator/src/models/index.ts" timestamp="1529605748730">
         <mark key="[" line="0" column="24" />
         <mark key="]" line="1" column="23" />
@@ -1271,11 +1268,6 @@
         <mark key="." line="83" column="12" />
         <mark key="^" line="83" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/core/index.ts" timestamp="1534526765188">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/quickdata/alterations.js" timestamp="1530890506775">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -1328,7 +1320,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="4" filename="$USER_HOME$/dev/repos/automp-be/src/core/database/joyride-knex.ts" />
       <jump line="46" column="48" filename="$USER_HOME$/dev/repos/automp-be/src/core/database/joyride-knex.ts" />
       <jump line="5" column="69" filename="$USER_HOME$/dev/repos/automp-be/database/seeds/test-drive-status-codes.ts" />
       <jump line="127" column="35" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
@@ -1428,49 +1419,50 @@
       <jump line="9" column="26" filename="$USER_HOME$/dev/repos/automp-be/database/migrations/20180822135417_lengthen-expanded-url.js" />
       <jump line="2" column="36" filename="$USER_HOME$/dev/repos/automp-be/database/migrations/20180822135417_lengthen-expanded-url.js" />
       <jump line="4" column="9" filename="$USER_HOME$/dev/repos/automp-be/database/migrations/20180822135417_lengthen-expanded-url.js" />
+      <jump line="10" column="20" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IAogICAgICAgICAgICBjb25zdCBzdGF0dXNVcGRhdGVJZCA9</text>
       </register>
       <register name="-" type="4">
-        <text>, bookingId: DriveBookingID</text>
+        <text>testrive</text>
       </register>
       <register name="/" type="4">
         <text>on</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IHN0YXR1c1VwZGF0ZUlkID0gYXdhaXQgdGhpcy50ZXN0RHJpdmVTdGF0dXNVcGRhdGUuY3JlYXRlKHsKICAgICAgICAgICAgICAgICAgICB0ZXN0X2RyaXZlX2Jvb2tpbmdfaWQ6IHRlc3REcml2ZUlkLAogICAgICAgICAgICAgICAgICAgIHN0YXR1cywKICAgICAgICAgICAgICAgICAgICB0aW1lc2xvdCwKICAgICAgICAgICAgICAgICAgICBjb21tZW50cywKICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IAogICAgICAgICAgICBjb25zdCBzdGF0dXNVcGRhdGVJZCA9</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZ2V0VGVzdERyaXZlKGlkOiBJRCkgewogICAgICAgIHJldHVybjsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coYFRlc3QgZHJpdmUgd2l0aCBib29raW5nX2lkPWApCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1509,7 +1501,6 @@
         <entry>on</entry>
       </history-search>
       <history-cmd>
-        <entry>91</entry>
         <entry>22</entry>
         <entry>13</entry>
         <entry encoding="base64">JzwsJz53</entry>
@@ -1523,11 +1514,12 @@
         <entry>9</entry>
         <entry>29</entry>
         <entry>12</entry>
-        <entry>0</entry>
         <entry>124</entry>
         <entry>%s/'/&quot;/g</entry>
         <entry>W</entry>
         <entry>3</entry>
+        <entry>0</entry>
+        <entry>194</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
