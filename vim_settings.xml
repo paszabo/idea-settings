@@ -83,12 +83,12 @@
         <mark key="." line="12" column="57" />
         <mark key="^" line="12" column="57" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" timestamp="1535035594138">
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" timestamp="1535036337064">
         <mark key="'" line="10" column="20" />
-        <mark key="[" line="147" column="22" />
-        <mark key="]" line="10" column="34" />
-        <mark key="." line="10" column="34" />
-        <mark key="^" line="10" column="34" />
+        <mark key="[" line="156" column="98" />
+        <mark key="]" line="156" column="98" />
+        <mark key="." line="156" column="98" />
+        <mark key="^" line="156" column="98" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/csv/parser.ts" timestamp="1531157969602">
         <mark key="[" line="5" column="0" />
@@ -449,11 +449,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/core/exceptions.ts" timestamp="1535030737177">
-        <mark key="[" line="2" column="95" />
-        <mark key="]" line="2" column="95" />
-        <mark key="." line="2" column="95" />
-        <mark key="^" line="14" column="78" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/core/exceptions.ts" timestamp="1535035929572">
+        <mark key="[" line="4" column="33" />
+        <mark key="]" line="4" column="48" />
+        <mark key="." line="4" column="48" />
+        <mark key="^" line="4" column="48" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/bin/joyride-etl.ts" timestamp="1533149640080">
         <mark key="'" line="34" column="101" />
@@ -1422,14 +1422,14 @@
       <jump line="10" column="20" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dCA9PiB0LnN0YXJ0X3RpbWUgPT09IHRpbWVzbG90</text>
       </register>
       <register name="-" type="4">
-        <text>let</text>
+        <text encoding="base64">dCA9PiB0LnN0YXJ0X3RpbWUgPT09IHRpbWVzbG90</text>
       </register>
       <register name="/" type="4">
-        <text>on</text>
+        <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IHN0YXR1c1VwZGF0ZUlkID0gYXdhaXQgdGhpcy50ZXN0RHJpdmVTdGF0dXNVcGRhdGUuY3JlYXRlKHsKICAgICAgICAgICAgICAgICAgICB0ZXN0X2RyaXZlX2Jvb2tpbmdfaWQ6IHRlc3REcml2ZUlkLAogICAgICAgICAgICAgICAgICAgIHN0YXR1cywKICAgICAgICAgICAgICAgICAgICB0aW1lc2xvdCwKICAgICAgICAgICAgICAgICAgICBjb21tZW50cywKICAgICAgICAgICAgICAgIH0pOwo=</text>
@@ -1441,45 +1441,44 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhdHVzVXBkYXRlSWQgPSBhd2FpdCB0aGlzLnRlc3REcml2ZVN0YXR1c1VwZGF0ZS5jcmVhdGUoewogICAgICAgICAgICAgICAgdGVzdF9kcml2ZV9ib29raW5nX2lkOiB0ZXN0RHJpdmUuaWQsCiAgICAgICAgICAgICAgICBzdGF0dXMsCiAgICAgICAgICAgICAgICB0aW1lc2xvdCwKICAgICAgICAgICAgICAgIGNvbW1lbnRzLAogICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBlID0gbmV3IEVycm9yOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICoKICAgICAqIEBwYXJhbSB7c3RyaW5nfSBib29raW5nSWQKICAgICAqIEBwYXJhbSB7c3RyaW5nfSBzdGF0dXMKICAgICAqIEBwYXJhbSB7c3RyaW5nfSBjb21tZW50cwogICAgICogQHBhcmFtIHtUaW1lU2xvdH0gdGltZXNsb3QKICAgICAqIEByZXR1cm5zIHtQcm9taXNlPFBhcnRpYWw8VGVzdERyaXZlPj59CiAgICAgKi8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IHN0YXR1c1VwZGF0ZUlkOiBJRCA9IG51bGw7CiAgICAgICAgICAgIAogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAqIENhbGxlZCBieSBEcml2ZSB2aWEgUkVTVCBBUEkgZW5kcG9pbnQKICAgICAqCiAgICAgKiBTaG91bGQgdXBkYXRlIHRoZSB0ZXN0IGRyaXZlJ3Mgc3RhdHVzIGluIHRoZSBEQiBhbmQgc2VuZCBhbiBlbWFpbCB0bwogICAgICogdGhlIGNsaWVudAo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IAogICAgICAgICAgICBjb25zdCBzdGF0dXNVcGRhdGVJZCA9</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdHVzVXBkYXRlSWQgPSBhd2FpdCB0aGlzLnRlc3REcml2ZVN0YXR1c1VwZGF0ZS5jcmVhdGUoewogICAgICAgICAgICAgICAgdGVzdF9kcml2ZV9ib29raW5nX2lkOiB0ZXN0RHJpdmUuaWQsCiAgICAgICAgICAgICAgICBzdGF0dXMsCiAgICAgICAgICAgICAgICB0aW1lc2xvdCwKICAgICAgICAgICAgICAgIGNvbW1lbnRzLAogICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>on</last-search>
+      <last-search encoding="base64">XDwpXD4=</last-search>
       <last-offset />
-      <last-pattern>on</last-pattern>
+      <last-pattern encoding="base64">XDwpXD4=</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdWJtaXR0ZWRcPg==</entry>
         <entry>in</entry>
         <entry>constructor</entry>
         <entry>host</entry>
@@ -1499,6 +1498,7 @@
         <entry>'</entry>
         <entry>typ</entry>
         <entry>on</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>22</entry>
