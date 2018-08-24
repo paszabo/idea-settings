@@ -61,11 +61,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="16" column="54" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.serializers.ts" timestamp="1534958601534">
-        <mark key="[" line="83" column="36" />
-        <mark key="]" line="13" column="15" />
-        <mark key="^" line="13" column="15" />
-        <mark key="." line="13" column="15" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.serializers.ts" timestamp="1535120402181">
+        <mark key="[" line="83" column="40" />
+        <mark key="]" line="84" column="24" />
+        <mark key="^" line="84" column="24" />
+        <mark key="." line="84" column="24" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/auth/oauth.ts" timestamp="1534091204410">
         <mark key="[" line="4" column="38" />
@@ -86,12 +86,13 @@
         <mark key="." line="12" column="57" />
         <mark key="^" line="12" column="57" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" timestamp="1535118854641">
-        <mark key="'" line="165" column="11" />
-        <mark key="[" line="91" column="10" />
-        <mark key="]" line="91" column="10" />
-        <mark key="." line="91" column="10" />
-        <mark key="^" line="91" column="10" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" timestamp="1535120901077">
+        <mark key="'" line="164" column="11" />
+        <mark key="k" line="180" column="160" />
+        <mark key="[" line="244" column="42" />
+        <mark key="]" line="245" column="44" />
+        <mark key="." line="245" column="44" />
+        <mark key="^" line="245" column="44" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/csv/parser.ts" timestamp="1531157969602">
         <mark key="[" line="5" column="0" />
@@ -1438,8 +1439,8 @@
       <jump line="148" column="11" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>[0]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5sb2cuZGVidWcoJ3Rlc3Rkcml2ZXMxJywgdGVzdGRyaXZlcyk7CiAgICAgICAgICAgIHRoaXMubG9nLmRlYnVnKCd0ZXN0ZHJpdmUxJywgdGVzdGRyaXZlKTsK</text>
       </register>
       <register name="-" type="4">
         <text>[0]</text>
@@ -1451,34 +1452,34 @@
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5sb2cuZGVidWcoJ3Rlc3Rkcml2ZTEnLCB0ZXN0ZHJpdmUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyAoUFMpOiBSZW1vdmUgdGhpcwogICAgICAgICAgICBib29raW5nX2lkOiBgdGVzdGJvb2tpbmctJHt9YCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5sb2cuZGVidWcoJ3Rlc3Rkcml2ZXMxJywgdGVzdGRyaXZlcyk7CiAgICAgICAgICAgIHRoaXMubG9nLmRlYnVnKCd0ZXN0ZHJpdmUxJywgdGVzdGRyaXZlKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGBHb3QgaWQ9JHtpZH0gYm9va2luZ0lkPSR7Ym9va2luZ0lkfWAsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge2lkLH0K</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCB0aW1lc2xvdEVxdWFscyguLi50aW1lc2xvdHM6IFRpbWVTbG90W10pOiBib29sZWFuIHsKICAgICAgICByZXR1cm4gdGltZXNsb3RzLnJlZHVjZSgpCiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSAnLi9zcmM6L2FwcC9zcmMnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLSAnLi8uYXV0b21wcmMuZGV2Oi9hcHAvLmF1dG9tcHJjJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyAoUFMpOiBSZW1vdmUgdGhpcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLSAnLi9jb25maWc6L2FwcC9jb25maWcnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyAoUFMpOiBSZW1vdmUgdGhpcwogICAgICAgICAgICBib29raW5nX2lkOiBgdGVzdGJvb2tpbmctJHt9YCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGBHb3QgaWQ9JHtpZH0gYm9va2luZ0lkPSR7Ym9va2luZ0lkfWAsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzbG90czogVGltZVNsb3RbXSA9IHRlc3Rkcml2ZQogICAgICAgICAgICAudGltZXNsb3RzCiAgICAgICAgICAgIC5maWx0ZXIocyA9PiBzLnN0YXJ0X3RpbWUgPT09IHRpbWVzbG90KTsKICAgICAgICBpZiAoc2xvdHMubGVuZ3RoID09PSAwKSB7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBjb25zdCBzbG90ID0gYXdhaXQgdGhpcy50aW1lU2xvdE1hbmFnZXIuY3JlYXRlKHsKICAgICAgICAgICAgICAgICAgICB0ZXN0X2RyaXZlX2lkOiB0ZXN0ZHJpdmUuaWQsCiAgICAgICAgICAgICAgICAgICAgc3RhcnRfdGltZTogdGltZXNsb3QsCiAgICAgICAgICAgICAgICAgICAgZW5kX3RpbWU6IG1vbWVudCh0aW1lc2xvdCkuYWRkKDEsICdob3VyJykudG9EYXRlKCksCiAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICAgIHRlc3Rkcml2ZS5jaG9zZW5fdGltZXNsb3QgPSBzbG90LmlkOwogICAgICAgICAgICB9IGNhdGNoIChlKSB7CiAgICAgICAgICAgICAgICB0aGlzLmxvZy5lcnJvcigKICAgICAgICAgICAgICAgICAgICBgRmFpbGVkIHRvIGNyZWF0ZSB0aW1lIHNsb3QgZm9yIHRlc3QgZHJpdmUgJHt0ZXN0ZHJpdmUuaWR9YCwKICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgSm95cmlkZUVycm9yKAogICAgICAgICAgICAgICAgICAgICdGYWlsZWQgdG8gY2FwdHVyZSBjaG9zZW4gdGltZSBzbG90IGZvciB0ZXN0IGRyaXZlJywKICAgICAgICAgICAgICAgICAgICB7dGVzdGRyaXZlfSwKICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAge2lkLH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgogICAgICAgIHRyeSB7CiAgICAgICAgICAgIGNvbnN0IHRlc3REcml2ZSA9IChhd2FpdCB0aGlzLnRlc3REcml2ZU1hbmFnZXIubGlzdCh7CiAgICAgICAgICAgICAgICBib29raW5nX2lkOiBib29raW5nSWQsCiAgICAgICAgICAgIH0pKVswXTsKCiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBsZXQgY2hvc2VuVGltZXNsb3RJZCA9IHRlc3REcml2ZS5jaG9zZW5fdGltZXNsb3Q7CgogICAgICAgICAgICAgICAgY29uc3QgdGVzdERyaXZlSWQ6IElEID0gdGVzdERyaXZlLmlkOwoKICAgICAgICAgICAgICAgIGNvbnN0IHN0YXR1c1VwZGF0ZUlkID0gYXdhaXQgdGhpcy50ZXN0RHJpdmVTdGF0dXNVcGRhdGUuY3JlYXRlKHsKICAgICAgICAgICAgICAgICAgICB0ZXN0X2RyaXZlX2Jvb2tpbmdfaWQ6IHRlc3REcml2ZUlkLAogICAgICAgICAgICAgICAgICAgIHN0YXR1cywKICAgICAgICAgICAgICAgICAgICB0aW1lc2xvdCwKICAgICAgICAgICAgICAgICAgICBjb21tZW50cywKICAgICAgICAgICAgICAgIH0pOwoKICAgICAgICAgICAgICAgIGlmICh0aW1lc2xvdCkgewogICAgICAgICAgICAgICAgICAgIGNvbnN0IHRpbWVzbG90cyA9IGF3YWl0IHRoaXMudGltZVNsb3RNYW5hZ2VyLmxpc3QoewogICAgICAgICAgICAgICAgICAgICAgICB0ZXN0X2RyaXZlX2lkOiBOdW1iZXIodGVzdERyaXZlSWQpLAogICAgICAgICAgICAgICAgICAgICAgICBzdGFydF90aW1lOiB0aW1lc2xvdCwKICAgICAgICAgICAgICAgICAgICB9KTsKCiAgICAgICAgICAgICAgICAgICAgaWYgKCF0aW1lc2xvdHMgfHwgdGltZXNsb3RzLmxlbmd0aCA9PT0gMCkgewogICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBuZXdUaW1lc2xvdCA9IGF3YWl0IHRoaXMudGltZVNsb3RNYW5hZ2VyLmNyZWF0ZSh7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0ZXN0X2RyaXZlX2lkOiBOdW1iZXIodGVzdERyaXZlSWQpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RhcnRfdGltZTogdGltZXNsb3QsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbmRfdGltZTogbmV3IERhdGUoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmV3IERhdGUodGltZXNsb3QpLnNldEhvdXJzKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZXcgRGF0ZSh0aW1lc2xvdCkuZ2V0SG91cnMoKSArIDEsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgICAgICAgICBjaG9zZW5UaW1lc2xvdElkID0gbmV3VGltZXNsb3QuaWQ7CiAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgY2hvc2VuVGltZXNsb3RJZCA9IHRpbWVzbG90c1swXS5pZDsKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIGF3YWl0IHRoaXMudGVzdERyaXZlTWFuYWdlci51cGRhdGUodGVzdERyaXZlSWQsIHsKICAgICAgICAgICAgICAgICAgICAgICAgc3RhdHVzLAogICAgICAgICAgICAgICAgICAgICAgICBjaG9zZW5fdGltZXNsb3Q6IGNob3NlblRpbWVzbG90SWQsCiAgICAgICAgICAgICAgICAgICAgICAgIGxhdGVzdF9zdGF0dXNfdXBkYXRlOiBzdGF0dXNVcGRhdGVJZCwKICAgICAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICByZXR1cm4gYFRlc3QgZHJpdmUgJHt0ZXN0RHJpdmUuaWR9IHN0YXR1cyB1cGRhdGVkIHN1Y2Nlc3NmdWxseWA7CiAgICAgICAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICAgICAgICAgIHJldHVybiBgVGVzdCBkcml2ZSAke3Rlc3REcml2ZS5pZH0gc3RhdHVzIGhhcyBmYWlsZWRgOwogICAgICAgICAgICB9CiAgICAgICAgfSBjYXRjaCAoZSkgewogICAgICAgICAgICByZXR1cm4gYEludmFsaWQgdGVzdCBkcml2ZSBib29raW5nOiAke2Jvb2tpbmdJZH1gOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgLSAnLi9zcmM6L2FwcC9zcmMnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1562,6 +1563,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
