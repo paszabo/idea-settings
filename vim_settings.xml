@@ -466,11 +466,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/core/exceptions.ts" timestamp="1535113596881">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/core/exceptions.ts" timestamp="1535124120909">
+        <mark key="'" line="2" column="2" />
+        <mark key="[" line="11" column="11" />
+        <mark key="]" line="11" column="11" />
+        <mark key="." line="11" column="11" />
+        <mark key="^" line="11" column="11" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/bin/joyride-etl.ts" timestamp="1533149640080">
         <mark key="'" line="34" column="101" />
@@ -1252,12 +1253,6 @@
         <mark key="^" line="35" column="45" />
         <mark key="." line="35" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/core/auth/oauth/okta/okta-oauth.client.ts" timestamp="1534884272815">
-        <mark key="'" line="54" column="44" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/auto-core-incentives-api/config.env" timestamp="1532015277819">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
@@ -1352,11 +1347,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="13" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.serializers.ts" />
-      <jump line="8" column="15" filename="$USER_HOME$/dev/repos/automp-be/src/core/auth/oauth/okta/client-flow.ts" />
-      <jump line="31" column="12" filename="$USER_HOME$/dev/repos/automp-be/src/core/auth/oauth/bearer-token.ts" />
-      <jump line="71" column="17" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/drive.client.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/core/api-client/types.ts" />
       <jump line="19" column="25" filename="$USER_HOME$/dev/repos/automp-be/src/core/api-client/types.ts" />
       <jump line="22" column="35" filename="$USER_HOME$/dev/repos/automp-be/src/core/auth/oauth/oauth.client.ts" />
       <jump line="20" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/drive.client.ts" />
@@ -1452,58 +1442,63 @@
       <jump line="19" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/core/exceptions.ts" />
       <jump line="10" column="46" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
       <jump line="148" column="11" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
+      <jump line="20" column="32" filename="$USER_HOME$/dev/repos/automp-be/src/core/exceptions.ts" />
+      <jump line="36" column="16" filename="$USER_HOME$/dev/repos/automp-be/src/core/exceptions.ts" />
+      <jump line="37" column="3" filename="$USER_HOME$/dev/repos/automp-be/src/core/exceptions.ts" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/core/exceptions.ts" />
+      <jump line="2" column="2" filename="$USER_HOME$/dev/repos/automp-be/src/core/exceptions.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5sb2cuZXJyb3IoJ3Rlc3QgZHJpdmUnLCB0ZXN0ZHJpdmUpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IAogKg==</text>
       </register>
       <register name="-" type="4">
-        <text>Silent</text>
+        <text>used</text>
       </register>
       <register name="/" type="4">
-        <text>tes</text>
+        <text>pro</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAqIEBwYXJhbSB7Ym9vbGVhbn0gc2lsZW50OiBSYWlzZSBhbiBleGNlcHRpb24gaWYgbm8gcmVzdWx0cyBhcmUgZm91bmQK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5sb2cuZXJyb3IoJ3Rlc3QgZHJpdmUnLCB0ZXN0ZHJpdmUpOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IAogKg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5sb2cuZXJyb3IoJ3Rlc3QgZHJpdmUnLCB0ZXN0ZHJpdmUpOwogICAgICAgICAgICB0aGlzLmxvZy5kZWJ1ZyhgTm8gdGltZXNsb3RzIGZvdW5kIGZvciB0ZXN0IGRyaXZlICR7dGVzdGRyaXZlLmlkfWApOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIHRpbWVzbG90OiBKb2kuc3RyaW5nKCkuaXNvRGF0ZSgpLAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKiBAcGFyYW0ge0RhdGV9IGQKICAgICAqIEByZXR1cm5zIHt7Y3JlYXRlZF9hdDogRGF0ZTsgdXBkYXRlZF9hdDogRGF0ZX19CiAgICAgKi8K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdXBkYXRlZF9hdDogbmV3IERhdGUoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNyZWF0ZWRfYXQ6IG5ldyBEYXRlKCksCiAgICAgICAgICAgICAgICAgICAgICAgIH0sCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5jcmVhdGVUaW1lCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CiAgICBwdWJsaWMgZ2V0IG1lc3NhZ2UoKTogc3RyaW5nIHsKICAgICAgICByZXR1cm4gdGhpcy5tZXNzYWdlIHx8IHRoaXMuRGVmYXVsdEVycm9yTWVzc2FnZTsKICAgIH0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAqIAogICAgICogCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5sb2cuZXJyb3IoJ3Rlc3QgZHJpdmUnLCB0ZXN0ZHJpdmUpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5sb2cuZXJyb3IoJ3Rlc3QgZHJpdmUnLCB0ZXN0ZHJpdmUpOwogICAgICAgICAgICB0aGlzLmxvZy5kZWJ1ZyhgTm8gdGltZXNsb3RzIGZvdW5kIGZvciB0ZXN0IGRyaXZlICR7dGVzdGRyaXZlLmlkfWApOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8vIHRpbWVzbG90OiBKb2kuc3RyaW5nKCkuaXNvRGF0ZSgpLAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghc2lsZW50ICYmIHQubGVuZ3RoID09PSAwKSB7CiAgICAgICAgICAgICAgICAgICAgdGhyb3cgbmV3IEpveXJpZGVOb3RGb3VuZEVycm9yKAogICAgICAgICAgICAgICAgICAgICAgICAnTm8gdGVzdCBkcml2ZXMgZm91bmQnLAogICAgICAgICAgICAgICAgICAgICAgICB7ZmlsdGVyc30sCiAgICAgICAgICAgICAgICAgICAgKTsKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICByZXR1cm4gdDsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKiBAcGFyYW0ge0RhdGV9IGQKICAgICAqIEByZXR1cm5zIHt7Y3JlYXRlZF9hdDogRGF0ZTsgdXBkYXRlZF9hdDogRGF0ZX19CiAgICAgKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogampqagogICAgICogQHBhcmFtIHtQYXJ0aWFsPFRlc3REcml2ZT59IGZpbHRlcnMKICAgICAqIEByZXR1cm5zIHtQcm9taXNlPFRlc3REcml2ZVtdPn0KICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdXBkYXRlZF9hdDogbmV3IERhdGUoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNyZWF0ZWRfYXQ6IG5ldyBEYXRlKCksCiAgICAgICAgICAgICAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>tes</last-search>
+      <last-search>pro</last-search>
       <last-offset />
-      <last-pattern>tes</last-pattern>
+      <last-pattern>pro</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1511,11 +1506,6 @@
     </search>
     <history>
       <history-search>
-        <entry>constructor</entry>
-        <entry>host</entry>
-        <entry>serv</entry>
-        <entry encoding="base64">XDxsYXRlc3Rfc3RhdHVzX3VwZGF0ZVw+</entry>
-        <entry>extend</entry>
         <entry>:exte3nd</entry>
         <entry>extend:</entry>
         <entry>extend\:</entry>
@@ -1531,11 +1521,13 @@
         <entry>on</entry>
         <entry encoding="base64">XDwpXD4=</entry>
         <entry>tes</entry>
+        <entry>lev</entry>
+        <entry>enc</entry>
+        <entry>sup</entry>
+        <entry>tha</entry>
+        <entry>pro</entry>
       </history-search>
       <history-cmd>
-        <entry>80d</entry>
-        <entry>7</entry>
-        <entry>24</entry>
         <entry>37</entry>
         <entry>112</entry>
         <entry>45d</entry>
@@ -1552,6 +1544,9 @@
         <entry>226</entry>
         <entry>237</entry>
         <entry>230</entry>
+        <entry>1</entry>
+        <entry>31</entry>
+        <entry>ew</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
