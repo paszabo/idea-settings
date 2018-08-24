@@ -84,12 +84,12 @@
         <mark key="^" line="12" column="57" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" timestamp="1535123128478">
-        <mark key="'" line="164" column="11" />
-        <mark key="k" line="180" column="160" />
-        <mark key="[" line="258" column="0" />
-        <mark key="]" line="258" column="0" />
-        <mark key="^" line="242" column="69" />
-        <mark key="." line="258" column="0" />
+        <mark key="'" line="163" column="11" />
+        <mark key="k" line="179" column="160" />
+        <mark key="[" line="261" column="0" />
+        <mark key="]" line="261" column="0" />
+        <mark key="^" line="245" column="69" />
+        <mark key="." line="261" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/csv/parser.ts" timestamp="1531157969602">
         <mark key="[" line="5" column="0" />
@@ -221,6 +221,9 @@
         <mark key="]" line="15" column="4" />
         <mark key="." line="1" column="56" />
         <mark key="^" line="1" column="56" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/.gitignore" timestamp="1535125717892">
+        <mark key="'" line="34" column="12" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/Dockerfile" timestamp="1530893968658">
         <mark key="[" line="16" column="17" />
@@ -594,6 +597,9 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/database/migrations/20180727233613_test-drive-tables.ts" timestamp="1534794670063">
+        <mark key="'" line="73" column="11" />
+      </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/auth/oauth/index.ts" timestamp="1534113958612">
         <mark key="[" line="1" column="43" />
         <mark key="]" line="2" column="0" />
@@ -706,11 +712,12 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/core/structures/object-filter.ts" timestamp="1535113371760">
-        <mark key="[" line="12" column="24" />
-        <mark key="]" line="18" column="23" />
-        <mark key="." line="18" column="23" />
-        <mark key="^" line="18" column="23" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/core/structures/object-filter.ts" timestamp="1535126154016">
+        <mark key="'" line="6" column="7" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="13" column="11" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/api/services/chrome/client/mediaServer.ts" timestamp="1530501923739">
         <mark key="[" line="1" column="41" />
@@ -1084,10 +1091,10 @@
         <mark key="^" line="3" column="66" />
         <mark key="." line="3" column="66" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.manager.ts" timestamp="1535123112463">
-        <mark key="[" line="39" column="23" />
-        <mark key="]" line="39" column="31" />
-        <mark key="." line="39" column="31" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.manager.ts" timestamp="1535125743623">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
         <mark key="^" line="39" column="31" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/server/app-server.ts" timestamp="1530214259992">
@@ -1341,9 +1348,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="25" filename="$USER_HOME$/dev/repos/automp-be/src/core/api-client/types.ts" />
-      <jump line="22" column="35" filename="$USER_HOME$/dev/repos/automp-be/src/core/auth/oauth/oauth.client.ts" />
-      <jump line="20" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/drive.client.ts" />
       <jump line="15" column="14" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/drive.client.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/core/api-client/headers.ts" />
       <jump line="5" column="13" filename="$USER_HOME$/dev/repos/automp-be/src/core/structures/maps.ts" />
@@ -1441,58 +1445,61 @@
       <jump line="37" column="3" filename="$USER_HOME$/dev/repos/automp-be/src/core/exceptions.ts" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/core/exceptions.ts" />
       <jump line="2" column="2" filename="$USER_HOME$/dev/repos/automp-be/src/core/exceptions.ts" />
+      <jump line="34" column="12" filename="$USER_HOME$/dev/repos/automp-be/.gitignore" />
+      <jump line="5" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/core/structures/object-filter.ts" />
+      <jump line="6" column="7" filename="$USER_HOME$/dev/repos/automp-be/src/core/structures/object-filter.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSB7RGF0ZX0gZAo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>{updated_at: Date}</text>
+        <text>Filter an object with custom exclude</text>
       </register>
       <register name="/" type="4">
-        <text>pro</text>
+        <text>henc</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAqIEBwYXJhbSB7RGF0ZX0gZDogT3B0aW9uYWxseSBzcGVjaWZ5IHRoZSB0aW1lc3RhbXAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSB7RGF0ZX0gZAo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICoKICAgICAqIEBwYXJhbSB7RGF0ZX0gZAogICAgICogQHJldHVybnMge3tjcmVhdGVkX2F0OiBEYXRlOyB1cGRhdGVkX2F0OiBEYXRlfX0KICAgICAqLwo=</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICogICAgICAvLyAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">KiAgICAgIHUK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IAogKg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICogICAgICAvLyAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgZ2V0IG1lc3NhZ2UoKTogc3RyaW5nIHsKICAgICAgICByZXR1cm4gdGhpcy5tZXNzYWdlIHx8IHRoaXMuRGVmYXVsdEVycm9yTWVzc2FnZTsKICAgIH0K</text>
+        <text encoding="base64">ICoKICogYAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIAogICAgICogCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5sb2cuZXJyb3IoJ3Rlc3QgZHJpdmUnLCB0ZXN0ZHJpdmUpOwo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSB7RGF0ZX0gZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>pro</last-search>
+      <last-search>henc</last-search>
       <last-offset />
-      <last-pattern>pro</last-pattern>
+      <last-pattern>henc</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1500,9 +1507,6 @@
     </search>
     <history>
       <history-search>
-        <entry>:exte3nd</entry>
-        <entry>extend:</entry>
-        <entry>extend\:</entry>
         <entry encoding="base64">XDx0aGlzXD4=</entry>
         <entry>console</entry>
         <entry>log</entry>
@@ -1520,6 +1524,9 @@
         <entry>sup</entry>
         <entry>tha</entry>
         <entry>pro</entry>
+        <entry>idea</entry>
+        <entry>not</entry>
+        <entry>henc</entry>
       </history-search>
       <history-cmd>
         <entry>45d</entry>
@@ -1529,7 +1536,6 @@
         <entry>%s/'/&quot;/g</entry>
         <entry>194</entry>
         <entry>W</entry>
-        <entry>3</entry>
         <entry>9</entry>
         <entry>2</entry>
         <entry>226</entry>
@@ -1541,6 +1547,7 @@
         <entry>0</entry>
         <entry>25</entry>
         <entry>37</entry>
+        <entry>3</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
