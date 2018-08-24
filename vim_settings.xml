@@ -83,13 +83,11 @@
         <mark key="." line="12" column="57" />
         <mark key="^" line="12" column="57" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" timestamp="1535137498769">
-        <mark key="'" line="163" column="11" />
-        <mark key="k" line="178" column="160" />
-        <mark key="[" line="192" column="24" />
-        <mark key="]" line="192" column="24" />
-        <mark key="." line="192" column="24" />
-        <mark key="^" line="192" column="37" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" timestamp="1535138963022">
+        <mark key="'" line="166" column="40" />
+        <mark key="[" line="228" column="0" />
+        <mark key="]" line="228" column="0" />
+        <mark key="." line="228" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/csv/parser.ts" timestamp="1531157969602">
         <mark key="[" line="5" column="0" />
@@ -281,11 +279,12 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" timestamp="1535046521085">
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" timestamp="1535138901756">
         <mark key="'" line="0" column="12" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+        <mark key="[" line="76" column="17" />
+        <mark key="]" line="77" column="24" />
+        <mark key="." line="77" column="24" />
+        <mark key="^" line="77" column="24" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/api-client/types.ts" timestamp="1534146079883">
         <mark key="'" line="20" column="14" />
@@ -1259,6 +1258,12 @@
         <mark key="^" line="35" column="45" />
         <mark key="." line="35" column="45" />
       </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/src/core/auth/oauth/okta/okta-oauth.client.ts" timestamp="1534884272815">
+        <mark key="'" line="54" column="44" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/auto-core-incentives-api/config.env" timestamp="1532015277819">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
@@ -1348,8 +1353,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="14" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/drive.client.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/core/api-client/headers.ts" />
       <jump line="5" column="13" filename="$USER_HOME$/dev/repos/automp-be/src/core/structures/maps.ts" />
       <jump line="44" column="11" filename="$USER_HOME$/dev/repos/automp-be/src/core/structures/maps.ts" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/core/auth/oauth/oauth.client.ts" />
@@ -1448,13 +1451,15 @@
       <jump line="34" column="12" filename="$USER_HOME$/dev/repos/automp-be/.gitignore" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/core/structures/object-filter.ts" />
       <jump line="6" column="7" filename="$USER_HOME$/dev/repos/automp-be/src/core/structures/object-filter.ts" />
+      <jump line="198" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
+      <jump line="166" column="40" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGVzdGRyaXZlID0gbnVsbDsK</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text encoding="base64">IH1g</text>
       </register>
       <register name="/" type="4">
         <text>henc</text>
@@ -1463,34 +1468,34 @@
         <text encoding="base64">ICAgICAqIEBwYXJhbSB7RGF0ZX0gZDogT3B0aW9uYWxseSBzcGVjaWZ5IHRoZSB0aW1lc3RhbXAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ0ZhaWxlZCB0byBjcmVhdGUgdGltZSBzbG90IGZvciB0ZXN0IGRyaXZlJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGVzdGRyaXZlID0gbnVsbDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCdsb2wnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRlc3Rkcml2ZUlkOiB0ZXN0ZHJpdmUuaWQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCdsb2wnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNsb3RzOiB0ZXN0ZHJpdmUudGltZXNsb3RzLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5sb2cudHJhY2UoZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqCiAgICAgKiBAcGFyYW0ge1Rlc3REcml2ZX0gdGVzdGRyaXZlCiAgICAgKiBAcGFyYW0ge0RhdGV9IHN0YXJ0VGltZQogICAgICogQHJldHVybnMge1Byb21pc2U8SUQ+fQogICAgICovCiAgICBwcm90ZWN0ZWQgYXN5bmMgc2F2ZUNob3NlblRpbWVTbG90KAogICAgICAgIHRlc3Rkcml2ZTogVGVzdERyaXZlLAogICAgICAgIHN0YXJ0VGltZTogRGF0ZSwKICAgICk6IFByb21pc2U8SUQ+IHsKICAgICAgICBjb25zdCBtYXRjaGluZ1RpbWVTbG90czogVGltZVNsb3RbXSA9IHRlc3Rkcml2ZQogICAgICAgICAgICAudGltZXNsb3RzCiAgICAgICAgICAgIC5maWx0ZXIocyA9PiBzLnN0YXJ0X3RpbWUuZ2V0VGltZSgpID09PSBzdGFydFRpbWUuZ2V0VGltZSgpKTsKCiAgICAgICAgaWYgKG1hdGNoaW5nVGltZVNsb3RzLmxlbmd0aCAhPT0gMCkgewogICAgICAgICAgICByZXR1cm4gbWF0Y2hpbmdUaW1lU2xvdHNbMF0uaWQ7CiAgICAgICAgfQoKICAgICAgICB0aGlzLmxvZy5kZWJ1ZygKICAgICAgICAgICAgJ0Nob3NlbiB0aW1lIHNsb3QgZm9yIHRlc3QgZHJpdmUgZG9lcyBub3QgZXhpc3QuIENyZWF0aW5nIGl0IG5vdycsCiAgICAgICAgICAgIHtpZDogdGVzdGRyaXZlLmlkLCBjaG9zZW5UaW1lU2xvdDogc3RhcnRUaW1lfSwKICAgICAgICApOwogICAgICAgIHRyeSB7CiAgICAgICAgICAgIGNvbnN0IHRpbWVzbG90ID0gYXdhaXQgdGhpcy50aW1lU2xvdE1hbmFnZXIuY3JlYXRlKHsKICAgICAgICAgICAgICAgIHRlc3RfZHJpdmVfaWQ6IHRlc3Rkcml2ZS5pZCwKICAgICAgICAgICAgICAgIHN0YXJ0X3RpbWU6IHN0YXJ0VGltZSwKICAgICAgICAgICAgICAgIGVuZF90aW1lOiBtb21lbnQoc3RhcnRUaW1lKS5hZGQoMSwgJ2hvdXInKS50b0RhdGUoKSwKICAgICAgICAgICAgfSk7CgogICAgICAgICAgICByZXR1cm4gdGltZXNsb3QuaWQ7CiAgICAgICAgfSBjYXRjaCAoZSkgewogICAgICAgICAgICB0aGlzLmxvZy5lcnJvcigKICAgICAgICAgICAgICAgICdGYWlsZWQgdG8gY3JlYXRlIGNob3NlbiB0aW1lIHNsb3QnLAogICAgICAgICAgICAgICAge3Rlc3REcml2ZUlkOiB0ZXN0ZHJpdmUuaWR9LAogICAgICAgICAgICApOwogICAgICAgICAgICB0aHJvdyBuZXcgSm95cmlkZUVycm9yKAogICAgICAgICAgICAgICAgJ0ZhaWxlZCB0byBjYXB0dXJlIGNob3NlbiB0aW1lIHNsb3QgZm9yIHRlc3QgZHJpdmUnLAogICAgICAgICAgICAgICAge3Rlc3Rkcml2ZX0sCiAgICAgICAgICAgICk7CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICAgICAqIFNhdmUgdGhlIHRpbWVzbG90IHdpdGggdGhlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogICAgICAvLyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5sb2cuZGVidWcoCiAgICAgICAgICAgICAgICAnQ2hvc2VuIHRpbWVzbG90IGZvciB0ZXN0IGRyaXZlIGRvZXMgbm90IGV4aXN0Li4uICcgKwogICAgICAgICAgICAgICAgJ2NyZWF0aW5nIGl0IG5vdycsCiAgICAgICAgICAgICAgICB7aWQ6IHRlc3Rkcml2ZS5pZCwgY2hvc2VuVGltZVNsb3Q6IHN0YXJ0VGltZX0sCiAgICAgICAgICAgICk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KiAgICAgIHUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
