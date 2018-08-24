@@ -83,11 +83,12 @@
         <mark key="." line="12" column="57" />
         <mark key="^" line="12" column="57" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" timestamp="1535138963022">
-        <mark key="'" line="166" column="40" />
-        <mark key="[" line="228" column="0" />
-        <mark key="]" line="228" column="0" />
-        <mark key="." line="228" column="0" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" timestamp="1535140093079">
+        <mark key="'" line="168" column="40" />
+        <mark key="[" line="186" column="38" />
+        <mark key="]" line="186" column="67" />
+        <mark key="." line="186" column="67" />
+        <mark key="^" line="186" column="67" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/csv/parser.ts" timestamp="1531157969602">
         <mark key="[" line="5" column="0" />
@@ -279,12 +280,12 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" timestamp="1535138901756">
-        <mark key="'" line="0" column="12" />
-        <mark key="[" line="76" column="17" />
-        <mark key="]" line="77" column="24" />
-        <mark key="." line="77" column="24" />
-        <mark key="^" line="77" column="24" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" timestamp="1535139830256">
+        <mark key="'" line="25" column="35" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+        <mark key="^" line="68" column="21" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/api-client/types.ts" timestamp="1534146079883">
         <mark key="'" line="20" column="14" />
@@ -1258,12 +1259,6 @@
         <mark key="^" line="35" column="45" />
         <mark key="." line="35" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/core/auth/oauth/okta/okta-oauth.client.ts" timestamp="1534884272815">
-        <mark key="'" line="54" column="44" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/auto-core-incentives-api/config.env" timestamp="1532015277819">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
@@ -1353,8 +1348,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="13" filename="$USER_HOME$/dev/repos/automp-be/src/core/structures/maps.ts" />
-      <jump line="44" column="11" filename="$USER_HOME$/dev/repos/automp-be/src/core/structures/maps.ts" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/core/auth/oauth/oauth.client.ts" />
       <jump line="11" column="41" filename="$USER_HOME$/dev/repos/automp-be/src/core/auth/oauth/bearer-token.ts" />
       <jump line="54" column="4" filename="$USER_HOME$/dev/repos/automp-be/src/core/api-client/api.client.ts" />
@@ -1453,66 +1446,67 @@
       <jump line="6" column="7" filename="$USER_HOME$/dev/repos/automp-be/src/core/structures/object-filter.ts" />
       <jump line="198" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
       <jump line="166" column="40" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
+      <jump line="67" column="8" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" />
+      <jump line="25" column="35" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVzdGRyaXZlID0gbnVsbDsK</text>
+      <register name="&quot;" type="4">
+        <text>statusUpdateId</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IH1g</text>
+        <text>statusUpdateId</text>
       </register>
       <register name="/" type="4">
-        <text>henc</text>
+        <text encoding="base64">XDxyZXNwb25zZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAqIEBwYXJhbSB7RGF0ZX0gZDogT3B0aW9uYWxseSBzcGVjaWZ5IHRoZSB0aW1lc3RhbXAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVzdGRyaXZlID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgc3RhdHVzVXBkYXRlSWQ6IElEID0gbnVsbDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCdsb2wnKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLnRyYWNlKGUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCdsb2wnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGVzdGRyaXZlID0gbnVsbDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5sb2cudHJhY2UoZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCdsb2wnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqCiAgICAgKiBAcGFyYW0ge1Rlc3REcml2ZX0gdGVzdGRyaXZlCiAgICAgKiBAcGFyYW0ge0RhdGV9IHN0YXJ0VGltZQogICAgICogQHJldHVybnMge1Byb21pc2U8SUQ+fQogICAgICovCiAgICBwcm90ZWN0ZWQgYXN5bmMgc2F2ZUNob3NlblRpbWVTbG90KAogICAgICAgIHRlc3Rkcml2ZTogVGVzdERyaXZlLAogICAgICAgIHN0YXJ0VGltZTogRGF0ZSwKICAgICk6IFByb21pc2U8SUQ+IHsKICAgICAgICBjb25zdCBtYXRjaGluZ1RpbWVTbG90czogVGltZVNsb3RbXSA9IHRlc3Rkcml2ZQogICAgICAgICAgICAudGltZXNsb3RzCiAgICAgICAgICAgIC5maWx0ZXIocyA9PiBzLnN0YXJ0X3RpbWUuZ2V0VGltZSgpID09PSBzdGFydFRpbWUuZ2V0VGltZSgpKTsKCiAgICAgICAgaWYgKG1hdGNoaW5nVGltZVNsb3RzLmxlbmd0aCAhPT0gMCkgewogICAgICAgICAgICByZXR1cm4gbWF0Y2hpbmdUaW1lU2xvdHNbMF0uaWQ7CiAgICAgICAgfQoKICAgICAgICB0aGlzLmxvZy5kZWJ1ZygKICAgICAgICAgICAgJ0Nob3NlbiB0aW1lIHNsb3QgZm9yIHRlc3QgZHJpdmUgZG9lcyBub3QgZXhpc3QuIENyZWF0aW5nIGl0IG5vdycsCiAgICAgICAgICAgIHtpZDogdGVzdGRyaXZlLmlkLCBjaG9zZW5UaW1lU2xvdDogc3RhcnRUaW1lfSwKICAgICAgICApOwogICAgICAgIHRyeSB7CiAgICAgICAgICAgIGNvbnN0IHRpbWVzbG90ID0gYXdhaXQgdGhpcy50aW1lU2xvdE1hbmFnZXIuY3JlYXRlKHsKICAgICAgICAgICAgICAgIHRlc3RfZHJpdmVfaWQ6IHRlc3Rkcml2ZS5pZCwKICAgICAgICAgICAgICAgIHN0YXJ0X3RpbWU6IHN0YXJ0VGltZSwKICAgICAgICAgICAgICAgIGVuZF90aW1lOiBtb21lbnQoc3RhcnRUaW1lKS5hZGQoMSwgJ2hvdXInKS50b0RhdGUoKSwKICAgICAgICAgICAgfSk7CgogICAgICAgICAgICByZXR1cm4gdGltZXNsb3QuaWQ7CiAgICAgICAgfSBjYXRjaCAoZSkgewogICAgICAgICAgICB0aGlzLmxvZy5lcnJvcigKICAgICAgICAgICAgICAgICdGYWlsZWQgdG8gY3JlYXRlIGNob3NlbiB0aW1lIHNsb3QnLAogICAgICAgICAgICAgICAge3Rlc3REcml2ZUlkOiB0ZXN0ZHJpdmUuaWR9LAogICAgICAgICAgICApOwogICAgICAgICAgICB0aHJvdyBuZXcgSm95cmlkZUVycm9yKAogICAgICAgICAgICAgICAgJ0ZhaWxlZCB0byBjYXB0dXJlIGNob3NlbiB0aW1lIHNsb3QgZm9yIHRlc3QgZHJpdmUnLAogICAgICAgICAgICAgICAge3Rlc3Rkcml2ZX0sCiAgICAgICAgICAgICk7CiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCdsb2wnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5sb2cudHJhY2UoZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIFNhdmUgdGhlIHRpbWVzbG90IHdpdGggdGhlCg==</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqCiAgICAgKiBAcGFyYW0ge1Rlc3REcml2ZX0gdGVzdGRyaXZlCiAgICAgKiBAcGFyYW0ge0RhdGV9IHN0YXJ0VGltZQogICAgICogQHJldHVybnMge1Byb21pc2U8SUQ+fQogICAgICovCiAgICBwcm90ZWN0ZWQgYXN5bmMgc2F2ZUNob3NlblRpbWVTbG90KAogICAgICAgIHRlc3Rkcml2ZTogVGVzdERyaXZlLAogICAgICAgIHN0YXJ0VGltZTogRGF0ZSwKICAgICk6IFByb21pc2U8SUQ+IHsKICAgICAgICBjb25zdCBtYXRjaGluZ1RpbWVTbG90czogVGltZVNsb3RbXSA9IHRlc3Rkcml2ZQogICAgICAgICAgICAudGltZXNsb3RzCiAgICAgICAgICAgIC5maWx0ZXIocyA9PiBzLnN0YXJ0X3RpbWUuZ2V0VGltZSgpID09PSBzdGFydFRpbWUuZ2V0VGltZSgpKTsKCiAgICAgICAgaWYgKG1hdGNoaW5nVGltZVNsb3RzLmxlbmd0aCAhPT0gMCkgewogICAgICAgICAgICByZXR1cm4gbWF0Y2hpbmdUaW1lU2xvdHNbMF0uaWQ7CiAgICAgICAgfQoKICAgICAgICB0aGlzLmxvZy5kZWJ1ZygKICAgICAgICAgICAgJ0Nob3NlbiB0aW1lIHNsb3QgZm9yIHRlc3QgZHJpdmUgZG9lcyBub3QgZXhpc3QuIENyZWF0aW5nIGl0IG5vdycsCiAgICAgICAgICAgIHtpZDogdGVzdGRyaXZlLmlkLCBjaG9zZW5UaW1lU2xvdDogc3RhcnRUaW1lfSwKICAgICAgICApOwogICAgICAgIHRyeSB7CiAgICAgICAgICAgIGNvbnN0IHRpbWVzbG90ID0gYXdhaXQgdGhpcy50aW1lU2xvdE1hbmFnZXIuY3JlYXRlKHsKICAgICAgICAgICAgICAgIHRlc3RfZHJpdmVfaWQ6IHRlc3Rkcml2ZS5pZCwKICAgICAgICAgICAgICAgIHN0YXJ0X3RpbWU6IHN0YXJ0VGltZSwKICAgICAgICAgICAgICAgIGVuZF90aW1lOiBtb21lbnQoc3RhcnRUaW1lKS5hZGQoMSwgJ2hvdXInKS50b0RhdGUoKSwKICAgICAgICAgICAgfSk7CgogICAgICAgICAgICByZXR1cm4gdGltZXNsb3QuaWQ7CiAgICAgICAgfSBjYXRjaCAoZSkgewogICAgICAgICAgICB0aGlzLmxvZy5lcnJvcigKICAgICAgICAgICAgICAgICdGYWlsZWQgdG8gY3JlYXRlIGNob3NlbiB0aW1lIHNsb3QnLAogICAgICAgICAgICAgICAge3Rlc3REcml2ZUlkOiB0ZXN0ZHJpdmUuaWR9LAogICAgICAgICAgICApOwogICAgICAgICAgICB0aHJvdyBuZXcgSm95cmlkZUVycm9yKAogICAgICAgICAgICAgICAgJ0ZhaWxlZCB0byBjYXB0dXJlIGNob3NlbiB0aW1lIHNsb3QgZm9yIHRlc3QgZHJpdmUnLAogICAgICAgICAgICAgICAge3Rlc3Rkcml2ZX0sCiAgICAgICAgICAgICk7CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5sb2cuZGVidWcoCiAgICAgICAgICAgICAgICAnQ2hvc2VuIHRpbWVzbG90IGZvciB0ZXN0IGRyaXZlIGRvZXMgbm90IGV4aXN0Li4uICcgKwogICAgICAgICAgICAgICAgJ2NyZWF0aW5nIGl0IG5vdycsCiAgICAgICAgICAgICAgICB7aWQ6IHRlc3Rkcml2ZS5pZCwgY2hvc2VuVGltZVNsb3Q6IHN0YXJ0VGltZX0sCiAgICAgICAgICAgICk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAqIFNhdmUgdGhlIHRpbWVzbG90IHdpdGggdGhlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>henc</last-search>
+      <last-search encoding="base64">XDxyZXNwb25zZVw+</last-search>
       <last-offset />
-      <last-pattern>henc</last-pattern>
+      <last-pattern encoding="base64">XDxyZXNwb25zZVw+</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0aGlzXD4=</entry>
         <entry>console</entry>
         <entry>log</entry>
         <entry>agree</entry>
@@ -1532,15 +1526,13 @@
         <entry>idea</entry>
         <entry>not</entry>
         <entry>henc</entry>
+        <entry encoding="base64">XDxyZXNwb25zZVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>45d</entry>
-        <entry>29</entry>
         <entry>12</entry>
         <entry>124</entry>
         <entry>%s/'/&quot;/g</entry>
         <entry>194</entry>
-        <entry>W</entry>
         <entry>9</entry>
         <entry>2</entry>
         <entry>226</entry>
@@ -1553,6 +1545,9 @@
         <entry>25</entry>
         <entry>37</entry>
         <entry>3</entry>
+        <entry>W</entry>
+        <entry>qw</entry>
+        <entry>85</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
