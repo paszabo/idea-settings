@@ -84,11 +84,11 @@
         <mark key="." line="12" column="57" />
         <mark key="^" line="12" column="57" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" timestamp="1535382944814">
-        <mark key="[" line="270" column="60" />
-        <mark key="]" line="271" column="11" />
-        <mark key="." line="271" column="11" />
-        <mark key="^" line="271" column="11" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" timestamp="1535390482967">
+        <mark key="[" line="119" column="51" />
+        <mark key="]" line="119" column="60" />
+        <mark key="." line="119" column="60" />
+        <mark key="^" line="119" column="60" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/csv/parser.ts" timestamp="1531157969602">
         <mark key="[" line="5" column="0" />
@@ -1448,11 +1448,11 @@
       <jump line="86" column="49" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIHRpbWVzbG90OiBKb2kuZGF0ZSgpLmlzbygpLmVtcHR5KCcnKS5kZWZhdWx0KG51bGwsICdObyBkYXRlIHByb3ZpZGVkJyksCg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>, 'No date provided')</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>lol</text>
@@ -1543,10 +1543,10 @@
         <entry>25</entry>
         <entry>37</entry>
         <entry>3</entry>
-        <entry>W</entry>
         <entry>qw</entry>
         <entry>85</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
