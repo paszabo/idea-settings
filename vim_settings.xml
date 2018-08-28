@@ -62,10 +62,8 @@
         <mark key="^" line="16" column="54" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.serializers.ts" timestamp="1535408650728">
-        <mark key="'" line="87" column="15" />
+        <mark key="'" line="84" column="15" />
         <mark key="[" line="2" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/auth/oauth.ts" timestamp="1534091204410">
         <mark key="[" line="4" column="38" />
@@ -86,13 +84,7 @@
         <mark key="." line="12" column="57" />
         <mark key="^" line="12" column="57" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" timestamp="1535409347555">
-        <mark key="'" line="286" column="10" />
-        <mark key="[" line="77" column="43" />
-        <mark key="]" line="79" column="36" />
-        <mark key="." line="79" column="36" />
-        <mark key="^" line="79" column="36" />
-      </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" timestamp="1535411731238" />
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/csv/parser.ts" timestamp="1531157969602">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="6" column="0" />
@@ -302,7 +294,7 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" timestamp="1535139830256">
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" timestamp="1535411566647">
         <mark key="'" line="25" column="35" />
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="0" />
@@ -1399,9 +1391,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="24" filename="$USER_HOME$/dev/repos/automp-be/database/migrations/20180727233613_test-drive-tables.js" />
-      <jump line="74" column="8" filename="$USER_HOME$/dev/repos/automp-be/database/migrations/20180727233613_test-drive-tables.js" />
-      <jump line="75" column="8" filename="$USER_HOME$/dev/repos/automp-be/database/migrations/20180727233613_test-drive-tables.js" />
       <jump line="76" column="8" filename="$USER_HOME$/dev/repos/automp-be/database/migrations/20180727233613_test-drive-tables.js" />
       <jump line="77" column="8" filename="$USER_HOME$/dev/repos/automp-be/database/migrations/20180727233613_test-drive-tables.js" />
       <jump line="63" column="22" filename="$USER_HOME$/dev/repos/automp-be/database/migrations/20180727233613_test-drive-tables.js" />
@@ -1499,58 +1488,61 @@
       <jump line="230" column="6" filename="$USER_HOME$/dev/repos/automp-be/node_modules/@types/joi/index.d.ts" />
       <jump line="913" column="34" filename="$USER_HOME$/dev/repos/automp-be/node_modules/@types/joi/index.d.ts" />
       <jump line="957" column="14" filename="$USER_HOME$/dev/repos/automp-be/node_modules/@types/joi/index.d.ts" />
+      <jump line="107" column="16" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
+      <jump line="304" column="29" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
+      <jump line="79" column="17" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Sm9pLmV4dGVuZCh7fSkK</text>
+      <register name="&quot;" type="4">
+        <text>debug</text>
       </register>
       <register name="-" type="4">
-        <text>this.formatMessage(message)</text>
+        <text>debug</text>
       </register>
       <register name="/" type="4">
-        <text>Reference</text>
+        <text>validate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLmluc3RhbmNlW21ldGhvZF0oCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Sm9pLmV4dGVuZCh7fSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdUaW1lIHNsb3QgbXVzdCBiZSAyIGRheXMgaW4gdGhlIGZ1dHVyZScsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0aGlzLmluc3RhbmNlLmRlYnVnKHRoaXMuZm9ybWF0TWVzc2FnZShtZXNzYWdlKSk7CiAgICAgICAgLy8gdGhpcy5pbnN0YW5jZS5kZWJ1ZyguLi5tZXNzYWdlKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0aGlzLmluc3RhbmNlLmVycm9yKC4uLm1lc3NhZ2UpOwogICAgICAgIC8vIHRoaXMuaW5zdGFuY2UuZXJyb3IodGhpcy5mb3JtYXRNZXNzYWdlKG1lc3NhZ2UpKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0aGlzLmluc3RhbmNlLmVycm9yKC4uLm1lc3NhZ2UpOwogICAgICAgIC8vIHRoaXMuaW5zdGFuY2UuaW5mbyh0aGlzLmZvcm1hdE1lc3NhZ2UobWVzc2FnZSkpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0aGlzLmluc3RhbmNlLmVycm9yKC4uLm1lc3NhZ2UpOwogICAgICAgIC8vIHRoaXMuaW5zdGFuY2UudHJhY2UoLi4udGhpcy5mb3JtYXRNZXNzYWdlKG1lc3NhZ2UpKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0aGlzLmluc3RhbmNlLmVycm9yKC4uLm1lc3NhZ2UpOwogICAgICAgIC8vIHRoaXMuaW5zdGFuY2Uud2FybiguLi50aGlzLmZvcm1hdE1lc3NhZ2UobWVzc2FnZSkpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0aGlzLmluc3RhbmNlW21ldGhvZF0odGhpcy5mb3JtYXRNZXNzYWdlKG1lc3NhZ2UpKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCF0aGlzLnZhbGlkYXRlVGltZXNsb3QodGltZXNsb3QpKSB7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gaWYgKHRpbWVzbG90LnN0YXJ0X3RpbWUgPCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBvZmZzZXQ6IFtudW1iZXIsIHN0cmluZ10gPSBbMiwgJ2RheXMnXSwK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKiBAcGFyYW0ge1RpbWVTbG90fSB0aW1lc2xvdAogICAgICogQHJldHVybnMge2Jvb2xlYW59CiAgICAgKi8K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSB7RGF0ZX0gZGF0ZQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIGZvcm1hdE1lc3NhZ2UoLi4ubWVzc2FnZTogYW55W10pOiBhbnlbXSB8IGFueSB7CgogICAgICAgIGNvbnNvbGUubG9nKHR5cGVvZiBtZXNzYWdlKTsKICAgICAgICBjb25zb2xlLmxvZyhtZXNzYWdlLmxlbmd0aCk7CiAgICAgICAgaWYgKHR5cGVvZiBtZXNzYWdlID09PSAnc3RyaW5nJykgewogICAgICAgICAgICByZXR1cm4gbWVzc2FnZTsKICAgICAgICB9CiAgICAgICAgZWxzZSBpZiAobWVzc2FnZS5sZW5ndGggPCAxKSB7CiAgICAgICAgICAgIHJldHVybiAnRXJyb3InOwogICAgICAgIH0KICAgICAgICBlbHNlIGlmIChtZXNzYWdlLmxlbmd0aCA9PT0gMSkgewogICAgICAgICAgICBjb25zb2xlLmxvZygnbGVuZ3RoIGlzIDEnKTsKICAgICAgICAgICAgcmV0dXJuIG1lc3NhZ2VbMF07CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gbWVzc2FnZTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Reference</last-search>
+      <last-search>validate</last-search>
       <last-offset />
-      <last-pattern>Reference</last-pattern>
+      <last-pattern>validate</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1558,9 +1550,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwpXD4=</entry>
-        <entry>tes</entry>
-        <entry>lev</entry>
         <entry>enc</entry>
         <entry>sup</entry>
         <entry>tha</entry>
@@ -1578,6 +1567,9 @@
         <entry>DateSchema</entry>
         <entry>Referene</entry>
         <entry>Reference</entry>
+        <entry>in</entry>
+        <entry>debug</entry>
+        <entry>validate</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -1591,7 +1583,6 @@
         <entry>37</entry>
         <entry>qw</entry>
         <entry>85</entry>
-        <entry>W</entry>
         <entry>1,4d</entry>
         <entry>3</entry>
         <entry>14</entry>
@@ -1599,6 +1590,7 @@
         <entry>17</entry>
         <entry>1</entry>
         <entry>231</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
