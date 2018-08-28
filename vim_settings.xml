@@ -61,12 +61,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="16" column="54" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.serializers.ts" timestamp="1535464829101">
-        <mark key="'" line="84" column="15" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="18" column="15" />
-        <mark key="^" line="18" column="15" />
-        <mark key="." line="18" column="15" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.serializers.ts" timestamp="1535466662374">
+        <mark key="'" line="85" column="15" />
+        <mark key="[" line="93" column="64" />
+        <mark key="]" line="94" column="106" />
+        <mark key="^" line="94" column="106" />
+        <mark key="." line="94" column="106" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/auth/oauth.ts" timestamp="1534091204410">
         <mark key="[" line="4" column="38" />
@@ -87,7 +87,12 @@
         <mark key="." line="12" column="57" />
         <mark key="^" line="12" column="57" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" timestamp="1535411731238" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" timestamp="1535465831414">
+        <mark key="[" line="74" column="40" />
+        <mark key="]" line="75" column="50" />
+        <mark key="^" line="75" column="50" />
+        <mark key="." line="75" column="50" />
+      </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/csv/parser.ts" timestamp="1531157969602">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="6" column="0" />
@@ -273,6 +278,7 @@
         <mark key="." line="28" column="54" />
         <mark key="^" line="28" column="54" />
       </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/deploy/dev/.automprc" timestamp="1535465731106" />
       <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/drive/drive.client.ts" timestamp="1534518905219">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
@@ -1158,9 +1164,6 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/core/logging/logger.ts" timestamp="1535394811067">
-        <mark key="^" line="8" column="24" />
-      </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/etl/tsconfig.json" timestamp="1530301887680">
         <mark key="[" line="12" column="14" />
         <mark key="]" line="12" column="18" />
@@ -1497,10 +1500,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>w</text>
+        <text>description</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>description</text>
       </register>
       <register name="/" type="4">
         <text>validate</text>
