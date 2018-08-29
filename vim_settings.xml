@@ -58,12 +58,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="16" column="54" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.serializers.ts" timestamp="1535508594954">
-        <mark key="'" line="110" column="11" />
-        <mark key="[" line="6" column="21" />
-        <mark key="]" line="6" column="19" />
-        <mark key="^" line="6" column="19" />
-        <mark key="." line="6" column="19" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.serializers.ts" timestamp="1535509857940">
+        <mark key="'" line="98" column="11" />
+        <mark key="[" line="76" column="14" />
+        <mark key="]" line="77" column="69" />
+        <mark key="." line="77" column="69" />
+        <mark key="^" line="77" column="69" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/auth/oauth.ts" timestamp="1534091204410">
         <mark key="[" line="4" column="38" />
@@ -84,11 +84,11 @@
         <mark key="." line="12" column="57" />
         <mark key="^" line="12" column="57" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" timestamp="1535478674158">
-        <mark key="[" line="190" column="17" />
-        <mark key="]" line="190" column="16" />
-        <mark key="^" line="190" column="16" />
-        <mark key="." line="190" column="16" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" timestamp="1535513148386">
+        <mark key="[" line="122" column="102" />
+        <mark key="]" line="122" column="132" />
+        <mark key="^" line="122" column="132" />
+        <mark key="." line="122" column="132" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/csv/parser.ts" timestamp="1531157969602">
         <mark key="[" line="5" column="0" />
@@ -795,8 +795,8 @@
         <mark key="." line="170" column="20" />
         <mark key="^" line="170" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/docker-compose.yml" timestamp="1535117751456">
-        <mark key="'" line="5" column="29" />
+      <file name="$USER_HOME$/dev/repos/automp-be/docker-compose.yml" timestamp="1535509994841">
+        <mark key="'" line="16" column="0" />
         <mark key="[" line="61" column="34" />
         <mark key="]" line="62" column="40" />
         <mark key="^" line="62" column="40" />
@@ -1395,7 +1395,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="14" filename="$USER_HOME$/dev/repos/automp-be/src/core/api-client/api.client.ts" />
       <jump line="112" column="24" filename="$USER_HOME$/dev/repos/automp-be/src/core/api-client/api.client.ts" />
       <jump line="45" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/core/api-client/api.client.ts" />
       <jump line="13" column="29" filename="$USER_HOME$/dev/repos/automp-be/src/core/api-client/api.client.ts" />
@@ -1495,58 +1494,59 @@
       <jump line="12" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" />
       <jump line="5" column="13" filename="$USER_HOME$/dev/repos/automp-be/src/core/api/exceptions.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/core/api/exceptions.ts" />
+      <jump line="16" column="0" filename="$USER_HOME$/dev/repos/automp-be/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'date'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCB1dGNTdGFydCA9IG1vbWVudCh0aW1lc2xvdC5zdGFydF90aW1lKS5zdGFydE9mKCdkYXknKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>'date'</text>
+        <text>.utc()</text>
       </register>
       <register name="/" type="4">
-        <text>debug</text>
+        <text>redis</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICogQHBhcmFtIHtib29sZWFufSB2ZXJib3NlOiBJZiB0cnVlLCBkZWJ1ZyBpbmZvcm1hdGlvbiAoc3RhY2sgdHJhY2UgYW5kIGRhdGEpCiAqICAgICAgd2lsbCBiZSBpbmNsdWRlZC4gQmUgc3VyZSB0aGlzIGlzIGZhbHNlIGluIHByb2R1Y3Rpb24uCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB1dGNTdGFydCA9IG1vbWVudCh0aW1lc2xvdC5zdGFydF90aW1lKS5zdGFydE9mKCdkYXknKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICcnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y29uc3QgRHluYW1pY01pbkRhdGUgPSBKb2kuZXh0ZW5kKHsKICAgIG5hbWU6ICdkYXRlQ29tcHV0ZWQnLAogICAgYmFzZTogSm9pLmRhdGUoKSwKICAgIHJ1bGVzOiBbCiAgICAgICAgewogICAgICAgICAgICBuYW1lOiAnbWluJywKICAgICAgICAgICAgcGFyYW1zOiB7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIF0KfSk7Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG5hbWU6ICdkYXRlJywK</text>
+        <text encoding="base64">ICAgICcnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgYXN5bmMgcmVsZWFzZVRvRHJpdmUocmVxdWVzdDogUmVxdWVzdCwgcmVzcG9uc2U6IFJlc3BvbnNlKSB7CiAgICAgICAgY29uc3QgcmVzdWx0ID0gYXdhaXQgdGhpcy50ZXN0ZHJpdmVTZXJ2aWNlLnN1Ym1pdFRlc3REcml2ZVJlcXVlc3QoCiAgICAgICAgICAgIHJlcXVlc3QucGFyYW1zLmlkLAogICAgICAgICk7CgogICAgICAgIHJlc3BvbnNlLmpzb24oe2RhdGE6IHJlc3VsdH0pOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IHtFcnJvckhhbmRsZXJ9IGZyb20gJy4uLy4uL2NvcmUvYXBpL2V4Y2VwdGlvbnMnOwo=</text>
+        <text encoding="base64">ICAgIG5hbWU6ICdkYXRlJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtjb25maWd9IGZyb20gJy4uLy4uLy4uL2NvbmZpZyc7Cg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgYXN5bmMgcmVsZWFzZVRvRHJpdmUocmVxdWVzdDogUmVxdWVzdCwgcmVzcG9uc2U6IFJlc3BvbnNlKSB7CiAgICAgICAgY29uc3QgcmVzdWx0ID0gYXdhaXQgdGhpcy50ZXN0ZHJpdmVTZXJ2aWNlLnN1Ym1pdFRlc3REcml2ZVJlcXVlc3QoCiAgICAgICAgICAgIHJlcXVlc3QucGFyYW1zLmlkLAogICAgICAgICk7CgogICAgICAgIHJlc3BvbnNlLmpzb24oe2RhdGE6IHJlc3VsdH0pOwogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IHtFcnJvckhhbmRsZXJ9IGZyb20gJy4uLy4uL2NvcmUvYXBpL2V4Y2VwdGlvbnMnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aWYgKGNvbmZpZy5mZWF0dXJlcy50ZXN0LnJlbGVhc2VUZXN0RHJpdmVBUEkpIHsKICAgIFRlc3REcml2ZUFwcC5wb3N0KCcvOmlkL3JlbGVhc2UtdG8tZHJpdmUnLCBhc3luYyAocmVxLCByZXNwKSA9PiB7CiAgICAgICAgY29uc3QgYXBpID0gbmV3IFRlc3REcml2ZUFQSSgpOwogICAgICAgIHRyeSB7CiAgICAgICAgICAgIHJldHVybiBhd2FpdCBhcGkucmVsZWFzZVRvRHJpdmUocmVxLCByZXNwKTsKICAgICAgICB9IGNhdGNoIChlKSB7CiAgICAgICAgICAgIEVycm9ySGFuZGxlcihlLCByZXEsIHJlc3ApOwogICAgICAgIH0KICAgIH0pOwp9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtjb25maWd9IGZyb20gJy4uLy4uLy4uL2NvbmZpZyc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBmZWF0dXJlczogewogICAgdGVzdDogewogICAgICByZWxlYXNlVGVzdERyaXZlQVBJOiBmYWxzZQogICAgfQogIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>debug</last-search>
+      <last-search>redis</last-search>
       <last-offset />
-      <last-pattern>debug</last-pattern>
+      <last-pattern>redis</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1554,7 +1554,6 @@
     </search>
     <history>
       <history-search>
-        <entry>exc</entry>
         <entry>thi</entry>
         <entry>throw</entry>
         <entry>lol</entry>
@@ -1574,6 +1573,7 @@
         <entry>tra</entry>
         <entry>fal</entry>
         <entry>debug</entry>
+        <entry>redis</entry>
       </history-search>
       <history-cmd>
         <entry>85</entry>
