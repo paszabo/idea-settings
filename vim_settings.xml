@@ -22,6 +22,9 @@
         <mark key="." line="171" column="0" />
         <mark key="^" line="168" column="6" />
       </file>
+      <file name="/a.dummy" timestamp="1535645889658">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/api/database/index.ts" timestamp="1530488272641">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="0" column="17" />
@@ -143,6 +146,9 @@
         <mark key="]" line="1" column="24" />
         <mark key="." line="1" column="24" />
         <mark key="^" line="1" column="24" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/src/core/structures/index.ts" timestamp="1535031264482">
+        <mark key="[" line="0" column="23" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/test/models/urlshortener/bll.ts" timestamp="1535333895861" />
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/graph/index.ts" timestamp="1530161691947">
@@ -287,6 +293,9 @@
         <mark key="]" line="1" column="35" />
         <mark key="." line="1" column="35" />
         <mark key="^" line="1" column="35" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1534525728812">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/url-shortener/shortened-url.model.ts" timestamp="1528316307749">
         <mark key="[" line="8" column="0" />
@@ -437,12 +446,6 @@
         <mark key="]" line="65" column="20" />
         <mark key="^" line="65" column="20" />
         <mark key="." line="65" column="20" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/core/logging/bunyan.logger.ts" timestamp="1535480288656">
-        <mark key="'" line="11" column="13" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/test/lib/quickdata/alterations.ts" timestamp="1530897134120">
         <mark key="'" line="2" column="50" />
@@ -665,11 +668,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/constants.ts" timestamp="1535635669490">
-        <mark key="[" line="27" column="45" />
-        <mark key="]" line="27" column="45" />
-        <mark key="." line="27" column="45" />
-        <mark key="^" line="27" column="45" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/constants.ts" timestamp="1535645496768">
+        <mark key="[" line="21" column="35" />
+        <mark key="]" line="21" column="43" />
+        <mark key="." line="21" column="43" />
+        <mark key="^" line="21" column="43" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/db/src/tables.ts" timestamp="1530487173039">
         <mark key="[" line="3" column="17" />
@@ -1468,11 +1471,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAuaW5zZW5zaXRpdmUoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>booked</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>booked</text>
       </register>
       <register name="/" type="4">
         <text>req</text>
