@@ -55,11 +55,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="16" column="54" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.serializers.ts" timestamp="1535565696504">
-        <mark key="[" line="118" column="10" />
-        <mark key="]" line="118" column="19" />
-        <mark key="." line="118" column="19" />
-        <mark key="^" line="118" column="19" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.serializers.ts" timestamp="1535727792362">
+        <mark key="'" line="126" column="12" />
+        <mark key="[" line="121" column="17" />
+        <mark key="]" line="121" column="18" />
+        <mark key="." line="121" column="18" />
+        <mark key="^" line="121" column="12" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/auth/oauth.ts" timestamp="1534091204410">
         <mark key="[" line="4" column="38" />
@@ -213,9 +214,6 @@
         <mark key="^" line="6" column="44" />
         <mark key="." line="6" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/.gitignore" timestamp="1535125717892">
-        <mark key="'" line="34" column="12" />
-      </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/Dockerfile" timestamp="1530893968658">
         <mark key="[" line="16" column="17" />
         <mark key="]" line="17" column="15" />
@@ -272,8 +270,12 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" timestamp="1535561866576">
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" timestamp="1535727819987">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="71" column="30" />
+        <mark key="]" line="71" column="31" />
+        <mark key="^" line="71" column="26" />
+        <mark key="." line="71" column="31" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/api-client/types.ts" timestamp="1534146079883">
         <mark key="'" line="20" column="14" />
@@ -575,9 +577,6 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/database/migrations/20180727233613_test-drive-tables.ts" timestamp="1534794670063">
-        <mark key="'" line="73" column="11" />
-      </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/auth/oauth/index.ts" timestamp="1534113958612">
         <mark key="[" line="1" column="43" />
         <mark key="]" line="2" column="0" />
@@ -795,12 +794,12 @@
         <mark key="." line="13" column="11" />
         <mark key="^" line="13" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/types.ts" timestamp="1535464851668">
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/types.ts" timestamp="1535727873843">
         <mark key="'" line="7" column="12" />
-        <mark key="[" line="43" column="15" />
-        <mark key="]" line="43" column="15" />
-        <mark key="." line="43" column="15" />
-        <mark key="^" line="43" column="16" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="51" column="12" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/api/server/index.ts" timestamp="1530487756514">
         <mark key="[" line="0" column="0" />
@@ -1354,7 +1353,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="27" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.serializers.ts" />
       <jump line="63" column="19" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.serializers.ts" />
       <jump line="64" column="18" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.serializers.ts" />
       <jump line="66" column="23" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.serializers.ts" />
@@ -1454,58 +1452,59 @@
       <jump line="111" column="9" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.serializers.ts" />
       <jump line="84" column="7" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" />
+      <jump line="126" column="12" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.serializers.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>confirmed</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>confirmed</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>req</text>
+        <text>time</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25zdCB0aW1lU2xvdFN0YXJ0OiBtb21lbnQuTW9tZW50ID0gbW9tZW50KHRpbWVzbG90LnN0YXJ0X3RpbWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAuaW5zZW5zaXRpdmUoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAuaW5zZW5zaXRpdmUoKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAubG93ZXJjYXNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAuaW5zZW5zaXRpdmUoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCiAqIENvbXB1dGUgYSB0aW1lc2xvdCdzIGVuZCBEYXRlCiAqCiAqIEBwYXJhbSB7RGF0ZX0gc3RhcnQKICogQHBhcmFtIHtudW1iZXJ9IHNlY29uZHMKICogQHJldHVybnMge0RhdGV9CiAqLwoK</text>
+        <text encoding="base64">ICAgICAgICAuaW5zZW5zaXRpdmUoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAubG93ZXJjYXNlKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">LyoqCiAqIENvbXB1dGUgYSB0aW1lc2xvdCdzIGVuZCBEYXRlCiAqCiAqIEBwYXJhbSB7RGF0ZX0gc3RhcnQKICogQHBhcmFtIHtudW1iZXJ9IHNlY29uZHMKICogQHJldHVybnMge0RhdGV9CiAqLwoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>req</last-search>
+      <last-search>time</last-search>
       <last-offset />
-      <last-pattern>req</last-pattern>
+      <last-pattern>time</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1513,7 +1512,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwoXD4=</entry>
         <entry>must</entry>
         <entry>dealerId\: string</entry>
         <entry>dealerId</entry>
@@ -1533,6 +1531,7 @@
         <entry>valid\(true</entry>
         <entry>valid(true</entry>
         <entry>req</entry>
+        <entry>time</entry>
       </history-search>
       <history-cmd>
         <entry>31</entry>
