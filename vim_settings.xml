@@ -22,7 +22,7 @@
         <mark key="." line="171" column="0" />
         <mark key="^" line="168" column="6" />
       </file>
-      <file name="/a.dummy" timestamp="1535645889658">
+      <file name="/a.dummy" timestamp="1535725264149">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/api/database/index.ts" timestamp="1530488272641">
@@ -658,11 +658,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/constants.ts" timestamp="1535645496768">
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/constants.ts" timestamp="1535725273958">
         <mark key="[" line="21" column="35" />
-        <mark key="]" line="21" column="43" />
-        <mark key="." line="21" column="43" />
-        <mark key="^" line="21" column="43" />
+        <mark key="]" line="21" column="40" />
+        <mark key="." line="21" column="40" />
+        <mark key="^" line="21" column="40" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/db/src/tables.ts" timestamp="1530487173039">
         <mark key="[" line="3" column="17" />
@@ -1457,10 +1457,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>booked</text>
+        <text>confirmed</text>
       </register>
       <register name="-" type="4">
-        <text>booked</text>
+        <text>confirmed</text>
       </register>
       <register name="/" type="4">
         <text>req</text>
