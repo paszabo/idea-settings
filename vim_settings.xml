@@ -52,6 +52,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="16" column="54" />
       </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.serializers.ts" timestamp="1536176387790">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="14" />
+        <mark key="^" line="5" column="14" />
+        <mark key="." line="5" column="14" />
+      </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/auth/oauth.ts" timestamp="1534091204410">
         <mark key="[" line="4" column="38" />
         <mark key="]" line="4" column="48" />
@@ -233,7 +239,7 @@
         <mark key="." line="28" column="54" />
         <mark key="^" line="28" column="54" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/deploy/dev/.automprc" timestamp="1536155037952" />
+      <file name="$USER_HOME$/dev/repos/automp-be/deploy/dev/.automprc" timestamp="1536176235203" />
       <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/drive/drive.client.ts" timestamp="1534518905219">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
@@ -284,6 +290,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="5" column="36" />
       </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/database/migrations/20180827145758_dealer-add-test-drive.js" timestamp="1536177181440" />
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/api-client/headers.ts" timestamp="1534806118552">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="25" column="0" />
@@ -1239,7 +1246,7 @@
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/node_modules/@types/joi/index.d.ts" timestamp="1535732080589">
+      <file name="$USER_HOME$/dev/repos/automp-be/node_modules/@types/joi/index.d.ts" timestamp="1536177072943">
         <mark key="[" line="211" column="5" />
         <mark key="]" line="211" column="33" />
       </file>
@@ -1296,6 +1303,12 @@
         <mark key="]" line="17" column="40" />
         <mark key="." line="17" column="40" />
         <mark key="^" line="17" column="40" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/database/migrations/20180905155042_expand-test-drive-name-fields.js" timestamp="1536177601621">
+        <mark key="[" line="39" column="12" />
+        <mark key="]" line="42" column="35" />
+        <mark key="." line="42" column="35" />
+        <mark key="^" line="42" column="35" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/dal/index.ts" timestamp="1531192392681">
         <mark key="[" line="0" column="0" />
@@ -1432,11 +1445,11 @@
       <jump line="37" column="44" filename="$USER_HOME$/dev/repos/automp-be/server/routes/health/index.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3Qgb2t0YUhvc3Q6IHN0cmluZyA9ICdodHRwOi8vbXlva3RhLmNvbSc7CmNvbnN0IG9rdGFVUkw6IHN0cmluZyA9ICcvb2F1dGgyL2JsYWhibGFoYmxhaCc7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'test_drive_bookings'</text>
       </register>
       <register name="-" type="4">
-        <text>ulate</text>
+        <text>'test_drive_bookings'</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -1445,7 +1458,7 @@
         <text encoding="base64">ICBiZWZvcmVFYWNoKCgpID0+IHsKICAgIHNhbmRib3ggPSBzaW5vbi5jcmVhdGVTYW5kYm94KCk7CiAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3Qgb2t0YUhvc3Q6IHN0cmluZyA9ICdodHRwOi8vbXlva3RhLmNvbSc7CmNvbnN0IG9rdGFVUkw6IHN0cmluZyA9ICcvb2F1dGgyL2JsYWhibGFoYmxhaCc7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByZWNyZWF0ZU1hbnVmYWN0dXJlclZpZXcoa25leCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1454,25 +1467,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqIFRvIHJlZnJlc2ggZGVhbGVyIHZpZXcKICoKICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmNvbnN0IG9rdGFIb3N0OiBzdHJpbmcgPSAnaHR0cDovL215b2t0YS5jb20nOwpjb25zdCBva3RhVVJMOiBzdHJpbmcgPSAnL29hdXRoMi9ibGFoYmxhaGJsYWgnOwo=</text>
+        <text encoding="base64">Y29uc3Qgb2t0YUhvc3Q6IHN0cmluZyA9ICdodHRwOi8vbXlva3RhLmNvbSc7CmNvbnN0IG9rdGFVUkw6IHN0cmluZyA9ICcvb2F1dGgyL2JsYWhibGFoYmxhaCc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2JvZHknLCBib2R5KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3Jlc3Bvc2UnLCByZXNwb25zZSk7Cg==</text>
+        <text encoding="base64">CmNvbnN0IG9rdGFIb3N0OiBzdHJpbmcgPSAnaHR0cDovL215b2t0YS5jb20nOwpjb25zdCBva3RhVVJMOiBzdHJpbmcgPSAnL29hdXRoMi9ibGFoYmxhaGJsYWgnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2F1dGhlbnRpY2F0aW5nJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaW5vY2t1bGF0ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2JvZHknLCBib2R5KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
