@@ -52,11 +52,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="16" column="54" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.serializers.ts" timestamp="1536238298954">
-        <mark key="[" line="11" column="48" />
-        <mark key="]" line="11" column="47" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.serializers.ts" timestamp="1536239557788">
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="11" column="16" />
         <mark key="^" line="11" column="47" />
-        <mark key="." line="11" column="47" />
+        <mark key="." line="11" column="16" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/auth/oauth.ts" timestamp="1534091204410">
         <mark key="[" line="4" column="38" />
@@ -1051,7 +1051,7 @@
         <mark key="^" line="140" column="47" />
         <mark key="." line="139" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/timeslot-validator.ts" timestamp="1535556574741">
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/timeslot-validator.ts" timestamp="1536239914358">
         <mark key="'" line="110" column="53" />
         <mark key="[" line="106" column="15" />
         <mark key="]" line="106" column="25" />
@@ -1446,11 +1446,11 @@
       <jump line="37" column="44" filename="$USER_HOME$/dev/repos/automp-be/server/routes/health/index.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAubWF4KDE1KQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZXJyb3JMZXZlbDogMCwg</text>
       </register>
       <register name="-" type="4">
-        <text>TestDrive</text>
+        <text encoding="base64">ZXJyb3JMZXZlbDogMCwg</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
