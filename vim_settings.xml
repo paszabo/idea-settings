@@ -55,11 +55,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="16" column="54" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.serializers.ts" timestamp="1536330760093">
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.serializers.ts" timestamp="1536331811493">
         <mark key="[" line="19" column="80" />
-        <mark key="]" line="20" column="35" />
-        <mark key="^" line="20" column="29" />
-        <mark key="." line="20" column="35" />
+        <mark key="]" line="9" column="19" />
+        <mark key="^" line="9" column="19" />
+        <mark key="." line="9" column="19" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/auth/oauth.ts" timestamp="1534091204410">
         <mark key="[" line="4" column="38" />
@@ -270,12 +270,11 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" timestamp="1536262653562">
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" timestamp="1536331897823">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="97" column="57" />
-        <mark key="]" line="97" column="56" />
-        <mark key="^" line="97" column="56" />
-        <mark key="." line="97" column="56" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/api-client/types.ts" timestamp="1534146079883">
         <mark key="'" line="20" column="14" />
@@ -1220,6 +1219,12 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
       </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/src/core/logging/logger-factory.ts" timestamp="1535480412088">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/auto-core-incentives-api/src/core/knex.ts" timestamp="1532007872248">
         <mark key="[" line="5" column="11" />
         <mark key="]" line="5" column="27" />
@@ -1461,11 +1466,11 @@
       <jump line="30" column="76" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.serializers.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICAgICAgdGhpcy5sb2cuZXJyb3IoJ0ZhaWxlZCB0byByZWxlYXNlIHRlc3QgZHJpdmUgdG8gRHJpdmVwcm8nKTsKICAgICAgICAgICAgdGhyb3cgZTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>email_address</text>
@@ -1474,34 +1479,34 @@
         <text encoding="base64">ICAgICAgICAucmVnZXgoL0BbMC05XXsxLDN9KFwuWzAtOV17MSwzfSl7M30kLywge2ludmVydDogdHJ1ZSwgbmFtZTogJ0lQIGFkZHJlc3MnfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gZXhwb3J0IGNvbnN0IEVtYWlsQWRkcmVzc1JlZ2V4OiBSZWdFeHAgPSAvXigoW148PigpXFtcXVxcLiw7OlxzQCJdKyhcLltePD4oKVxbXF1cXC4sOzpcc0AiXSspKil8KCIuKyIpKUAoKFxbWzAtOV17MSwzfVwuWzAtOV17MSwzfVwuWzAtOV17MSwzfVwuWzAtOV17MSwzfV0pfCgoW2EtekEtWlwtMC05XStcLikrW2EtekEtWl17Mix9KSkkLzsKLy8gZXhwb3J0IGNvbnN0IEVtYWlsQWRkcmVzc1JlZ2V4ID0gL14oKFtePD4oKVxbXF1cXC4sOzpcc0AiXSsoXC5bXjw+KClcW1xdXFwuLDs6XHNAIl0rKSopfCgiLisiKSlAKChcW1swLTldezEsM31cLlswLTldezEsM31cLlswLTldezEsM31cLlswLTldezEsM31dKXwoKFthLXpBLVpcLTAtOV0rXC4pK1thLXpBLVpdezIsfSkpJC87Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICAgICAgdGhpcy5sb2cuZXJyb3IoJ0ZhaWxlZCB0byByZWxlYXNlIHRlc3QgZHJpdmUgdG8gRHJpdmVwcm8nKTsKICAgICAgICAgICAgdGhyb3cgZTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAucmVnZXgoRW1haWxBZGRyZXNzUmVnZXgsICkK</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAucmVnZXgoRW1haWxBZGRyZXNzUmVnZXgsICdzb21lYm9keUBleGFtcGxlLmNvbScpCg==</text>
+        <text encoding="base64">Ly8gZXhwb3J0IGNvbnN0IEVtYWlsQWRkcmVzc1JlZ2V4OiBSZWdFeHAgPSAvXigoW148PigpXFtcXVxcLiw7OlxzQCJdKyhcLltePD4oKVxbXF1cXC4sOzpcc0AiXSspKil8KCIuKyIpKUAoKFxbWzAtOV17MSwzfVwuWzAtOV17MSwzfVwuWzAtOV17MSwzfVwuWzAtOV17MSwzfV0pfCgoW2EtekEtWlwtMC05XStcLikrW2EtekEtWl17Mix9KSkkLzsKLy8gZXhwb3J0IGNvbnN0IEVtYWlsQWRkcmVzc1JlZ2V4ID0gL14oKFtePD4oKVxbXF1cXC4sOzpcc0AiXSsoXC5bXjw+KClcW1xdXFwuLDs6XHNAIl0rKSopfCgiLisiKSlAKChcW1swLTldezEsM31cLlswLTldezEsM31cLlswLTldezEsM31cLlswLTldezEsM31dKXwoKFthLXpBLVpcLTAtOV0rXC4pK1thLXpBLVpdezIsfSkpJC87Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAucmVnZXgoRW1haWxBZGRyZXNzUmVnZXgsICdzb21lYm9keUBleGFtcGxlLmNvbScpCg==</text>
+        <text encoding="base64">ICAgICAgICAucmVnZXgoRW1haWxBZGRyZXNzUmVnZXgsICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0aGlzLlN0YXR1c0NvZGUgPSBzdGF0dXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAucmVnZXgoRW1haWxBZGRyZXNzUmVnZXgsICdzb21lYm9keUBleGFtcGxlLmNvbScpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIHB1YmxpYyByZWFkb25seSBTdGF0dXNDb2RlOiBudW1iZXIgPSA1MDA7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAucmVnZXgoRW1haWxBZGRyZXNzUmVnZXgsICdzb21lYm9keUBleGFtcGxlLmNvbScpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5sb2cuaW5mbygnU3RhdHVzIGNvZGUgZnJvbSBlbCBEcml2ZScsIHJlc3BvbnNlUGF5bG9hZC5zdGF0dXNDb2RlKQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyB0aGlzLlN0YXR1c0NvZGUgPSBzdGF0dXM7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHRocm93IG5ldyBKb3lyaWRlQVBJQ2xpZW50RXJyb3IoCg==</text>
+        <text encoding="base64">ICAgIC8vIHB1YmxpYyByZWFkb25seSBTdGF0dXNDb2RlOiBudW1iZXIgPSA1MDA7Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnRmFpbGVkIHRvIHN1Ym1pdCB0ZXN0IGRyaXZlIHJlcXVlc3QgdG8gRHJpdmUgUG9ydGFsJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5sb2cuaW5mbygnU3RhdHVzIGNvZGUgZnJvbSBlbCBEcml2ZScsIHJlc3BvbnNlUGF5bG9hZC5zdGF0dXNDb2RlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
