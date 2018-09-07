@@ -55,6 +55,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="16" column="54" />
       </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.serializers.ts" timestamp="1536324788975">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="57" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/auth/oauth.ts" timestamp="1534091204410">
         <mark key="[" line="4" column="38" />
         <mark key="]" line="4" column="48" />
@@ -647,6 +652,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="23" />
       </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/src/dealers/dealer.service.ts" timestamp="1535474264652">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/constants.ts" timestamp="1535725273958">
         <mark key="[" line="21" column="35" />
         <mark key="]" line="21" column="40" />
@@ -678,12 +688,12 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="13" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer/constants.ts" timestamp="1536259101582">
+      <file name="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer/constants.ts" timestamp="1536325175110">
         <mark key="'" line="1" column="2" />
-        <mark key="[" line="1" column="70" />
-        <mark key="]" line="2" column="2" />
-        <mark key="^" line="2" column="2" />
-        <mark key="." line="2" column="2" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="32" />
+        <mark key="^" line="9" column="32" />
+        <mark key="." line="9" column="32" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/api/services/chrome/client/mediaServer.ts" timestamp="1530501923739">
         <mark key="[" line="1" column="41" />
@@ -976,7 +986,7 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/drive/test-drive.client.ts" timestamp="1536262249633">
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/drive/test-drive.client.ts" timestamp="1536324573019">
         <mark key="'" line="112" column="35" />
         <mark key="]" line="10" column="11" />
         <mark key="." line="10" column="11" />
@@ -1019,7 +1029,7 @@
         <mark key="^" line="72" column="14" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/models/dealer/dal.ts" timestamp="1536268421500" />
+      <file name="$USER_HOME$/dev/repos/automp-be/models/dealer/dal.ts" timestamp="1536324554082" />
       <file name="$USER_HOME$/dev/repos/motive-data/api/incentives/app.ts" timestamp="1529686814340">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="30" />
@@ -1045,6 +1055,11 @@
         <mark key="]" line="236" column="0" />
         <mark key="^" line="19" column="6" />
         <mark key="." line="236" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/src/dealers/auto-finance-dealers.manager.ts" timestamp="1535474463540">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer/base-serializer.ts" timestamp="1535395861757">
         <mark key="'" line="78" column="32" />
@@ -1290,6 +1305,11 @@
         <mark key="." line="83" column="12" />
         <mark key="^" line="83" column="12" />
       </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/src/core/index.ts" timestamp="1534526765188">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/automp-be/test/services/carproof/index.ts" timestamp="1536167535702">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="21" column="4" />
@@ -1455,10 +1475,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IG51bGwsIDQpLA==</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG51bGwsIDQpLA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>work</text>
@@ -1467,34 +1487,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBKb3lyaWRlQVBJQ2xpZW50RXJyb3IoCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0aGlzLlN0YXR1c0NvZGUgPSBzdGF0dXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAucmVnZXgoRW1haWxBZGRyZXNzUmVnZXgsICdzb21lYm9keUBleGFtcGxlLmNvbScpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIHB1YmxpYyByZWFkb25seSBTdGF0dXNDb2RlOiBudW1iZXIgPSA1MDA7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyB0aGlzLlN0YXR1c0NvZGUgPSBzdGF0dXM7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5sb2cuaW5mbygnU3RhdHVzIGNvZGUgZnJvbSBlbCBEcml2ZScsIHJlc3BvbnNlUGF5bG9hZC5zdGF0dXNDb2RlKQo=</text>
+        <text encoding="base64">ICAgIC8vIHB1YmxpYyByZWFkb25seSBTdGF0dXNDb2RlOiBudW1iZXIgPSA1MDA7Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHRocm93IG5ldyBKb3lyaWRlQVBJQ2xpZW50RXJyb3IoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5sb2cuaW5mbygnU3RhdHVzIGNvZGUgZnJvbSBlbCBEcml2ZScsIHJlc3BvbnNlUGF5bG9hZC5zdGF0dXNDb2RlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnRmFpbGVkIHRvIHN1Ym1pdCB0ZXN0IGRyaXZlIHJlcXVlc3QgdG8gRHJpdmUgUG9ydGFsJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHRocm93IG5ldyBKb3lyaWRlQVBJQ2xpZW50RXJyb3IoCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgcmVhZG9ubHkgU3RhdHVzQ29kZTogbnVtYmVyID0gNTAwLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnRmFpbGVkIHRvIHN1Ym1pdCB0ZXN0IGRyaXZlIHJlcXVlc3QgdG8gRHJpdmUgUG9ydGFsJywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgcmVhZG9ubHkgU3RhdHVzQ29kZTogbnVtYmVyID0gNTAwLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoqCiAgICAgICAgICAgICAqIAogICAgICAgICAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyoqCiAgICAgICAgICAgICAqIAogICAgICAgICAgICAgKi8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
