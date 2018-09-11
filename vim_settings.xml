@@ -221,7 +221,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-etl/Dockerfile" timestamp="1530893968658">
+      <file name="$USER_HOME$/dev/repos/joyride-etl/Dockerfile" timestamp="1536702587145">
         <mark key="[" line="16" column="17" />
         <mark key="]" line="17" column="15" />
         <mark key="." line="17" column="15" />
@@ -276,9 +276,6 @@
         <mark key="]" line="0" column="33" />
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="33" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" timestamp="1536337432019">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/api-client/types.ts" timestamp="1534146079883">
         <mark key="'" line="20" column="14" />
@@ -426,11 +423,11 @@
         <mark key="^" line="19" column="1" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-etl/bin/seed-db" timestamp="1533150970955">
-        <mark key="[" line="5" column="6" />
-        <mark key="]" line="5" column="64" />
-        <mark key="^" line="5" column="64" />
-        <mark key="." line="5" column="64" />
+      <file name="$USER_HOME$/dev/repos/joyride-etl/bin/seed-db" timestamp="1536702572457">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="41" column="10" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/index.ts" timestamp="1530885124866">
         <mark key="[" line="0" column="0" />
@@ -685,11 +682,11 @@
         <mark key="^" line="2" column="59" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/dealer/constants.ts" timestamp="1530903488985">
-        <mark key="[" line="32" column="25" />
-        <mark key="]" line="32" column="25" />
-        <mark key="." line="32" column="25" />
-        <mark key="^" line="32" column="25" />
+      <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/dealer/constants.ts" timestamp="1536702140521">
+        <mark key="[" line="30" column="27" />
+        <mark key="]" line="30" column="27" />
+        <mark key="." line="30" column="27" />
+        <mark key="^" line="30" column="50" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/csv/concurrency.ts" timestamp="1530750648382">
         <mark key="[" line="1" column="41" />
@@ -785,9 +782,6 @@
         <mark key="." line="170" column="20" />
         <mark key="^" line="170" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/docker-compose.yml" timestamp="1535730117354">
-        <mark key="'" line="14" column="12" />
-      </file>
       <file name="$USER_HOME$/dev/repos/devops-starter/packer/ami.json" timestamp="1532011082234">
         <mark key="[" line="8" column="36" />
         <mark key="]" line="8" column="36" />
@@ -818,9 +812,6 @@
         <mark key="]" line="7" column="16" />
         <mark key="^" line="7" column="16" />
         <mark key="." line="7" column="16" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/node_modules/@types/got/index.d.ts" timestamp="1536336572018">
-        <mark key="'" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/auth/oauth/okta/okta.config.ts" timestamp="1536157534170">
         <mark key="'" line="54" column="7" />
@@ -1283,6 +1274,12 @@
         <mark key="^" line="35" column="45" />
         <mark key="." line="35" column="45" />
       </file>
+      <file name="$USER_HOME$/dev/repos/joyride-etl/docker-compose.yml" timestamp="1536702607201">
+        <mark key="'" line="10" column="11" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/auto-core-incentives-api/config.env" timestamp="1532015277819">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
@@ -1378,20 +1375,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="33" filename="$USER_HOME$/dev/repos/automp-be/src/core/exceptions.ts" />
-      <jump line="12" column="17" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/drive/test-drive.client.ts" />
-      <jump line="99" column="69" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/drive/test-drive.client.ts" />
-      <jump line="90" column="35" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/drive/test-drive.client.ts" />
-      <jump line="33" column="19" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.serializers.ts" />
-      <jump line="18" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.serializers.ts" />
-      <jump line="99" column="11" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.serializers.ts" />
-      <jump line="3" column="13" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" />
-      <jump line="10" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/core/logging/logger-factory.ts" />
-      <jump line="91" column="10" filename="$USER_HOME$/dev/repos/automp-be/src/core/exceptions.ts" />
-      <jump line="92" column="27" filename="$USER_HOME$/dev/repos/automp-be/src/core/exceptions.ts" />
-      <jump line="2" column="15" filename="$USER_HOME$/dev/repos/automp-be/.automprc.dev" />
-      <jump line="5" column="13" filename="$USER_HOME$/dev/repos/automp-be/src/core/api/exceptions.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/core/api/exceptions.ts" />
       <jump line="16" column="0" filename="$USER_HOME$/dev/repos/automp-be/docker-compose.yml" />
       <jump line="111" column="27" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
       <jump line="152" column="53" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
@@ -1478,58 +1461,72 @@
       <jump line="13" column="0" filename="$USER_HOME$/dev/repos/automp-be/node_modules/@types/got/index.d.ts" />
       <jump line="67" column="6" filename="$USER_HOME$/dev/repos/automp-be/src/core/api-client/api.client.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/automp-be/database/migrations/20180827145758_dealer-add-test-drive.js" />
+      <jump line="16" column="8" filename="$USER_HOME$/dev/repos/joyride-etl/docker-compose.yml" />
+      <jump line="17" column="9" filename="$USER_HOME$/dev/repos/joyride-etl/docker-compose.yml" />
+      <jump line="18" column="8" filename="$USER_HOME$/dev/repos/joyride-etl/docker-compose.yml" />
+      <jump line="0" column="7" filename="$USER_HOME$/dev/repos/joyride-etl/docker-compose.yml" />
+      <jump line="2" column="8" filename="$USER_HOME$/dev/repos/joyride-etl/docker-compose.yml" />
+      <jump line="3" column="13" filename="$USER_HOME$/dev/repos/joyride-etl/docker-compose.yml" />
+      <jump line="4" column="9" filename="$USER_HOME$/dev/repos/joyride-etl/docker-compose.yml" />
+      <jump line="5" column="13" filename="$USER_HOME$/dev/repos/joyride-etl/docker-compose.yml" />
+      <jump line="6" column="9" filename="$USER_HOME$/dev/repos/joyride-etl/docker-compose.yml" />
+      <jump line="8" column="18" filename="$USER_HOME$/dev/repos/joyride-etl/docker-compose.yml" />
+      <jump line="9" column="9" filename="$USER_HOME$/dev/repos/joyride-etl/docker-compose.yml" />
+      <jump line="10" column="11" filename="$USER_HOME$/dev/repos/joyride-etl/docker-compose.yml" />
+      <jump line="11" column="57" filename="$USER_HOME$/dev/repos/joyride-etl/docker-compose.yml" />
+      <jump line="12" column="11" filename="$USER_HOME$/dev/repos/joyride-etl/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>test_drive_eligibility</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gJy4vZG9jL2RyaXZlLWRlYWxlcnMuY3N2Oi9kcml2ZS9kcml2ZS1kZWFsZXJzLmNzdicK</text>
       </register>
       <register name="-" type="4">
-        <text>test_drive_eligibility</text>
+        <text>dealers-drive-rbc-auto-finanace-format.csv</text>
       </register>
       <register name="/" type="4">
-        <text>handleEr</text>
+        <text>:</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgeyBUQUJMRVMgfSA9IHJlcXVpcmUoIi4uL2NvbnN0YW50cyIpOwoKZXhwb3J0cy51cCA9IGFzeW5jIGZ1bmN0aW9uKGtuZXgpIHsKICBhd2FpdCBrbmV4LnNjaGVtYS5hbHRlclRhYmxlKFRBQkxFUy5kZWFsZXJzLCAodGFibGUpID0+IHsKICAgIHRhYmxlLmJvb2xlYW4oInRlc3RfZHJpdmVfZWxpZ2liaWxpdHkiKS5kZWZhdWx0VG8oZmFsc2UpOwogIH0pOwp9OwoKZXhwb3J0cy5kb3duID0gYXN5bmMgZnVuY3Rpb24oa25leCkgewogIGF3YWl0IGtuZXguc2NoZW1hLmFsdGVyVGFibGUoVEFCTEVTLmRlYWxlcnMsICh0YWJsZSkgPT4gewogICAgdGFibGUuZHJvcENvbHVtbigidGVzdF9kcml2ZV9lbGlnaWJpbGl0eSIpOwogIH0pOwp9Owo=</text>
+        <text encoding="base64">ICAgIC0tZGVhbGVyLWZpbGUgXAogICAgL2RyaXZlL2RyaXZlLWRlYWxlcnMuY3N2Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmV4cG9ydHMudXAgPSBmdW5jdGlvbihrbmV4KSB7Cgp9OwoKZXhwb3J0cy5kb3duID0gZnVuY3Rpb24oa25leCkgewoKfTsK</text>
+        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gJy4vZG9jL2RyaXZlLWRlYWxlcnMuY3N2Oi9kcml2ZS9kcml2ZS1kZWFsZXJzLmNzdicK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">JHtKT1lSSURFX0VUTH0gXAogICAgLS1za2lwLWVzIFwKICAgIC0tc2tpcC1ib2R5dHlwZXMgXAogICAgLS1kZWFsZXItZmlsZSBcCiAgICAvZHJpdmUvZHJpdmUtZGVhbGVycy5jc3YK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCByZWFkb25seSBsb2c6IExvZ2dlciA9IGxvZ2dlcigpOwo=</text>
+        <text encoding="base64">CmV4cG9ydHMudXAgPSBmdW5jdGlvbihrbmV4KSB7Cgp9OwoKZXhwb3J0cy5kb3duID0gZnVuY3Rpb24oa25leCkgewoKfTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCByZWFkb25seSBsb2c6IExvZ2dlciA9IGxvZ2dlcigpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IHN0YXRlOiBQYXJ0aWFsPFQ+ID0ge30sCiAgICApIHt9</text>
-      </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCByZWFkb25seSBsb2c6IExvZ2dlciA9IGxvZ2dlcigpOwo=</text>
       </register>
+      <register name="8" type="4">
+        <text encoding="base64">IHN0YXRlOiBQYXJ0aWFsPFQ+ID0ge30sCiAgICApIHt9</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIHByb3RlY3RlZCBsb2dnZXJOYW1lOiBzdHJpbmcgPSAnSm95cmlkZSc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>handleEr</last-search>
+      <last-search>:</last-search>
       <last-offset />
-      <last-pattern>handleEr</last-pattern>
+      <last-pattern>:</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1537,7 +1534,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">cmV0dXJuIA==</entry>
         <entry>hardcoded</entry>
         <entry>CalculateTime</entry>
         <entry>valid</entry>
@@ -1557,6 +1553,7 @@
         <entry>export</entry>
         <entry>got =</entry>
         <entry>handleEr</entry>
+        <entry>:</entry>
       </history-search>
       <history-cmd>
         <entry>94</entry>
