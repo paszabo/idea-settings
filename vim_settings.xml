@@ -195,12 +195,12 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="7" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/core/manager/base.manager.ts" timestamp="1536783553675">
-        <mark key="'" line="46" column="18" />
-        <mark key="[" line="57" column="16" />
-        <mark key="]" line="57" column="16" />
-        <mark key="." line="57" column="16" />
-        <mark key="^" line="63" column="41" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/core/manager/base.manager.ts" timestamp="1536784930841">
+        <mark key="'" line="88" column="11" />
+        <mark key="[" line="89" column="12" />
+        <mark key="]" line="89" column="15" />
+        <mark key="." line="89" column="15" />
+        <mark key="^" line="89" column="15" />
       </file>
       <file name="$USER_HOME$/dev/repos/auto-core-incentives-api/src/config.ts" timestamp="1532010371078">
         <mark key="[" line="7" column="0" />
@@ -1400,7 +1400,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.manager.ts" />
       <jump line="21" column="9" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.manager.ts" />
       <jump line="54" column="25" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.manager.ts" />
       <jump line="85" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.manager.ts" />
@@ -1500,67 +1499,67 @@
       <jump line="271" column="54" filename="$USER_HOME$/dev/repos/automp-be/node_modules/@types/knex/index.d.ts" />
       <jump line="148" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
       <jump line="149" column="53" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
+      <jump line="88" column="11" filename="$USER_HOME$/dev/repos/automp-be/src/core/manager/base.manager.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>.</text>
+        <text>from</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">PGtleW9mIERlYWxlciwgc3RyaW5nPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICApOwo=</text>
+      </register>
+      <register name="3" type="4">
         <text>(testdrive
         )</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogT25seSByZWFsIHVzZSBjYXNlIGlzIHRvIHZhbGlkYXRlIHRoZSBleGlzdGVuY2Ugb2YgYSB0ZXN0IGRyaXZlIGluIHRoZQogICAgICogREIgZHVyaW5nIHRoZSB0ZXN0IGRyaXZlIGNhbGxiYWNrIGZsb3cKICAgICAqCiAgICAgKiBAcGFyYW0ge0lEfSBpZAogICAgICogQHBhcmFtIHtib29sZWFufSBzaWxlbnQ6IFJhaXNlIGFuIGV4Y2VwdGlvbiBpZiBubyByZXN1bHRzIGFyZSBmb3VuZAogICAgICogQHBhcmFtIHtBcnJheTxrZXlvZiBUZXN0RHJpdmU+fSBmaWVsZHMKICAgICAqIEByZXR1cm5zIHtUZXN0RHJpdmV9CiAgICAgKi8KICAgIHB1YmxpYyBhc3luYyBnZXQoCiAgICAgICAgaWQ6IElELAogICAgICAgIHNpbGVudDogYm9vbGVhbiA9IHRydWUsCiAgICAgICAgZmllbGRzOiBBcnJheTxrZXlvZiBUZXN0RHJpdmU+ID0gdGhpcy5HZXRGaWVsZHMsCiAgICApOiBQcm9taXNlPFRlc3REcml2ZT4gewogICAgICAgIGZ1bmN0aW9uIEhhbmRsZU5vUmVzdWx0cyh0OiBUZXN0RHJpdmUpOiBUZXN0RHJpdmUgewogICAgICAgICAgICBpZiAoIXQpIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBKb3lyaWRlTm90Rm91bmRFcnJvcignVGVzdCBkcml2ZSBub3QgZm91bmQnLCB7aWR9KTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgcmV0dXJuIHQ7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gYXdhaXQgdGhpcy5rbmV4CiAgICAgICAgICAgIC5zZWxlY3QoZmllbGRzKQogICAgICAgICAgICAuZnJvbSh0aGlzLlRhYmxlKQogICAgICAgICAgICAud2hlcmUoe2lkfSkKICAgICAgICAgICAgLmZpcnN0KCkKICAgICAgICAgICAgLnRoZW4oSGFuZGxlTm9SZXN1bHRzKTsKICAgIH0K</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBjcmVhdGUoZW1haWw6IHN0cmluZywgbWV0YWRhdGE6IGFueSA9IHt9KTogbnVtYmVyIHsKICAgICAgICAvLyBUT0RPIChQUyk6IExpZnQgSUQgdHlwZSB0byB0b3AgbGV2ZWwKICAgICAgICB0aHJvdyBuZXcgRXJyb3IoJ0VtYWlsVmFsaWRhdGlvbk1hbmFnZXIuY3JlYXRlIGlzIG5vdCBpbXBsZW1lbnRlZCcpOwogICAgfQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CiAgICBwdWJsaWMgZ2V0KGhhc2g6IHN0cmluZyk6IEVtYWlsVmFsaWRhdGlvbiB7CiAgICAgICAgdGhyb3cgbmV3IEVycm9yKCdFbWFpbFZhbGlkYXRpb25NYW5hZ2VyLmdldCBpcyBub3QgaW1wbGVtZW50ZWQnKTsKICAgIH0KCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYWxpYXNDb2x1bW4oZmllbGQ6IGtleW9mIERlYWxlcik6IHN0cmluZyB7CiAgICAgICAgY29uc3QgYWxpYXM6IHN0cmluZyA9IHRoaXMuY29sdW1uTmFtZShmaWVsZCk7CiAgICAgICAgcmV0dXJuIGFsaWFzID8gYCR7YWxpYXN9IEFTICR7ZmllbGR9YCA6IGZpZWxkOwogICAgfQoKICAgIHByaXZhdGUgY29sdW1uTmFtZShmaWVsZDoga2V5b2YgRGVhbGVyKTogc3RyaW5nIHsKICAgICAgICByZXR1cm4gdGhpcy5Db2x1bW5NYXBbZmllbGRdIHx8IGZpZWxkOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYWxpYXNDb2x1bW4oZmllbGQ6IGtleW9mIERlYWxlcik6IHN0cmluZyB7CiAgICAgICAgY29uc3QgYWxpYXM6IHN0cmluZyA9IHRoaXMuY29sdW1uTmFtZShmaWVsZCk7CiAgICAgICAgcmV0dXJuIGFsaWFzID8gYCR7YWxpYXN9IEFTICR7ZmllbGR9YCA6IGZpZWxkOwogICAgfQoKICAgIHByaXZhdGUgY29sdW1uTmFtZShmaWVsZDoga2V5b2YgRGVhbGVyKTogc3RyaW5nIHsKICAgICAgICByZXR1cm4gdGhpcy5Db2x1bW5NYXBbZmllbGRdIHx8IGZpZWxkOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>.</last-search>
+      <last-search>from</last-search>
       <last-offset />
-      <last-pattern>.</last-pattern>
+      <last-pattern>from</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>post</entry>
         <entry>console</entry>
         <entry>work</entry>
         <entry>email_address</entry>
@@ -1580,6 +1579,7 @@
         <entry>Value</entry>
         <entry>this</entry>
         <entry>.</entry>
+        <entry>from</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
