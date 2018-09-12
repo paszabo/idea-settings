@@ -677,12 +677,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/dealers/dealer.service.ts" timestamp="1536768257539">
-        <mark key="'" line="35" column="82" />
-        <mark key="[" line="40" column="27" />
-        <mark key="]" line="40" column="26" />
-        <mark key="." line="40" column="26" />
-        <mark key="^" line="40" column="26" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/dealers/dealer.service.ts" timestamp="1536769087989">
+        <mark key="'" line="10" column="88" />
+        <mark key="[" line="55" column="41" />
+        <mark key="]" line="56" column="67" />
+        <mark key="." line="56" column="67" />
+        <mark key="^" line="56" column="67" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/constants.ts" timestamp="1535725273958">
         <mark key="[" line="21" column="35" />
@@ -1408,9 +1408,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="15" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/timeslot-validator.ts" />
-      <jump line="79" column="47" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/timeslot-validator.ts" />
-      <jump line="113" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/timeslot-validator.ts" />
       <jump line="294" column="12" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
       <jump line="7" column="12" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/drive/types.ts" />
       <jump line="10" column="22" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
@@ -1508,68 +1505,68 @@
       <jump line="17" column="27" filename="$USER_HOME$/dev/repos/automp-be/src/dealers/dealer.manager.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/dealers/dealer.types.ts" />
       <jump line="35" column="82" filename="$USER_HOME$/dev/repos/automp-be/src/dealers/dealer.service.ts" />
+      <jump line="47" column="30" filename="$USER_HOME$/dev/repos/automp-be/src/dealers/dealer.service.ts" />
+      <jump line="41" column="16" filename="$USER_HOME$/dev/repos/automp-be/src/dealers/dealer.service.ts" />
+      <jump line="10" column="88" filename="$USER_HOME$/dev/repos/automp-be/src/dealers/dealer.service.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>Dealer</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>this.file</text>
+        <text encoding="base64">XDx9XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmdW5jdGlvbiBIYW5kbGVOb1Jlc3VsdHModDogVGVzdERyaXZlKTogVGVzdERyaXZlIHsKICAgICAgICAgICAgaWYgKCF0KSB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgSm95cmlkZU5vdEZvdW5kRXJyb3IoJ1Rlc3QgZHJpdmUgbm90IGZvdW5kJywge2lkfSk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHJldHVybiB0OwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIGF3YWl0IHRoaXMua25leAogICAgICAgICAgICAuc2VsZWN0KGZpZWxkcykKICAgICAgICAgICAgLmZyb20odGhpcy50YWJsZSkKICAgICAgICAgICAgLndoZXJlKHtpZH0pCiAgICAgICAgICAgIC5maXJzdCgpCiAgICAgICAgICAgIC50aGVuKEhhbmRsZU5vUmVzdWx0cyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIHtzdHJpbmd9IGlkCiAgICAgKi8K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAga2sK</text>
+        <text encoding="base64">ICAgICAqIEdldCBhIGRlYWxlciBmcm9tIG91ciBkZWFsZXJzIHRhYmxlLCBwZXJmb3JtaW5nIGFuIGFkZGl0aW9uYWwgdmFsaWRhdGlvbiBzdGVwIG9mIGNoZWNraW5nIGlmIHRoZSBkZWFsZXIgaXMgb25ib2FyZGVkIGluIHRoZSBkZWFsZXIgc2VydmljZSAoaS5lLiBEcml2ZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBuYW1lc3BhY2UgZXJyb3JzIHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBlcnJvcnM6IHN0cmluZ1tdID0gW107CgogICAgICAgIGlmICghZGVhbGVyLmRyaXZlX2RlYWxlcl9pZCkgewogICAgICAgICAgICBlcnJvcnMucHVzaCgpOwogICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBzZXJ2aWNlc01hcCA9IHsKICAgICAgICAgICAgRGVhbGVyU2VydmljZXMuVGVzdAogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRlc3RfZHJpdmVfZWxpZ2libGl0eTogYm9vbGVhbjsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAga2sK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFRlc3REcml2ZSwK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBuYW1lc3BhY2UgZXJyb3JzIHt9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>36</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>this.file</last-search>
+      <last-search encoding="base64">XDx9XD4=</last-search>
       <last-offset />
-      <last-pattern>this.file</last-pattern>
+      <last-pattern encoding="base64">XDx9XD4=</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>CalculateTime</entry>
-        <entry>valid</entry>
-        <entry>valid\(true</entry>
         <entry>valid(true</entry>
         <entry>req</entry>
         <entry>time</entry>
@@ -1587,28 +1584,31 @@
         <entry>handleEr</entry>
         <entry>:</entry>
         <entry>this.file</entry>
+        <entry>J</entry>
+        <entry encoding="base64">Jg==</entry>
+        <entry encoding="base64">XDx9XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>28y</entry>
         <entry>21</entry>
-        <entry>11</entry>
         <entry>31</entry>
         <entry>9</entry>
         <entry>Lw</entry>
         <entry>140</entry>
         <entry>wq</entry>
         <entry>48</entry>
-        <entry>64</entry>
         <entry>e</entry>
         <entry>39</entry>
         <entry>4</entry>
         <entry>27</entry>
-        <entry>0</entry>
         <entry>353</entry>
         <entry>3</entry>
         <entry>17</entry>
-        <entry>w</entry>
         <entry>36</entry>
+        <entry>0</entry>
+        <entry>11</entry>
+        <entry>64</entry>
+        <entry>29</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
