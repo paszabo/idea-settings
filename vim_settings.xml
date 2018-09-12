@@ -195,12 +195,12 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="7" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/core/manager/base.manager.ts" timestamp="1536785685370">
+      <file name="$USER_HOME$/dev/repos/automp-be/src/core/manager/base.manager.ts" timestamp="1536785823410">
         <mark key="'" line="84" column="48" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
-        <mark key="^" line="84" column="71" />
+        <mark key="[" line="91" column="55" />
+        <mark key="]" line="91" column="74" />
+        <mark key="." line="91" column="74" />
+        <mark key="^" line="91" column="74" />
       </file>
       <file name="$USER_HOME$/dev/repos/auto-core-incentives-api/src/config.ts" timestamp="1532010371078">
         <mark key="[" line="7" column="0" />
@@ -1502,11 +1502,11 @@
       <jump line="84" column="48" filename="$USER_HOME$/dev/repos/automp-be/src/core/manager/base.manager.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCByZXNvbHZlQ29sdW1uQWxpYXMoZmllbGQ6IHN0cmluZywgZGVmYXVsdDogYm9vbGVhbiA9IGZhbHNlKTsK</text>
+      <register name="&quot;" type="4">
+        <text>Alias</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHN0cmluZyB7</text>
+        <text>Alias</text>
       </register>
       <register name="/" type="4">
         <text>wil</text>
@@ -1582,7 +1582,6 @@
         <entry>wil</entry>
       </history-search>
       <history-cmd>
-        <entry>39</entry>
         <entry>27</entry>
         <entry>353</entry>
         <entry>3</entry>
@@ -1601,6 +1600,7 @@
         <entry>36</entry>
         <entry>43</entry>
         <entry>64</entry>
+        <entry>100</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
