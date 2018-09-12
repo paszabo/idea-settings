@@ -744,11 +744,11 @@
         <mark key="^" line="3" column="27" />
         <mark key="." line="3" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/database/migrations/20180911164929_dealers-table-drive-id.js" timestamp="1536699175490">
-        <mark key="[" line="12" column="26" />
-        <mark key="]" line="12" column="40" />
-        <mark key="." line="12" column="40" />
-        <mark key="^" line="12" column="40" />
+      <file name="$USER_HOME$/dev/repos/automp-be/database/migrations/20180911164929_dealers-table-drive-id.js" timestamp="1536762097554">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="10" />
+        <mark key="^" line="9" column="10" />
+        <mark key="." line="9" column="10" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer/types.ts" timestamp="1533322549303">
         <mark key="[" line="7" column="19" />
@@ -1482,8 +1482,8 @@
       <jump line="37" column="19" filename="$USER_HOME$/dev/repos/joyride-etl/src/lib/dealer/dealer-loader.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>\</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>\</text>
@@ -1495,31 +1495,31 @@
         <text>${JOYRIDE_ETL_DATA_DIR}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC9kcml2ZS9kcml2ZS1kZWFsZXJzLmNzdgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICR7Sk9ZUklERV9FVExfREFUQV9ESVJ9L2RlYWxlci9kZWFsZXJzLXNvdXJjZS5jc3YgXAo=</text>
+        <text encoding="base64">Y29uc3QgS25leCA9IHJlcXVpcmUoJ2tuZXgnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gJy4vZG9jL2RyaXZlLWRlYWxlcnMuY3N2Oi9kcml2ZS9kcml2ZS1kZWFsZXJzLmNzdicK</text>
+        <text encoding="base64">ICAgIC9kcml2ZS9kcml2ZS1kZWFsZXJzLmNzdgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">JHtKT1lSSURFX0VUTH0gXAogICAgLS1za2lwLWVzIFwKICAgIC0tc2tpcC1ib2R5dHlwZXMgXAogICAgLS1kZWFsZXItZmlsZSBcCiAgICAvZHJpdmUvZHJpdmUtZGVhbGVycy5jc3YK</text>
+        <text encoding="base64">ICAgICR7Sk9ZUklERV9FVExfREFUQV9ESVJ9L2RlYWxlci9kZWFsZXJzLXNvdXJjZS5jc3YgXAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmV4cG9ydHMudXAgPSBmdW5jdGlvbihrbmV4KSB7Cgp9OwoKZXhwb3J0cy5kb3duID0gZnVuY3Rpb24oa25leCkgewoKfTsK</text>
+        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gJy4vZG9jL2RyaXZlLWRlYWxlcnMuY3N2Oi9kcml2ZS9kcml2ZS1kZWFsZXJzLmNzdicK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">JHtKT1lSSURFX0VUTH0gXAogICAgLS1za2lwLWVzIFwKICAgIC0tc2tpcC1ib2R5dHlwZXMgXAogICAgLS1kZWFsZXItZmlsZSBcCiAgICAvZHJpdmUvZHJpdmUtZGVhbGVycy5jc3YK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCByZWFkb25seSBsb2c6IExvZ2dlciA9IGxvZ2dlcigpOwo=</text>
+        <text encoding="base64">CmV4cG9ydHMudXAgPSBmdW5jdGlvbihrbmV4KSB7Cgp9OwoKZXhwb3J0cy5kb3duID0gZnVuY3Rpb24oa25leCkgewoKfTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCByZWFkb25seSBsb2c6IExvZ2dlciA9IGxvZ2dlcigpOwo=</text>
