@@ -77,9 +77,12 @@
         <mark key="." line="12" column="57" />
         <mark key="^" line="12" column="57" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" timestamp="1536847672592">
-        <mark key="'" line="369" column="38" />
-        <mark key="^" line="24" column="50" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" timestamp="1536854480030">
+        <mark key="'" line="303" column="46" />
+        <mark key="[" line="153" column="45" />
+        <mark key="]" line="153" column="45" />
+        <mark key="." line="153" column="45" />
+        <mark key="^" line="149" column="52" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/csv/parser.ts" timestamp="1531157969602">
         <mark key="[" line="5" column="0" />
@@ -841,12 +844,11 @@
         <mark key="." line="13" column="11" />
         <mark key="^" line="13" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/types.ts" timestamp="1536851368562">
-        <mark key="'" line="25" column="16" />
-        <mark key="[" line="24" column="14" />
-        <mark key="]" line="24" column="21" />
-        <mark key="^" line="24" column="21" />
-        <mark key="." line="24" column="21" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/types.ts" timestamp="1536854499765">
+        <mark key="[" line="39" column="2" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="40" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/api/server/index.ts" timestamp="1530487756514">
         <mark key="[" line="0" column="0" />
@@ -1016,12 +1018,12 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/drive/test-drive.client.ts" timestamp="1536850982545">
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/drive/test-drive.client.ts" timestamp="1536854892117">
         <mark key="'" line="118" column="35" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="0" />
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="4" />
+        <mark key="." line="141" column="4" />
+        <mark key="^" line="141" column="4" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/database/migrations/20180709203111_dealers_table_pk.ts" timestamp="1531168776901">
         <mark key="[" line="2" column="73" />
@@ -1406,12 +1408,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="2" filename="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer/constants.ts" />
-      <jump line="47" column="12" filename="$USER_HOME$/dev/repos/automp-be/src/core/api-client/api.client.ts" />
-      <jump line="34" column="8" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.serializers.ts" />
-      <jump line="12" column="4" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.serializers.ts" />
-      <jump line="30" column="76" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.serializers.ts" />
-      <jump line="151" column="14" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
       <jump line="65" column="14" filename="$USER_HOME$/dev/repos/automp-be/node_modules/@types/got/index.d.ts" />
       <jump line="13" column="0" filename="$USER_HOME$/dev/repos/automp-be/node_modules/@types/got/index.d.ts" />
       <jump line="67" column="6" filename="$USER_HOME$/dev/repos/automp-be/src/core/api-client/api.client.ts" />
@@ -1506,43 +1502,43 @@
       <jump line="62" column="12" filename="$USER_HOME$/dev/repos/automp-be/src/core/exceptions.ts" />
       <jump line="112" column="18" filename="$USER_HOME$/dev/repos/automp-be/src/core/exceptions.ts" />
       <jump line="111" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/core/exceptions.ts" />
+      <jump line="51" column="63" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/types.ts" />
+      <jump line="150" column="11" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
+      <jump line="145" column="8" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
+      <jump line="280" column="12" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
+      <jump line="285" column="12" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
+      <jump line="304" column="46" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{
-        make: string;
-        model: string;
-    }</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGNsYXNz</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text>testdrive.timeslots</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodHJhcCAmJiBlcnJvci5jb25zdHJ1Y3RvciA9PT0gdHJhcCkgewo=</text>
+        <text encoding="base64">ZXhwb3J0IHR5cGUgUmVxdWlyZTxULCBLPiA9IFQgJiBQaWNrPFQsIEs+Owo=</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-        make: string;
-        model: string;
-    }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CmV4cG9ydCB0eXBlIFN1Ym1pdHRhYmxlVGVzdERyaXZlID0gVGVzdERyaXZlICYgewogICAgdmVoaWNsZTogVmVoaWNsZTsKfTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAqIE1haW4gcHVibGljIEFQSSByZXNwb25zaWJsZSBmb3IgdGhlIHRlc3QgZHJpdmUgYm9va2luZyBsaWZlIGN5Y2xlCiAqLwo=</text>
+        <text encoding="base64">ICAgIC8vIHZlaGljbGU/OiBWZWhpY2xlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICoKICogVGhpcyBjbGFzcyBzaG91bGQgY29udGFpbiBidXNpbmVzcyBsb2dpYyBhbmQgb3JjaGVzdHJhdGlvbiBsb2dpYwogKgogKiBQdXJlIERBTyBpbnRlcmFjdGlvbiBjb2RlIHNob3VsZCBiZSBmYWN0b3JlZCBvdXQgaW50byBhIERBTCAobWFuYWdlcikgY2xhc3MK</text>
+        <text encoding="base64">ICAgICAgICApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmRhdGEK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -1551,19 +1547,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEpveXJpZGVFcnJvcihtZXNzYWdlLCBkYXRhLCBlcnJvcik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSB7e25ldyguLi5hcmdzKTogS319IHRyYXA6IEVycm9ycyBvZiB0aGlzIHR5cGUgd2lsbCBiZQogICAgICogICAgICBjb252ZXJ0ZWQgaW50byBKb3lyaWRlVmFsdWVFcnJvciBpbnN0YW5jZXMK</text>
+      <register name="9" type="4">
+        <text encoding="base64">Ci8vIGV4cG9ydCB0eXBlIFJlcXVpcmU8VCwgSz4gPSBUICYgUGljazxULCBLPjsKZXhwb3J0IHR5cGUgUmVxdWlyZTxULCBLPiA9IHsKICAgIFtQIGluIEtdOiBUW1BdCn07</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>log</last-search>
+      <last-search>testdrive.timeslots</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
+      <last-pattern>testdrive.timeslots</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1571,7 +1567,6 @@
     </search>
     <history>
       <history-search>
-        <entry>this</entry>
         <entry>.</entry>
         <entry>from</entry>
         <entry>and</entry>
@@ -1591,10 +1586,9 @@
         <entry>K</entry>
         <entry encoding="base64">XDxzdWJjbGFzc1w+</entry>
         <entry>log</entry>
+        <entry>testdrive.timeslots</entry>
       </history-search>
       <history-cmd>
-        <entry>64</entry>
-        <entry>2</entry>
         <entry>25</entry>
         <entry>4</entry>
         <entry>15</entry>
@@ -1609,9 +1603,11 @@
         <entry>388</entry>
         <entry>1</entry>
         <entry>2d</entry>
-        <entry>0</entry>
         <entry>393</entry>
         <entry>368</entry>
+        <entry>58</entry>
+        <entry>0</entry>
+        <entry>20</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
