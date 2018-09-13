@@ -77,12 +77,12 @@
         <mark key="." line="12" column="57" />
         <mark key="^" line="12" column="57" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" timestamp="1536854480030">
-        <mark key="'" line="303" column="46" />
-        <mark key="[" line="153" column="45" />
-        <mark key="]" line="153" column="45" />
-        <mark key="." line="153" column="45" />
-        <mark key="^" line="149" column="52" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" timestamp="1536863448550">
+        <mark key="'" line="302" column="46" />
+        <mark key="[" line="310" column="60" />
+        <mark key="]" line="310" column="61" />
+        <mark key="." line="310" column="61" />
+        <mark key="^" line="310" column="61" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/csv/parser.ts" timestamp="1531157969602">
         <mark key="[" line="5" column="0" />
@@ -195,12 +195,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/core/manager/base.manager.ts" timestamp="1536862131940">
-        <mark key="'" line="101" column="42" />
-        <mark key="[" line="116" column="70" />
-        <mark key="]" line="118" column="43" />
-        <mark key="." line="118" column="43" />
-        <mark key="^" line="118" column="43" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/core/manager/base.manager.ts" timestamp="1536863916279">
+        <mark key="'" line="127" column="0" />
+        <mark key="[" line="193" column="30" />
+        <mark key="]" line="193" column="30" />
+        <mark key="." line="193" column="30" />
+        <mark key="^" line="126" column="71" />
       </file>
       <file name="$USER_HOME$/dev/repos/auto-core-incentives-api/src/config.ts" timestamp="1532010371078">
         <mark key="[" line="7" column="0" />
@@ -1138,12 +1138,12 @@
         <mark key="^" line="3" column="66" />
         <mark key="." line="3" column="66" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.manager.ts" timestamp="1536860697885">
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.manager.ts" timestamp="1536863733253">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="10" column="28" />
+        <mark key="[" line="11" column="49" />
+        <mark key="]" line="11" column="50" />
+        <mark key="." line="11" column="50" />
+        <mark key="^" line="11" column="55" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/server/app-server.ts" timestamp="1530214259992">
         <mark key="[" line="15" column="45" />
@@ -1408,10 +1408,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="8" filename="$USER_HOME$/dev/repos/joyride-etl/docker-compose.yml" />
-      <jump line="17" column="9" filename="$USER_HOME$/dev/repos/joyride-etl/docker-compose.yml" />
-      <jump line="18" column="8" filename="$USER_HOME$/dev/repos/joyride-etl/docker-compose.yml" />
-      <jump line="0" column="7" filename="$USER_HOME$/dev/repos/joyride-etl/docker-compose.yml" />
       <jump line="2" column="8" filename="$USER_HOME$/dev/repos/joyride-etl/docker-compose.yml" />
       <jump line="3" column="13" filename="$USER_HOME$/dev/repos/joyride-etl/docker-compose.yml" />
       <jump line="4" column="9" filename="$USER_HOME$/dev/repos/joyride-etl/docker-compose.yml" />
@@ -1508,72 +1504,72 @@
       <jump line="111" column="19" filename="$USER_HOME$/dev/repos/automp-be/src/core/manager/base.manager.ts" />
       <jump line="235" column="8" filename="$USER_HOME$/dev/repos/automp-be/src/core/manager/base.manager.ts" />
       <jump line="101" column="42" filename="$USER_HOME$/dev/repos/automp-be/src/core/manager/base.manager.ts" />
+      <jump line="26" column="6" filename="$USER_HOME$/dev/repos/automp-be/src/core/manager/base.manager.ts" />
+      <jump line="281" column="17" filename="$USER_HOME$/dev/repos/automp-be/src/core/manager/base.manager.ts" />
+      <jump line="126" column="21" filename="$USER_HOME$/dev/repos/automp-be/src/core/manager/base.manager.ts" />
+      <jump line="127" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/core/manager/base.manager.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIGFuZCB3aG9zZSB2YWx1ZXMgYXJlIGRkCg==</text>
+      <register name="&quot;" type="4">
+        <text>, single</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, single</text>
       </register>
       <register name="/" type="4">
-        <text>resolveFilter</text>
+        <text encoding="base64">XDxdXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgSm95cmlkZU5vdEZvdW5kRXJyb3I6IElmIHF1ZXJ5IHJldHVybmluZyBub3RoaW5nIGFuZAogICAgICogICAgICB0aHJvd2luZyBleGNlcHRpb25zIGlzIG5vdCBzdXBwcmVzc2VkIHZpYSBRdWVyeU9wdGlvbnMuc2lsZW50Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBhc3luYyBxdWVyeSgKICAgICAgICBmaWx0ZXJzOiBQYXJ0aWFsPFQ+LAogICAgICAgIG9wdGlvbnM6IFF1ZXJ5T3B0aW9uczxUPiA9IHt9LAogICAgKTogUHJvbWlzZTxUW10+IHsKICAgICAgICBvcHRpb25zID0gdGhpcy5yZXNvbHZlUXVlcnlPcHRpb25zKG9wdGlvbnMpOwogICAgICAgIGNvbnN0IHJlc29sdmVkRmlsdGVyczogYW55ID0gdGhpcy5yZXNvbHZlRmlsdGVycyhmaWx0ZXJzKTsKCiAgICAgICAgcmV0dXJuIGF3YWl0IHRoaXMua25leAogICAgICAgICAgICAuc2VsZWN0KEFycmF5LmZyb20odGhpcy5uYW1lQ29sdW1uQWxpYXNlcyhvcHRpb25zLmZpZWxkcykpKQogICAgICAgICAgICAuZnJvbSh0aGlzLlRhYmxlKQogICAgICAgICAgICAud2hlcmUocmVzb2x2ZWRGaWx0ZXJzKQogICAgICAgICAgICAudGhlbigocmVzdWx0czogVFtdKSA9PiB0aGlzLkhhbmRsZVJlc3VsdHMoCiAgICAgICAgICAgICAgICByZXN1bHRzLAogICAgICAgICAgICAgICAgZmlsdGVycywKICAgICAgICAgICAgICAgIG9wdGlvbnMsCiAgICAgICAgICAgICAgICB7cmVzb2x2ZWRGaWx0ZXJzfSwKICAgICAgICAgICAgKSk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIGFuZCB3aG9zZSB2YWx1ZXMgYXJlIGRkCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBzaW5nbGU6IGJvb2xlYW4gPSBvcHRpb25zLnNpbmdsZSAhPT0gdW5kZWZpbmVkOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgSm95cmlkZU5vdEZvdW5kRXJyb3I6IElmIHF1ZXJ5IHJldHVybmVkIG5vIHJvd3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICoKICAgICAqIEBwYXJhbSB7VH0gcmVzdWx0CiAgICAgKiBAcGFyYW0ge0t9IGlkCiAgICAgKiBAcGFyYW0gZGF0YQogICAgICogQHJldHVybnMge1R9CiAgICAgKiBAdGhyb3dzIEpveXJpZGVOb3RGb3VuZEVycm9yOiBJZiBxdWVyeSByZXR1cm5pbmcgbm90aGluZwogICAgICovCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAvKioKICAgICAqIFNldCB0byB0cnVlIGlmIHRoZSBxdWVyeSBpcyBleHBlY3RlZCB0bwogICAgICogcmV0dXJuIG9uZSByb3csIGFuZCB0aGUgZmlyc3QgcmVjb3JkIGluCiAgICAgKiB0aGUgY29sbGVjdGlvbiB3aWxsIGJlIHJldHVybmVkCiAgICAgKi8KICAgIHNpbmdsZT86IGJvb2xlYW47</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIFJlc3VsdHMgaGFuZGxlciBmb3IgYSBzY2FsYXIgcXVlcnkK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyByZWFkb25seSBUYWJsZTogc3RyaW5nID0gVGFibGVzLlRlc3REcml2ZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEBjb25zdHJ1Y3Rvcgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyByZWFkb25seSBSZXNvdXJjZU5hbWU6IHN0cmluZyA9ICdUZXN0IERyaXZlJzsKCiAgICAvKioKICAgICAqIExpc3RzIGFsbCB0ZXN0IGRyaXZlcyB0aGF0IG1hdGNoIGZpbHRlcnMgcHJvdmlkZWQKICAgICAqCiAgICAgKiBAcGFyYW0ge1BhcnRpYWw8VGVzdERyaXZlPn0gZmlsdGVycwogICAgICogQHBhcmFtIHtib29sZWFufSBzaWxlbnQ6IFJhaXNlIGFuIGV4Y2VwdGlvbiBpZiBubyByZXN1bHRzIGFyZSBmb3VuZAogICAgICogQHBhcmFtIHtBcnJheTxrZXlvZiBUZXN0RHJpdmU+fSBmaWVsZHMKICAgICAqIEByZXR1cm5zIHtQcm9taXNlPFRlc3REcml2ZVtdPn0KICAgICAqLwogICAgLy8gcHVibGljIGFzeW5jIHF1ZXJ5KAogICAgLy8gICAgIGZpbHRlcnM6IFBhcnRpYWw8VGVzdERyaXZlPiwKICAgIC8vICAgICBzaWxlbnQ6IGJvb2xlYW4gPSB0cnVlLAogICAgLy8gICAgIGZpZWxkczogQXJyYXk8a2V5b2YgVGVzdERyaXZlPiA9IHRoaXMuR2V0RmllbGRzLAogICAgLy8gKTogUHJvbWlzZTxUZXN0RHJpdmVbXT4gewogICAgLy8gICAgIGZ1bmN0aW9uIEhhbmRsZU5vUmVzdWx0cyh0OiBUZXN0RHJpdmVbXSk6IFRlc3REcml2ZVtdIHsKICAgIC8vICAgICAgICAgaWYgKCFzaWxlbnQgJiYgdC5sZW5ndGggPT09IDApIHsKICAgIC8vICAgICAgICAgICAgIHRocm93IG5ldyBKb3lyaWRlTm90Rm91bmRFcnJvcignTm8gdGVzdCBkcml2ZXMgZm91bmQnLCB7CiAgICAvLyAgICAgICAgICAgICAgICAgZmlsdGVycywKICAgIC8vICAgICAgICAgICAgIH0pOwogICAgLy8gICAgICAgICB9CiAgICAvLwogICAgLy8gICAgICAgICByZXR1cm4gdDsKICAgIC8vICAgICB9CiAgICAvLwogICAgLy8gICAgIHJldHVybiBhd2FpdCB0aGlzLmtuZXgKICAgIC8vICAgICAgICAgLnNlbGVjdChmaWVsZHMpCiAgICAvLyAgICAgICAgIC5mcm9tKHRoaXMuVGFibGUpCiAgICAvLyAgICAgICAgIC53aGVyZShmaWx0ZXJzKQogICAgLy8gICAgICAgICAudGhlbihIYW5kbGVOb1Jlc3VsdHMpOwogICAgLy8gfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxhdGVzdF9zdGF0dXNfdXBkYXRlPzogSUQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgaWYgKG9wdGlvbnMuc2luZ2xlKSB7CiAgICAgICAgICAgIHJldHVybiByZXN1bHRzWzBdOwogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvcHRpb25zID0gdGhpcy5yZXNvbHZlUXVlcnlPcHRpb25zKG9wdGlvbnMpOwogICAgICAgIGNvbnN0IHJlc29sdmVkRmlsdGVyczogYW55ID0gdGhpcy5yZXNvbHZlRmlsdGVycyhmaWx0ZXJzKTsKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>resolveFilter</last-search>
+      <last-search encoding="base64">XDxdXD4=</last-search>
       <last-offset />
-      <last-pattern>resolveFilter</last-pattern>
+      <last-pattern encoding="base64">XDxdXD4=</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>and</entry>
-        <entry>wil</entry>
-        <entry>hte</entry>
         <entry>question</entry>
         <entry>dealerManager</entry>
         <entry>this.dealerManger</entry>
-        <entry>as</entry>
         <entry>map</entry>
         <entry>Map</entry>
         <entry>ID</entry>
@@ -1587,11 +1583,12 @@
         <entry>testdrive.timeslots</entry>
         <entry>throw</entry>
         <entry>resolveFilter</entry>
+        <entry>col</entry>
+        <entry>queryOne</entry>
+        <entry>as</entry>
+        <entry encoding="base64">XDxdXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>392</entry>
-        <entry>378</entry>
-        <entry>125</entry>
         <entry>127d</entry>
         <entry>399</entry>
         <entry>388</entry>
@@ -1608,6 +1605,9 @@
         <entry>222</entry>
         <entry>214</entry>
         <entry>115</entry>
+        <entry>123</entry>
+        <entry>31,61d</entry>
+        <entry>10</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
