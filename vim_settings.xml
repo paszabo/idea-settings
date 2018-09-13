@@ -195,12 +195,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/core/manager/base.manager.ts" timestamp="1536860947618">
-        <mark key="'" line="63" column="4" />
-        <mark key="[" line="106" column="27" />
-        <mark key="]" line="240" column="42" />
-        <mark key="." line="240" column="42" />
-        <mark key="^" line="240" column="42" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/core/manager/base.manager.ts" timestamp="1536862131940">
+        <mark key="'" line="101" column="42" />
+        <mark key="[" line="116" column="70" />
+        <mark key="]" line="118" column="43" />
+        <mark key="." line="118" column="43" />
+        <mark key="^" line="118" column="43" />
       </file>
       <file name="$USER_HOME$/dev/repos/auto-core-incentives-api/src/config.ts" timestamp="1532010371078">
         <mark key="[" line="7" column="0" />
@@ -1408,10 +1408,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="14" filename="$USER_HOME$/dev/repos/automp-be/node_modules/@types/got/index.d.ts" />
-      <jump line="13" column="0" filename="$USER_HOME$/dev/repos/automp-be/node_modules/@types/got/index.d.ts" />
-      <jump line="67" column="6" filename="$USER_HOME$/dev/repos/automp-be/src/core/api-client/api.client.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/automp-be/database/migrations/20180827145758_dealer-add-test-drive.js" />
       <jump line="16" column="8" filename="$USER_HOME$/dev/repos/joyride-etl/docker-compose.yml" />
       <jump line="17" column="9" filename="$USER_HOME$/dev/repos/joyride-etl/docker-compose.yml" />
       <jump line="18" column="8" filename="$USER_HOME$/dev/repos/joyride-etl/docker-compose.yml" />
@@ -1508,58 +1504,62 @@
       <jump line="280" column="12" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
       <jump line="285" column="12" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
       <jump line="304" column="46" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
+      <jump line="228" column="8" filename="$USER_HOME$/dev/repos/automp-be/src/core/manager/base.manager.ts" />
+      <jump line="111" column="19" filename="$USER_HOME$/dev/repos/automp-be/src/core/manager/base.manager.ts" />
+      <jump line="235" column="8" filename="$USER_HOME$/dev/repos/automp-be/src/core/manager/base.manager.ts" />
+      <jump line="101" column="42" filename="$USER_HOME$/dev/repos/automp-be/src/core/manager/base.manager.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpb25zID0gdGhpcy5yZXNvbHZlUXVlcnlPcHRpb25zKG9wdGlvbnMpOwo=</text>
+        <text encoding="base64">ICAgICAqIGFuZCB3aG9zZSB2YWx1ZXMgYXJlIGRkCg==</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>testdrive.timeslots</text>
+        <text>resolveFilter</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpb25zID0gdGhpcy5yZXNvbHZlUXVlcnlPcHRpb25zKG9wdGlvbnMpOwo=</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgSm95cmlkZU5vdEZvdW5kRXJyb3I6IElmIHF1ZXJ5IHJldHVybmluZyBub3RoaW5nIGFuZAogICAgICogICAgICB0aHJvd2luZyBleGNlcHRpb25zIGlzIG5vdCBzdXBwcmVzc2VkIHZpYSBRdWVyeU9wdGlvbnMuc2lsZW50Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAqIGFuZCB3aG9zZSB2YWx1ZXMgYXJlIGRkCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxhdGVzdF9zdGF0dXNfdXBkYXRlPzogSUQ7Cg==</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgSm95cmlkZU5vdEZvdW5kRXJyb3I6IElmIHF1ZXJ5IHJldHVybmVkIG5vIHJvd3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICoKICAgICAqIEBwYXJhbSB7VH0gcmVzdWx0CiAgICAgKiBAcGFyYW0ge0t9IGlkCiAgICAgKiBAcGFyYW0gZGF0YQogICAgICogQHJldHVybnMge1R9CiAgICAgKiBAdGhyb3dzIEpveXJpZGVOb3RGb3VuZEVycm9yOiBJZiBxdWVyeSByZXR1cm5pbmcgbm90aGluZwogICAgICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIFJlc3VsdHMgaGFuZGxlciBmb3IgYSBzY2FsYXIgcXVlcnkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBjb25zdHJ1Y3Rvcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUgQ29udGFjdEZvcm0gPSB7CiAgICBmaXJzdF9uYW1lOiBzdHJpbmc7CiAgICBsYXN0X25hbWU6IHN0cmluZzsKICAgIGVtYWlsX2FkZHJlc3M6IHN0cmluZzsKICAgIHBob25lX251bWJlcjogc3RyaW5nOwogICAgcHJlZmVycmVkX2NvbnRhY3RfbWV0aG9kOiBQcmVmZXJyZWRDb250YWN0TWV0aG9kOwogICAgY29udGFjdF9hZnRlcl9ob3VyczogYm9vbGVhbjsKfTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGxhdGVzdF9zdGF0dXNfdXBkYXRlPzogSUQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmV4cG9ydCB0eXBlIFN1Ym1pdHRhYmxlVGVzdERyaXZlID0gVGVzdERyaXZlICYgewogICAgdmVoaWNsZTogVmVoaWNsZTsKfTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIHZlaGljbGU/OiBWZWhpY2xlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>99</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>testdrive.timeslots</last-search>
+      <last-search>resolveFilter</last-search>
       <last-offset />
-      <last-pattern>testdrive.timeslots</last-pattern>
+      <last-pattern>resolveFilter</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1567,8 +1567,6 @@
     </search>
     <history>
       <history-search>
-        <entry>.</entry>
-        <entry>from</entry>
         <entry>and</entry>
         <entry>wil</entry>
         <entry>hte</entry>
@@ -1587,11 +1585,10 @@
         <entry encoding="base64">XDxzdWJjbGFzc1w+</entry>
         <entry>log</entry>
         <entry>testdrive.timeslots</entry>
+        <entry>throw</entry>
+        <entry>resolveFilter</entry>
       </history-search>
       <history-cmd>
-        <entry>16,31d</entry>
-        <entry>18</entry>
-        <entry>6</entry>
         <entry>392</entry>
         <entry>378</entry>
         <entry>125</entry>
@@ -1606,9 +1603,12 @@
         <entry>0</entry>
         <entry>20</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>q</entry>
         <entry>99</entry>
+        <entry>222</entry>
+        <entry>214</entry>
+        <entry>115</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
