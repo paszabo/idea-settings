@@ -83,6 +83,14 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/dealer/dealer-loader.ts" timestamp="1536710799912">
+        <mark key="a" line="153" column="13" />
+        <mark key="'" line="37" column="19" />
+        <mark key="[" line="66" column="57" />
+        <mark key="]" line="66" column="57" />
+        <mark key="^" line="66" column="57" />
+        <mark key="." line="66" column="57" />
+      </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/email/index.ts" timestamp="1534525785330">
         <mark key="[" line="0" column="31" />
         <mark key="]" line="0" column="31" />
@@ -101,12 +109,12 @@
         <mark key="^" line="86" column="3" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/package.json" timestamp="1536867335128">
-        <mark key="'" line="98" column="5" />
-        <mark key="[" line="17" column="70" />
-        <mark key="]" line="17" column="70" />
-        <mark key="." line="17" column="70" />
-        <mark key="^" line="17" column="70" />
+      <file name="$USER_HOME$/dev/repos/automp-be/package.json" timestamp="1536873134694">
+        <mark key="'" line="99" column="5" />
+        <mark key="[" line="18" column="158" />
+        <mark key="]" line="18" column="158" />
+        <mark key="." line="18" column="158" />
+        <mark key="^" line="18" column="144" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/api/docker-compose.yml" timestamp="1530720857031">
         <mark key="'" line="48" column="0" />
@@ -263,7 +271,6 @@
         <mark key="." line="0" column="33" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" timestamp="1536866023014">
-        <mark key="'" line="115" column="25" />
         <mark key="]" line="9" column="11" />
         <mark key="." line="9" column="11" />
         <mark key="^" line="9" column="11" />
@@ -428,12 +435,13 @@
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/.clang-format" timestamp="1536867760073">
-        <mark key="'" line="83" column="1" />
-        <mark key="[" line="26" column="19" />
-        <mark key="]" line="26" column="22" />
-        <mark key="." line="26" column="22" />
-        <mark key="^" line="26" column="22" />
+      <file name="$USER_HOME$/dev/repos/automp-be/.clang-format" timestamp="1536873129685">
+        <mark key="a" line="86" column="38" />
+        <mark key="'" line="80" column="0" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="13" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="33" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/models/dealer/bll.ts" timestamp="1536268288784">
         <mark key="[" line="8" column="14" />
@@ -1414,19 +1422,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="71" filename="$USER_HOME$/dev/repos/automp-be/src/dealers/dealer.service.ts" />
-      <jump line="24" column="38" filename="$USER_HOME$/dev/repos/automp-be/src/dealers/dealer.service.ts" />
-      <jump line="26" column="23" filename="$USER_HOME$/dev/repos/automp-be/src/dealers/dealer.service.ts" />
-      <jump line="29" column="19" filename="$USER_HOME$/dev/repos/automp-be/src/dealers/dealer.service.ts" />
-      <jump line="32" column="8" filename="$USER_HOME$/dev/repos/automp-be/src/dealers/dealer.service.ts" />
-      <jump line="2" column="30" filename="$USER_HOME$/dev/repos/automp-be/src/dealers/dealer.manager.ts" />
-      <jump line="13" column="8" filename="$USER_HOME$/dev/repos/automp-be/src/dealers/dealer.manager.ts" />
-      <jump line="18" column="8" filename="$USER_HOME$/dev/repos/automp-be/src/dealers/dealer.manager.ts" />
-      <jump line="73" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
-      <jump line="17" column="4" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/types.ts" />
-      <jump line="21" column="16" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/types.ts" />
-      <jump line="69" column="71" filename="$USER_HOME$/dev/repos/automp-be/src/core/manager/base.manager.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/automp-be/node_modules/@types/knex/index.d.ts" />
       <jump line="79" column="11" filename="$USER_HOME$/dev/repos/automp-be/node_modules/@types/knex/index.d.ts" />
       <jump line="80" column="15" filename="$USER_HOME$/dev/repos/automp-be/node_modules/@types/knex/index.d.ts" />
       <jump line="266" column="30" filename="$USER_HOME$/dev/repos/automp-be/node_modules/@types/knex/index.d.ts" />
@@ -1514,19 +1509,32 @@
       <jump line="76" column="15" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
       <jump line="26" column="8" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
       <jump line="82" column="1" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
+      <jump line="84" column="38" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
+      <jump line="81" column="13" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
+      <jump line="127" column="8" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
+      <jump line="122" column="12" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
+      <jump line="120" column="11" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
+      <jump line="24" column="13" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
+      <jump line="37" column="2" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
+      <jump line="56" column="22" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
+      <jump line="57" column="12" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
+      <jump line="58" column="13" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
+      <jump line="79" column="0" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
+      <jump line="80" column="0" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>I</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>I</text>
       </register>
       <register name="/" type="4">
-        <text>amespace</text>
+        <text>Indent</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBBZnRlck5hbWVzcGFjZTogIGZhbHNlCg==</text>
+      <register name="0" type="4">
+        <text>IndentWidth: 4</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ci8qKgogKiBEQUwgbWFuYWdlciBjbGFzcyBmb3IgVGVzdERyaXZlIHJlc291cmNlcwogKi8K</text>
@@ -1563,9 +1571,9 @@
       </register>
     </registers>
     <search>
-      <last-search>amespace</last-search>
+      <last-search>Indent</last-search>
       <last-offset />
-      <last-pattern>amespace</last-pattern>
+      <last-pattern>Indent</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1573,9 +1581,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Veh</entry>
-        <entry>JoyrideError</entry>
-        <entry>From</entry>
         <entry>K</entry>
         <entry encoding="base64">XDxzdWJjbGFzc1w+</entry>
         <entry>log</entry>
@@ -1593,9 +1598,11 @@
         <entry>constructor</entry>
         <entry>Import</entry>
         <entry>amespace</entry>
+        <entry>LanguageKind</entry>
+        <entry>Paren</entry>
+        <entry>Indent</entry>
       </history-search>
       <history-cmd>
-        <entry>2d</entry>
         <entry>393</entry>
         <entry>368</entry>
         <entry>58</entry>
@@ -1614,6 +1621,7 @@
         <entry>0</entry>
         <entry>we</entry>
         <entry>W</entry>
+        <entry>41</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
