@@ -83,14 +83,6 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/dealer/dealer-loader.ts" timestamp="1536710799912">
-        <mark key="a" line="153" column="13" />
-        <mark key="'" line="37" column="19" />
-        <mark key="[" line="66" column="57" />
-        <mark key="]" line="66" column="57" />
-        <mark key="^" line="66" column="57" />
-        <mark key="." line="66" column="57" />
-      </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/email/index.ts" timestamp="1534525785330">
         <mark key="[" line="0" column="31" />
         <mark key="]" line="0" column="31" />
@@ -109,12 +101,12 @@
         <mark key="^" line="86" column="3" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/package.json" timestamp="1536873134694">
-        <mark key="'" line="99" column="5" />
-        <mark key="[" line="18" column="158" />
-        <mark key="]" line="18" column="158" />
-        <mark key="." line="18" column="158" />
-        <mark key="^" line="18" column="144" />
+      <file name="$USER_HOME$/dev/repos/automp-be/package.json" timestamp="1536874844712">
+        <mark key="'" line="98" column="5" />
+        <mark key="[" line="17" column="17" />
+        <mark key="]" line="17" column="17" />
+        <mark key="." line="17" column="17" />
+        <mark key="^" line="17" column="16" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/api/docker-compose.yml" timestamp="1530720857031">
         <mark key="'" line="48" column="0" />
@@ -270,10 +262,8 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" timestamp="1536866023014">
-        <mark key="]" line="9" column="11" />
-        <mark key="." line="9" column="11" />
-        <mark key="^" line="9" column="11" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" timestamp="1536874605136">
+        <mark key="^" line="25" column="46" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/api-client/types.ts" timestamp="1534146079883">
         <mark key="'" line="20" column="14" />
@@ -435,13 +425,11 @@
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/.clang-format" timestamp="1536873129685">
-        <mark key="a" line="86" column="38" />
-        <mark key="'" line="80" column="0" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="13" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="33" />
+      <file name="$USER_HOME$/dev/repos/automp-be/.clang-format" timestamp="1536875079560">
+        <mark key="'" line="18" column="36" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/models/dealer/bll.ts" timestamp="1536268288784">
         <mark key="[" line="8" column="14" />
@@ -1422,9 +1410,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="11" filename="$USER_HOME$/dev/repos/automp-be/node_modules/@types/knex/index.d.ts" />
-      <jump line="80" column="15" filename="$USER_HOME$/dev/repos/automp-be/node_modules/@types/knex/index.d.ts" />
-      <jump line="266" column="30" filename="$USER_HOME$/dev/repos/automp-be/node_modules/@types/knex/index.d.ts" />
       <jump line="19" column="5" filename="$USER_HOME$/dev/repos/automp-be/node_modules/@types/knex/index.d.ts" />
       <jump line="20" column="33" filename="$USER_HOME$/dev/repos/automp-be/node_modules/@types/knex/index.d.ts" />
       <jump line="159" column="42" filename="$USER_HOME$/dev/repos/automp-be/node_modules/@types/knex/index.d.ts" />
@@ -1522,68 +1507,68 @@
       <jump line="58" column="13" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
       <jump line="79" column="0" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
       <jump line="80" column="0" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
+      <jump line="35" column="0" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
+      <jump line="7" column="16" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
+      <jump line="18" column="36" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>I</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>I</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>Indent</text>
+        <text>\#</text>
       </register>
       <register name="0" type="4">
         <text>IndentWidth: 4</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ci8qKgogKiBEQUwgbWFuYWdlciBjbGFzcyBmb3IgVGVzdERyaXZlIHJlc291cmNlcwogKi8K</text>
+        <text encoding="base64">I0FsaWduQWZ0ZXJPcGVuQnJhY2tldDogQWx3YXlzQnJlYWsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEBjb25zdHJ1Y3Rvcgo=</text>
+        <text encoding="base64">ICAgICJjbGFuZy1mb3JtYXQtc3JjIjogImZpbmQgLi9zcmMgLWluYW1lICcqLnRzJyB8IHhhcmdzIGNsYW5nLWZvcm1hdCAtaSAtc3R5bGU9J3tMYW5ndWFnZTogSmF2YVNjcmlwdCwgQmFzZWRPblN0eWxlOiBHb29nbGUsIENvbHVtbkxpbWl0OiA4MCwgSW5kZW50V2lkdGg6IDR9JyAiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEBjb25zdHJ1Y3Rvcgo=</text>
+        <text encoding="base64">IyAgU3BsaXRFbXB0eUZ1bmN0aW9uOiB0cnVlCiMgIFNwbGl0RW1wdHlSZWNvcmQ6IHRydWUKIyAgU3BsaXRFbXB0eU5hbWVzcGFjZTogdHJ1ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgQWZ0ZXJOYW1lc3BhY2U6ICB0cnVlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUgQWxsb3dhYmxlSURUeXBlcyA9IHN0cmluZyB8IG51bWJlcjsK</text>
+        <text encoding="base64">IyBCaW5QYWNrQXJndW1lbnRzOiBmYWxzZQojIEJpblBhY2tQYXJhbWV0ZXJzOiBmYWxzZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEluc2VydCBhIG5ldyB0ZXN0IGRyaXZlIHJlY29yZCBpbnRvIHRoZSBkYXRhYmFzZQogICAgICoKICAgICAqIFdpbGwgYmUgdXNlZCBieSB0aGUgbmV3VGVzdERyaXZlIG1ldGhvZCBvbiB0aGUgYnVzaW5lc3MKICAgICAqIGxvZ2ljIHNlcnZpY2UgY2xhc3MKICAgICAqCiAgICAgKiBAcGFyYW0ge1BhcnRpYWw8VGVzdERyaXZlPn0gZGF0YQogICAgICogQHJldHVybnMge1Byb21pc2U8SUQ+fQogICAgICovCiAgICAvLyBwdWJsaWMgYXN5bmMgY3JlYXRlKGRhdGE6IFBhcnRpYWw8VGVzdERyaXZlPik6IFByb21pc2U8SUQ+IHsKICAgIC8vICAgICBjb25zdCBJbnNlcnRUZXN0RHJpdmUgPSAodHJhbnNhY3Rpb246IEtuZXguVHJhbnNhY3Rpb24pID0+IHsKICAgIC8vICAgICAgICAgcmV0dXJuIHRyYW5zYWN0aW9uCiAgICAvLyAgICAgICAgICAgICAuaW5zZXJ0KE9iamVjdC5hc3NpZ24odGhpcy5jcmVhdGVkVGltZXN0YW1wcygpLCBkYXRhKSwgJ2lkJykKICAgIC8vICAgICAgICAgICAgIC5pbnRvKHRoaXMuVGFibGUpOwogICAgLy8gICAgIH07CiAgICAvLwogICAgLy8gICAgIHJldHVybiBhd2FpdCB0aGlzLmtuZXgudHJhbnNhY3Rpb24oSW5zZXJ0VGVzdERyaXZlKS50aGVuKHIgPT4gclswXSk7CiAgICAvLyB9CgogICAgLyoqCiAgICAgKiBVcGRhdGUgYSB0ZXN0IGRyaXZlIHJlY29yZAogICAgICoKICAgICAqIFdpbGwgYmUgdXNlZCBieSB0aGUgdXBkYXRlIHN0YXR1cyBtZXRob2QKICAgICAqCiAgICAgKiBAcGFyYW0ge0lEfSBpZAogICAgICogQHBhcmFtIHtQYXJ0aWFsPFRlc3REcml2ZT59IGRhdGEKICAgICAqIEByZXR1cm5zIHtQcm9taXNlPHZvaWQ+fQogICAgICovCiAgICAvLyBwdWJsaWMgYXN5bmMgdXBkYXRlKGlkOiBJRCwgZGF0YTogUGFydGlhbDxUZXN0RHJpdmU+KTogUHJvbWlzZTx2b2lkPiB7CiAgICAvLyAgICAgYXdhaXQgdGhpcy5rbmV4LnRyYW5zYWN0aW9uKCh0cmFuc2FjdGlvbjogS25leC5UcmFuc2FjdGlvbikgPT4gewogICAgLy8gICAgICAgICByZXR1cm4gdHJhbnNhY3Rpb24KICAgIC8vICAgICAgICAgICAgIC51cGRhdGUoT2JqZWN0LmFzc2lnbih0aGlzLnVwZGF0ZWRUaW1lc3RhbXBzKCksIGRhdGEpKQogICAgLy8gICAgICAgICAgICAgLmludG8odGhpcy5UYWJsZSkKICAgIC8vICAgICAgICAgICAgIC53aGVyZSh7aWR9KTsKICAgIC8vICAgICB9KTsKICAgIC8vIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ci8qKgogKiBEQUwgbWFuYWdlciBjbGFzcyBmb3IgVGVzdERyaXZlIHJlc291cmNlcwogKi8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBPYmplY3QuYXNzaWduKHRoaXMuY3JlYXRlZFRpbWVzdGFtcHMoKSwgdGhpcy5yZXNvbHZlRmllbGRzKGRhdGEpKSwK</text>
+        <text encoding="base64">ICAgICAqIEBjb25zdHJ1Y3Rvcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAqIEBjb25zdHJ1Y3Rvcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Indent</last-search>
+      <last-search>\#</last-search>
       <last-offset />
-      <last-pattern>Indent</last-pattern>
-      <last-replace>&quot;</last-replace>
-      <last-substitute>'</last-substitute>
+      <last-pattern>\#</last-pattern>
+      <last-replace>i</last-replace>
+      <last-substitute>line</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>K</entry>
-        <entry encoding="base64">XDxzdWJjbGFzc1w+</entry>
-        <entry>log</entry>
         <entry>testdrive.timeslots</entry>
         <entry>throw</entry>
         <entry>resolveFilter</entry>
@@ -1601,9 +1586,11 @@
         <entry>LanguageKind</entry>
         <entry>Paren</entry>
         <entry>Indent</entry>
+        <entry>line</entry>
+        <entry>ine</entry>
+        <entry>\#</entry>
       </history-search>
       <history-cmd>
-        <entry>393</entry>
         <entry>368</entry>
         <entry>58</entry>
         <entry>20</entry>
@@ -1622,6 +1609,7 @@
         <entry>we</entry>
         <entry>W</entry>
         <entry>41</entry>
+        <entry>s/line/i</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
