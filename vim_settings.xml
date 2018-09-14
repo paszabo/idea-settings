@@ -102,12 +102,12 @@
         <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/.circleci/codedeploy/scripts/validate_service.sh" timestamp="1536939954752" />
-      <file name="$USER_HOME$/dev/repos/automp-be/package.json" timestamp="1536874844712">
-        <mark key="'" line="98" column="5" />
-        <mark key="[" line="17" column="17" />
-        <mark key="]" line="17" column="17" />
-        <mark key="." line="17" column="17" />
-        <mark key="^" line="17" column="16" />
+      <file name="$USER_HOME$/dev/repos/automp-be/package.json" timestamp="1536941724816">
+        <mark key="'" line="16" column="41" />
+        <mark key="[" line="16" column="41" />
+        <mark key="]" line="16" column="41" />
+        <mark key="." line="16" column="41" />
+        <mark key="^" line="18" column="83" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/api/docker-compose.yml" timestamp="1530720857031">
         <mark key="'" line="48" column="0" />
@@ -258,8 +258,11 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" timestamp="1536874605136">
-        <mark key="^" line="25" column="46" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.api.ts" timestamp="1536941754688">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="61" column="65" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/api-client/types.ts" timestamp="1534146079883">
         <mark key="'" line="20" column="14" />
@@ -623,7 +626,7 @@
         <mark key="^" line="4" column="19" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/.circleci/scripts/deploy.sh" timestamp="1536939116254">
+      <file name="$USER_HOME$/dev/repos/automp-be/.circleci/scripts/deploy.sh" timestamp="1536941621834">
         <mark key="]" line="31" column="11" />
         <mark key="." line="31" column="11" />
       </file>
@@ -1402,8 +1405,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="5" filename="$USER_HOME$/dev/repos/automp-be/node_modules/@types/knex/index.d.ts" />
-      <jump line="20" column="33" filename="$USER_HOME$/dev/repos/automp-be/node_modules/@types/knex/index.d.ts" />
       <jump line="159" column="42" filename="$USER_HOME$/dev/repos/automp-be/node_modules/@types/knex/index.d.ts" />
       <jump line="247" column="38" filename="$USER_HOME$/dev/repos/automp-be/node_modules/@types/knex/index.d.ts" />
       <jump line="255" column="48" filename="$USER_HOME$/dev/repos/automp-be/node_modules/@types/knex/index.d.ts" />
@@ -1502,46 +1503,48 @@
       <jump line="35" column="0" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
       <jump line="7" column="16" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
       <jump line="18" column="36" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
+      <jump line="19" column="38" filename="$USER_HOME$/dev/repos/automp-be/package.json" />
+      <jump line="16" column="41" filename="$USER_HOME$/dev/repos/automp-be/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>\#</text>
+        <text>lint-src</text>
       </register>
       <register name="0" type="4">
         <text>IndentWidth: 4</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I0FsaWduQWZ0ZXJPcGVuQnJhY2tldDogQWx3YXlzQnJlYWsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJjbGFuZy1mb3JtYXQtc3JjIjogImZpbmQgLi9zcmMgLWluYW1lICcqLnRzJyB8IHhhcmdzIGNsYW5nLWZvcm1hdCAtaSAtc3R5bGU9J3tMYW5ndWFnZTogSmF2YVNjcmlwdCwgQmFzZWRPblN0eWxlOiBHb29nbGUsIENvbHVtbkxpbWl0OiA4MCwgSW5kZW50V2lkdGg6IDR9JyAiLAo=</text>
+        <text encoding="base64">I0FsaWduQWZ0ZXJPcGVuQnJhY2tldDogQWx3YXlzQnJlYWsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAgU3BsaXRFbXB0eUZ1bmN0aW9uOiB0cnVlCiMgIFNwbGl0RW1wdHlSZWNvcmQ6IHRydWUKIyAgU3BsaXRFbXB0eU5hbWVzcGFjZTogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICJjbGFuZy1mb3JtYXQtc3JjIjogImZpbmQgLi9zcmMgLWluYW1lICcqLnRzJyB8IHhhcmdzIGNsYW5nLWZvcm1hdCAtaSAtc3R5bGU9J3tMYW5ndWFnZTogSmF2YVNjcmlwdCwgQmFzZWRPblN0eWxlOiBHb29nbGUsIENvbHVtbkxpbWl0OiA4MCwgSW5kZW50V2lkdGg6IDR9JyAiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAgQWZ0ZXJOYW1lc3BhY2U6ICB0cnVlCg==</text>
+        <text encoding="base64">IyAgU3BsaXRFbXB0eUZ1bmN0aW9uOiB0cnVlCiMgIFNwbGl0RW1wdHlSZWNvcmQ6IHRydWUKIyAgU3BsaXRFbXB0eU5hbWVzcGFjZTogdHJ1ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBCaW5QYWNrQXJndW1lbnRzOiBmYWxzZQojIEJpblBhY2tQYXJhbWV0ZXJzOiBmYWxzZQo=</text>
+        <text encoding="base64">IyAgQWZ0ZXJOYW1lc3BhY2U6ICB0cnVlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBCaW5QYWNrQXJndW1lbnRzOiBmYWxzZQojIEJpblBhY2tQYXJhbWV0ZXJzOiBmYWxzZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ci8qKgogKiBEQUwgbWFuYWdlciBjbGFzcyBmb3IgVGVzdERyaXZlIHJlc291cmNlcwogKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEBjb25zdHJ1Y3Rvcgo=</text>
+        <text encoding="base64">Ci8qKgogKiBEQUwgbWFuYWdlciBjbGFzcyBmb3IgVGVzdERyaXZlIHJlc291cmNlcwogKi8K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAqIEBjb25zdHJ1Y3Rvcgo=</text>
@@ -1551,9 +1554,9 @@
       </register>
     </registers>
     <search>
-      <last-search>\#</last-search>
+      <last-search>lint-src</last-search>
       <last-offset />
-      <last-pattern>\#</last-pattern>
+      <last-pattern>lint-src</last-pattern>
       <last-replace>i</last-replace>
       <last-substitute>line</last-substitute>
       <last-dir>1</last-dir>
@@ -1561,8 +1564,6 @@
     </search>
     <history>
       <history-search>
-        <entry>testdrive.timeslots</entry>
-        <entry>throw</entry>
         <entry>resolveFilter</entry>
         <entry>col</entry>
         <entry>queryOne</entry>
@@ -1581,6 +1582,8 @@
         <entry>line</entry>
         <entry>ine</entry>
         <entry>\#</entry>
+        <entry>reformat</entry>
+        <entry>lint-src</entry>
       </history-search>
       <history-cmd>
         <entry>368</entry>
