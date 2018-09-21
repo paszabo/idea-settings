@@ -86,7 +86,13 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/dealer/dealer-loader.ts" timestamp="1537543891791" />
+      <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/dealer/dealer-loader.ts" timestamp="1537545383987">
+        <mark key="'" line="153" column="4" />
+        <mark key="[" line="180" column="23" />
+        <mark key="]" line="180" column="23" />
+        <mark key="^" line="180" column="23" />
+        <mark key="." line="180" column="23" />
+      </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/email/index.ts" timestamp="1534525785330">
         <mark key="[" line="0" column="31" />
         <mark key="]" line="0" column="31" />
@@ -1372,8 +1378,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="377" column="38" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
-      <jump line="120" column="11" filename="$USER_HOME$/dev/repos/automp-be/src/core/exceptions.ts" />
       <jump line="129" column="42" filename="$USER_HOME$/dev/repos/automp-be/src/core/exceptions.ts" />
       <jump line="119" column="29" filename="$USER_HOME$/dev/repos/automp-be/src/core/exceptions.ts" />
       <jump line="114" column="39" filename="$USER_HOME$/dev/repos/automp-be/src/core/exceptions.ts" />
@@ -1472,6 +1476,8 @@
       <jump line="177" column="43" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
       <jump line="340" column="8" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
       <jump line="316" column="8" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
+      <jump line="96" column="23" filename="$USER_HOME$/dev/repos/joyride-etl/src/lib/dealer/dealer-loader.ts" />
+      <jump line="153" column="4" filename="$USER_HOME$/dev/repos/joyride-etl/src/lib/dealer/dealer-loader.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1481,7 +1487,7 @@
         <text>${delimiter}</text>
       </register>
       <register name="/" type="4">
-        <text>try {</text>
+        <text>this.geocodeSearch</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgeWllbGQgYCR7ZGVsaW1pdGVyfSR7a306ICR7dn0ke2RlbGltaXRlcn1gOwo=</text>
@@ -1521,9 +1527,9 @@
       </register>
     </registers>
     <search>
-      <last-search>try {</last-search>
+      <last-search>this.geocodeSearch</last-search>
       <last-offset />
-      <last-pattern>try {</last-pattern>
+      <last-pattern>this.geocodeSearch</last-pattern>
       <last-replace>docker-watch-logs</last-replace>
       <last-substitute>docker-logs</last-substitute>
       <last-dir>1</last-dir>
@@ -1531,7 +1537,6 @@
     </search>
     <history>
       <history-search>
-        <entry>docker-follow</entry>
         <entry>docker-logs</entry>
         <entry>wait</entry>
         <entry>docker-clean</entry>
@@ -1551,6 +1556,7 @@
         <entry>trans</entry>
         <entry>try</entry>
         <entry>try {</entry>
+        <entry>this.geocodeSearch</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
