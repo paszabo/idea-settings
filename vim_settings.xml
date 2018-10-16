@@ -667,6 +667,10 @@
         <mark key="^" line="2" column="59" />
         <mark key="." line="3" column="18" />
       </file>
+      <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/dealer/constants.ts" timestamp="1539704010430">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="38" column="1" />
+      </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/dealers/dealer.types.ts" timestamp="1536847885390">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="23" column="0" />
@@ -1481,8 +1485,12 @@
       <jump line="153" column="4" filename="$USER_HOME$/dev/repos/joyride-etl/src/lib/dealer/dealer-loader.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVsaW1pdGVyLAo=</text>
+      <register name="&quot;" type="4">
+        <text>export const PROVINCE_MAP = {
+  PQ: 'QC',
+  MA: 'MB',
+  SA: 'SK'
+};</text>
       </register>
       <register name="-" type="4">
         <text>${delimiter}</text>
@@ -1490,8 +1498,12 @@
       <register name="/" type="4">
         <text>this.geocodeSearch</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgYCR7ZGVsaW1pdGVyfSR7a306ICR7dn0ke2RlbGltaXRlcn1gOwo=</text>
+      <register name="0" type="4">
+        <text>export const PROVINCE_MAP = {
+  PQ: 'QC',
+  MA: 'MB',
+  SA: 'SK'
+};</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGVsaW1pdGVyLAo=</text>
