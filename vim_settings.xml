@@ -86,7 +86,7 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/dealer/dealer-loader.ts" timestamp="1539196670320">
+      <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/dealer/dealer-loader.ts" timestamp="1539724794452">
         <mark key="'" line="153" column="4" />
         <mark key="[" line="180" column="23" />
         <mark key="]" line="180" column="23" />
@@ -300,6 +300,13 @@
         <mark key="]" line="18" column="43" />
         <mark key="^" line="18" column="43" />
         <mark key="." line="18" column="43" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/database/migrations/20180621100558_dealerMapping.js" timestamp="1539724760909">
+        <mark key="'" line="18" column="5" />
+        <mark key="[" line="21" column="46" />
+        <mark key="]" line="21" column="46" />
+        <mark key="^" line="19" column="7" />
+        <mark key="." line="21" column="46" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/bin/start-joyride-server.js" timestamp="1530212194679">
         <mark key="[" line="3" column="25" />
@@ -623,6 +630,9 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="12" />
       </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/database/data/20180621-dealer-mappings.json" timestamp="1539724945533">
+        <mark key="'" line="19" column="55" />
+      </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/dealer/types.ts" timestamp="1530889632063">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="6" />
@@ -667,7 +677,7 @@
         <mark key="^" line="2" column="59" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/dealer/constants.ts" timestamp="1539704010430">
+      <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/dealer/constants.ts" timestamp="1539724819855">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="38" column="1" />
       </file>
@@ -1035,6 +1045,9 @@
         <mark key="^" line="1" column="31" />
         <mark key="." line="1" column="31" />
       </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/models/dealer/dal.ts" timestamp="1539724895261">
+        <mark key="'" line="90" column="19" />
+      </file>
       <file name="$USER_HOME$/dev/repos/motive-data/api/incentives/app.ts" timestamp="1529686814340">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="30" />
@@ -1383,16 +1396,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="42" filename="$USER_HOME$/dev/repos/automp-be/src/core/exceptions.ts" />
-      <jump line="119" column="29" filename="$USER_HOME$/dev/repos/automp-be/src/core/exceptions.ts" />
-      <jump line="114" column="39" filename="$USER_HOME$/dev/repos/automp-be/src/core/exceptions.ts" />
-      <jump line="124" column="16" filename="$USER_HOME$/dev/repos/automp-be/src/core/exceptions.ts" />
-      <jump line="123" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/core/exceptions.ts" />
-      <jump line="150" column="14" filename="$USER_HOME$/dev/repos/automp-be/src/core/exceptions.ts" />
-      <jump line="136" column="20" filename="$USER_HOME$/dev/repos/automp-be/src/core/exceptions.ts" />
-      <jump line="6" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/core/exceptions.ts" />
-      <jump line="62" column="12" filename="$USER_HOME$/dev/repos/automp-be/src/core/exceptions.ts" />
-      <jump line="112" column="18" filename="$USER_HOME$/dev/repos/automp-be/src/core/exceptions.ts" />
       <jump line="111" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/core/exceptions.ts" />
       <jump line="51" column="63" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/types.ts" />
       <jump line="150" column="11" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
@@ -1483,20 +1486,26 @@
       <jump line="316" column="8" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
       <jump line="96" column="23" filename="$USER_HOME$/dev/repos/joyride-etl/src/lib/dealer/dealer-loader.ts" />
       <jump line="153" column="4" filename="$USER_HOME$/dev/repos/joyride-etl/src/lib/dealer/dealer-loader.ts" />
+      <jump line="18" column="5" filename="$USER_HOME$/dev/repos/automp-be/database/migrations/20180621100558_dealerMapping.js" />
+      <jump line="83" column="33" filename="$USER_HOME$/dev/repos/automp-be/models/dealer/dal.ts" />
+      <jump line="90" column="19" filename="$USER_HOME$/dev/repos/automp-be/models/dealer/dal.ts" />
+      <jump line="2" column="61" filename="$USER_HOME$/dev/repos/automp-be/database/data/20180621-dealer-mappings.json" />
+      <jump line="1" column="56" filename="$USER_HOME$/dev/repos/automp-be/database/data/20180621-dealer-mappings.json" />
+      <jump line="4" column="60" filename="$USER_HOME$/dev/repos/automp-be/database/data/20180621-dealer-mappings.json" />
+      <jump line="6" column="56" filename="$USER_HOME$/dev/repos/automp-be/database/data/20180621-dealer-mappings.json" />
+      <jump line="11" column="60" filename="$USER_HOME$/dev/repos/automp-be/database/data/20180621-dealer-mappings.json" />
+      <jump line="16" column="57" filename="$USER_HOME$/dev/repos/automp-be/database/data/20180621-dealer-mappings.json" />
+      <jump line="19" column="55" filename="$USER_HOME$/dev/repos/automp-be/database/data/20180621-dealer-mappings.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>export const PROVINCE_MAP = {
-  PQ: 'QC',
-  MA: 'MB',
-  SA: 'SK'
-};</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>${delimiter}</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>this.geocodeSearch</text>
+        <text>true</text>
       </register>
       <register name="0" type="4">
         <text>export const PROVINCE_MAP = {
@@ -1540,9 +1549,9 @@
       </register>
     </registers>
     <search>
-      <last-search>this.geocodeSearch</last-search>
+      <last-search>true</last-search>
       <last-offset />
-      <last-pattern>this.geocodeSearch</last-pattern>
+      <last-pattern>true</last-pattern>
       <last-replace>docker-watch-logs</last-replace>
       <last-substitute>docker-logs</last-substitute>
       <last-dir>1</last-dir>
@@ -1550,9 +1559,6 @@
     </search>
     <history>
       <history-search>
-        <entry>docker-logs</entry>
-        <entry>wait</entry>
-        <entry>docker-clean</entry>
         <entry>StatusUpdate</entry>
         <entry>logs</entry>
         <entry>test</entry>
@@ -1570,6 +1576,9 @@
         <entry>try</entry>
         <entry>try {</entry>
         <entry>this.geocodeSearch</entry>
+        <entry>from</entry>
+        <entry>brand_dealer</entry>
+        <entry>true</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
