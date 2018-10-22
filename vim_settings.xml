@@ -782,7 +782,12 @@
         <mark key="." line="170" column="20" />
         <mark key="^" line="170" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/docker-compose.yml" timestamp="1536950645871" />
+      <file name="$USER_HOME$/dev/repos/automp-be/docker-compose.yml" timestamp="1540222505736">
+        <mark key="[" line="46" column="11" />
+        <mark key="]" line="46" column="11" />
+        <mark key="." line="46" column="11" />
+        <mark key="^" line="46" column="11" />
+      </file>
       <file name="$USER_HOME$/dev/repos/devops-starter/packer/ami.json" timestamp="1532011082234">
         <mark key="[" line="8" column="36" />
         <mark key="]" line="8" column="36" />
@@ -1045,7 +1050,7 @@
         <mark key="^" line="1" column="31" />
         <mark key="." line="1" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/models/dealer/dal.ts" timestamp="1540218283810">
+      <file name="$USER_HOME$/dev/repos/automp-be/models/dealer/dal.ts" timestamp="1540222351714">
         <mark key="'" line="90" column="19" />
       </file>
       <file name="$USER_HOME$/dev/repos/motive-data/api/incentives/app.ts" timestamp="1529686814340">
@@ -1343,12 +1348,12 @@
         <mark key="^" line="2" column="23" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/Makefile" timestamp="1536951123041">
+      <file name="$USER_HOME$/dev/repos/automp-be/Makefile" timestamp="1540222625131">
         <mark key="'" line="24" column="4" />
-        <mark key="[" line="23" column="6" />
-        <mark key="]" line="23" column="14" />
-        <mark key="^" line="23" column="14" />
-        <mark key="." line="23" column="14" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/quickdata/constants.ts" timestamp="1530890670670">
         <mark key="'" line="4" column="6" />
@@ -1499,10 +1504,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>true</text>
@@ -1545,7 +1550,7 @@
         <text encoding="base64">ICAgIHJldHVybiByZXN1bHRzWzBdOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1587,7 +1592,6 @@
         <entry>10</entry>
         <entry>%s/docker-follow/docker-logs/g</entry>
         <entry>%s/docker-logs/docker-watch-logs</entry>
-        <entry>wq</entry>
         <entry>W</entry>
         <entry>206</entry>
         <entry>q</entry>
@@ -1601,6 +1605,7 @@
         <entry>193</entry>
         <entry>0</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
