@@ -781,9 +781,9 @@
         <mark key="." line="170" column="20" />
         <mark key="^" line="170" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/docker-compose.yml" timestamp="1540222505736">
-        <mark key="[" line="46" column="11" />
-        <mark key="]" line="46" column="11" />
+      <file name="$USER_HOME$/dev/repos/automp-be/docker-compose.yml" timestamp="1540355705708">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="30" />
         <mark key="." line="46" column="11" />
         <mark key="^" line="46" column="11" />
       </file>
@@ -1500,8 +1500,8 @@
       <jump line="19" column="55" filename="$USER_HOME$/dev/repos/automp-be/database/data/20180621-dealer-mappings.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>8</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGltYWdlOiBtZGlsbG9uL3Bvc3RnaXM6OS42Cg==</text>
       </register>
       <register name="-" type="4">
         <text>8</text>
@@ -1509,12 +1509,8 @@
       <register name="/" type="4">
         <text>true</text>
       </register>
-      <register name="0" type="4">
-        <text>export const PROVINCE_MAP = {
-  PQ: 'QC',
-  MA: 'MB',
-  SA: 'SK'
-};</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGltYWdlOiBtZGlsbG9uL3Bvc3RnaXM6OS42Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGVsaW1pdGVyLAo=</text>
