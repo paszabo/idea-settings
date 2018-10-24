@@ -68,7 +68,7 @@
         <mark key="^" line="23" column="29" />
         <mark key="." line="23" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/database/data/20180725-dealer-mappings.json" timestamp="1540397845315" />
+      <file name="$USER_HOME$/dev/repos/automp-be/database/data/20180725-dealer-mappings.json" timestamp="1540402430653" />
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/api-client/types.ts" timestamp="1534146079883">
         <mark key="'" line="20" column="14" />
         <mark key="[" line="3" column="8" />
@@ -91,7 +91,7 @@
         <mark key="^" line="18" column="43" />
         <mark key="." line="18" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/database/migrations/20180621100558_dealerMapping.js" timestamp="1539724760909">
+      <file name="$USER_HOME$/dev/repos/automp-be/database/migrations/20180621100558_dealerMapping.js" timestamp="1540402398343">
         <mark key="'" line="18" column="5" />
         <mark key="[" line="21" column="46" />
         <mark key="]" line="21" column="46" />
@@ -244,6 +244,13 @@
         <mark key="." line="20" column="30" />
         <mark key="^" line="20" column="29" />
       </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/src/dealers/dealers.api.ts" timestamp="1540402561785">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="40" column="1" />
+        <mark key="]" line="40" column="1" />
+        <mark key="^" line="40" column="1" />
+        <mark key="." line="40" column="1" />
+      </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/drive/constants.ts" timestamp="1534951030555">
         <mark key="'" line="20" column="15" />
         <mark key="[" line="23" column="24" />
@@ -383,7 +390,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/core/exceptions.ts" />
       <jump line="51" column="63" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/types.ts" />
       <jump line="150" column="11" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
       <jump line="145" column="8" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
@@ -483,6 +489,7 @@
       <jump line="1" column="56" filename="$USER_HOME$/dev/repos/automp-be/database/data/20180621-dealer-mappings.json" />
       <jump line="4" column="60" filename="$USER_HOME$/dev/repos/automp-be/database/data/20180621-dealer-mappings.json" />
       <jump line="6" column="56" filename="$USER_HOME$/dev/repos/automp-be/database/data/20180621-dealer-mappings.json" />
+      <jump line="38" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/dealers/dealers.api.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
