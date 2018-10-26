@@ -60,12 +60,12 @@
         <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/models/dealer/types.ts" timestamp="1540314812277" />
-      <file name="$USER_HOME$/dev/repos/automp-be/src/core/manager/base.manager.ts" timestamp="1540398297585">
+      <file name="$USER_HOME$/dev/repos/automp-be/src/core/manager/base.manager.ts" timestamp="1540592388634">
         <mark key="'" line="170" column="86" />
-        <mark key="[" line="12" column="3" />
-        <mark key="]" line="12" column="9" />
-        <mark key="." line="12" column="9" />
-        <mark key="^" line="12" column="9" />
+        <mark key="[" line="361" column="0" />
+        <mark key="]" line="361" column="0" />
+        <mark key="^" line="362" column="6" />
+        <mark key="." line="361" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/auto-core-incentives-api/.autocorerc" timestamp="1532010609808">
         <mark key="'" line="5" column="2" />
@@ -130,12 +130,12 @@
         <mark key="^" line="4" column="112" />
         <mark key="." line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/dealers/dealer.manager.ts" timestamp="1540592013246">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="128" column="26" />
-        <mark key="]" line="130" column="0" />
-        <mark key="." line="130" column="0" />
-        <mark key="^" line="114" column="13" />
+      <file name="$USER_HOME$/dev/repos/automp-be/src/dealers/dealer.manager.ts" timestamp="1540592507382">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="135" column="11" />
+        <mark key="]" line="137" column="22" />
+        <mark key="." line="137" column="22" />
+        <mark key="^" line="137" column="22" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/doc/dealer/dealers-drive.csv" timestamp="1540396807470" />
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/test/lib/quickdata/alterations.ts" timestamp="1530897134120">
@@ -209,12 +209,12 @@
         <mark key="." line="43" column="16" />
         <mark key="^" line="43" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/dealers/dealer.types.ts" timestamp="1540591432659">
+      <file name="$USER_HOME$/dev/repos/automp-be/src/dealers/dealer.types.ts" timestamp="1540592476040">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="18" column="36" />
-        <mark key="]" line="20" column="21" />
-        <mark key="." line="20" column="21" />
-        <mark key="^" line="20" column="21" />
+        <mark key="[" line="21" column="2" />
+        <mark key="]" line="24" column="31" />
+        <mark key="." line="24" column="31" />
+        <mark key="^" line="24" column="31" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/structures/object-filter.ts" timestamp="1535126154016">
         <mark key="'" line="6" column="7" />
@@ -432,7 +432,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="19" filename="$USER_HOME$/dev/repos/automp-be/src/core/manager/base.manager.ts" />
       <jump line="235" column="8" filename="$USER_HOME$/dev/repos/automp-be/src/core/manager/base.manager.ts" />
       <jump line="101" column="42" filename="$USER_HOME$/dev/repos/automp-be/src/core/manager/base.manager.ts" />
       <jump line="26" column="6" filename="$USER_HOME$/dev/repos/automp-be/src/core/manager/base.manager.ts" />
@@ -532,13 +531,14 @@
       <jump line="35" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/dealers/dealer.manager.ts" />
       <jump line="39" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/dealers/dealer.manager.ts" />
       <jump line="42" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/dealers/dealer.manager.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/dealers/dealer.manager.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>25</text>
@@ -547,34 +547,34 @@
         <text encoding="base64">V0hFUkUgU1RfRFdpdGhpbihkLmdlb21ldHJ5LCBTVF9NYWtlUG9pbnQoOmxhdGl0dWRlLCA6bG9uZ2l0dWRlKTo6Z2VvZ3JhcGh5LCAyNTAwMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgcmVhZG9ubHkgU3R5bGVJZFF1ZXJ5OiBzdHJpbmcgPSBgClNFTEVDVCBTVF9EaXN0YW5jZShTVF9NYWtlUG9pbnQoLTc5LjIzMTk0OCwgNDMuOTc0NzM2KTo6Z2VvZ3JhcGh5LCBkLmdlb21ldHJ5KS8xMDAwIEFTIGRpc3RhbmNlX2tpbG9tZXRlcnMsIGQuKgpGUk9NIGRlYWxlcnMgZApKT0lOIGRlYWxlcl9tYWtlc192IGRtIE9OIGRtLmRlYWxlcl9pZCA9IGQuaWQKSk9JTiB2ZWhpY2xlX21ha2VzIG0gT04gbS5pZCA9IGRtLm1ha2VfaWQKSk9JTiBxdWlja2RhdGEgcSBPTiBxLmpveXJpZGVfc3R5bGVfaWQgPSA6c3R5bGVfaWQKV0hFUkUgU1RfRFdpdGhpbihkLmdlb21ldHJ5LCBTVF9NYWtlUG9pbnQoOmxhdGl0dWRlLCA6bG9uZ2l0dWRlKTo6Z2VvZ3JhcGh5LCA6c2VhcmNoX3JhZGl1c19tZXRlcnMpCkFORCBxLmRpdmlzaW9uX25hbWUgaWxpa2UgbS5uYW1lCk9SREVSIEJZIGRpc3RhbmNlX2tpbG9tZXRlcnMKYDsK</text>
+        <text encoding="base64">ICAgICAgICByZXUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgcmVhZG9ubHkgTWFrZU5hbWVRdWVyeTogc3RyaW5nID0gYApTRUxFQ1QgU1RfRGlzdGFuY2UoU1RfTWFrZVBvaW50KDpsYXRpdHVkZSwgOmxvbmdpdHVkZSk6Omdlb2dyYXBoeSwgZC5nZW9tZXRyeSkvMTAwMCBBUyBkaXN0YW5jZV9raWxvbWV0ZXJzLCBkLioKRlJPTSBkZWFsZXJzIGQKSk9JTiBkZWFsZXJfbWFrZXNfdiBkbSBPTiBkbS5kZWFsZXJfaWQgPSBkLmlkCkpPSU4gdmVoaWNsZV9tYWtlcyBtIE9OIG0uaWQgPSBkbS5tYWtlX2lkCldIRVJFIFNUX0RXaXRoaW4oZC5nZW9tZXRyeSwgU1RfTWFrZVBvaW50KDpsYXRpdHVkZSwgOmxvbmdpdHVkZSk6Omdlb2dyYXBoeSwgOnNlYXJjaF9yYWRpdXNfbWV0ZXJzKQpBTkQgbS5uYW1lIGlsaWtlICclJyB8fCA6bWFrZV9uYW1lIHx8ICclJwpPUkRFUiBCWSBkaXN0YW5jZV9raWxvbWV0ZXJzCmA7Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICoKICAgICAqIEBwYXJhbSB7VFtdfSByZXN1bHRzCiAgICAgKiBAcGFyYW0gZGF0YQogICAgICogQHJldHVybnMge1RbXX0KICAgICAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtYWtlX25hbWU6ICd2b2xrc3dhZ2VuJywK</text>
+        <text encoding="base64">ICAgICAqIFJlc3VsdHMgaGFuZGxlciBmb3IgYSBxdWVyeSByZXR1cm5pbmcgYSBjb2xsZWN0aW9uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBqb3lyaWRlX3N0eWxlX2lkOiAnMGY0YjRmMTMnLAo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSB7VFtdfSByZXN1bHRzCiAgICAgKiBAcGFyYW0gZGF0YQogICAgICogQHJldHVybnMge1RbXX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgogICAgCiAgICAK</text>
+        <text encoding="base64">ICAgICAqIEBjb25zdHJ1Y3Rvcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">V0hFUkUgU1RfRFdpdGhpbihkLmdlb21ldHJ5LCBTVF9NYWtlUG9pbnQoLTc5LjIzMTk0OCwgNDMuOTc0NzM2KTo6Z2VvZ3JhcGh5LCA1MDAwMDApCg==</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgSm95cmlkZU5vdEZvdW5kRXJyb3I6IElmIHF1ZXJ5IHJldHVybmluZyBub3RoaW5nIGFuZAogICAgICogICAgICB0aHJvd2luZyBleGNlcHRpb25zIGlzIG5vdCBzdXBwcmVzc2VkIHZpYSBRdWVyeU9wdGlvbnMuc2lsZW50Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGpveXJpZGVfc3R5bGVfaWQ6IAo=</text>
+        <text encoding="base64">ICAgIC8qCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBkZWFsZXJTZWFyY2gK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -613,7 +613,6 @@
         <entry>25</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>272</entry>
         <entry>19</entry>
         <entry>199</entry>
@@ -621,7 +620,6 @@
         <entry>281</entry>
         <entry>135</entry>
         <entry>193</entry>
-        <entry>0</entry>
         <entry>wq</entry>
         <entry>9</entry>
         <entry>36</entry>
@@ -632,6 +630,8 @@
         <entry>15</entry>
         <entry>38</entry>
         <entry>43</entry>
+        <entry>120</entry>
+        <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
