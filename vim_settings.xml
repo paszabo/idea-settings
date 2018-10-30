@@ -152,11 +152,18 @@
         <mark key="." line="1" column="24" />
         <mark key="^" line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1540926880731">
-        <mark key="[" line="301" column="48" />
-        <mark key="]" line="302" column="19" />
-        <mark key="." line="302" column="19" />
-        <mark key="^" line="302" column="19" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1540930424450">
+        <mark key="'" line="902" column="24" />
+        <mark key="[" line="61" column="34" />
+        <mark key="]" line="47" column="6" />
+        <mark key="." line="47" column="6" />
+        <mark key="^" line="47" column="6" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer.js" timestamp="1540932516501">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
+        <mark key="^" line="105" column="9" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/graph/index.ts" timestamp="1530161691947">
         <mark key="[" line="1" column="32" />
@@ -743,6 +750,13 @@
         <mark key="." line="6" column="1" />
         <mark key="^" line="6" column="1" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1540931199122">
+        <mark key="'" line="164" column="0" />
+        <mark key="[" line="85" column="9" />
+        <mark key="]" line="86" column="7" />
+        <mark key="." line="86" column="7" />
+        <mark key="^" line="86" column="7" />
+      </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/api/nodemon.json" timestamp="1530488452262">
         <mark key="[" line="3" column="21" />
         <mark key="]" line="3" column="44" />
@@ -1137,6 +1151,7 @@
         <mark key="^" line="3" column="16" />
         <mark key="." line="3" column="16" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IAppDetails.ts" timestamp="1540931223996" />
       <file name="$USER_HOME$/dev/repos/automp-be/config/okta.ts" timestamp="1536164158914">
         <mark key="[" line="1" column="48" />
         <mark key="]" line="1" column="3" />
@@ -1391,6 +1406,7 @@
         <mark key="." line="116" column="0" />
         <mark key="^" line="121" column="11" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer-memberid.js" timestamp="1540931251390" />
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/quickdata/alterations.js" timestamp="1530890506775">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -1467,13 +1483,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="275" column="101" filename="$USER_HOME$/dev/repos/automp-be/src/core/manager/base.manager.ts" />
-      <jump line="280" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/core/manager/base.manager.ts" />
-      <jump line="214" column="8" filename="$USER_HOME$/dev/repos/automp-be/src/core/manager/base.manager.ts" />
-      <jump line="72" column="4" filename="$USER_HOME$/dev/repos/automp-be/src/core/manager/base.manager.ts" />
-      <jump line="152" column="13" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
-      <jump line="51" column="25" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
-      <jump line="76" column="15" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
       <jump line="26" column="8" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
       <jump line="82" column="1" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
       <jump line="84" column="38" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
@@ -1567,22 +1576,29 @@
       <jump line="591" column="53" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="595" column="45" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="599" column="43" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="1098" column="112" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="118" column="24" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="959" column="24" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="895" column="24" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="100" column="19" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="110" column="23" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="164" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyBlcnI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zdCByZXNvdXJjZUFybiA9IGBhcm46YXdzOmV4ZWN1dGUtYXBpOiR7dGhpcy5yZWdpb259OmAgKwogICAgICAgIC8vICAgICBgJHt0aGlzLmF3c0FjY291bnRJZH06JHt0aGlzLnJlc3RBcGlJZH0vJHt0aGlzLnN0YWdlfS9gICsKICAgICAgICAvLyAgICAgYCR7dmVyYn0vJHtjbGVhbmVkUmVzb3VyY2V9YDsKCg==</text>
       </register>
       <register name="-" type="4">
-        <text>const err =</text>
+        <text>}`;</text>
       </register>
       <register name="/" type="4">
-        <text>error</text>
+        <text>for</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">V0hFUkUgU1RfRFdpdGhpbihkLmdlb21ldHJ5LCBTVF9NYWtlUG9pbnQoOmxhdGl0dWRlLCA6bG9uZ2l0dWRlKTo6Z2VvZ3JhcGh5LCAyNTAwMCkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCByZXNvdXJjZUFybiA9IGBhcm46YXdzOmV4ZWN1dGUtYXBpOiR7dGhpcy5yZWdpb259OmAgKwogICAgICAgICAgICBgJHt0aGlzLmF3c0FjY291bnRJZH06JHt0aGlzLnJlc3RBcGlJZH0vJHt0aGlzLnN0YWdlfS9gICsKICAgICAgICAgICAgYCR7dmVyYn0vJHtjbGVhbmVkUmVzb3VyY2V9YDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyBlcnI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zdCByZXNvdXJjZUFybiA9IGBhcm46YXdzOmV4ZWN1dGUtYXBpOiR7dGhpcy5yZWdpb259OmAgKwogICAgICAgIC8vICAgICBgJHt0aGlzLmF3c0FjY291bnRJZH06JHt0aGlzLnJlc3RBcGlJZH0vJHt0aGlzLnN0YWdlfS9gICsKICAgICAgICAvLyAgICAgYCR7dmVyYn0vJHtjbGVhbmVkUmVzb3VyY2V9YDsKCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1591,34 +1607,40 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">JHt0aGlzLnJlc3RBcGlJZH0vJHt0aGlzLnN0YWdlfWAke3ZlcmJ9LyR7Y2xlYW5lZFJlc291cmNlfWA7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZSB7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHJldHVybiBwb2xpY3k7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gcG9saWN5LnBvbGljeURvY3VtZW50ID0gZG9jOwogICAgICAgICAgICAvLyBpZiAoIXBvbGljeS5jb250ZXh0KSB7CiAgICAgICAgICAgIC8vICAgICBwb2xpY3kuY29udGV4dCA9IHt9OwogICAgICAgICAgICAvLyB9CiAgICAgICAgICAgIHBvbGljeS5jb250ZXh0LmFkbWluTWVtYmVySWQgPSB0aGlzLmFkbWluTWVtYmVySWQ7CiAgICAgICAgICAgIHBvbGljeS5jb250ZXh0LnByb3ZpZGVySWQgPSB0aGlzLnByb3ZpZGVySWQ7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgZG9jID07Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">LyoqCiAqIEBwYXJhbSBldmVudAogKiBAcGFyYW0gY29udGV4dAogKiBAcGFyYW0gY2FsbGJhY2sKICovCg==</text>
+      <register name="8" type="4">
+        <text>{
+                Version: this.version,
+                Statement: [
+                    ...getStatementsForEffect.call(this, &quot;Allow&quot;, this.allowMethods),
+                    ...getStatementsForEffect.call(this, &quot;Deny&quot;, this.denyMethods),
+                ]
+            }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogUmVnaXN0ZXIgYSBuZXcgdXNlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgfTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>error</last-search>
+      <last-search>for</last-search>
       <last-offset />
-      <last-pattern>error</last-pattern>
+      <last-pattern>for</last-pattern>
       <last-replace>docker-watch-logs</last-replace>
       <last-substitute>docker-logs</last-substitute>
       <last-dir>1</last-dir>
@@ -1626,9 +1648,6 @@
     </search>
     <history>
       <history-search>
-        <entry>.then</entry>
-        <entry>then</entry>
-        <entry>trans</entry>
         <entry>try</entry>
         <entry>try {</entry>
         <entry>this.geocodeSearch</entry>
@@ -1646,12 +1665,11 @@
         <entry>arg</entry>
         <entry>what</entry>
         <entry>error</entry>
+        <entry>to expire</entry>
+        <entry>body</entry>
+        <entry>for</entry>
       </history-search>
       <history-cmd>
-        <entry>199</entry>
-        <entry>297</entry>
-        <entry>281</entry>
-        <entry>135</entry>
         <entry>193</entry>
         <entry>wq</entry>
         <entry>9</entry>
@@ -1667,6 +1685,10 @@
         <entry>0</entry>
         <entry>590</entry>
         <entry>63d</entry>
+        <entry>1088d</entry>
+        <entry>203</entry>
+        <entry>198</entry>
+        <entry>203,204d</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
