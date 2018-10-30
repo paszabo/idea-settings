@@ -20,13 +20,6 @@
         <mark key="^" line="12" column="57" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/SalesforceRepository.ts" timestamp="1540916193272" />
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" timestamp="1540589451352">
-        <mark key="'" line="311" column="8" />
-        <mark key="[" line="69" column="31" />
-        <mark key="]" line="69" column="31" />
-        <mark key="." line="69" column="31" />
-        <mark key="^" line="70" column="17" />
-      </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/dealer/dealer-loader.ts" timestamp="1539724794452">
         <mark key="'" line="153" column="4" />
         <mark key="[" line="180" column="23" />
@@ -101,13 +94,6 @@
         <mark key="^" line="18" column="43" />
         <mark key="." line="18" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/database/migrations/20180621100558_dealerMapping.js" timestamp="1540587934875">
-        <mark key="'" line="18" column="5" />
-        <mark key="[" line="21" column="46" />
-        <mark key="]" line="21" column="46" />
-        <mark key="^" line="19" column="7" />
-        <mark key="." line="21" column="46" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/configurations/AppConfig.ts" timestamp="1540917750761" />
       <file name="$USER_HOME$/dev/repos/automp-be/src/injector/registry.ts" timestamp="1531190002547">
         <mark key="'" line="0" column="38" />
@@ -134,6 +120,7 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/tslint.json" timestamp="1540917366720" />
       <file name="$USER_HOME$/dev/repos/joyride-etl/doc/dealer/dealers-drive.csv" timestamp="1540396807470" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/.serverless_plugins/remove-integration-response/index.js" timestamp="1540917385558" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/package.json" timestamp="1540920607959" />
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/test/lib/quickdata/alterations.ts" timestamp="1530897134120">
         <mark key="'" line="2" column="50" />
         <mark key="[" line="27" column="0" />
@@ -177,13 +164,16 @@
         <mark key="^" line="63" column="55" />
         <mark key="." line="63" column="55" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/deploy-admin.sh" timestamp="1540915990995" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/deploy-admin.sh" timestamp="1540920720301" />
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/api-client/api.client.ts" timestamp="1536339151588">
         <mark key="'" line="66" column="6" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="^" line="4" column="19" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/database/data/20180621-dealer-mappings.json" timestamp="1540419539897">
+        <mark key="'" line="6" column="56" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/elasticsearch/definitions.ts" timestamp="1530891269138">
         <mark key="'" line="115" column="6" />
@@ -193,20 +183,6 @@
         <mark key="^" line="114" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/models/ErrorResponse.json" timestamp="1540917450125" />
-      <file name="$USER_HOME$/dev/repos/automp-be/src/dealers/dealer.service.ts" timestamp="1540393055175">
-        <mark key="'" line="73" column="25" />
-        <mark key="[" line="43" column="15" />
-        <mark key="]" line="43" column="16" />
-        <mark key="." line="43" column="16" />
-        <mark key="^" line="43" column="15" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/dealers/dealer.types.ts" timestamp="1540592476040">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="21" column="2" />
-        <mark key="]" line="24" column="31" />
-        <mark key="." line="24" column="31" />
-        <mark key="^" line="24" column="31" />
-      </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/structures/object-filter.ts" timestamp="1535126154016">
         <mark key="'" line="6" column="7" />
         <mark key="[" line="35" column="0" />
@@ -229,6 +205,9 @@
         <mark key="^" line="3" column="27" />
         <mark key="." line="3" column="27" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1540920666505">
+        <mark key="'" line="3" column="15" />
+      </file>
       <file name="$USER_HOME$/hackday-1-business-1/src/App.js" timestamp="1532036654188">
         <mark key="'" line="182" column="61" />
         <mark key="[" line="170" column="17" />
@@ -250,6 +229,7 @@
         <mark key="." line="20" column="30" />
         <mark key="^" line="20" column="29" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/package.json" timestamp="1540920630456" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/.editorconfig" timestamp="1540917333988" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/aws-models.ts" timestamp="1540917555723" />
       <file name="$USER_HOME$/dev/repos/automp-be/src/dealers/dealers.api.ts" timestamp="1540402561785">
@@ -268,13 +248,6 @@
         <mark key="." line="23" column="77" />
         <mark key="^" line="23" column="77" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/drive/types.ts" timestamp="1540589263939">
-        <mark key="'" line="7" column="12" />
-        <mark key="[" line="27" column="19" />
-        <mark key="]" line="27" column="27" />
-        <mark key="." line="27" column="27" />
-        <mark key="^" line="27" column="27" />
-      </file>
       <file name="$USER_HOME$/dev/repos/automp-be/config/drive.ts" timestamp="1535723786973">
         <mark key="'" line="5" column="8" />
         <mark key="[" line="5" column="41" />
@@ -282,19 +255,15 @@
         <mark key="." line="5" column="49" />
         <mark key="^" line="5" column="49" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/drive/test-drive.client.ts" timestamp="1540589351506">
-        <mark key="'" line="127" column="35" />
-        <mark key="[" line="28" column="56" />
-        <mark key="]" line="28" column="61" />
-        <mark key="." line="28" column="61" />
-        <mark key="^" line="28" column="61" />
-      </file>
       <file name="$USER_HOME$/dev/repos/automp-be/database/migrations/20180727233613_test-drive-tables.js" timestamp="1534794427445">
         <mark key="'" line="66" column="8" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="72" column="14" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/models/dealer/dal.ts" timestamp="1540420376008">
+        <mark key="'" line="90" column="19" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/elasticsearch/index.js" timestamp="1530885266400">
         <mark key="'" line="18" column="0" />
@@ -309,13 +278,6 @@
         <mark key="]" line="3" column="16" />
         <mark key="^" line="3" column="16" />
         <mark key="." line="3" column="16" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/timeslot-validator.ts" timestamp="1540589121529">
-        <mark key="'" line="110" column="53" />
-        <mark key="[" line="106" column="15" />
-        <mark key="]" line="106" column="25" />
-        <mark key="^" line="106" column="25" />
-        <mark key="." line="106" column="25" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/cli.ts" timestamp="1537242786643">
         <mark key="'" line="9" column="32" />
@@ -397,13 +359,6 @@
         <mark key="." line="17" column="40" />
         <mark key="^" line="17" column="40" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/database/migrations/20180905155042_expand-test-drive-name-fields.js" timestamp="1540589707796">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="9" column="1" />
-        <mark key="." line="9" column="2" />
-        <mark key="^" line="3" column="34" />
-      </file>
       <file name="$USER_HOME$/dev/repos/automp-be/database/migrations/20180716155704_dealerViewReset.js" timestamp="1540589609324" />
       <file name="$USER_HOME$/dev/repos/joyride-etl/tsconfig.json" timestamp="1530888702245">
         <mark key="'" line="7" column="22" />
@@ -414,7 +369,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="235" column="8" filename="$USER_HOME$/dev/repos/automp-be/src/core/manager/base.manager.ts" />
       <jump line="101" column="42" filename="$USER_HOME$/dev/repos/automp-be/src/core/manager/base.manager.ts" />
       <jump line="26" column="6" filename="$USER_HOME$/dev/repos/automp-be/src/core/manager/base.manager.ts" />
       <jump line="281" column="17" filename="$USER_HOME$/dev/repos/automp-be/src/core/manager/base.manager.ts" />
@@ -514,6 +468,7 @@
       <jump line="39" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/dealers/dealer.manager.ts" />
       <jump line="42" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/dealers/dealer.manager.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/dealers/dealer.manager.ts" />
+      <jump line="3" column="15" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -523,7 +478,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>25</text>
+        <text>ffline</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">V0hFUkUgU1RfRFdpdGhpbihkLmdlb21ldHJ5LCBTVF9NYWtlUG9pbnQoOmxhdGl0dWRlLCA6bG9uZ2l0dWRlKTo6Z2VvZ3JhcGh5LCAyNTAwMCkK</text>
@@ -563,9 +518,9 @@
       </register>
     </registers>
     <search>
-      <last-search>25</last-search>
+      <last-search>ffline</last-search>
       <last-offset />
-      <last-pattern>25</last-pattern>
+      <last-pattern>ffline</last-pattern>
       <last-replace>docker-watch-logs</last-replace>
       <last-substitute>docker-logs</last-substitute>
       <last-dir>1</last-dir>
@@ -573,7 +528,6 @@
     </search>
     <history>
       <history-search>
-        <entry>if(services</entry>
         <entry>if (services</entry>
         <entry>statusUpdate</entry>
         <entry>this</entry>
@@ -593,6 +547,7 @@
         <entry>-7</entry>
         <entry>43</entry>
         <entry>25</entry>
+        <entry>ffline</entry>
       </history-search>
       <history-cmd>
         <entry>272</entry>
