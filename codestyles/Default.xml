@@ -1,4 +1,7 @@
 <code_scheme name="Default" version="173">
+  <HCL-Terraform>
+    <option name="PROPERTY_ALIGNMENT" value="2" />
+  </HCL-Terraform>
   <Python>
     <option name="NEW_LINE_AFTER_COLON" value="true" />
     <option name="DICT_WRAPPING" value="5" />
@@ -34,6 +37,11 @@
     <option name="TYPE_CASE" value="0" />
     <option name="IDENTIFIER_CASE" value="1" />
   </SqlCodeStyleSettings>
+  <codeStyleSettings language="HCL-Terraform">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="SQL">
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
