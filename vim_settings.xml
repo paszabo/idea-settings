@@ -137,11 +137,11 @@
         <mark key="." line="13" column="20" />
         <mark key="^" line="13" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/repos/terraform-hello-world/infrastructure/terraform/example.tf" timestamp="1541013785129">
-        <mark key="[" line="15" column="19" />
-        <mark key="]" line="15" column="87" />
-        <mark key="^" line="15" column="87" />
-        <mark key="." line="15" column="87" />
+      <file name="$USER_HOME$/dev/repos/terraform-hello-world/infrastructure/terraform/example.tf" timestamp="1541019862955">
+        <mark key="[" line="10" column="55" />
+        <mark key="]" line="10" column="55" />
+        <mark key="^" line="16" column="87" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/hackday-1-business-1/src/vehicle_details.js" timestamp="1532036990470">
         <mark key="'" line="51" column="50" />
@@ -1561,8 +1561,8 @@
       <jump line="164" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlcGVuZHNfb24gICAgPSBbImF3c19zM19idWNrZXQudGVycmFmb3JtLXRlc3QtczMiXQo=</text>
       </register>
       <register name="-" type="4">
         <text>'</text>
@@ -1574,40 +1574,34 @@
         <text encoding="base64">ICAgICAgICBjb25zdCByZXNvdXJjZUFybiA9IGBhcm46YXdzOmV4ZWN1dGUtYXBpOiR7dGhpcy5yZWdpb259OmAgKwogICAgICAgICAgICBgJHt0aGlzLmF3c0FjY291bnRJZH06JHt0aGlzLnJlc3RBcGlJZH0vJHt0aGlzLnN0YWdlfS9gICsKICAgICAgICAgICAgYCR7dmVyYn0vJHtjbGVhbmVkUmVzb3VyY2V9YDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFjY2Vzc19rZXkgPSAiQUNDRVNTX0tFWV9IRVJFIgogICAgc2VjcmV0X2tleSA9ICJTRUNSRVRfS0VZX0hFUkUiCg==</text>
+        <text encoding="base64">ICAgIGRlcGVuZHNfb24gICAgPSBbImF3c19zM19idWNrZXQudGVycmFmb3JtLXRlc3QtczMiXQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zdCByZXNvdXJjZUFybiA9IGBhcm46YXdzOmV4ZWN1dGUtYXBpOiR7dGhpcy5yZWdpb259OmAgKwogICAgICAgIC8vICAgICBgJHt0aGlzLmF3c0FjY291bnRJZH06JHt0aGlzLnJlc3RBcGlJZH0vJHt0aGlzLnN0YWdlfS9gICsKICAgICAgICAvLyAgICAgYCR7dmVyYn0vJHtjbGVhbmVkUmVzb3VyY2V9YDsKCg==</text>
+        <text encoding="base64">ICAgIGFjY2Vzc19rZXkgPSAiQUNDRVNTX0tFWV9IRVJFIgogICAgc2VjcmV0X2tleSA9ICJTRUNSRVRfS0VZX0hFUkUiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zdCByZXNvdXJjZUFybiA9IGBhcm46YXdzOmV4ZWN1dGUtYXBpOiR7dGhpcy5yZWdpb259OmAgKwogICAgICAgIC8vICAgICBgJHt0aGlzLmF3c0FjY291bnRJZH06JHt0aGlzLnJlc3RBcGlJZH0vJHt0aGlzLnN0YWdlfS9gICsKICAgICAgICAvLyAgICAgYCR7dmVyYn0vJHtjbGVhbmVkUmVzb3VyY2V9YDsKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">JHt0aGlzLnJlc3RBcGlJZH0vJHt0aGlzLnN0YWdlfWAke3ZlcmJ9LyR7Y2xlYW5lZFJlc291cmNlfWA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHJldHVybiBwb2xpY3k7Cg==</text>
+        <text encoding="base64">JHt0aGlzLnJlc3RBcGlJZH0vJHt0aGlzLnN0YWdlfWAke3ZlcmJ9LyR7Y2xlYW5lZFJlc291cmNlfWA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gcG9saWN5LnBvbGljeURvY3VtZW50ID0gZG9jOwogICAgICAgICAgICAvLyBpZiAoIXBvbGljeS5jb250ZXh0KSB7CiAgICAgICAgICAgIC8vICAgICBwb2xpY3kuY29udGV4dCA9IHt9OwogICAgICAgICAgICAvLyB9CiAgICAgICAgICAgIHBvbGljeS5jb250ZXh0LmFkbWluTWVtYmVySWQgPSB0aGlzLmFkbWluTWVtYmVySWQ7CiAgICAgICAgICAgIHBvbGljeS5jb250ZXh0LnByb3ZpZGVySWQgPSB0aGlzLnByb3ZpZGVySWQ7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHJldHVybiBwb2xpY3k7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gcG9saWN5LnBvbGljeURvY3VtZW50ID0gZG9jOwogICAgICAgICAgICAvLyBpZiAoIXBvbGljeS5jb250ZXh0KSB7CiAgICAgICAgICAgIC8vICAgICBwb2xpY3kuY29udGV4dCA9IHt9OwogICAgICAgICAgICAvLyB9CiAgICAgICAgICAgIHBvbGljeS5jb250ZXh0LmFkbWluTWVtYmVySWQgPSB0aGlzLmFkbWluTWVtYmVySWQ7CiAgICAgICAgICAgIHBvbGljeS5jb250ZXh0LnByb3ZpZGVySWQgPSB0aGlzLnByb3ZpZGVySWQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgZG9jID07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-                Version: this.version,
-                Statement: [
-                    ...getStatementsForEffect.call(this, &quot;Allow&quot;, this.allowMethods),
-                    ...getStatementsForEffect.call(this, &quot;Deny&quot;, this.denyMethods),
-                ]
-            }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgZG9jID07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
