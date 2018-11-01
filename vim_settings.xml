@@ -861,12 +861,12 @@
         <mark key="^" line="1" column="23" />
         <mark key="." line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/repos/terraform-hello-world/api/index.js" timestamp="1541092967467">
+      <file name="$USER_HOME$/dev/repos/terraform-hello-world/api/index.js" timestamp="1541093713981">
         <mark key="'" line="43" column="34" />
-        <mark key="[" line="59" column="19" />
-        <mark key="]" line="60" column="31" />
-        <mark key="." line="60" column="31" />
-        <mark key="^" line="60" column="31" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+        <mark key="^" line="76" column="30" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/nodemon.json" timestamp="1530219556617">
         <mark key="[" line="2" column="47" />
@@ -1175,7 +1175,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBFeGlzdHM6IGZhbHNlLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1187,21 +1187,24 @@
         <text>email</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBFeGlzdHM6IGZhbHNlLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBSZXR1cm5WYWx1ZXM6ICdBTExfTkVXJywK</text>
+        <text encoding="base64">ICAgICAgICBFeGlzdHM6IGZhbHNlLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBSZXR1cm5WYWx1ZXM6ICdBTExfTkVXJywK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>#resources:
 #    Resources:
 #        UsersTable:
@@ -1222,17 +1225,14 @@
 #                    ReadCapacityUnits: 1
 #                    WriteCapacityUnits: 1</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtICAgQXR0cmlidXRlTmFtZTogZW1haWwKICAgICAgICAgICAgICAgICAgICAgICAgQXR0cmlidXRlVHlwZTogUwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtICAgQXR0cmlidXRlTmFtZTogZW1haWwKICAgICAgICAgICAgICAgICAgICAgICAgS2V5VHlwZTogSEFTSAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtICAgQXR0cmlidXRlTmFtZTogbGFzdF9uYW1lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
