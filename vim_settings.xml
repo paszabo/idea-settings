@@ -107,7 +107,7 @@
         <mark key="." line="1" column="24" />
         <mark key="^" line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer.js" timestamp="1540932516501">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer.js" timestamp="1541087044488">
         <mark key="[" line="102" column="0" />
         <mark key="]" line="102" column="0" />
         <mark key="." line="102" column="0" />
@@ -168,6 +168,13 @@
         <mark key="^" line="1" column="56" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/scim/models/TncResponse.json" timestamp="1541084229870" />
+      <file name="$USER_HOME$/dev/repos/terraform-hello-world/api/serverless.yml" timestamp="1541089116487">
+        <mark key="'" line="40" column="39" />
+        <mark key="[" line="44" column="38" />
+        <mark key="]" line="44" column="47" />
+        <mark key="." line="44" column="47" />
+        <mark key="^" line="44" column="47" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Helper.ts" timestamp="1540925344621">
         <mark key="[" line="73" column="0" />
         <mark key="]" line="73" column="0" />
@@ -550,7 +557,12 @@
         <mark key="^" line="9" column="10" />
         <mark key="." line="9" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1541084637423" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1541089073154">
+        <mark key="[" line="0" column="64" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer/types.ts" timestamp="1533322549303">
         <mark key="[" line="7" column="19" />
         <mark key="]" line="8" column="0" />
@@ -751,6 +763,7 @@
         <mark key="." line="0" column="32" />
         <mark key="^" line="0" column="32" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/deploy-users.sh" timestamp="1541086921885" />
       <file name="$USER_HOME$/dev/repos/auto-core-infrastructure/packer/scripts/05_install_sumologic.sh" timestamp="1541004167090" />
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/database/types.ts" timestamp="1536948120387">
         <mark key="[" line="8" column="75" />
@@ -848,12 +861,20 @@
         <mark key="^" line="1" column="23" />
         <mark key="." line="1" column="23" />
       </file>
+      <file name="$USER_HOME$/dev/repos/terraform-hello-world/api/index.js" timestamp="1541088710315">
+        <mark key="'" line="43" column="34" />
+        <mark key="[" line="54" column="11" />
+        <mark key="]" line="54" column="13" />
+        <mark key="." line="54" column="13" />
+        <mark key="^" line="54" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/nodemon.json" timestamp="1530219556617">
         <mark key="[" line="2" column="47" />
         <mark key="]" line="3" column="66" />
         <mark key="^" line="3" column="66" />
         <mark key="." line="3" column="66" />
       </file>
+      <file name="$USER_HOME$/dev/repos/terraform-hello-world/api/.serverless/cloudformation-template-update-stack.json" timestamp="1541086782348" />
       <file name="$USER_HOME$/dev/repos/joyride-server/src/server/app-server.ts" timestamp="1530214259992">
         <mark key="[" line="15" column="45" />
         <mark key="]" line="15" column="43" />
@@ -1051,14 +1072,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="8" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
-      <jump line="82" column="1" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
-      <jump line="84" column="38" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
-      <jump line="81" column="13" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
-      <jump line="127" column="8" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
-      <jump line="122" column="12" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
-      <jump line="120" column="11" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
       <jump line="24" column="13" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
       <jump line="37" column="2" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
       <jump line="56" column="22" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
@@ -1151,58 +1164,66 @@
       <jump line="100" column="19" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="110" column="23" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="164" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="2" column="0" filename="$USER_HOME$/dev/repos/terraform-hello-world/api/index.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/dev/repos/terraform-hello-world/api/serverless.yml" />
+      <jump line="37" column="4" filename="$USER_HOME$/dev/repos/terraform-hello-world/api/index.js" />
+      <jump line="39" column="34" filename="$USER_HOME$/dev/repos/terraform-hello-world/api/index.js" />
+      <jump line="51" column="9" filename="$USER_HOME$/dev/repos/terraform-hello-world/api/serverless.yml" />
+      <jump line="68" column="0" filename="$USER_HOME$/dev/repos/terraform-hello-world/api/serverless.yml" />
+      <jump line="43" column="39" filename="$USER_HOME$/dev/repos/terraform-hello-world/api/serverless.yml" />
+      <jump line="40" column="39" filename="$USER_HOME$/dev/repos/terraform-hello-world/api/serverless.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlcGVuZHNfb24gICAgPSBbImF3c19zM19idWNrZXQudGVycmFmb3JtLXRlc3QtczMiXQo=</text>
+      <register name="&quot;" type="4">
+        <text>user_id</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>user_id</text>
       </register>
       <register name="/" type="4">
-        <text>for</text>
+        <text>userId</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCByZXNvdXJjZUFybiA9IGBhcm46YXdzOmV4ZWN1dGUtYXBpOiR7dGhpcy5yZWdpb259OmAgKwogICAgICAgICAgICBgJHt0aGlzLmF3c0FjY291bnRJZH06JHt0aGlzLnJlc3RBcGlJZH0vJHt0aGlzLnN0YWdlfS9gICsKICAgICAgICAgICAgYCR7dmVyYn0vJHtjbGVhbmVkUmVzb3VyY2V9YDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtICAgQXR0cmlidXRlTmFtZTogdXNlcl9pZAogICAgICAgICAgICAgICAgICAgICAgICBBdHRyaWJ1dGVUeXBlOiBTCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlcGVuZHNfb24gICAgPSBbImF3c19zM19idWNrZXQudGVycmFmb3JtLXRlc3QtczMiXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGFibGVOYW1lOiAke3NlbGY6Y3VzdG9tLnRhYmxlcy51c2Vyc30K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFjY2Vzc19rZXkgPSAiQUNDRVNTX0tFWV9IRVJFIgogICAgc2VjcmV0X2tleSA9ICJTRUNSRVRfS0VZX0hFUkUiCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zdCByZXNvdXJjZUFybiA9IGBhcm46YXdzOmV4ZWN1dGUtYXBpOiR7dGhpcy5yZWdpb259OmAgKwogICAgICAgIC8vICAgICBgJHt0aGlzLmF3c0FjY291bnRJZH06JHt0aGlzLnJlc3RBcGlJZH0vJHt0aGlzLnN0YWdlfS9gICsKICAgICAgICAvLyAgICAgYCR7dmVyYn0vJHtjbGVhbmVkUmVzb3VyY2V9YDsKCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">JHt0aGlzLnJlc3RBcGlJZH0vJHt0aGlzLnN0YWdlfWAke3ZlcmJ9LyR7Y2xlYW5lZFJlc291cmNlfWA7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHJldHVybiBwb2xpY3k7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gcG9saWN5LnBvbGljeURvY3VtZW50ID0gZG9jOwogICAgICAgICAgICAvLyBpZiAoIXBvbGljeS5jb250ZXh0KSB7CiAgICAgICAgICAgIC8vICAgICBwb2xpY3kuY29udGV4dCA9IHt9OwogICAgICAgICAgICAvLyB9CiAgICAgICAgICAgIHBvbGljeS5jb250ZXh0LmFkbWluTWVtYmVySWQgPSB0aGlzLmFkbWluTWVtYmVySWQ7CiAgICAgICAgICAgIHBvbGljeS5jb250ZXh0LnByb3ZpZGVySWQgPSB0aGlzLnByb3ZpZGVySWQ7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGlmICghKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnVuY3Rpb25zOgogICAgYXBwOgogICAgICAgIGhhbmRsZXI6IGluZGV4LmhhbmRsZXIKICAgICAgICBldmVudHM6CiAgICAgICAgICAgIC0gaHR0cDogQU5ZIC8KICAgICAgICAgICAgLSBodHRwOiAnQU5ZIHtwcm94eSt9Jwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIFVzZXJzVGFibGU6ICcnCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">YXBwLgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgZG9jID07Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>for</last-search>
+      <last-search>userId</last-search>
       <last-offset />
-      <last-pattern>for</last-pattern>
+      <last-pattern>userId</last-pattern>
       <last-replace>docker-watch-logs</last-replace>
       <last-substitute>docker-logs</last-substitute>
       <last-dir>1</last-dir>
@@ -1210,10 +1231,6 @@
     </search>
     <history>
       <history-search>
-        <entry>try</entry>
-        <entry>try {</entry>
-        <entry>this.geocodeSearch</entry>
-        <entry>from</entry>
         <entry>brand_dealer</entry>
         <entry>brand_dealer&quot;: true</entry>
         <entry>true</entry>
@@ -1230,18 +1247,13 @@
         <entry>to expire</entry>
         <entry>body</entry>
         <entry>for</entry>
+        <entry>environment</entry>
+        <entry>first</entry>
+        <entry>fist</entry>
+        <entry>userId</entry>
       </history-search>
       <history-cmd>
-        <entry>193</entry>
-        <entry>wq</entry>
-        <entry>9</entry>
-        <entry>36</entry>
-        <entry>40</entry>
-        <entry>50</entry>
-        <entry>33</entry>
-        <entry>54</entry>
         <entry>15</entry>
-        <entry>38</entry>
         <entry>43</entry>
         <entry>120</entry>
         <entry>0</entry>
@@ -1251,6 +1263,15 @@
         <entry>203</entry>
         <entry>198</entry>
         <entry>203,204d</entry>
+        <entry>1</entry>
+        <entry>2</entry>
+        <entry>22</entry>
+        <entry>16</entry>
+        <entry>36</entry>
+        <entry>38</entry>
+        <entry>49</entry>
+        <entry>40</entry>
+        <entry>50</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
