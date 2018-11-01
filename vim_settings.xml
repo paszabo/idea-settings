@@ -168,12 +168,11 @@
         <mark key="^" line="1" column="56" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/scim/models/TncResponse.json" timestamp="1541084229870" />
-      <file name="$USER_HOME$/dev/repos/terraform-hello-world/api/serverless.yml" timestamp="1541089116487">
-        <mark key="'" line="40" column="39" />
-        <mark key="[" line="44" column="38" />
-        <mark key="]" line="44" column="47" />
-        <mark key="." line="44" column="47" />
-        <mark key="^" line="44" column="47" />
+      <file name="$USER_HOME$/dev/repos/terraform-hello-world/api/serverless.yml" timestamp="1541091974899">
+        <mark key="[" line="11" column="38" />
+        <mark key="]" line="11" column="38" />
+        <mark key="." line="11" column="38" />
+        <mark key="^" line="6" column="22" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Helper.ts" timestamp="1540925344621">
         <mark key="[" line="73" column="0" />
@@ -557,7 +556,8 @@
         <mark key="^" line="9" column="10" />
         <mark key="." line="9" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1541089073154">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1541091426898">
+        <mark key="'" line="68" column="24" />
         <mark key="[" line="0" column="64" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
@@ -861,12 +861,12 @@
         <mark key="^" line="1" column="23" />
         <mark key="." line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/repos/terraform-hello-world/api/index.js" timestamp="1541088710315">
+      <file name="$USER_HOME$/dev/repos/terraform-hello-world/api/index.js" timestamp="1541092967467">
         <mark key="'" line="43" column="34" />
-        <mark key="[" line="54" column="11" />
-        <mark key="]" line="54" column="13" />
-        <mark key="." line="54" column="13" />
-        <mark key="^" line="54" column="13" />
+        <mark key="[" line="59" column="19" />
+        <mark key="]" line="60" column="31" />
+        <mark key="." line="60" column="31" />
+        <mark key="^" line="60" column="31" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/nodemon.json" timestamp="1530219556617">
         <mark key="[" line="2" column="47" />
@@ -1072,11 +1072,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="13" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
-      <jump line="37" column="2" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
-      <jump line="56" column="22" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
-      <jump line="57" column="12" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
-      <jump line="58" column="13" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
       <jump line="79" column="0" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
       <jump line="80" column="0" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
       <jump line="35" column="0" filename="$USER_HOME$/dev/repos/automp-be/.clang-format" />
@@ -1172,58 +1167,81 @@
       <jump line="68" column="0" filename="$USER_HOME$/dev/repos/terraform-hello-world/api/serverless.yml" />
       <jump line="43" column="39" filename="$USER_HOME$/dev/repos/terraform-hello-world/api/serverless.yml" />
       <jump line="40" column="39" filename="$USER_HOME$/dev/repos/terraform-hello-world/api/serverless.yml" />
+      <jump line="42" column="25" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="50" column="24" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="59" column="24" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="68" column="24" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="49" column="0" filename="$USER_HOME$/dev/repos/terraform-hello-world/api/serverless.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>user_id</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBFeGlzdHM6IGZhbHNlLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>user_id</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>userId</text>
+        <text>KeySchema</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtICAgQXR0cmlidXRlTmFtZTogdXNlcl9pZAogICAgICAgICAgICAgICAgICAgICAgICBBdHRyaWJ1dGVUeXBlOiBTCg==</text>
+      <register name="0" type="4">
+        <text>email</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGFibGVOYW1lOiAke3NlbGY6Y3VzdG9tLnRhYmxlcy51c2Vyc30K</text>
+        <text encoding="base64">ICAgICAgICBFeGlzdHM6IGZhbHNlLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBSZXR1cm5WYWx1ZXM6ICdBTExfTkVXJywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmICghKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="5" type="4">
+        <text>#resources:
+#    Resources:
+#        UsersTable:
+#            Type: 'AWS::DynamoDB::Table'
+#            Properties:
+#                TableName: ${self:custom.tables.users}
+#                AttributeDefinitions:
+#                    -   AttributeName: user_id
+#                        AttributeType: S
+#                    -   AttributeName: first_name
+#                        AttributeType: S
+#                    -   AttributeName: last_name
+#                        AttributeType: S
+#                KeySchema:
+#                    -   AttributeName: user_id
+#                        KeyType: HASH
+#                ProvisionedThroughput:
+#                    ReadCapacityUnits: 1
+#                    WriteCapacityUnits: 1</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnVuY3Rpb25zOgogICAgYXBwOgogICAgICAgIGhhbmRsZXI6IGluZGV4LmhhbmRsZXIKICAgICAgICBldmVudHM6CiAgICAgICAgICAgIC0gaHR0cDogQU5ZIC8KICAgICAgICAgICAgLSBodHRwOiAnQU5ZIHtwcm94eSt9Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtICAgQXR0cmlidXRlTmFtZTogZW1haWwKICAgICAgICAgICAgICAgICAgICAgICAgQXR0cmlidXRlVHlwZTogUwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFVzZXJzVGFibGU6ICcnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtICAgQXR0cmlidXRlTmFtZTogZW1haWwKICAgICAgICAgICAgICAgICAgICAgICAgS2V5VHlwZTogSEFTSAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YXBwLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtICAgQXR0cmlidXRlTmFtZTogbGFzdF9uYW1lCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>userId</last-search>
+      <last-search>KeySchema</last-search>
       <last-offset />
-      <last-pattern>userId</last-pattern>
+      <last-pattern>KeySchema</last-pattern>
       <last-replace>docker-watch-logs</last-replace>
       <last-substitute>docker-logs</last-substitute>
       <last-dir>1</last-dir>
@@ -1231,7 +1249,6 @@
     </search>
     <history>
       <history-search>
-        <entry>brand_dealer</entry>
         <entry>brand_dealer&quot;: true</entry>
         <entry>true</entry>
         <entry>uick</entry>
@@ -1251,13 +1268,9 @@
         <entry>first</entry>
         <entry>fist</entry>
         <entry>userId</entry>
+        <entry>KeySchema</entry>
       </history-search>
       <history-cmd>
-        <entry>15</entry>
-        <entry>43</entry>
-        <entry>120</entry>
-        <entry>0</entry>
-        <entry>590</entry>
         <entry>63d</entry>
         <entry>1088d</entry>
         <entry>203</entry>
@@ -1272,6 +1285,11 @@
         <entry>49</entry>
         <entry>40</entry>
         <entry>50</entry>
+        <entry>53</entry>
+        <entry>66</entry>
+        <entry>42</entry>
+        <entry>0</entry>
+        <entry>12</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
