@@ -82,7 +82,7 @@
         <mark key="." line="0" column="32" />
         <mark key="^" line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/models/UserCommPreferencesRequest.json" timestamp="1541104315887" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/models/UserCommPreferencesRequest.json" timestamp="1541173170279" />
       <file name="$USER_HOME$/dev/repos/auto-core-infrastructure/terraform/app/app.tf" timestamp="1541013648755" />
       <file name="$USER_HOME$/dev/repos/automp-be/src/dealer/test-drive.ts" timestamp="1531195662444">
         <mark key="[" line="89" column="0" />
@@ -169,11 +169,11 @@
         <mark key="^" line="1" column="56" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/scim/models/TncResponse.json" timestamp="1541084229870" />
-      <file name="$USER_HOME$/dev/repos/terraform-hello-world/api/serverless.yml" timestamp="1541104783434">
+      <file name="$USER_HOME$/dev/repos/terraform-hello-world/api/serverless.yml" timestamp="1541174890327">
         <mark key="'" line="23" column="24" />
-        <mark key="[" line="15" column="23" />
-        <mark key="]" line="15" column="25" />
-        <mark key="." line="15" column="25" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
         <mark key="^" line="15" column="25" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Helper.ts" timestamp="1540925344621">
@@ -1176,8 +1176,8 @@
       <jump line="23" column="24" filename="$USER_HOME$/dev/repos/terraform-hello-world/api/serverless.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>POST</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>POST</text>
@@ -1198,25 +1198,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnQ3JlYXRlIHVzZXIgZGF0YScsIGRhdGEpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzdGF0dXMgPSA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnQ3JlYXRlIHVzZXIgZGF0YScsIGRhdGEpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gREJDb250ZXh0KCkgewogICAgaWYgKHByb2Nlc3MuZW52LklTX09GRkxJTkUpIHsKICAgICAgICByZXR1cm4gewogICAgICAgICAgICByZWdpb246ICdsb2NhbGhvc3QnLAogICAgICAgICAgICBlbmRwb2ludDogJ2h0dHA6Ly9sb2NhbGhvc3Q6ODAwMCcsCiAgICAgICAgfTsKICAgIH0KfQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBzdGF0dXMgPSA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAogICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gREJDb250ZXh0KCkgewogICAgaWYgKHByb2Nlc3MuZW52LklTX09GRkxJTkUpIHsKICAgICAgICByZXR1cm4gewogICAgICAgICAgICByZWdpb246ICdsb2NhbGhvc3QnLAogICAgICAgICAgICBlbmRwb2ludDogJ2h0dHA6Ly9sb2NhbGhvc3Q6ODAwMCcsCiAgICAgICAgfTsKICAgIH0KfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgZGIgPSBuZXcgQVdTLkR5bmFtb0RCLkRvY3VtZW50Q2xpZW50KCk7Cg==</text>
+        <text encoding="base64">ICAgIAogICAgcmV0dXJuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gREJDbGllbnQoY29udGV4dCA9IHt9KSB7CiAgICByZXR1cm4gbmV3IEFXUy5EeW5hbW9EQi5Eb2N1bWVudENsaWVudCgpOwp9Cg==</text>
+        <text encoding="base64">Y29uc3QgZGIgPSBuZXcgQVdTLkR5bmFtb0RCLkRvY3VtZW50Q2xpZW50KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgCg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gREJDbGllbnQoY29udGV4dCA9IHt9KSB7CiAgICByZXR1cm4gbmV3IEFXUy5EeW5hbW9EQi5Eb2N1bWVudENsaWVudCgpOwp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
