@@ -16,6 +16,12 @@
         <mark key="^" line="11" column="35" />
         <mark key="." line="11" column="35" />
       </file>
+      <file name="$USER_HOME$/dev/repos/terraform-hello-world/infrastructure/terraform/users/vpc.tf" timestamp="1541441594358">
+        <mark key="[" line="1" column="39" />
+        <mark key="]" line="2" column="79" />
+        <mark key="^" line="2" column="79" />
+        <mark key="." line="2" column="79" />
+      </file>
       <file name="$USER_HOME$/dev/repos/auto-core-infrastructure/README.md" timestamp="1541010650086" />
       <file name="$USER_HOME$/dev/repos/core-api/src/core-api/graphql.ts" timestamp="1530164797778">
         <mark key="[" line="171" column="0" />
@@ -225,12 +231,12 @@
         <mark key="^" line="1" column="56" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/scim/models/TncResponse.json" timestamp="1541084229870" />
-      <file name="$USER_HOME$/dev/repos/terraform-hello-world/api/serverless.yml" timestamp="1541440345162">
+      <file name="$USER_HOME$/dev/repos/terraform-hello-world/api/serverless.yml" timestamp="1541441562405">
         <mark key="'" line="23" column="24" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-        <mark key="^" line="15" column="25" />
+        <mark key="[" line="36" column="14" />
+        <mark key="]" line="36" column="39" />
+        <mark key="." line="37" column="14" />
+        <mark key="^" line="36" column="36" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Helper.ts" timestamp="1540925344621">
         <mark key="[" line="73" column="0" />
@@ -768,7 +774,7 @@
         <mark key="^" line="9" column="10" />
         <mark key="." line="9" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1541436098953">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1541441203468">
         <mark key="'" line="68" column="24" />
         <mark key="[" line="0" column="64" />
         <mark key="]" line="1" column="0" />
@@ -1575,34 +1581,34 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>aws_dynamodb_table</text>
+        <text>sg-paul-terraform-test-foo</text>
       </register>
       <register name="-" type="4">
-        <text>aws_dynamodb_table</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>POST</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgZGIgPSBuZXcgQVdTLkR5bmFtb0RCLkRvY3VtZW50Q2xpZW50KCk7Cg==</text>
+      <register name="0" type="4">
+        <text>sg-paul-terraform-test-foo</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ewogICAgCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgoKCgoK</text>
+        <text encoding="base64">ewogICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgoKCgoK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -1611,10 +1617,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnQ3JlYXRlIHVzZXIgZGF0YScsIGRhdGEpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzdGF0dXMgPSA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnQ3JlYXRlIHVzZXIgZGF0YScsIGRhdGEpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
