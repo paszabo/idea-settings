@@ -53,6 +53,7 @@
         <mark key="." line="45" column="57" />
         <mark key="^" line="45" column="65" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/helper" timestamp="1541532508519" />
       <file name="$USER_HOME$/dev/repos/automp-be/models/dealer/test-drive/constants.ts" timestamp="1532762838404">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -781,7 +782,7 @@
         <mark key="^" line="9" column="10" />
         <mark key="." line="9" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1541518473643">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1541532145443">
         <mark key="'" line="68" column="24" />
         <mark key="[" line="0" column="64" />
         <mark key="]" line="1" column="0" />
@@ -1047,7 +1048,7 @@
         <mark key="." line="0" column="32" />
         <mark key="^" line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/deploy-users.sh" timestamp="1541086921885" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/deploy-users.sh" timestamp="1541532468125" />
       <file name="$USER_HOME$/dev/repos/auto-core-infrastructure/packer/scripts/05_install_sumologic.sh" timestamp="1541004167090" />
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/database/types.ts" timestamp="1536948120387">
         <mark key="[" line="8" column="75" />
@@ -1147,6 +1148,12 @@
         <mark key="]" line="236" column="0" />
         <mark key="^" line="19" column="6" />
         <mark key="." line="236" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/users-config-paul-dev.sh" timestamp="1541532601344">
+        <mark key="[" line="31" column="50" />
+        <mark key="]" line="31" column="50" />
+        <mark key="^" line="31" column="58" />
+        <mark key="." line="31" column="50" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer/base-serializer.ts" timestamp="1536339335923">
         <mark key="'" line="78" column="32" />
@@ -1590,11 +1597,11 @@
       <jump line="29" column="34" filename="$USER_HOME$/dev/repos/common-identity-api/deploy-local/deploy-admin.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0tTEFNQkRBX1NFQ1VSSVRZX0dST1VQX0lEPSIke0xBTUJEQV9TRUNVUklUWV9HUk9VUF9JRH0iIFwK</text>
+      <register name="&quot;" type="4">
+        <text>-paul-dev</text>
       </register>
       <register name="-" type="4">
-        <text>paul-terraform-test-foo</text>
+        <text>-paul-dev</text>
       </register>
       <register name="/" type="4">
         <text>LAMBDA</text>
