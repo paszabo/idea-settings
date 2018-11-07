@@ -786,7 +786,7 @@
         <mark key="^" line="9" column="10" />
         <mark key="." line="9" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1541539040555">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1541610837143">
         <mark key="'" line="1468" column="39" />
         <mark key="[" line="227" column="0" />
         <mark key="]" line="227" column="0" />
@@ -1052,11 +1052,11 @@
         <mark key="." line="0" column="32" />
         <mark key="^" line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/deploy-users.sh" timestamp="1541608923711">
-        <mark key="[" line="15" column="33" />
-        <mark key="]" line="15" column="33" />
-        <mark key="." line="15" column="33" />
-        <mark key="^" line="15" column="33" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/deploy-users.sh" timestamp="1541610716357">
+        <mark key="[" line="47" column="68" />
+        <mark key="]" line="47" column="68" />
+        <mark key="." line="47" column="68" />
+        <mark key="^" line="42" column="56" />
       </file>
       <file name="$USER_HOME$/dev/repos/auto-core-infrastructure/packer/scripts/05_install_sumologic.sh" timestamp="1541004167090" />
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/database/types.ts" timestamp="1536948120387">
@@ -1252,6 +1252,7 @@
         <mark key="." line="18" column="27" />
         <mark key="^" line="18" column="27" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/webpack.config.js" timestamp="1541610389726" />
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/index.js" timestamp="1530738677112">
         <mark key="'" line="29" column="2" />
         <mark key="[" line="14" column="52" />
@@ -1616,11 +1617,11 @@
       <jump line="368" column="32" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>-paul-dev</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>joinAppUsername</text>
@@ -1629,7 +1630,7 @@
         <text>sg-paul-terraform-test-foo</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0tU0VDVVJFX1NUT1JBR0VfQlVDS0VUPSIke1NFQ1VSRV9TVE9SQUdFX0JVQ0tFVH0iCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1647,16 +1648,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAgICAtLUFXU19QUk9GSUxFPSIke0FXU19QUk9GSUxFfSIgXAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAgICAtLWF3cy1wcm9maWxlICR7QVdTX1BST0ZJTEV9XAo=</text>
+        <text encoding="base64">IyAgICAtLUFXU19QUk9GSUxFPSIke0FXU19QUk9GSUxFfSIgXAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0tTEFNQkRBX1NFQ1VSSVRZX0dST1VQX0lEPSIke0xBTUJEQV9TRUNVUklUWV9HUk9VUF9JRH0iIFwK</text>
+        <text encoding="base64">IyAgICAtLWF3cy1wcm9maWxlICR7QVdTX1BST0ZJTEV9XAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSBzZy1wYXVsLXRlcnJhZm9ybS10ZXN0LWJyYQo=</text>
+        <text encoding="base64">ICAgIC0tTEFNQkRBX1NFQ1VSSVRZX0dST1VQX0lEPSIke0xBTUJEQV9TRUNVUklUWV9HUk9VUF9JRH0iIFwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1695,7 +1696,6 @@
         <entry>joinAppUsername</entry>
       </history-search>
       <history-cmd>
-        <entry>203</entry>
         <entry>198</entry>
         <entry>203,204d</entry>
         <entry>1</entry>
@@ -1714,6 +1714,7 @@
         <entry>1,8d</entry>
         <entry>wq</entry>
         <entry>16</entry>
+        <entry>48</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
