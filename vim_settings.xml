@@ -474,6 +474,7 @@
         <mark key="^" line="65" column="20" />
         <mark key="." line="65" column="20" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/package.json" timestamp="1541538288978" />
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/logging/bunyan.logger.ts" timestamp="1536339264708">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
@@ -673,6 +674,9 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="12" />
       </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/database/data/20180621-dealer-mappings.json" timestamp="1540419539897">
+        <mark key="'" line="6" column="56" />
+      </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/dealer/types.ts" timestamp="1530889632063">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="6" />
@@ -782,12 +786,12 @@
         <mark key="^" line="9" column="10" />
         <mark key="." line="9" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1541532145443">
-        <mark key="'" line="68" column="24" />
-        <mark key="[" line="0" column="64" />
-        <mark key="]" line="1" column="0" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1541539040555">
+        <mark key="'" line="1468" column="39" />
+        <mark key="[" line="227" column="0" />
+        <mark key="]" line="227" column="0" />
         <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+        <mark key="." line="227" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer/types.ts" timestamp="1533322549303">
         <mark key="[" line="7" column="19" />
@@ -1048,11 +1052,10 @@
         <mark key="." line="0" column="32" />
         <mark key="^" line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/deploy-users.sh" timestamp="1541535056959">
-        <mark key="[" line="16" column="18" />
-        <mark key="]" line="16" column="31" />
-        <mark key="^" line="16" column="31" />
-        <mark key="." line="16" column="31" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/deploy-users.sh" timestamp="1541535895736">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="37" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/auto-core-infrastructure/packer/scripts/05_install_sumologic.sh" timestamp="1541004167090" />
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/database/types.ts" timestamp="1536948120387">
@@ -1128,6 +1131,9 @@
         <mark key="]" line="1" column="31" />
         <mark key="^" line="1" column="31" />
         <mark key="." line="1" column="31" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/models/dealer/dal.ts" timestamp="1540420376008">
+        <mark key="'" line="90" column="19" />
       </file>
       <file name="$USER_HOME$/dev/repos/motive-data/api/incentives/app.ts" timestamp="1529686814340">
         <mark key="[" line="15" column="0" />
@@ -1427,6 +1433,10 @@
         <mark key="." line="83" column="12" />
         <mark key="^" line="83" column="12" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1541539058945">
+        <mark key="'" line="368" column="32" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer-memberid.js" timestamp="1541538417233" />
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/quickdata/alterations.js" timestamp="1530890506775">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -1451,6 +1461,9 @@
         <mark key="]" line="16" column="0" />
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/dist/users/handler.js" timestamp="1540923323937">
+        <mark key="'" line="2229" column="10" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/quickdata/constants.ts" timestamp="1530890670670">
         <mark key="'" line="4" column="6" />
@@ -1500,12 +1513,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="12" filename="$USER_HOME$/dev/repos/automp-be/Makefile" />
-      <jump line="23" column="31" filename="$USER_HOME$/dev/repos/automp-be/Makefile" />
-      <jump line="15" column="0" filename="$USER_HOME$/dev/repos/automp-be/Makefile" />
-      <jump line="3" column="0" filename="$USER_HOME$/dev/repos/automp-be/Makefile" />
-      <jump line="108" column="0" filename="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive.service.ts" />
-      <jump line="14" column="0" filename="$USER_HOME$/dev/repos/automp-be/Makefile" />
       <jump line="13" column="20" filename="$USER_HOME$/dev/repos/automp-be/Makefile" />
       <jump line="17" column="44" filename="$USER_HOME$/dev/repos/automp-be/Makefile" />
       <jump line="12" column="13" filename="$USER_HOME$/dev/repos/automp-be/Makefile" />
@@ -1600,58 +1607,64 @@
       <jump line="423" column="26" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
       <jump line="28" column="25" filename="$USER_HOME$/dev/repos/common-identity-api/deploy-local/deploy-admin.sh" />
       <jump line="29" column="34" filename="$USER_HOME$/dev/repos/common-identity-api/deploy-local/deploy-admin.sh" />
+      <jump line="116" column="31" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="1851" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="1919" column="24" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="1390" column="30" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="1468" column="39" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="368" column="32" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-paul-dev</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>-paul-dev</text>
       </register>
       <register name="/" type="4">
-        <text>LAMBDA</text>
+        <text>joinAppUsername</text>
       </register>
       <register name="0" type="4">
         <text>sg-paul-terraform-test-foo</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0tTEFNQkRBX1NFQ1VSSVRZX0dST1VQX0lEPSIke0xBTUJEQV9TRUNVUklUWV9HUk9VUF9JRH0iIFwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSBzZy1wYXVsLXRlcnJhZm9ybS10ZXN0LWJyYQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ewogICAgCg==</text>
+        <text encoding="base64">IyAgICAtLUFXU19QUk9GSUxFPSIke0FXU19QUk9GSUxFfSIgXAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgoKCgoK</text>
+        <text encoding="base64">IyAgICAtLWF3cy1wcm9maWxlICR7QVdTX1BST0ZJTEV9XAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0tTEFNQkRBX1NFQ1VSSVRZX0dST1VQX0lEPSIke0xBTUJEQV9TRUNVUklUWV9HUk9VUF9JRH0iIFwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBzZy1wYXVsLXRlcnJhZm9ybS10ZXN0LWJyYQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>LAMBDA</last-search>
+      <last-search>joinAppUsername</last-search>
       <last-offset />
-      <last-pattern>LAMBDA</last-pattern>
+      <last-pattern>joinAppUsername</last-pattern>
       <last-replace>docker-watch-logs</last-replace>
       <last-substitute>docker-logs</last-substitute>
       <last-dir>1</last-dir>
@@ -1659,10 +1672,6 @@
     </search>
     <history>
       <history-search>
-        <entry>25</entry>
-        <entry>ffline</entry>
-        <entry>getUser</entry>
-        <entry>equire</entry>
         <entry>arg</entry>
         <entry>what</entry>
         <entry>error</entry>
@@ -1679,6 +1688,10 @@
         <entry>POST</entry>
         <entry>DDB</entry>
         <entry>LAMBDA</entry>
+        <entry>profiles</entry>
+        <entry>apps</entry>
+        <entry>joinAppUsernbamne</entry>
+        <entry>joinAppUsername</entry>
       </history-search>
       <history-cmd>
         <entry>203</entry>
@@ -1687,7 +1700,6 @@
         <entry>1</entry>
         <entry>2</entry>
         <entry>22</entry>
-        <entry>16</entry>
         <entry>36</entry>
         <entry>38</entry>
         <entry>49</entry>
@@ -1699,8 +1711,9 @@
         <entry>0</entry>
         <entry>12</entry>
         <entry>1,8d</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>16</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
