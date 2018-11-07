@@ -177,7 +177,7 @@
         <mark key="^" line="1" column="56" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/scim/models/TncResponse.json" timestamp="1541084229870" />
-      <file name="$USER_HOME$/dev/repos/terraform-hello-world/api/serverless.yml" timestamp="1541618599021">
+      <file name="$USER_HOME$/dev/repos/terraform-hello-world/api/serverless.yml" timestamp="1541620425648">
         <mark key="'" line="23" column="52" />
         <mark key="[" line="27" column="25" />
         <mark key="]" line="31" column="55" />
@@ -253,12 +253,6 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/repos/terraform-hello-world/serverless-env.sh" timestamp="1541618524197">
-        <mark key="[" line="4" column="39" />
-        <mark key="]" line="4" column="41" />
-        <mark key="." line="4" column="41" />
-        <mark key="^" line="4" column="41" />
-      </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/bin/start-joyride-server.js" timestamp="1530212194679">
         <mark key="[" line="3" column="25" />
         <mark key="]" line="3" column="25" />
@@ -290,11 +284,11 @@
         <mark key="." line="9" column="45" />
         <mark key="^" line="9" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/repos/terraform-hello-world/infrastructure/terraform/users/iam.tf" timestamp="1541619068807">
-        <mark key="[" line="12" column="27" />
-        <mark key="]" line="11" column="19" />
-        <mark key="." line="11" column="19" />
-        <mark key="^" line="11" column="19" />
+      <file name="$USER_HOME$/dev/repos/terraform-hello-world/infrastructure/terraform/users/iam.tf" timestamp="1541621315308">
+        <mark key="[" line="15" column="94" />
+        <mark key="]" line="17" column="68" />
+        <mark key="." line="17" column="68" />
+        <mark key="^" line="17" column="68" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/quickdata/data.ts" timestamp="1530738140001">
         <mark key="[" line="14" column="0" />
@@ -1246,47 +1240,47 @@
       <jump line="23" column="52" filename="$USER_HOME$/dev/repos/terraform-hello-world/api/serverless.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>db_policy</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>db_policy</text>
+        <text>tf_hello_world_users_db_policy</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZGF0YSAiYXdzX2lhbV9wb2xpY3lfZG9jdW1lbnQiICJ0Zl9oZWxsb193b3JsZF91c2Vyc19kYl9wb2xpY3kiIHsK</text>
+      <register name="0" type="4">
+        <text>tf_hello_world_users_db_policy</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb21tYW5kID0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWRlbnRpZmllcnMgPSBbXQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByb3Zpc2lvbmVyICIiCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
-      </register>
-      <register name="5" type="8">
-        <text encoding="base64">LSAKLSAKLSAKLSAKLSA=</text>
-      </register>
-      <register name="6" type="2">
+      <register name="3" type="4">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSBzdWJuZXRJZDIK</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb21tYW5kID0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByb3Zpc2lvbmVyICIiCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAogICAgCg==</text>
+      </register>
+      <register name="7" type="8">
+        <text encoding="base64">LSAKLSAKLSAKLSAKLSA=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBzdWJuZXRJZDIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
