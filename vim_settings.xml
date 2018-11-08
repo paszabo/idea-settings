@@ -178,13 +178,13 @@
         <mark key="^" line="1" column="56" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/scim/models/TncResponse.json" timestamp="1541084229870" />
-      <file name="$USER_HOME$/dev/repos/terraform-hello-world/api/serverless.yml" timestamp="1541623031426">
+      <file name="$USER_HOME$/dev/repos/terraform-hello-world/api/serverless.yml" timestamp="1541698932131">
         <mark key="a" line="35" column="20" />
-        <mark key="'" line="53" column="12" />
-        <mark key="[" line="50" column="49" />
-        <mark key="]" line="50" column="49" />
-        <mark key="^" line="53" column="46" />
-        <mark key="." line="50" column="49" />
+        <mark key="'" line="36" column="11" />
+        <mark key="[" line="37" column="44" />
+        <mark key="]" line="38" column="73" />
+        <mark key="." line="38" column="73" />
+        <mark key="^" line="38" column="73" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Helper.ts" timestamp="1540925344621">
         <mark key="[" line="73" column="0" />
@@ -1156,8 +1156,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="0" filename="$USER_HOME$/dev/repos/terraform-hello-world/api/serverless.yml" />
-      <jump line="91" column="26" filename="$USER_HOME$/dev/repos/terraform-hello-world/api/index.js" />
       <jump line="13" column="34" filename="$USER_HOME$/dev/repos/terraform-hello-world/infrastructure/terraform/users/users-table.tf" />
       <jump line="10" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
       <jump line="7" column="6" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
@@ -1256,16 +1254,18 @@
       <jump line="34" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/custom_serverless_plugins/sumo-logs/log-forwarder-lambda.js" />
       <jump line="77" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/custom_serverless_plugins/sumo-logs/log-forwarder-lambda.js" />
       <jump line="31" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/custom_serverless_plugins/sumo-logs/log-forwarder-lambda.js" />
+      <jump line="58" column="6" filename="$USER_HOME$/dev/repos/terraform-hello-world/api/serverless.yml" />
+      <jump line="36" column="11" filename="$USER_HOME$/dev/repos/terraform-hello-world/api/serverless.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>U</text>
+        <text>custom</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgU3Vtb1VSTCA9IHByb2Nlc3MuZW52LlNVTU9fRU5EUE9JTlQ7Cg==</text>
@@ -1277,37 +1277,37 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHVybCA9Cg==</text>
+        <text encoding="base64">Y3VzdG9tOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyogZXNsaW50LWRpc2FibGUgKi8K</text>
+        <text encoding="base64">ICAgIHNoaXBMb2dzOgogICAgICAgICMgUmVxdWlyZWQKICAgICAgICBhcm46IGV4aXN0aW5nIGNsb3Vkd2F0Y2ggbG9ncyBBUk4KICAgICAgICAjIE9SCiAgICAgICAgY29sbGVjdG9yVXJsOiBQYXN0ZSB5b3VyIHVybCBmcm9tIHN0ZXAgMS4gaGVyZQoKICAgICAgICAjIE9wdGlvbmFsLCBkZWZhdWx0IHBhdHRlcm4gaXMgIlt0aW1lc3RhbXA9KlosIHJlcXVlc3RfaWQ9XCIqLSpcIiwgZXZlbnRdIgogICAgICAgIGZpbHRlclBhdHRlcm46ICJbdGltZXN0YW1wPSpaLCByZXF1ZXN0X2lkPVwiKi0qXCIsIGNvcnJlbGF0aW9uX2lkPVwiKi0qXCIsIGV2ZW50XSIKICAgICAgICByb2xlOiBBUk4gb2YgSUFNIHJvbGUgdG8gdXNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dmFyIGh0dHBzID0gcmVxdWlyZSgiaHR0cHMiKTsKdmFyIHpsaWIgPSByZXF1aXJlKCJ6bGliIik7CnZhciB1cmwgPSByZXF1aXJlKCJ1cmwiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygic2VydmVybGVzcyIsIHRoaXMuc2VydmVybGVzcyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHVybCA9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygic2VydmVybGVzcyIsIHRoaXMuc2VydmVybGVzcyk7Cg==</text>
+        <text encoding="base64">LyogZXNsaW50LWRpc2FibGUgKi8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFyIGh0dHBzID0gcmVxdWlyZSgiaHR0cHMiKTsKdmFyIHpsaWIgPSByZXF1aXJlKCJ6bGliIik7CnZhciB1cmwgPSByZXF1aXJlKCJ1cmwiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygic2VydmVybGVzcyIsIHRoaXMuc2VydmVybGVzcyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygic2VydmVybGVzcyIsIHRoaXMuc2VydmVybGVzcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>U</last-search>
+      <last-search>custom</last-search>
       <last-offset />
-      <last-pattern>U</last-pattern>
+      <last-pattern>custom</last-pattern>
       <last-replace>const</last-replace>
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
@@ -1315,7 +1315,6 @@
     </search>
     <history>
       <history-search>
-        <entry>terraform_hello</entry>
         <entry>terraform_hello_world</entry>
         <entry>2</entry>
         <entry>Terraform</entry>
@@ -1335,6 +1334,7 @@
         <entry>resources</entry>
         <entry>var</entry>
         <entry>U</entry>
+        <entry>custom</entry>
       </history-search>
       <history-cmd>
         <entry>%s/'/&quot;/g</entry>
