@@ -494,12 +494,6 @@
         <mark key="^" line="5" column="17" />
         <mark key="." line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/deploy-admin.sh" timestamp="1541520608744">
-        <mark key="'" line="29" column="34" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="62" />
-        <mark key="." line="29" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/api-generator/src/models/model.ts" timestamp="1529606004907">
         <mark key="[" line="90" column="0" />
         <mark key="]" line="90" column="6" />
@@ -616,12 +610,12 @@
         <mark key="^" line="15" column="31" />
         <mark key="." line="15" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/custom_serverless_plugins/sumo-logs/index.js" timestamp="1541695698809">
-        <mark key="'" line="7" column="77" />
-        <mark key="[" line="30" column="48" />
-        <mark key="]" line="30" column="55" />
-        <mark key="." line="30" column="55" />
-        <mark key="^" line="30" column="55" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/custom_serverless_plugins/sumo-logs/index.js" timestamp="1541696512902">
+        <mark key="'" line="12" column="77" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="35" column="55" />
+        <mark key="." line="35" column="55" />
+        <mark key="^" line="35" column="55" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/etl/package.json" timestamp="1530299191262">
         <mark key="[" line="1" column="16" />
@@ -1103,6 +1097,13 @@
         <mark key="." line="1" column="49" />
         <mark key="^" line="1" column="49" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/custom_serverless_plugins/sumo-logs/log-forwarder-lambda.js" timestamp="1541697203970">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="52" column="42" />
+        <mark key="]" line="53" column="3" />
+        <mark key="^" line="53" column="3" />
+        <mark key="." line="53" column="3" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1541539058945">
         <mark key="'" line="368" column="32" />
       </file>
@@ -1155,15 +1156,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="4" filename="$USER_HOME$/dev/repos/terraform-hello-world/api/index.js" />
-      <jump line="39" column="34" filename="$USER_HOME$/dev/repos/terraform-hello-world/api/index.js" />
-      <jump line="68" column="0" filename="$USER_HOME$/dev/repos/terraform-hello-world/api/serverless.yml" />
-      <jump line="43" column="39" filename="$USER_HOME$/dev/repos/terraform-hello-world/api/serverless.yml" />
-      <jump line="40" column="39" filename="$USER_HOME$/dev/repos/terraform-hello-world/api/serverless.yml" />
-      <jump line="42" column="25" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
-      <jump line="50" column="24" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
-      <jump line="59" column="24" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
-      <jump line="68" column="24" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="49" column="0" filename="$USER_HOME$/dev/repos/terraform-hello-world/api/serverless.yml" />
       <jump line="91" column="26" filename="$USER_HOME$/dev/repos/terraform-hello-world/api/index.js" />
       <jump line="13" column="34" filename="$USER_HOME$/dev/repos/terraform-hello-world/infrastructure/terraform/users/users-table.tf" />
@@ -1255,40 +1247,49 @@
       <jump line="1004" column="0" filename="$USER_HOME$/Downloads/apiGateway-js-sdk/apigClient.js" />
       <jump line="5" column="65" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/custom_serverless_plugins/sumo-logs/index.js" />
       <jump line="2" column="77" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/custom_serverless_plugins/sumo-logs/index.js" />
+      <jump line="15" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/custom_serverless_plugins/sumo-logs/log-forwarder-lambda.js" />
+      <jump line="16" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/custom_serverless_plugins/sumo-logs/log-forwarder-lambda.js" />
+      <jump line="19" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/custom_serverless_plugins/sumo-logs/log-forwarder-lambda.js" />
+      <jump line="22" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/custom_serverless_plugins/sumo-logs/log-forwarder-lambda.js" />
+      <jump line="27" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/custom_serverless_plugins/sumo-logs/log-forwarder-lambda.js" />
+      <jump line="30" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/custom_serverless_plugins/sumo-logs/log-forwarder-lambda.js" />
+      <jump line="34" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/custom_serverless_plugins/sumo-logs/log-forwarder-lambda.js" />
+      <jump line="77" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/custom_serverless_plugins/sumo-logs/log-forwarder-lambda.js" />
+      <jump line="31" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/custom_serverless_plugins/sumo-logs/log-forwarder-lambda.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dfdG9fc3VtbzogdHJ1ZQo=</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>resources</text>
+        <text>U</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dfdG9fc3VtbzogdHJ1ZQo=</text>
+        <text encoding="base64">Y29uc3QgU3Vtb1VSTCA9IHByb2Nlc3MuZW52LlNVTU9fRU5EUE9JTlQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygic2VydmVybGVzcyIsIHRoaXMuc2VydmVybGVzcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygic2VydmVybGVzcyIsIHRoaXMuc2VydmVybGVzcyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHVybCA9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyogZXNsaW50LWRpc2FibGUgKi8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFyIGh0dHBzID0gcmVxdWlyZSgiaHR0cHMiKTsKdmFyIHpsaWIgPSByZXF1aXJlKCJ6bGliIik7CnZhciB1cmwgPSByZXF1aXJlKCJ1cmwiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygic2VydmVybGVzcyIsIHRoaXMuc2VydmVybGVzcyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygic2VydmVybGVzcyIsIHRoaXMuc2VydmVybGVzcyk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -1297,25 +1298,23 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihwcm9wcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>resources</last-search>
+      <last-search>U</last-search>
       <last-offset />
-      <last-pattern>resources</last-pattern>
-      <last-replace>functions</last-replace>
-      <last-substitute>resources</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-pattern>U</last-pattern>
+      <last-replace>const</last-replace>
+      <last-substitute>var</last-substitute>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sg</entry>
-        <entry>terra</entry>
         <entry>terraform_hello</entry>
         <entry>terraform_hello_world</entry>
         <entry>2</entry>
@@ -1334,15 +1333,13 @@
         <entry>apiGateway</entry>
         <entry encoding="base64">XDwnXD4=</entry>
         <entry>resources</entry>
+        <entry>var</entry>
+        <entry>U</entry>
       </history-search>
       <history-cmd>
-        <entry>29</entry>
-        <entry>15</entry>
-        <entry>5</entry>
         <entry>%s/'/&quot;/g</entry>
         <entry>s/'/&quot;/</entry>
         <entry>42</entry>
-        <entry>32</entry>
         <entry>22</entry>
         <entry>PUBLIC</entry>
         <entry>20</entry>
@@ -1355,6 +1352,10 @@
         <entry>51</entry>
         <entry>54</entry>
         <entry>%s/resources/functions/g</entry>
+        <entry>0</entry>
+        <entry>4</entry>
+        <entry>%s/var/const</entry>
+        <entry>32</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
