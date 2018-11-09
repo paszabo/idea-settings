@@ -539,6 +539,12 @@
         <mark key="." line="21" column="40" />
         <mark key="^" line="21" column="40" />
       </file>
+      <file name="$USER_HOME$/dev/repos/serverless-cloudwatch-sumologic-poc/sumo-poc/serverless.yml" timestamp="1541726686526">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/db/src/tables.ts" timestamp="1530487173039">
         <mark key="[" line="3" column="17" />
         <mark key="]" line="3" column="18" />
@@ -1157,13 +1163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="34" filename="$USER_HOME$/dev/repos/terraform-hello-world/infrastructure/terraform/users/users-table.tf" />
-      <jump line="10" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
-      <jump line="7" column="6" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
-      <jump line="229" column="34" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
-      <jump line="423" column="26" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
-      <jump line="28" column="25" filename="$USER_HOME$/dev/repos/common-identity-api/deploy-local/deploy-admin.sh" />
-      <jump line="29" column="34" filename="$USER_HOME$/dev/repos/common-identity-api/deploy-local/deploy-admin.sh" />
       <jump line="116" column="31" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="1851" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="1919" column="24" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
@@ -1257,16 +1256,23 @@
       <jump line="31" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/custom_serverless_plugins/sumo-logs/log-forwarder-lambda.js" />
       <jump line="58" column="6" filename="$USER_HOME$/dev/repos/terraform-hello-world/api/serverless.yml" />
       <jump line="36" column="11" filename="$USER_HOME$/dev/repos/terraform-hello-world/api/serverless.yml" />
+      <jump line="63" column="0" filename="$USER_HOME$/dev/repos/serverless-cloudwatch-sumologic-poc/sumo-poc/serverless.yml" />
+      <jump line="76" column="0" filename="$USER_HOME$/dev/repos/serverless-cloudwatch-sumologic-poc/sumo-poc/serverless.yml" />
+      <jump line="75" column="8" filename="$USER_HOME$/dev/repos/serverless-cloudwatch-sumologic-poc/sumo-poc/serverless.yml" />
+      <jump line="66" column="0" filename="$USER_HOME$/dev/repos/serverless-cloudwatch-sumologic-poc/sumo-poc/serverless.yml" />
+      <jump line="68" column="8" filename="$USER_HOME$/dev/repos/serverless-cloudwatch-sumologic-poc/sumo-poc/serverless.yml" />
+      <jump line="70" column="8" filename="$USER_HOME$/dev/repos/serverless-cloudwatch-sumologic-poc/sumo-poc/serverless.yml" />
+      <jump line="73" column="8" filename="$USER_HOME$/dev/repos/serverless-cloudwatch-sumologic-poc/sumo-poc/serverless.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>[timestamp=*Z, request_id=\&quot;*-*\&quot;, correlation_id=\&quot;*-*\&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>custom</text>
+        <text>#</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgU3Vtb1VSTCA9IHByb2Nlc3MuZW52LlNVTU9fRU5EUE9JTlQ7Cg==</text>
@@ -1278,37 +1284,37 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y3VzdG9tOgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHNoaXBMb2dzOgogICAgICAgICMgUmVxdWlyZWQKICAgICAgICBhcm46IGV4aXN0aW5nIGNsb3Vkd2F0Y2ggbG9ncyBBUk4KICAgICAgICAjIE9SCiAgICAgICAgY29sbGVjdG9yVXJsOiBQYXN0ZSB5b3VyIHVybCBmcm9tIHN0ZXAgMS4gaGVyZQoKICAgICAgICAjIE9wdGlvbmFsLCBkZWZhdWx0IHBhdHRlcm4gaXMgIlt0aW1lc3RhbXA9KlosIHJlcXVlc3RfaWQ9XCIqLSpcIiwgZXZlbnRdIgogICAgICAgIGZpbHRlclBhdHRlcm46ICJbdGltZXN0YW1wPSpaLCByZXF1ZXN0X2lkPVwiKi0qXCIsIGNvcnJlbGF0aW9uX2lkPVwiKi0qXCIsIGV2ZW50XSIKICAgICAgICByb2xlOiBBUk4gb2YgSUFNIHJvbGUgdG8gdXNlCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">cGx1Z2luczoKICAgIC0gc2VydmVybGVzcy1wbHVnaW4tY2xvdWR3YXRjaC1zdW1vbG9naWMK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICAgICAgIyBPcHRpb25hbCwgZGVmYXVsdCBwYXR0ZXJuIGlzICJbdGltZXN0YW1wPSpaLCByZXF1ZXN0X2lkPVwiKi0qXCIsIGV2ZW50XSIKIyAgICAgICAgZmlsdGVyUGF0dGVybjogIlt0aW1lc3RhbXA9KlosIHJlcXVlc3RfaWQ9XCIqLSpcIiwgY29ycmVsYXRpb25faWQ9XCIqLSpcIiwgZXZlbnRdIgojICAgICAgICByb2xlOiBBUk4gb2YgSUFNIHJvbGUgdG8gdXNlCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHVybCA9Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIFJlcXVpcmVkCiAgICAgICAgIyAgICAgICAgYXJuOiBleGlzdGluZyBjbG91ZHdhdGNoIGxvZ3MgQVJOCiAgICAgICAgIyBPUgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyogZXNsaW50LWRpc2FibGUgKi8K</text>
+        <text encoding="base64">ICAgICAgICBjb2xsZWN0b3JVcmw6aHR0cHM6Ly9lbmRwb2ludDMuY29sbGVjdGlvbi51czIuc3Vtb2xvZ2ljLmNvbS9yZWNlaXZlci92MS9odHRwL1phVm5DNGRoYVYzSS1vVDlJcTNEWlcyQTBCTGN3RlRuVzRQeEVXUXZ5dTR4eFdmR3FQekR4eGZxZ19EVUhfSnQ0SHBjdExvZkxTM1FaeHVWZVU1czZEUDBSWC1Ma2ZheWFtckoxMWpfdHFOWUlfNFBNR2RJVVE9PQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFyIGh0dHBzID0gcmVxdWlyZSgiaHR0cHMiKTsKdmFyIHpsaWIgPSByZXF1aXJlKCJ6bGliIik7CnZhciB1cmwgPSByZXF1aXJlKCJ1cmwiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygic2VydmVybGVzcyIsIHRoaXMuc2VydmVybGVzcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygic2VydmVybGVzcyIsIHRoaXMuc2VydmVybGVzcyk7Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb25zOgogICAgaGVsbG86CiAgICAgICAgaGFuZGxlcjogaGFuZGxlci5oZWxsbwogICAgICAgIGV2ZW50czoKICAgICAgICAgICAgLSAgIGh0dHA6CiAgICAgICAgICAgICAgICAgICAgcGF0aDogLwogICAgICAgICAgICAgICAgICAgIG1ldGhvZDogZ2V0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>custom</last-search>
+      <last-search>#</last-search>
       <last-offset />
-      <last-pattern>custom</last-pattern>
+      <last-pattern>#</last-pattern>
       <last-replace>const</last-replace>
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
@@ -1316,7 +1322,6 @@
     </search>
     <history>
       <history-search>
-        <entry>terraform_hello_world</entry>
         <entry>2</entry>
         <entry>Terraform</entry>
         <entry>Terraform Hello Wolrd</entry>
@@ -1336,16 +1341,14 @@
         <entry>var</entry>
         <entry>U</entry>
         <entry>custom</entry>
+        <entry>#</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/'/&quot;/g</entry>
-        <entry>s/'/&quot;/</entry>
         <entry>42</entry>
         <entry>22</entry>
         <entry>PUBLIC</entry>
         <entry>20</entry>
         <entry>1</entry>
-        <entry>2</entry>
         <entry>10</entry>
         <entry>30</entry>
         <entry>wop</entry>
@@ -1357,6 +1360,9 @@
         <entry>4</entry>
         <entry>%s/var/const</entry>
         <entry>32</entry>
+        <entry>59</entry>
+        <entry>#</entry>
+        <entry>2</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
