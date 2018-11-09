@@ -361,7 +361,7 @@
         <mark key="." line="8" column="23" />
         <mark key="^" line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/cw-sumo-forwarder.js" timestamp="1541794160594">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/cw-sumo-forwarder.js" timestamp="1541795715718">
         <mark key="'" line="36" column="9" />
         <mark key="[" line="187" column="0" />
         <mark key="]" line="192" column="12" />
@@ -1072,12 +1072,12 @@
         <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/scripts/package.json" timestamp="1541084679596" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/cw-sumo-forwarder.ts" timestamp="1541794233286">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/cw-sumo-forwarder.ts" timestamp="1541795983647">
         <mark key="'" line="38" column="11" />
-        <mark key="[" line="92" column="34" />
-        <mark key="]" line="92" column="36" />
-        <mark key="^" line="92" column="36" />
-        <mark key="." line="92" column="36" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="^" line="112" column="7" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/tslint.json" timestamp="1529603637779">
         <mark key="[" line="34" column="9" />
@@ -1271,10 +1271,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyByZWFkb25seSBDb25zb2xlRm9ybWF0UmVnZXg6IFJlZ0V4cCA9IC9eXGR7NH0tXGR7Mn0tXGR7Mn1UXGR7Mn06XGR7Mn06XGR7Mn0uXGR7M31aXHQoXHcrPy1cdys/LVx3Kz8tXHcrPy1cdyspXHQvOwogICAgcHVibGljIHJlYWRvbmx5IFJlcXVlc3RJZFJlZ2V4OiBSZWdFeHAgPSAvKD86UmVxdWVzdElkOnxaKVxzKyhbXHdcZFwtXSspLzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>log.message =</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text>ed</text>
@@ -1283,34 +1283,34 @@
         <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIGxvZy5tZXNzYWdlID0gSlNPTi5wYXJzZShsb2cubWVzc2FnZSk7CiAgICAgICAgICAgIH0gY2F0Y2ggKGVycikgewogICAgICAgICAgICAgICAgLy8gRG8gbm90aGluZywgbGVhdmUgYXMgdGV4dAogICAgICAgICAgICAgICAgbG9nLm1lc3NhZ2UudHJpbSgpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyByZWFkb25seSBDb25zb2xlRm9ybWF0UmVnZXg6IFJlZ0V4cCA9IC9eXGR7NH0tXGR7Mn0tXGR7Mn1UXGR7Mn06XGR7Mn06XGR7Mn0uXGR7M31aXHQoXHcrPy1cdys/LVx3Kz8tXHcrPy1cdyspXHQvOwogICAgcHVibGljIHJlYWRvbmx5IFJlcXVlc3RJZFJlZ2V4OiBSZWdFeHAgPSAvKD86UmVxdWVzdElkOnxaKVxzKyhbXHdcZFwtXSspLzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG1hdGNoZXNbMV07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChlKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLnJlcXVlc3RJRAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gemxpYi5ndW56aXBTeW5jKGxvZ3NaaXBwZWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBtYXRjaGVzID0gdGhpcy5SZXF1ZXN0SWRSZWdleC5leGVjKGxvZy5tZXNzYWdlKTsKICAgICAgICBpZiAoQXJyYXkuaXNBcnJheShtYXRjaGVzKSkgewogICAgICAgICAgICByZXR1cm4gbWF0Y2hlc1sxXTsKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
