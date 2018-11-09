@@ -361,10 +361,10 @@
         <mark key="." line="8" column="23" />
         <mark key="^" line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/cw-sumo-forwarder.js" timestamp="1541793294592">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/cw-sumo-forwarder.js" timestamp="1541794160594">
         <mark key="'" line="36" column="9" />
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="147" column="4" />
+        <mark key="[" line="187" column="0" />
+        <mark key="]" line="192" column="12" />
         <mark key="^" line="219" column="2" />
         <mark key="." line="219" column="2" />
       </file>
@@ -1072,12 +1072,12 @@
         <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/scripts/package.json" timestamp="1541084679596" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/cw-sumo-forwarder.ts" timestamp="1541793611298">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/cw-sumo-forwarder.ts" timestamp="1541794233286">
         <mark key="'" line="38" column="11" />
-        <mark key="[" line="60" column="37" />
-        <mark key="]" line="61" column="14" />
-        <mark key="^" line="61" column="14" />
-        <mark key="." line="61" column="14" />
+        <mark key="[" line="92" column="34" />
+        <mark key="]" line="92" column="36" />
+        <mark key="^" line="92" column="36" />
+        <mark key="." line="92" column="36" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/tslint.json" timestamp="1529603637779">
         <mark key="[" line="34" column="9" />
@@ -1271,46 +1271,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyByZWFkb25seSBDb25zb2xlRm9ybWF0UmVnZXg6IFJlZ0V4cCA9IC9eXGR7NH0tXGR7Mn0tXGR7Mn1UXGR7Mn06XGR7Mn06XGR7Mn0uXGR7M31aXHQoXHcrPy1cdys/LVx3Kz8tXHcrPy1cdyspXHQvOwogICAgcHVibGljIHJlYWRvbmx5IFJlcXVlc3RJZFJlZ2V4OiBSZWdFeHAgPSAvKD86UmVxdWVzdElkOnxaKVxzKyhbXHdcZFwtXSspLzsK</text>
       </register>
       <register name="-" type="4">
-        <text>variable</text>
+        <text>log.message =</text>
       </register>
       <register name="/" type="4">
         <text>ed</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhciB1cmxPYmplY3QgPSB1cmwucGFyc2UoU3Vtb1VSTCk7CiAgICBpZiAodXJsT2JqZWN0LnByb3RvY29sICE9ICJodHRwczoiIHx8IHVybE9iamVjdC5ob3N0ID09PSBudWxsIHx8IHVybE9iamVjdC5wYXRoID09PSBudWxsKSB7CiAgICAgICAgY29udGV4dC5mYWlsKCJJbnZhbGlkIFNVTU9fRU5EUE9JTlQgZW52aXJvbm1lbnQgdmFyaWFibGU6ICIgKyBTdW1vVVJMKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIGxvZy5tZXNzYWdlID0gSlNPTi5wYXJzZShsb2cubWVzc2FnZSk7CiAgICAgICAgICAgIH0gY2F0Y2ggKGVycikgewogICAgICAgICAgICAgICAgLy8gRG8gbm90aGluZywgbGVhdmUgYXMgdGV4dAogICAgICAgICAgICAgICAgbG9nLm1lc3NhZ2UudHJpbSgpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyByZWFkb25seSBDb25zb2xlRm9ybWF0UmVnZXg6IFJlZ0V4cCA9IC9eXGR7NH0tXGR7Mn0tXGR7Mn1UXGR7Mn06XGR7Mn06XGR7Mn0uXGR7M31aXHQoXHcrPy1cdys/LVx3Kz8tXHcrPy1cdyspXHQvOwogICAgcHVibGljIHJlYWRvbmx5IFJlcXVlc3RJZFJlZ2V4OiBSZWdFeHAgPSAvKD86UmVxdWVzdElkOnxaKVxzKyhbXHdcZFwtXSspLzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChlKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gemxpYi5ndW56aXBTeW5jKGxvZ3NaaXBwZWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChlKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBramsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gemxpYi5ndW56aXBTeW5jKGxvZ3NaaXBwZWQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBsb2dEYXRhID0gSlNPTi5wYXJzZShidWZmZXIudG9TdHJpbmcoKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
