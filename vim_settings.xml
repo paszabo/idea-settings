@@ -361,9 +361,10 @@
         <mark key="." line="8" column="23" />
         <mark key="^" line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/cw-sumo-forwarder.js" timestamp="1541787158098">
-        <mark key="[" line="30" column="21" />
-        <mark key="]" line="30" column="52" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/cw-sumo-forwarder.js" timestamp="1541793294592">
+        <mark key="'" line="36" column="9" />
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="147" column="4" />
         <mark key="^" line="219" column="2" />
         <mark key="." line="219" column="2" />
       </file>
@@ -1071,11 +1072,12 @@
         <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/scripts/package.json" timestamp="1541084679596" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/cw-sumo-forwarder.ts" timestamp="1541787209120">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="26" column="7" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/cw-sumo-forwarder.ts" timestamp="1541793611298">
+        <mark key="'" line="38" column="11" />
+        <mark key="[" line="60" column="37" />
+        <mark key="]" line="61" column="14" />
+        <mark key="^" line="61" column="14" />
+        <mark key="." line="61" column="14" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/tslint.json" timestamp="1529603637779">
         <mark key="[" line="34" column="9" />
@@ -1166,11 +1168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="31" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
-      <jump line="1851" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
-      <jump line="1919" column="24" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
-      <jump line="1390" column="30" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
-      <jump line="1468" column="39" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="368" column="32" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="22" column="38" filename="$USER_HOME$/dev/repos/terraform-hello-world/infrastructure/terraform/users/vpc.tf" />
       <jump line="23" column="38" filename="$USER_HOME$/dev/repos/terraform-hello-world/infrastructure/terraform/users/vpc.tf" />
@@ -1266,19 +1263,24 @@
       <jump line="68" column="8" filename="$USER_HOME$/dev/repos/serverless-cloudwatch-sumologic-poc/sumo-poc/serverless.yml" />
       <jump line="70" column="8" filename="$USER_HOME$/dev/repos/serverless-cloudwatch-sumologic-poc/sumo-poc/serverless.yml" />
       <jump line="73" column="8" filename="$USER_HOME$/dev/repos/serverless-cloudwatch-sumologic-poc/sumo-poc/serverless.yml" />
+      <jump line="206" column="30" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/cw-sumo-forwarder.js" />
+      <jump line="36" column="9" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/cw-sumo-forwarder.js" />
+      <jump line="45" column="11" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/cw-sumo-forwarder.ts" />
+      <jump line="35" column="32" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/cw-sumo-forwarder.ts" />
+      <jump line="38" column="11" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/cw-sumo-forwarder.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>variable</text>
       </register>
       <register name="/" type="4">
-        <text>#</text>
+        <text>ed</text>
       </register>
-      <register name="0" type="4">
-        <text>/(?:RequestId:|Z)\s+([\w\d\-]+)/</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHZhciB1cmxPYmplY3QgPSB1cmwucGFyc2UoU3Vtb1VSTCk7CiAgICBpZiAodXJsT2JqZWN0LnByb3RvY29sICE9ICJodHRwczoiIHx8IHVybE9iamVjdC5ob3N0ID09PSBudWxsIHx8IHVybE9iamVjdC5wYXRoID09PSBudWxsKSB7CiAgICAgICAgY29udGV4dC5mYWlsKCJJbnZhbGlkIFNVTU9fRU5EUE9JTlQgZW52aXJvbm1lbnQgdmFyaWFibGU6ICIgKyBTdW1vVVJMKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1287,37 +1289,37 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChlKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgcmVhZG9ubHkgRW5jb2Rpbmc6IHN0cmluZyA9ICd1dGYtOCcsCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gemxpYi5ndW56aXBTeW5jKGxvZ3NaaXBwZWQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAianNkb2MtZm9ybWF0IjogCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihwcm9wcyk7CiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBramsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBsb2dEYXRhID0gSlNPTi5wYXJzZShidWZmZXIudG9TdHJpbmcoKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>#</last-search>
+      <last-search>ed</last-search>
       <last-offset />
-      <last-pattern>#</last-pattern>
+      <last-pattern>ed</last-pattern>
       <last-replace>const</last-replace>
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
@@ -1325,8 +1327,6 @@
     </search>
     <history>
       <history-search>
-        <entry>2</entry>
-        <entry>Terraform</entry>
         <entry>Terraform Hello Wolrd</entry>
         <entry>Terraform Hello World</entry>
         <entry>tf_</entry>
@@ -1345,12 +1345,13 @@
         <entry>U</entry>
         <entry>custom</entry>
         <entry>#</entry>
+        <entry>sumoMetaKey</entry>
+        <entry>ed</entry>
       </history-search>
       <history-cmd>
         <entry>22</entry>
         <entry>PUBLIC</entry>
         <entry>20</entry>
-        <entry>1</entry>
         <entry>10</entry>
         <entry>30</entry>
         <entry>wop</entry>
@@ -1366,6 +1367,7 @@
         <entry>#</entry>
         <entry>2</entry>
         <entry>31</entry>
+        <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
