@@ -288,11 +288,11 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/logging/sumo/meta-key.adapter.ts" timestamp="1542131759355">
-        <mark key="[" line="6" column="15" />
-        <mark key="]" line="6" column="15" />
-        <mark key="." line="6" column="15" />
-        <mark key="^" line="6" column="15" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/logging/sumo/meta-key.adapter.ts" timestamp="1542132755200">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="28" column="9" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/config/index.js" timestamp="1530646728401">
         <mark key="[" line="8" column="19" />
@@ -360,10 +360,10 @@
         <mark key="." line="8" column="23" />
         <mark key="^" line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/cw-sumo-forwarder.js" timestamp="1542130651767">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/cw-sumo-forwarder.js" timestamp="1542132654228">
         <mark key="'" line="36" column="9" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="30" column="53" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="51" />
         <mark key="^" line="219" column="2" />
         <mark key="." line="219" column="2" />
       </file>
@@ -1271,7 +1271,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodiA9PT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfSBlbHNlIGlmICh2ID09PSAnJykgewogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfSBlbHNlIGlmICh2ID09PSAnbm9uZScpIHsKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -1280,10 +1280,10 @@
         <text>||</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgIGlmIChtZXNzYWdlLmhhc093blByb3BlcnR5KCJfc3Vtb19tZXRhZGF0YSIpKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodiA9PT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfSBlbHNlIGlmICh2ID09PSAnJykgewogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfSBlbHNlIGlmICh2ID09PSAnbm9uZScpIHsKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1292,25 +1292,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtZXNzYWdlLl9zdW1vX21ldGFkYXRhLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU291cmNlQ2F0ZWdvcnk6IGxvZ3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUgU3Vtb01ldGFLZXkgPSB7CiAgICBTb3VyY2VDYXRlZ29yeTogc3RyaW5nOwogICAgU291cmNlSG9zdDogc3RyaW5nOwogICAgU291cmNlTmFtZTogc3RyaW5nOwp9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCByZWFkb25seSBJbGxlZ2FsS2V5VmFsdWVzOiBzdHJpbmdbXSA9IFtudWxsLCAnJywgJ25vbmUnXTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1349,7 +1349,6 @@
         <entry>||</entry>
       </history-search>
       <history-cmd>
-        <entry>51</entry>
         <entry>54</entry>
         <entry>%s/resources/functions/g</entry>
         <entry>4</entry>
@@ -1368,6 +1367,7 @@
         <entry>149</entry>
         <entry>%s/var/export const/g</entry>
         <entry>1</entry>
+        <entry>60</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
