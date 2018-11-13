@@ -361,10 +361,10 @@
         <mark key="." line="8" column="23" />
         <mark key="^" line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/cw-sumo-forwarder.js" timestamp="1541795715718">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/cw-sumo-forwarder.js" timestamp="1541800374486">
         <mark key="'" line="36" column="9" />
-        <mark key="[" line="187" column="0" />
-        <mark key="]" line="192" column="12" />
+        <mark key="[" line="171" column="0" />
+        <mark key="]" line="171" column="57" />
         <mark key="^" line="219" column="2" />
         <mark key="." line="219" column="2" />
       </file>
@@ -1072,12 +1072,9 @@
         <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/scripts/package.json" timestamp="1541084679596" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/cw-sumo-forwarder.ts" timestamp="1541798225570">
-        <mark key="'" line="38" column="11" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="^" line="92" column="39" />
-        <mark key="." line="93" column="0" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/cw-sumo-forwarder.ts" timestamp="1541800306960">
+        <mark key="'" line="43" column="11" />
+        <mark key="^" line="101" column="25" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/tslint.json" timestamp="1529603637779">
         <mark key="[" line="34" column="9" />
@@ -1271,46 +1268,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkZWxldGUgbG9nLmlkOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGxvZw==</text>
+        <text>log.message</text>
       </register>
       <register name="/" type="4">
         <text>ed</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIGxvZy5tZXNzYWdlID0gSlNPTi5wYXJzZShsb2cubWVzc2FnZSk7CiAgICAgICAgICAgIH0gY2F0Y2ggKGVycikgewogICAgICAgICAgICAgICAgLy8gRG8gbm90aGluZywgbGVhdmUgYXMgdGV4dAogICAgICAgICAgICAgICAgbG9nLm1lc3NhZ2UudHJpbSgpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLm1lc3NhZ2UgPSBsb2cubWVzc2FnZS5yZXBsYWNlKC9cbiQvLCAiIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkZWxldGUgbG9nLmlkOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGxvZwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gRG8gbm90aGluZywgbGVhdmUgYXMgdGV4dAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG1hdGNoZXNbMV07Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ0NvbnRyb2wgbWVzc2FnZScpOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLnJlcXVlc3RJRAo=</text>
+        <text encoding="base64">ICAgIENPTlRPUkxfTUVTU0FHRSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1349,9 +1346,6 @@
         <entry>ed</entry>
       </history-search>
       <history-cmd>
-        <entry>22</entry>
-        <entry>PUBLIC</entry>
-        <entry>20</entry>
         <entry>10</entry>
         <entry>30</entry>
         <entry>wop</entry>
@@ -1359,7 +1353,6 @@
         <entry>51</entry>
         <entry>54</entry>
         <entry>%s/resources/functions/g</entry>
-        <entry>0</entry>
         <entry>4</entry>
         <entry>%s/var/const</entry>
         <entry>32</entry>
@@ -1368,6 +1361,10 @@
         <entry>2</entry>
         <entry>31</entry>
         <entry>1</entry>
+        <entry>0</entry>
+        <entry>79</entry>
+        <entry>172</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
