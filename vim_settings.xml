@@ -118,6 +118,13 @@
         <mark key="." line="1" column="24" />
         <mark key="^" line="1" column="24" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/logging/sumo/handler.ts" timestamp="1542143844726">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="28" />
+        <mark key="." line="3" column="28" />
+        <mark key="^" line="3" column="28" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer.js" timestamp="1541087044488">
         <mark key="[" line="102" column="0" />
         <mark key="]" line="102" column="0" />
@@ -367,7 +374,7 @@
         <mark key="." line="8" column="23" />
         <mark key="^" line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/cw-sumo-forwarder.js" timestamp="1542143444423">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/cw-sumo-forwarder.js" timestamp="1542143878778">
         <mark key="'" line="36" column="9" />
         <mark key="[" line="144" column="0" />
         <mark key="]" line="147" column="4" />
@@ -386,9 +393,6 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
         <mark key="^" line="12" column="3" />
-      </file>
-      <file name="$USER_HOME$/Downloads/apiGateway-js-sdk/apigClient.js" timestamp="1541623741371">
-        <mark key="'" line="1004" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive-status-update.manager.ts" timestamp="1536956864681">
         <mark key="[" line="20" column="0" />
@@ -612,9 +616,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" timestamp="1541520041782">
-        <mark key="'" line="423" column="26" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/server.ts" timestamp="1530215014199">
         <mark key="[" line="51" column="36" />
@@ -1175,7 +1176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="934" column="8" filename="$USER_HOME$/Downloads/apiGateway-js-sdk/apigClient.js" />
       <jump line="927" column="15" filename="$USER_HOME$/Downloads/apiGateway-js-sdk/apigClient.js" />
       <jump line="922" column="25" filename="$USER_HOME$/Downloads/apiGateway-js-sdk/apigClient.js" />
       <jump line="921" column="21" filename="$USER_HOME$/Downloads/apiGateway-js-sdk/apigClient.js" />
@@ -1275,58 +1275,59 @@
       <jump line="29" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/logging/sumo/config.ts" />
       <jump line="31" column="68" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/logging/sumo/config.ts" />
       <jump line="37" column="37" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/logging/sumo/config.ts" />
+      <jump line="5" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/logging/sumo/handler.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgago=</text>
       </register>
       <register name="-" type="4">
-        <text>parsed</text>
+        <text>function</text>
       </register>
       <register name="/" type="4">
-        <text>||</text>
+        <text>event</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhciB1cmxPYmplY3QgPSB1cmwucGFyc2UoU3Vtb1VSTCk7CiAgICBpZiAodXJsT2JqZWN0LnByb3RvY29sICE9ICJodHRwczoiIHx8IHVybE9iamVjdC5ob3N0ID09PSBudWxsIHx8IHVybE9iamVjdC5wYXRoID09PSBudWxsKSB7CiAgICAgICAgY29udGV4dC5mYWlsKCJJbnZhbGlkIFNVTU9fRU5EUE9JTlQgZW52aXJvbm1lbnQgdmFyaWFibGU6ICIgKyBTdW1vVVJMKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgago=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgdXJsT2JqZWN0ID0gdXJsLnBhcnNlKENvbmZpZy5TdW1vVVJMKTsKaWYgKHVybE9iamVjdC5wcm90b2NvbCAhPT0gImh0dHBzOiIgfHwgdXJsT2JqZWN0Lmhvc3QgPT09IG51bGwgfHwgdXJsT2JqZWN0LnBhdGggPT09IG51bGwpIHsKICAgIHRocm93IG5ldyBFcnJvcihgSW52YWxpZCBTVU1PX0VORFBPSU5UIGVudmlyb25tZW50IHZhcmlhYmxlOiAke1N1bW9VUkx9YCk7Cn0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">dwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBGaW5hbGl6ZUNvbnRleHQgPSAoKSA9PiB7CiAgICAgICAgfTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5sb2cuaW5mbygKICAgICAgICAgICAgICAgIGBNZXNzYWdlcyBzZW50OiAke2NvbnRleHQuc2VudH0gYCArCiAgICAgICAgICAgICAgICBgRXJyb3JzOiAke2NvbnRleHQuZXJyb3JzLmxlbmd0aH1gCiAgICAgICAgICAgICk7CgogICAgICAgICAgICBpZiAoY29udGV4dC5lcnJvcnMpIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBFcnJvcihgRXJyb3JzOiAke2NvbnRleHQuZXJyb3JzLmpvaW4oJywgJyl9YCk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Y29uc3QgdXJsT2JqZWN0ID0gdXJsLnBhcnNlKENvbmZpZy5TdW1vVVJMKTsKaWYgKHVybE9iamVjdC5wcm90b2NvbCAhPT0gImh0dHBzOiIgfHwgdXJsT2JqZWN0Lmhvc3QgPT09IG51bGwgfHwgdXJsT2JqZWN0LnBhdGggPT09IG51bGwpIHsKICAgIHRocm93IG5ldyBFcnJvcihgSW52YWxpZCBTVU1PX0VORFBPSU5UIGVudmlyb25tZW50IHZhcmlhYmxlOiAke1N1bW9VUkx9YCk7Cn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Jyd9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBGaW5hbGl6ZUNvbnRleHQgPSAoKSA9PiB7CiAgICAgICAgfTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>||</last-search>
+      <last-search>event</last-search>
       <last-offset />
-      <last-pattern>||</last-pattern>
+      <last-pattern>event</last-pattern>
       <last-replace>export const</last-replace>
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
@@ -1341,7 +1342,6 @@
         <entry>#</entry>
         <entry>sumoMetaKey</entry>
         <entry>ed</entry>
-        <entry>event</entry>
         <entry>log</entry>
         <entry>(log</entry>
         <entry>Overr</entry>
@@ -1354,6 +1354,7 @@
         <entry>Str</entry>
         <entry>\\</entry>
         <entry>||</entry>
+        <entry>event</entry>
       </history-search>
       <history-cmd>
         <entry>59</entry>
