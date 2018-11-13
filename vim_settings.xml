@@ -288,11 +288,11 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/logging/sumo/meta-key.adapter.ts" timestamp="1542134106747">
-        <mark key="[" line="20" column="36" />
-        <mark key="]" line="22" column="14" />
-        <mark key="." line="22" column="14" />
-        <mark key="^" line="22" column="15" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/logging/sumo/meta-key.adapter.ts" timestamp="1542134916206">
+        <mark key="[" line="41" column="28" />
+        <mark key="]" line="41" column="36" />
+        <mark key="." line="41" column="36" />
+        <mark key="^" line="41" column="36" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/config/index.js" timestamp="1530646728401">
         <mark key="[" line="8" column="19" />
@@ -1271,10 +1271,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>||</text>
@@ -1289,25 +1289,25 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIHJldHVybiB2OwogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBtdWx0aSgpOiBNdWx0aVZhbHVlPFN1bW9NZXRhS2V5PiB7CiAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgU291cmNlTmFtZTogW3RoaXMub3ZlcnJpZGVzKCkuU291cmNlTmFtZSwgdGhpc10KICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dHlwZSBNdWx0aVZhbHVlPFQ+ID0gewo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gbXVsdGk8VD4oLi4udDogVFtdKTogTXVsdGlWYWx1ZTxUPiB7CiAgICByZXR1cm4gdC5yZWR1Y2UoKGFjYywgY3VycikgPT4gewogICAgICAgIGNvbnN0IGsgPSB7fTsKICAgICAgICAKICAgICAgICBPYmplY3Qua2V5cygpCiAgICB9LCB7fSkKfQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICBbSyBpbiBrZXlvZiBUXTogQXJyYXk8VFtLXT4KfTsKCgpjbGFzcyBNdXRsdGlWYWx1ZVN0YWNrPFQgPSBTdW1vTWV0YUtleT4gewogICAgcHJvdGVjdGVkIHJlYWRvbmx5IElsbGVnYWxLZXlWYWx1ZXM6IHN0cmluZ1tdID0gW251bGwsICcnLCAnbm9uZSddOwogICAgY29uc3RydWN0b3IocHJpdmF0ZSByZWFkb25seSBzdGFjazogVFtdID0gW10pIHt9CgogICAgcHVibGljIHB1c2godjogVCk6IHZvaWQgewogICAgICAgIHRoaXMuc3RhY2sucHVzaCh2KTsKICAgIH0KCiAgICBwdWJsaWMgcG9wKCk6IFQgewogICAgICAgIHJldHVybiB0aGlzLnN0YWNrLnBvcCgpOwogICAgfQoKICAgIHB1YmxpYyBnZXQoazoga2V5b2YgVCk6IGFueSB7CiAgICAgICAgZm9yIChjb25zdCB0IG9mIHRoaXMuc3RhY2spIHsKICAgICAgICAgICAgY29uc3QgdjogYW55ID0gdFtrXTsKCiAgICAgICAgICAgIGlmICh0aGlzLmxlZ2FsKHYpKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gdjsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm47CiAgICB9CgogICAgcHJvdGVjdGVkIGxlZ2FsKHY6IGFueSk6IGJvb2xlYW4gewogICAgICAgIHJldHVybiAhdGhpcy5JbGxlZ2FsS2V5VmFsdWVzLmluY2x1ZGVzKHYpOwogICAgfQp9</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIHByb3RlY3RlZCAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
