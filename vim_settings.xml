@@ -288,11 +288,11 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/logging/sumo/meta-key.adapter.ts" timestamp="1542132755200">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="28" column="9" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/logging/sumo/meta-key.adapter.ts" timestamp="1542134106747">
+        <mark key="[" line="20" column="36" />
+        <mark key="]" line="22" column="14" />
+        <mark key="." line="22" column="14" />
+        <mark key="^" line="22" column="15" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/config/index.js" timestamp="1530646728401">
         <mark key="[" line="8" column="19" />
@@ -1270,17 +1270,17 @@
       <jump line="11" column="49" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/logging/sumo/config.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>||</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIChtZXNzYWdlLmhhc093blByb3BlcnR5KCJfc3Vtb19tZXRhZGF0YSIpKSB7Cg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCByZWFkb25seSBJbGxlZ2FsS2V5VmFsdWVzOiBzdHJpbmdbXSA9IFtudWxsLCAnJywgJ25vbmUnXTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1289,28 +1289,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNzYWdlLl9zdW1vX21ldGFkYXRhLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gbXVsdGk8VD4oLi4udDogVFtdKTogTXVsdGlWYWx1ZTxUPiB7CiAgICByZXR1cm4gdC5yZWR1Y2UoKGFjYywgY3VycikgPT4gewogICAgICAgIGNvbnN0IGsgPSB7fTsKICAgICAgICAKICAgICAgICBPYmplY3Qua2V5cygpCiAgICB9LCB7fSkKfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgIC8vIHByb3RlY3RlZCAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU291cmNlQ2F0ZWdvcnk6IGxvZ3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCByZWFkb25seSBJbGxlZ2FsS2V5VmFsdWVzOiBzdHJpbmdbXSA9IFtudWxsLCAnJywgJ25vbmUnXTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
