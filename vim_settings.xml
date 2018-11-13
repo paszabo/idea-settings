@@ -288,11 +288,11 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/logging/sumo/meta-key.adapter.ts" timestamp="1542134916206">
-        <mark key="[" line="41" column="28" />
-        <mark key="]" line="41" column="36" />
-        <mark key="." line="41" column="36" />
-        <mark key="^" line="41" column="36" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/logging/sumo/meta-key.adapter.ts" timestamp="1542136356887">
+        <mark key="[" line="19" column="21" />
+        <mark key="]" line="19" column="28" />
+        <mark key="^" line="19" column="28" />
+        <mark key="." line="19" column="28" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/config/index.js" timestamp="1530646728401">
         <mark key="[" line="8" column="19" />
@@ -1271,46 +1271,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>: T extends keyof SumoMetaKey</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>: T extends keyof SumoMetaKey</text>
       </register>
       <register name="/" type="4">
         <text>||</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCByZWFkb25seSBJbGxlZ2FsS2V5VmFsdWVzOiBzdHJpbmdbXSA9IFtudWxsLCAnJywgJ25vbmUnXTsK</text>
+      <register name="0" type="4">
+        <text>message._sumo_metadata</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIHJldHVybiB2OwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBvdmVycmlkZUtleTogU3Vtb01ldGFLZXkgPSB0aGlzLm92ZXJyaWRlcygpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBtdWx0aSgpOiBNdWx0aVZhbHVlPFN1bW9NZXRhS2V5PiB7CiAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgU291cmNlTmFtZTogW3RoaXMub3ZlcnJpZGVzKCkuU291cmNlTmFtZSwgdGhpc10KICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dHlwZSBNdWx0aVZhbHVlPFQ+ID0gewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICBbSyBpbiBrZXlvZiBUXTogQXJyYXk8VFtLXT4KfTsKCgpjbGFzcyBNdXRsdGlWYWx1ZVN0YWNrPFQgPSBTdW1vTWV0YUtleT4gewogICAgcHJvdGVjdGVkIHJlYWRvbmx5IElsbGVnYWxLZXlWYWx1ZXM6IHN0cmluZ1tdID0gW251bGwsICcnLCAnbm9uZSddOwogICAgY29uc3RydWN0b3IocHJpdmF0ZSByZWFkb25seSBzdGFjazogVFtdID0gW10pIHt9CgogICAgcHVibGljIHB1c2godjogVCk6IHZvaWQgewogICAgICAgIHRoaXMuc3RhY2sucHVzaCh2KTsKICAgIH0KCiAgICBwdWJsaWMgcG9wKCk6IFQgewogICAgICAgIHJldHVybiB0aGlzLnN0YWNrLnBvcCgpOwogICAgfQoKICAgIHB1YmxpYyBnZXQoazoga2V5b2YgVCk6IGFueSB7CiAgICAgICAgZm9yIChjb25zdCB0IG9mIHRoaXMuc3RhY2spIHsKICAgICAgICAgICAgY29uc3QgdjogYW55ID0gdFtrXTsKCiAgICAgICAgICAgIGlmICh0aGlzLmxlZ2FsKHYpKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gdjsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm47CiAgICB9CgogICAgcHJvdGVjdGVkIGxlZ2FsKHY6IGFueSk6IGJvb2xlYW4gewogICAgICAgIHJldHVybiAhdGhpcy5JbGxlZ2FsS2V5VmFsdWVzLmluY2x1ZGVzKHYpOwogICAgfQp9</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBrZXk6IFN1bW9NZXRhS2V5ID0gey4uLnRoaXMub3ZlcnJpZGVzKCl9Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBwcmVjZWRlbmNlCgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBtZXNzYWdlS2V5OiBTdW1vTWV0YUtleSA9IHRoaXMubWVzc2FnZShtZXNzYWdlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5tZXNzYWdlKG1lc3NhZ2UpKSB7CiAgICAgICAgICAgIHJldHVybiB0aGlzLm1lc3NhZ2UobWVzc2FnZSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1349,7 +1349,6 @@
         <entry>||</entry>
       </history-search>
       <history-cmd>
-        <entry>54</entry>
         <entry>%s/resources/functions/g</entry>
         <entry>4</entry>
         <entry>%s/var/const</entry>
@@ -1368,6 +1367,7 @@
         <entry>%s/var/export const/g</entry>
         <entry>1</entry>
         <entry>60</entry>
+        <entry>7</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
