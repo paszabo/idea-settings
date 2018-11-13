@@ -288,11 +288,12 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/logging/sumo/meta-key.adapter.ts" timestamp="1542136356887">
-        <mark key="[" line="19" column="21" />
-        <mark key="]" line="19" column="28" />
-        <mark key="^" line="19" column="28" />
-        <mark key="." line="19" column="28" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/logging/sumo/meta-key.adapter.ts" timestamp="1542138750286">
+        <mark key="'" line="38" column="9" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="53" column="9" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/config/index.js" timestamp="1530646728401">
         <mark key="[" line="8" column="19" />
@@ -1168,11 +1169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="993" column="21" filename="$USER_HOME$/Downloads/apiGateway-js-sdk/apigClient.js" />
-      <jump line="992" column="89" filename="$USER_HOME$/Downloads/apiGateway-js-sdk/apigClient.js" />
-      <jump line="988" column="8" filename="$USER_HOME$/Downloads/apiGateway-js-sdk/apigClient.js" />
-      <jump line="981" column="15" filename="$USER_HOME$/Downloads/apiGateway-js-sdk/apigClient.js" />
-      <jump line="976" column="25" filename="$USER_HOME$/Downloads/apiGateway-js-sdk/apigClient.js" />
       <jump line="975" column="21" filename="$USER_HOME$/Downloads/apiGateway-js-sdk/apigClient.js" />
       <jump line="974" column="89" filename="$USER_HOME$/Downloads/apiGateway-js-sdk/apigClient.js" />
       <jump line="970" column="8" filename="$USER_HOME$/Downloads/apiGateway-js-sdk/apigClient.js" />
@@ -1268,58 +1264,67 @@
       <jump line="10" column="18" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/logging/sumo/config.ts" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/logging/sumo/config.ts" />
       <jump line="11" column="49" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/logging/sumo/config.ts" />
+      <jump line="29" column="88" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/logging/sumo/meta-key.adapter.ts" />
+      <jump line="30" column="88" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/logging/sumo/meta-key.adapter.ts" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/logging/sumo/meta-key.adapter.ts" />
+      <jump line="35" column="9" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/logging/sumo/meta-key.adapter.ts" />
+      <jump line="39" column="9" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/logging/sumo/meta-key.adapter.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>: T extends keyof SumoMetaKey</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>: T extends keyof SumoMetaKey</text>
+        <text>protected</text>
       </register>
       <register name="/" type="4">
-        <text>||</text>
+        <text>prot</text>
       </register>
-      <register name="0" type="4">
-        <text>message._sumo_metadata</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU291cmNlQ2F0ZWdvcnk6IHRoaXMuaXNMZWdhbEtleVZhbHVlKG92ZXJyaWRlcy5Tb3VyY2VDYXRlZ29yeSkgPyBvdmVycmlkZXMuU291cmNlQ2F0ZWdvcnkgOiBrZXkuU291cmNlQ2F0ZWdvcnksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBvdmVycmlkZUtleTogU3Vtb01ldGFLZXkgPSB0aGlzLm92ZXJyaWRlcygpOwo=</text>
+        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgb3ZlcnJpZGVzKCk6IFN1bW9NZXRhS2V5IHsKICAgICAgICByZXR1cm4gdGhpcy5PdmVycmlkZXM7CiAgICB9CgogICAgcHJvdGVjdGVkIG1lc3NhZ2UobWVzc2FnZTogYW55KTogU3Vtb01ldGFLZXkgewogICAgICAgIGlmICghbWVzc2FnZS5oYXNPd25Qcm9wZXJ0eSgnX3N1bW9fbWV0YWRhdGEnKSkgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQoKICAgICAgICBjb25zdCBrZXk6IFN1bW9NZXRhS2V5ID0gewogICAgICAgICAgICBTb3VyY2VDYXRlZ29yeTogbWVzc2FnZS5fc3Vtb19tZXRhZGF0YS5jYXRlZ29yeSwKICAgICAgICAgICAgU291cmNlSG9zdDogbWVzc2FnZS5fc3Vtb19tZXRhZGF0YS5ob3N0LAogICAgICAgICAgICBTb3VyY2VOYW1lOiBtZXNzYWdlLl9zdW1vX21ldGFkYXRhLnNvdXJjZSwKICAgICAgICB9OwogICAgICAgIGRlbGV0ZSBtZXNzYWdlLl9zdW1vX21ldGFkYXRhOwoKICAgICAgICByZXR1cm4ga2V5OwogICAgfQoKICAgIHByb3RlY3RlZCBsb2dzKGxvZ3M6IGFueSk6IFN1bW9NZXRhS2V5IHsKICAgICAgICByZXR1cm4gewogICAgICAgICAgICBTb3VyY2VDYXRlZ29yeTogdW5kZWZpbmVkLAogICAgICAgICAgICBTb3VyY2VIb3N0OiBsb2dzLmxvZ0dyb3VwLAogICAgICAgICAgICBTb3VyY2VOYW1lOiBsb2dzLmxvZ1N0cmVhbSwKICAgICAgICB9OwogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IEFkYXB0ZXI6IFN1bW9NZXRhS2V5QWRhcHRlciA9IG5ldyBTdW1vTWV0YUtleUFkYXB0ZXIoKTsKCmV4cG9ydCBmdW5jdGlvbiBzdW1vTWV0YUtleShhd3Nsb2dzRGF0YTogYW55LCBtZXNzYWdlOiBhbnkpOiBTdW1vTWV0YUtleSB7Cgp9Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBrZXk6IFN1bW9NZXRhS2V5ID0gey4uLnRoaXMub3ZlcnJpZGVzKCl9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBwcmVjZWRlbmNlCgo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBrZXk6IFN1bW9NZXRhS2V5ID07Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="7" type="4">
+        <text>{
+            SourceName: '',
+            SourceHost: '',
+            SourceCategory: '',
+        }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBtZXNzYWdlS2V5OiBTdW1vTWV0YUtleSA9IHRoaXMubWVzc2FnZShtZXNzYWdlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5tZXNzYWdlKG1lc3NhZ2UpKSB7CiAgICAgICAgICAgIHJldHVybiB0aGlzLm1lc3NhZ2UobWVzc2FnZSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>||</last-search>
+      <last-search>prot</last-search>
       <last-offset />
-      <last-pattern>||</last-pattern>
+      <last-pattern>prot</last-pattern>
       <last-replace>export const</last-replace>
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
@@ -1327,8 +1332,6 @@
     </search>
     <history>
       <history-search>
-        <entry>env</entry>
-        <entry>vc</entry>
         <entry>'</entry>
         <entry>pub</entry>
         <entry>apiGateway</entry>
@@ -1347,6 +1350,8 @@
         <entry>inc</entry>
         <entry>con</entry>
         <entry>||</entry>
+        <entry>Category</entry>
+        <entry>prot</entry>
       </history-search>
       <history-cmd>
         <entry>%s/resources/functions/g</entry>
