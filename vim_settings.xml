@@ -203,6 +203,7 @@
         <mark key="^" line="3" column="36" />
         <mark key="." line="3" column="36" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IUser.ts" timestamp="1542234854897" />
       <file name="$USER_HOME$/dev/repos/auto-core-incentives-api/src/config.ts" timestamp="1532010371078">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="15" column="4" />
@@ -628,12 +629,12 @@
         <mark key="." line="6" column="1" />
         <mark key="^" line="6" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1542226625675">
-        <mark key="'" line="37" column="3" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="53" column="15" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1542234983265">
+        <mark key="'" line="389" column="68" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="^" line="62" column="10" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/api/nodemon.json" timestamp="1530488452262">
         <mark key="[" line="3" column="21" />
@@ -1249,13 +1250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="9" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/logging/sumo/meta-key.adapter.ts" />
-      <jump line="39" column="9" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/logging/sumo/meta-key.adapter.ts" />
-      <jump line="18" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/logging/sumo/meta-key.adapter.ts" />
-      <jump line="17" column="41" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/logging/sumo/meta-key.adapter.ts" />
-      <jump line="47" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/logging/sumo/meta-key.adapter.ts" />
-      <jump line="56" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/logging/sumo/meta-key.adapter.ts" />
-      <jump line="57" column="104" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/logging/sumo/meta-key.adapter.ts" />
       <jump line="55" column="23" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/logging/sumo/meta-key.adapter.ts" />
       <jump line="30" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/logging/sumo/meta-key.adapter.ts" />
       <jump line="6" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/logging/sumo/client.ts" />
@@ -1349,61 +1343,68 @@
       <jump line="308" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="35" column="30" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="37" column="3" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="19" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="28" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="427" column="61" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="0" column="27" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="26" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="27" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="389" column="68" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgKi8K</text>
       </register>
       <register name="-" type="4">
-        <text>let</text>
+        <text>/IAppDetails</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcHBEZXRhaWxzXD4=</text>
+        <text>'</text>
       </register>
       <register name="0" type="4">
-        <text>newUser.getCredentials()</text>
+        <text>if activating during creation need admin group membership</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgKi8K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvKgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gbGV0IHJlZ2lzdHJhdGlvbk1ldGhvZCA9ICJzZWxmIjsK</text>
+        <text encoding="base64">ICAgICAgICAvKiBNYW5pcHVsYXRpb24gb2YgYGFjdGl2YXRlYCAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFuZXdVc2VyLmdldENyZWRlbnRpYWxzKCkpIHsKICAgICAgICAgICAgICAgIHJlZ2lzdHJhdGlvbk1ldGhvZCA9ICJhZG1pbiI7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IGJhZFJlcXVlc3QgPSBlcnIgYXMgQmFkUmVxdWVzdEV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgRm9yYmlkZGVuRXhjZXB0aW9uIH0gZnJvbSAiLi4vZXhjZXB0aW9ucy9Gb3JiaWRkZW5FeGNlcHRpb24iOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGlmIChiYWRSZXF1ZXN0LmVycm9yUmVzcG9uc2UuZXJyb3JDb2RlICE9PSBFeGNlcHRpb25Db2Rlcy5VU0VSX0FMUkVBRFlfRVhJU1RTKSB7CiAgICAgICAgICAgICAgICAvLyAgICAgdGhyb3cgZXJyOwogICAgICAgICAgICAgICAgLy8gfQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgRm9yYmlkZGVuRXhjZXB0aW9uIH0gZnJvbSAiLi4vLi4vY29yZS9leGNlcHRpb25zL0ZvcmJpZGRlbkV4Y2VwdGlvbiI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCB1c2VyRW50cnlGb3JFcnJvciA9IGF3YWl0IHRoaXMKICAgICAgICAgICAgICAgICAgICAgICAgLnVzZXJkYgogICAgICAgICAgICAgICAgICAgICAgICAuZ2V0RW50cnlXaXRoVXNlcm5hbWUobmV3VXNlci5nZXRQcm9maWxlKCkubG9naW4pOwogICAgICAgICAgICAgICAgICAgIGNvbnN0IGV4aXN0aW5nVXNlckdyb3Vwczogc3RyaW5nW10gPSB1c2VyRW50cnlGb3JFcnJvciA/CiAgICAgICAgICAgICAgICAgICAgICAgIGF3YWl0IHRoaXMuaWRlbnRpdHlkYi5nZXRVc2VyR3JvdXBzKHVzZXJFbnRyeUZvckVycm9yLm1lbWJlcklkKSA6CiAgICAgICAgICAgICAgICAgICAgICAgIFtdOwogICAgICAgICAgICAgICAgICAgIGJhZFJlcXVlc3QuZXJyb3JSZXNwb25zZS5hZGRpdGlvbmFsRGF0YSA9IHsKICAgICAgICAgICAgICAgICAgICAgICAgZXhpc3RpbmdVc2VyR3JvdXBzLAogICAgICAgICAgICAgICAgICAgIH07CiAgICAgICAgICAgICAgICAgICAgdGhyb3cgYmFkUmVxdWVzdDsK</text>
+        <text encoding="base64">CiAgICAgICAgLy8gZnVuY3Rpb24gZ2VuUGFzc3dvcmQoKSB7CiAgICAgICAgLy8gICAgIGNvbnN0IHNwZWNpYWxzID0gIiFAIyQlXiYqKClfK3t9Ojw+P1x8W107XCcsLi9gfiI7CiAgICAgICAgLy8gICAgIGNvbnN0IGxvd2VyY2FzZSA9ICJhYmNkZWZnaGlqa2xtbm9wcXJzdHV2d3h5eiI7CiAgICAgICAgLy8gICAgIGNvbnN0IHVwcGVyY2FzZSA9ICJBQkNERUZHSElKS0xNTk9QUVJTVFVWV1hZWiI7CiAgICAgICAgLy8gICAgIGNvbnN0IG51bWJlcnMgPSAiMDEyMzQ1Njc4OSI7CiAgICAgICAgLy8gICAgIGNvbnN0IGFsbCA9IHNwZWNpYWxzICsgbG93ZXJjYXNlICsgdXBwZXJjYXNlICsgbnVtYmVyczsKICAgICAgICAvLyAgICAgbGV0IHBhc3N3b3JkID0gIiI7CiAgICAgICAgLy8gICAgIHBhc3N3b3JkICs9IHBpY2soc3BlY2lhbHMsIDEpOwogICAgICAgIC8vICAgICBwYXNzd29yZCArPSBwaWNrKGxvd2VyY2FzZSwgMSk7CiAgICAgICAgLy8gICAgIHBhc3N3b3JkICs9IHBpY2sodXBwZXJjYXNlLCAxKTsKICAgICAgICAvLyAgICAgcGFzc3dvcmQgKz0gcGljayhhbGwsIDExLCAxMCk7CiAgICAgICAgLy8gICAgIHBhc3N3b3JkID0gc2h1ZmZsZShwYXNzd29yZCk7CiAgICAgICAgLy8gICAgIHJldHVybiBwYXNzd29yZDsKICAgICAgICAvLyB9CgogICAgICAgIC8vIGZ1bmN0aW9uIHBpY2soczogc3RyaW5nLCBtaW46IG51bWJlciwgbWF4PzogbnVtYmVyKSB7CiAgICAgICAgLy8gICAgIGxldCBuOwogICAgICAgIC8vICAgICBsZXQgY2hhcnMgPSAiIjsKICAgICAgICAvLyAgICAgaWYgKHR5cGVvZiBtYXggPT09ICJ1bmRlZmluZWQiKSB7CiAgICAgICAgLy8gICAgICAgICBuID0gbWluOwogICAgICAgIC8vICAgICB9IGVsc2UgewogICAgICAgIC8vICAgICAgICAgbiA9IG1pbiArIE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqIChtYXggLSBtaW4gKyAxKSk7CiAgICAgICAgLy8gICAgIH0KICAgICAgICAvLyAgICAgZm9yIChsZXQgaSA9IDA7IGkgPCBuOyBpKyspIHsKICAgICAgICAvLyAgICAgICAgIGNoYXJzICs9IHMuY2hhckF0KE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqIHMubGVuZ3RoKSk7CiAgICAgICAgLy8gICAgIH0KICAgICAgICAvLyAgICAgcmV0dXJuIGNoYXJzOwogICAgICAgIC8vIH0KCiAgICAgICAgLy8gZnVuY3Rpb24gc2h1ZmZsZShzOiBzdHJpbmcpIHsKICAgICAgICAvLyAgICAgY29uc3QgYXJyYXkgPSBzLnNwbGl0KCIiKTsKICAgICAgICAvLyAgICAgbGV0IHRtcDsKICAgICAgICAvLyAgICAgbGV0IGN1cnJlbnQ7CiAgICAgICAgLy8gICAgIGxldCB0b3AgPSBhcnJheS5sZW5ndGg7CiAgICAgICAgLy8gICAgIGlmICh0b3ApIHsKICAgICAgICAvLyAgICAgICAgIHdoaWxlICgtLXRvcCkgewogICAgICAgIC8vICAgICAgICAgICAgIGN1cnJlbnQgPSBNYXRoLmZsb29yKE1hdGgucmFuZG9tKCkgKiAodG9wICsgMSkpOwogICAgICAgIC8vICAgICAgICAgICAgIHRtcCA9IGFycmF5W2N1cnJlbnRdOwogICAgICAgIC8vICAgICAgICAgICAgIGFycmF5W2N1cnJlbnRdID0gYXJyYXlbdG9wXTsKICAgICAgICAvLyAgICAgICAgICAgICBhcnJheVt0b3BdID0gdG1wOwogICAgICAgIC8vICAgICAgICAgfQogICAgICAgIC8vICAgICB9CiAgICAgICAgLy8gICAgIHJldHVybiBhcnJheS5qb2luKCIiKTsKICAgICAgICAvLyB9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcHBEZXRhaWxzXD4=</last-search>
+      <last-search>'</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcHBEZXRhaWxzXD4=</last-pattern>
+      <last-pattern>'</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -1420,7 +1421,6 @@
         <entry>plugins</entry>
         <entry>opt.</entry>
         <entry>opt\.</entry>
-        <entry>'</entry>
         <entry>for</entry>
         <entry>async</entry>
         <entry>Warmup</entry>
@@ -1428,12 +1428,9 @@
         <entry>sms</entry>
         <entry encoding="base64">XDxjaGVja1w+</entry>
         <entry encoding="base64">XDxhcHBEZXRhaWxzXD4=</entry>
+        <entry>'</entry>
       </history-search>
       <history-cmd>
-        <entry>33</entry>
-        <entry>e</entry>
-        <entry>45</entry>
-        <entry>1</entry>
         <entry>9</entry>
         <entry>2</entry>
         <entry>29</entry>
@@ -1447,8 +1444,12 @@
         <entry>1,46%s/'/&quot;</entry>
         <entry>1,46%s/'/&quot;/g</entry>
         <entry>1857</entry>
-        <entry>0</entry>
         <entry>309</entry>
+        <entry>1,21%s/'/&quot;/g</entry>
+        <entry>%s1,27/'/&quot;/</entry>
+        <entry>%s1,27/'/&quot;/g</entry>
+        <entry>1,27s/'/&quot;</entry>
+        <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
