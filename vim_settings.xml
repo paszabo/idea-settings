@@ -638,12 +638,12 @@
         <mark key="^" line="9" column="10" />
         <mark key="." line="9" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1542218090484">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1542219391226">
         <mark key="'" line="32" column="21" />
-        <mark key="[" line="1877" column="0" />
-        <mark key="]" line="1877" column="0" />
-        <mark key="." line="1877" column="0" />
-        <mark key="^" line="1861" column="40" />
+        <mark key="[" line="1856" column="41" />
+        <mark key="]" line="1856" column="47" />
+        <mark key="." line="1856" column="47" />
+        <mark key="^" line="1856" column="47" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer/types.ts" timestamp="1533322549303">
         <mark key="[" line="7" column="19" />
@@ -1170,12 +1170,12 @@
         <mark key="^" line="53" column="3" />
         <mark key="." line="53" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1542218785154">
-        <mark key="'" line="584" column="4" />
-        <mark key="[" line="560" column="0" />
-        <mark key="]" line="560" column="0" />
-        <mark key="^" line="591" column="31" />
-        <mark key="." line="560" column="0" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1542219447260">
+        <mark key="'" line="609" column="15" />
+        <mark key="[" line="612" column="40" />
+        <mark key="]" line="612" column="40" />
+        <mark key="." line="612" column="40" />
+        <mark key="^" line="612" column="40" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/quickdata/alterations.js" timestamp="1530890506775">
         <mark key="[" line="15" column="0" />
@@ -1228,16 +1228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="46" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/cw-sumo-forwarder.ts" />
-      <jump line="39" column="54" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/cw-sumo-forwarder.ts" />
-      <jump line="54" column="38" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/cw-sumo-forwarder.ts" />
-      <jump line="56" column="42" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/cw-sumo-forwarder.ts" />
-      <jump line="50" column="37" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/cw-sumo-forwarder.ts" />
-      <jump line="57" column="51" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/cw-sumo-forwarder.ts" />
-      <jump line="86" column="22" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/cw-sumo-forwarder.ts" />
-      <jump line="94" column="27" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/cw-sumo-forwarder.ts" />
-      <jump line="95" column="22" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/cw-sumo-forwarder.ts" />
-      <jump line="97" column="15" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/cw-sumo-forwarder.ts" />
       <jump line="100" column="42" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/cw-sumo-forwarder.ts" />
       <jump line="101" column="11" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/cw-sumo-forwarder.ts" />
       <jump line="108" column="40" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/cw-sumo-forwarder.ts" />
@@ -1328,58 +1318,68 @@
       <jump line="600" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="144" column="22" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="598" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="60" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="559" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="635" column="1" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="62" column="7" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="629" column="40" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="80" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="615" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="639" column="39" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="618" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="609" column="15" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZSBhIHByb3NwZWN0IHVzZXIKICoKICogQHBhcmFtIGV2ZW50CiAqIEBwYXJhbSB7Q29udGV4dH0gY29udGV4dAogKiBAcGFyYW0ge0NhbGxiYWNrfSBjYWxsYmFjawogKiBAcmV0dXJucyB7UHJvbWlzZTx2b2lkPn0KICovCmV4cG9ydCBhc3luYyBmdW5jdGlvbiByZWdpc3RlclByb3NwZWN0KAogICAgZXZlbnQ6IGFueSwKICAgIGNvbnRleHQ6IENvbnRleHQsCiAgICBjYWxsYmFjazogQ2FsbGJhY2ssCik6IFByb21pc2U8dm9pZD4gewogICAgcmV0dXJuOwp9Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>!</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
-        <text>for</text>
+        <text>-</text>
       </register>
       <register name="0" type="4">
         <text>{[name: string]: string}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZSBhIHByb3NwZWN0IHVzZXIKICoKICogQHBhcmFtIGV2ZW50CiAqIEBwYXJhbSB7Q29udGV4dH0gY29udGV4dAogKiBAcGFyYW0ge0NhbGxiYWNrfSBjYWxsYmFjawogKiBAcmV0dXJucyB7UHJvbWlzZTx2b2lkPn0KICovCmV4cG9ydCBhc3luYyBmdW5jdGlvbiByZWdpc3RlclByb3NwZWN0KAogICAgZXZlbnQ6IGFueSwKICAgIGNvbnRleHQ6IENvbnRleHQsCiAgICBjYWxsYmFjazogQ2FsbGJhY2ssCik6IFByb21pc2U8dm9pZD4gewogICAgcmV0dXJuOwp9Cgo=</text>
+        <text encoding="base64">ICAgIHJldHVybjsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dHlwZSBIVFRQSGVhZGVycyA9IHtbbmFtZTogc3RyaW5nXTogc3RyaW5nfTsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CmV4cG9ydCBhc3luYyBmdW5jdGlvbiByZWdpc3RlclByb3NwZWN0KAogICAgZXZlbnQ6IGFueSwKICAgIGNvbnRleHQ6IENvbnRleHQsCiAgICBjYWxsYmFjazogQ2FsbGJhY2ssCik6IFByb21pc2U8dm9pZD4gewogICAgcmV0dXJuOwp9Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">YXN5bmMgKAogICAgZXZlbnQ6IGFueSwKICAgIGNvbnRleHQ6IENvbnRleHQsCiAgICBjYWxsYmFjazogQ2FsbGJhY2ssCik6IFByb21pc2U8dm9pZD4gPT4gewogICAgcmV0dXJuOwp9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gZXh0cmFjdEFwcENvZGUoaGVhZGVyczoge1tuYW1lOiBzdHJpbmddOiBzdHJpbmd9KTogc3RyaW5nIHsKICAgIGZvciAoY29uc3QgW2ssIHZdIG9mIE9iamVjdC5lbnRyaWVzKGhlYWRlcnMpKSB7CiAgICAgICAgaWYgKGsudG9Mb3dlckNhc2UoKSA9PT0gIngtYXBwLWNvZGUiKSB7CiAgICAgICAgICAgIHJldHVybiB2OwogICAgICAgIH0KICAgIH0KfQoK</text>
+        <text encoding="base64">ICAgIHJldHVybjsKfSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGFwcENvZGU6IHN0cmluZyA9IGV4dHJhY3RBcHBDb2RlKGhlYWRlcnMpOwo=</text>
+        <text encoding="base64">Ci8qKgogKiBDcmVhdGUgYSBwcm9zcGVjdCB1c2VyCiAqCiAqIEBwYXJhbSBldmVudAogKiBAcGFyYW0ge0NvbnRleHR9IGNvbnRleHQKICogQHBhcmFtIHtDYWxsYmFja30gY2FsbGJhY2sKICogQHJldHVybnMge1Byb21pc2U8dm9pZD59CiAqLwpleHBvcnQgY29uc3QgcmVnaXN0ZXJQcm9zcGVjdCA9IFdhcm11cFJlcXVlc3REZWNvcmF0b3IoYXN5bmMgKAogICAgZXZlbnQ6IGFueSwKICAgIGNvbnRleHQ6IENvbnRleHQsCiAgICBjYWxsYmFjazogQ2FsbGJhY2ssCik6IFByb21pc2U8dm9pZD4gPT4gewogICAgcmV0dXJuOwp9KTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZSBhIHByb3NwZWN0IHVzZXIKICoKICogQHBhcmFtIGV2ZW50CiAqIEBwYXJhbSB7Q29udGV4dH0gY29udGV4dAogKiBAcGFyYW0ge0NhbGxiYWNrfSBjYWxsYmFjawogKiBAcmV0dXJucyB7UHJvbWlzZTx2b2lkPn0KICovCmV4cG9ydCBhc3luYyBmdW5jdGlvbiByZWdpc3RlclByb3NwZWN0KAogICAgZXZlbnQ6IGFueSwKICAgIGNvbnRleHQ6IENvbnRleHQsCiAgICBjYWxsYmFjazogQ2FsbGJhY2ssCik6IFByb21pc2U8dm9pZD4gewogICAgcmV0dXJuOwp9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIHJlZ2lzdGVyUHJvc3BlY3QoCiAgICBldmVudDogYW55LAogICAgY29udGV4dDogQ29udGV4dCwKICAgIGNhbGxiYWNrOiBDYWxsYmFjaywKKTogUHJvbWlzZTx2b2lkPiB7CiAgICByZXR1cm47Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>for</last-search>
+      <last-search>-</last-search>
       <last-offset />
-      <last-pattern>for</last-pattern>
+      <last-pattern>-</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1387,9 +1387,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Overr</entry>
-        <entry>var</entry>
-        <entry>inc</entry>
         <entry>con</entry>
         <entry>Category</entry>
         <entry>prot</entry>
@@ -1407,6 +1404,9 @@
         <entry>opt\.</entry>
         <entry>'</entry>
         <entry>for</entry>
+        <entry>async</entry>
+        <entry>Warmup</entry>
+        <entry>-</entry>
       </history-search>
       <history-cmd>
         <entry>3</entry>
@@ -1420,7 +1420,6 @@
         <entry>29</entry>
         <entry>32</entry>
         <entry>174</entry>
-        <entry>0</entry>
         <entry>W</entry>
         <entry>q</entry>
         <entry>%1,52s/'/&quot;/g</entry>
@@ -1428,6 +1427,7 @@
         <entry>%1,46s/'/&quot;</entry>
         <entry>1,46%s/'/&quot;</entry>
         <entry>1,46%s/'/&quot;/g</entry>
+        <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
