@@ -118,12 +118,11 @@
         <mark key="." line="1" column="24" />
         <mark key="^" line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/logging/sumo/handler.ts" timestamp="1542209146586">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="43" column="10" />
-        <mark key="]" line="43" column="15" />
-        <mark key="." line="43" column="15" />
-        <mark key="^" line="43" column="15" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/logging/sumo/handler.ts" timestamp="1542210722155">
+        <mark key="[" line="78" column="29" />
+        <mark key="]" line="78" column="25" />
+        <mark key="." line="78" column="25" />
+        <mark key="^" line="78" column="25" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer.js" timestamp="1541087044488">
         <mark key="[" line="102" column="0" />
@@ -374,12 +373,12 @@
         <mark key="." line="8" column="23" />
         <mark key="^" line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/cw-sumo-forwarder.js" timestamp="1542209158734">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/cw-sumo-forwarder.js" timestamp="1542210651377">
         <mark key="'" line="36" column="9" />
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="147" column="4" />
+        <mark key="[" line="173" column="15" />
+        <mark key="]" line="173" column="15" />
         <mark key="^" line="219" column="2" />
-        <mark key="." line="219" column="2" />
+        <mark key="." line="173" column="15" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.validators.ts" timestamp="1533235848794">
         <mark key="[" line="63" column="25" />
@@ -625,6 +624,11 @@
         <mark key="]" line="51" column="43" />
         <mark key="^" line="51" column="43" />
         <mark key="." line="51" column="43" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/logging/sumo/constants.ts" timestamp="1542210147372">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/motive-data/packages/incentives/api/src/bin/incentives-api" timestamp="1529955277919">
         <mark key="[" line="15" column="0" />
@@ -904,10 +908,11 @@
         <mark key="." line="7" column="48" />
         <mark key="^" line="7" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/logging/sumo/types.ts" timestamp="1542131488093">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="2" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/logging/sumo/types.ts" timestamp="1542210862227">
+        <mark key="[" line="14" column="1" />
+        <mark key="]" line="14" column="1" />
+        <mark key="." line="14" column="1" />
+        <mark key="^" line="12" column="7" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/index.ts" timestamp="1535486818645">
         <mark key="[" line="1" column="0" />
@@ -1140,12 +1145,12 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/logging/sumo/config.ts" timestamp="1542143630098">
-        <mark key="'" line="37" column="37" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="37" column="53" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/logging/sumo/config.ts" timestamp="1542210144100">
+        <mark key="'" line="29" column="37" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="29" column="53" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/dealers/index.ts" timestamp="1536767775843">
         <mark key="[" line="2" column="17" />
@@ -1179,7 +1184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="862" column="8" filename="$USER_HOME$/Downloads/apiGateway-js-sdk/apigClient.js" />
       <jump line="855" column="15" filename="$USER_HOME$/Downloads/apiGateway-js-sdk/apigClient.js" />
       <jump line="850" column="25" filename="$USER_HOME$/Downloads/apiGateway-js-sdk/apigClient.js" />
       <jump line="849" column="21" filename="$USER_HOME$/Downloads/apiGateway-js-sdk/apigClient.js" />
@@ -1279,66 +1283,66 @@
       <jump line="124" column="21" filename="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/aws-lambda/index.d.ts" />
       <jump line="131" column="25" filename="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/aws-lambda/index.d.ts" />
       <jump line="175" column="33" filename="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/aws-lambda/index.d.ts" />
+      <jump line="48" column="7" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/logging/sumo/handler.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>Event</text>
+        <text encoding="base64">XDxBdHRlbXB0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhciB1cmxPYmplY3QgPSB1cmwucGFyc2UoU3Vtb1VSTCk7CiAgICBpZiAodXJsT2JqZWN0LnByb3RvY29sICE9ICJodHRwczoiIHx8IHVybE9iamVjdC5ob3N0ID09PSBudWxsIHx8IHVybE9iamVjdC5wYXRoID09PSBudWxsKSB7CiAgICAgICAgY29udGV4dC5mYWlsKCJJbnZhbGlkIFNVTU9fRU5EUE9JTlQgZW52aXJvbm1lbnQgdmFyaWFibGU6ICIgKyBTdW1vVVJMKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gQXR0ZW1wdCB0byBkZXRlY3QgY29uc29sZSBsb2cgYW5kIGF1dG8gZXh0cmFjdCByZXF1ZXN0SUQgYW5kIG1lc3NhZ2UKICAgICAgICAgICAgdmFyIGNvbnNvbGVMb2cgPSBjb25zb2xlRm9ybWF0UmVnZXguZXhlYyhsb2cubWVzc2FnZSk7CiAgICAgICAgICAgIGlmIChjb25zb2xlTG9nICE9PSBudWxsKSB7CiAgICAgICAgICAgICAgICBsYXN0UmVxdWVzdElEID0gY29uc29sZUxvZ1sxXTsKICAgICAgICAgICAgICAgIGxvZy5tZXNzYWdlID0gbG9nLm1lc3NhZ2Uuc3Vic3RyaW5nKGNvbnNvbGVMb2dbMF0ubGVuZ3RoKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyByZWFkb25seSBTb3VyY2VDYXRlZ29yeTogc3RyaW5nLAogICAgcHVibGljIHJlYWRvbmx5IFNvdXJjZUhvc3Q6IHN0cmluZywKICAgIHB1YmxpYyByZWFkb25seSBTb3VyY2VOYW1lOiBzdHJpbmcsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGV4cG9ydCBjb25zdCBDb250cm9sTWVzc2FnZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgago=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Event</last-search>
+      <last-search encoding="base64">XDxBdHRlbXB0XD4=</last-search>
       <last-offset />
-      <last-pattern>Event</last-pattern>
+      <last-pattern encoding="base64">XDxBdHRlbXB0XD4=</last-pattern>
       <last-replace>export const</last-replace>
       <last-substitute>var</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>resources</entry>
         <entry>U</entry>
         <entry>custom</entry>
         <entry>#</entry>
@@ -1358,11 +1362,9 @@
         <entry>||</entry>
         <entry>event</entry>
         <entry>Event</entry>
+        <entry encoding="base64">XDxBdHRlbXB0XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>31</entry>
-        <entry>0</entry>
-        <entry>79</entry>
         <entry>172</entry>
         <entry>35</entry>
         <entry>95</entry>
@@ -1379,6 +1381,9 @@
         <entry>9</entry>
         <entry>2</entry>
         <entry>29</entry>
+        <entry>32</entry>
+        <entry>174</entry>
+        <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
