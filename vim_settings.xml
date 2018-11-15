@@ -633,12 +633,12 @@
         <mark key="." line="6" column="1" />
         <mark key="^" line="6" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1542307845954">
-        <mark key="'" line="176" column="8" />
-        <mark key="[" line="176" column="73" />
-        <mark key="]" line="177" column="7" />
-        <mark key="." line="177" column="7" />
-        <mark key="^" line="177" column="7" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1542310657198">
+        <mark key="'" line="725" column="68" />
+        <mark key="[" line="292" column="43" />
+        <mark key="]" line="292" column="44" />
+        <mark key="." line="292" column="44" />
+        <mark key="^" line="290" column="59" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/api/nodemon.json" timestamp="1530488452262">
         <mark key="[" line="3" column="21" />
@@ -1265,25 +1265,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="573" column="10" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
-      <jump line="596" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
-      <jump line="604" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
-      <jump line="622" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
-      <jump line="62" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
-      <jump line="81" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
-      <jump line="120" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
-      <jump line="140" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
-      <jump line="157" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
-      <jump line="179" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
-      <jump line="199" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
-      <jump line="207" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
-      <jump line="264" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
-      <jump line="279" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
-      <jump line="293" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
-      <jump line="308" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
-      <jump line="294" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
-      <jump line="307" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
-      <jump line="336" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="357" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="385" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="413" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
@@ -1306,7 +1287,6 @@
       <jump line="243" column="45" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="322" column="48" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="348" column="44" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
-      <jump line="679" column="44" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="704" column="39" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="732" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="766" column="36" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
@@ -1320,7 +1300,6 @@
       <jump line="186" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="184" column="68" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="410" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
-      <jump line="230" column="50" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="258" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/joi/index.d.ts" />
       <jump line="259" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/joi/index.d.ts" />
       <jump line="260" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/joi/index.d.ts" />
@@ -1340,13 +1319,10 @@
       <jump line="1110" column="7" filename="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/joi/index.d.ts" />
       <jump line="191" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="192" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
-      <jump line="233" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
-      <jump line="234" column="15" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="70" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="71" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="162" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="193" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
-      <jump line="235" column="15" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="376" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="452" column="106" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="488" column="48" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
@@ -1365,67 +1341,89 @@
       <jump line="270" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="311" column="35" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="176" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="237" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="236" column="21" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="235" column="19" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="234" column="23" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="233" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="232" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="231" column="15" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="230" column="26" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="229" column="22" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="228" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="227" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="226" column="14" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="225" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="224" column="22" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="223" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="222" column="21" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="221" column="19" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="244" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="267" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="264" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="274" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="717" column="61" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="18" column="54" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="679" column="68" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>request</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHByb2ZpbGU=</text>
+        <text>request</text>
       </register>
       <register name="/" type="4">
-        <text>key</text>
+        <text>'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvKiBTdGVwIDEuIEdldCBwcm9maWxlICovCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBjb25zdCByZXNwb25zZSA9IGF3YWl0IHJwLnBvc3QocmVxdWVzdE9wdGlvbnMpOwogICAgICAgICAgICBjb25zdCBib2R5ID0gcmVzcG9uc2UuYm9keTsKICAgICAgICAgICAgaWYgKHJlc3BvbnNlLnN0YXR1c0NvZGUgIT09IDIwMCkgewogICAgICAgICAgICAgICAgdGhpcy5sb2dnZXIuZXJyb3IoYEZhaWxlZCB0byByZWdpc3RlciB1c2VyIGluIE9rdGEuIFN0YXR1cyBDb2RlOiAke3Jlc3BvbnNlLnN0YXR1c0NvZGV9LCBib2R5OiAke0pTT04uc3RyaW5naWZ5KGJvZHkpfWApOwogICAgICAgICAgICAgICAgaWYgKHRoaXMub2t0YS52YWxpZGF0aW9uLmlzV2Vha1Bhc3N3b3JkUmVzcG9uc2UoYm9keSkpIHsKICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgQmFkUmVxdWVzdEV4Y2VwdGlvbigKICAgICAgICAgICAgICAgICAgICAgICAgYm9keS5lcnJvckNhdXNlc1swXS5lcnJvclN1bW1hcnksCiAgICAgICAgICAgICAgICAgICAgICAgIEV4Y2VwdGlvbkNvZGVzLlBBU1NXT1JEX1BPTElDWV9OT1RfTUVUCiAgICAgICAgICAgICAgICAgICAgKTsKICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAodGhpcy5va3RhLnZhbGlkYXRpb24uaXNEdXBsaWNhdGVVc2VyKGJvZHkpKSB7CiAgICAgICAgICAgICAgICAgICAgdGhpcy5sb2dnZXIuaW5mbyhgRHVwbGljYXRlIHVzZXIgd2hlbiByZWdpc3RlcmluZyB1c2VyICR7bmV3VXNlci5nZXRQcm9maWxlKCkuZW1haWx9IGZvciBhcHBDb2RlICR7YXBwRGV0YWlscy5hcHBDb2RlfWApOwogICAgICAgICAgICAgICAgICAgIHRocm93IG5ldyBCYWRSZXF1ZXN0RXhjZXB0aW9uKAogICAgICAgICAgICAgICAgICAgICAgICBib2R5LmVycm9yQ2F1c2VzWzBdLmVycm9yU3VtbWFyeSwKICAgICAgICAgICAgICAgICAgICAgICAgRXhjZXB0aW9uQ29kZXMuVVNFUl9BTFJFQURZX0VYSVNUUwogICAgICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIHRocm93IFJlc3RFcnJvcnMuZnJvbVN0YXR1c0NvZGUoCiAgICAgICAgICAgICAgICAgICAgICAgIChyZXNwb25zZS5zdGF0dXNDb2RlIGFzIFN0YXR1c0NvZGUuVENvZGUpLAogICAgICAgICAgICAgICAgICAgICAgICByZXNwb25zZS5zdGF0dXNNZXNzYWdlCiAgICAgICAgICAgICAgICAgICAgKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQoKICAgICAgICAgICAgcmV0dXJuIHRoaXMub2t0YURhdGFBZGFwdGVyKGJvZHkpOwogICAgICAgIH0gY2F0Y2ggKGVycikgewogICAgICAgICAgICB0aGlzLmxvZ2dlci5lcnJvcihgRXJyb3IgcmVnaXN0ZXJpbmcgVXNlciBpbiBPa3RhOiAke2Vycn1gKTsKICAgICAgICAgICAgaWYgKGVyciBpbnN0YW5jZW9mIEJhZFJlcXVlc3RFeGNlcHRpb24pIHsKICAgICAgICAgICAgICAgIHRocm93IGVycjsKICAgICAgICAgICAgfQogICAgICAgICAgICB0aHJvdyBuZXcgSW50ZXJuYWxSZXBvc2l0b3J5RXhjZXB0aW9uKAogICAgICAgICAgICAgICAgIlJlZ2lzdHJhdGlvbiByZXF1ZXN0IHVuc3VjY2Vzc2Z1bCIsCiAgICAgICAgICAgICAgICBFeGNlcHRpb25Db2Rlcy5JTlRFUk5BTF9FUlJPUgogICAgICAgICAgICApOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWFjdGl2YXRlKSB7CiAgICAgICAgICAgIHJldHVybiB0aGlzLkNyZWF0ZVVzZXJVUkw7CiAgICAgICAgfQoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBldmVudDogSVJlZ2lzdGVyVXNlckV2ZW50ID0gbmV3VXNlci5ldmVudDsKCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBldmVudDogSVJlZ2lzdGVyVXNlckV2ZW50ID0gbmV3VXNlci5ldmVudDsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBDcmVhdGVVc2VyVVJMKGFjdGl2YXRlOiBib29sZWFuKTogc3RyaW5nIHsKCiAgICB9Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvKiBTdGVwIDEuIEdldCBwcm9maWxlICovCiAgICAgICAgY29uc3QgcHJvZmlsZTogSVVzZXJSZWdJbmZvID0gbmV3VXNlci5nZXRQcm9maWxlKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgLy8gSWYgYWN0aXZhdGluZyBkdXJpbmcgY3JlYXRpb24gbmVlZCBhZG1pbiBncm91cCBtZW1iZXJzaGlwCiAgICAgICAgLyogTWFuaXB1bGF0aW9uIG9mIGBhY3RpdmF0ZWAgLSBvbmx5IGEgcmVhZCAqLwogICAgICAgIGlmICh0aGlzLmFkbWluTWVtYmVyc2hpcE5lZWRlZFRvUmVnaXN0ZXIobmV3VXNlciwgYWN0aXZhdGUpKSB7CiAgICAgICAgICAgIGlmICghZXZlbnQuZW5oYW5jZWRBdXRoQ29udGV4dC5hZG1pbk1lbWJlcklkKSB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgRm9yYmlkZGVuRXhjZXB0aW9uKAogICAgICAgICAgICAgICAgICAgICJUeXBlIG9mIHJlZ2lzdHJhdGlvbiByZXF1aXJlcyBhZG1pbmlzdHJhdGl2ZSBwcml2aWxlZ2VzIiwKICAgICAgICAgICAgICAgICAgICBFeGNlcHRpb25Db2Rlcy5NSVNTSU5HX0FETUlOX01FTUJFUlNISVAKICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBGcm9tKGM6IHRoaXMpOiB0aGlzIHsKICAgICAgICByZXR1cm4gbmV3IE9rdGFCYXNlQ2xpZW50KGMuT2t0YVVSTCwgYy5BUElLZXksIGMudmFsaWRhdGlvbik7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICggdGhpcy5Pa3RhVVJMLAogICAgICAgIHRoaXMuQVBJS2V5LAogICAgICAgIHRoaXMudmFsaWRhdGlvbiwKICAgICk7Cg==</text>
+        <text encoding="base64">cHJvdmlkZXI6IElPa3RhUHJvdmlkZXI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>key</last-search>
+      <last-search>'</last-search>
       <last-offset />
-      <last-pattern>key</last-pattern>
-      <last-replace />
-      <last-substitute>this.getOktaRequestParams</last-substitute>
+      <last-pattern>'</last-pattern>
+      <last-replace>&quot;</last-replace>
+      <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>this</entry>
-        <entry>this.</entry>
         <entry>this.validator</entry>
         <entry>.validator</entry>
         <entry encoding="base64">JiY=</entry>
@@ -1444,14 +1442,10 @@
         <entry>createUser</entry>
         <entry>registerUser</entry>
         <entry>key</entry>
+        <entry>;</entry>
+        <entry>'</entry>
       </history-search>
       <history-cmd>
-        <entry>29</entry>
-        <entry>32</entry>
-        <entry>174</entry>
-        <entry>W</entry>
-        <entry>q</entry>
-        <entry>%1,52s/'/&quot;/g</entry>
         <entry>%1,46s/'/&quot;/g</entry>
         <entry>%1,46s/'/&quot;</entry>
         <entry>1,46%s/'/&quot;</entry>
@@ -1465,6 +1459,12 @@
         <entry>1052</entry>
         <entry>%s/this.getOktaRequestParams</entry>
         <entry>0</entry>
+        <entry>245s/'/&quot;</entry>
+        <entry>s245/'/&quot;/g</entry>
+        <entry>245s/'/&quot;/g</entry>
+        <entry>268s/'/&quot;/g</entry>
+        <entry>275s/'/&quot;/g</entry>
+        <entry>245</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
