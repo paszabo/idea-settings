@@ -81,6 +81,12 @@
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="31" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/types.ts" timestamp="1542386923792">
+        <mark key="[" line="2" column="1" />
+        <mark key="]" line="2" column="1" />
+        <mark key="^" line="2" column="1" />
+        <mark key="." line="2" column="1" />
+      </file>
       <file name="$USER_HOME$/dev/repos/automp-be/config/index.ts" timestamp="1530911601161">
         <mark key="[" line="0" column="31" />
         <mark key="]" line="0" column="32" />
@@ -372,11 +378,11 @@
         <mark key="." line="21" column="28" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/okta/client/types.ts" timestamp="1542317790364">
-        <mark key="'" line="56" column="17" />
-        <mark key="[" line="81" column="19" />
-        <mark key="]" line="82" column="14" />
-        <mark key="." line="82" column="14" />
-        <mark key="^" line="82" column="14" />
+        <mark key="'" line="54" column="17" />
+        <mark key="[" line="79" column="19" />
+        <mark key="]" line="80" column="14" />
+        <mark key="." line="80" column="14" />
+        <mark key="^" line="80" column="14" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/README.md" timestamp="1533850046814">
         <mark key="[" line="2" column="42" />
@@ -1032,6 +1038,12 @@
         <mark key="]" line="0" column="42" />
         <mark key="." line="0" column="42" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/client/src/client/base.client.ts" timestamp="1542387880522">
+        <mark key="[" line="21" column="19" />
+        <mark key="]" line="21" column="19" />
+        <mark key="." line="21" column="19" />
+        <mark key="^" line="21" column="52" />
+      </file>
       <file name="$USER_HOME$/dev/repos/api-generator/src/models/index.ts" timestamp="1529605748730">
         <mark key="[" line="0" column="24" />
         <mark key="]" line="1" column="23" />
@@ -1372,47 +1384,47 @@
       <jump line="20" column="54" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/rest_errors/abstract-rest-error.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="&quot;" type="4">
+        <text>_handler</text>
       </register>
       <register name="-" type="4">
-        <text>ined') {</text>
+        <text>_handler</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">dG5jVmVyc2lvbiBhbmQgYWN0aXZhdGlvbk1ldGhvZCA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJywK</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHByb3RlY3RlZCB1cmwocXM6IHN0cmluZywgLi4ucGF0aDogc3RyaW5nW10pOiBzdHJpbmc7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0c2xpbnQ6ZGlzYWJsZS1uZXh0LWxpbmU6bm8tY29uc29sZQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAvLyBpZiAocHJvY2Vzcy5lbnYuQVBJX0VOVklST05NRU5UID09PSAicHJvZHVjdGlvbiIpIHsKICAgIC8vICAgZGVsZXRlIHRoaXMuc3RhY2s7CiAgICAvLyB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpZiAocHJvY2Vzcy5lbnYuQVBJX0VOVklST05NRU5UID09PSAicHJvZHVjdGlvbiIpIHsKICAgICAgICAvLyAgICAgZGVsZXRlIHRoaXMuc3RhY2s7CiAgICAgICAgLy8gfQo=</text>
+      <register name="5" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB0c2xpbnQ6ZGlzYWJsZS1uZXh0LWxpbmU6bm8tY29uc29sZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gbm9pbnNwZWN0aW9uIFRzTGludAo=</text>
+        <text encoding="base64">CiAgICAvLyBpZiAocHJvY2Vzcy5lbnYuQVBJX0VOVklST05NRU5UID09PSAicHJvZHVjdGlvbiIpIHsKICAgIC8vICAgZGVsZXRlIHRoaXMuc3RhY2s7CiAgICAvLyB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWN0aXZhdGUgfHwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBpZiAocHJvY2Vzcy5lbnYuQVBJX0VOVklST05NRU5UID09PSAicHJvZHVjdGlvbiIpIHsKICAgICAgICAvLyAgICAgZGVsZXRlIHRoaXMuc3RhY2s7CiAgICAgICAgLy8gfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1451,7 +1463,6 @@
         <entry>&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry>1,46%s/'/&quot;/g</entry>
         <entry>1857</entry>
         <entry>309</entry>
         <entry>1,21%s/'/&quot;/g</entry>
@@ -1470,6 +1481,7 @@
         <entry>W</entry>
         <entry>0</entry>
         <entry>q</entry>
+        <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
