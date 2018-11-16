@@ -134,7 +134,6 @@
         <mark key="." line="1" column="24" />
         <mark key="^" line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IUserRegInfo.ts" timestamp="1542224776813" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/logging/sumo/handler.ts" timestamp="1542212728522">
         <mark key="[" line="104" column="7" />
         <mark key="]" line="104" column="9" />
@@ -221,7 +220,12 @@
         <mark key="." line="73" column="0" />
         <mark key="^" line="87" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/rest_errors/abstract-rest-error.ts" timestamp="1542222685200" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/rest_errors/abstract-rest-error.ts" timestamp="1542385420123">
+        <mark key="[" line="41" column="39" />
+        <mark key="]" line="42" column="37" />
+        <mark key="." line="42" column="37" />
+        <mark key="^" line="42" column="37" />
+      </file>
       <file name="$USER_HOME$/hackday-1-business-1/src/province.js" timestamp="1532025793951">
         <mark key="[" line="16" column="50" />
         <mark key="]" line="16" column="68" />
@@ -355,7 +359,6 @@
         <mark key="^" line="8" column="45" />
         <mark key="." line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/configurations/AppConfig.ts" timestamp="1542224316097" />
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/test/lib/custombodytypes/bodyTypeInference.js" timestamp="1530816854394">
         <mark key="[" line="48" column="34" />
         <mark key="]" line="48" column="35" />
@@ -659,12 +662,9 @@
         <mark key="." line="6" column="1" />
         <mark key="^" line="6" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1542382252115">
-        <mark key="'" line="838" column="12" />
-        <mark key="[" line="838" column="0" />
-        <mark key="]" line="838" column="23" />
-        <mark key="." line="838" column="0" />
-        <mark key="^" line="123" column="65" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1542385459613">
+        <mark key="'" line="844" column="12" />
+        <mark key="[" line="0" column="29" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/api/nodemon.json" timestamp="1530488452262">
         <mark key="[" line="3" column="21" />
@@ -809,7 +809,6 @@
         <mark key="." line="15" column="33" />
         <mark key="^" line="15" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/ICommPreferences.ts" timestamp="1542314343270" />
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/database/index.ts" timestamp="1535124850096">
         <mark key="[" line="1" column="23" />
         <mark key="]" line="1" column="23" />
@@ -1271,14 +1270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="994" column="60" filename="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/joi/index.d.ts" />
-      <jump line="1003" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/joi/index.d.ts" />
-      <jump line="1111" column="7" filename="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/joi/index.d.ts" />
-      <jump line="1109" column="7" filename="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/joi/index.d.ts" />
-      <jump line="1110" column="7" filename="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/joi/index.d.ts" />
-      <jump line="191" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
-      <jump line="192" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
-      <jump line="70" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="71" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="162" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="193" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
@@ -1371,58 +1362,66 @@
       <jump line="42" column="1" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/rest_errors/index.ts" />
       <jump line="39" column="33" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/rest_errors/index.ts" />
       <jump line="7" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/rest_errors/index.ts" />
+      <jump line="44" column="2" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/rest_errors/abstract-rest-error.ts" />
+      <jump line="46" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/rest_errors/abstract-rest-error.ts" />
+      <jump line="47" column="15" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/rest_errors/abstract-rest-error.ts" />
+      <jump line="6" column="9" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/rest_errors/abstract-rest-error.ts" />
+      <jump line="5" column="7" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/rest_errors/abstract-rest-error.ts" />
+      <jump line="7" column="9" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/rest_errors/abstract-rest-error.ts" />
+      <jump line="16" column="39" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/rest_errors/abstract-rest-error.ts" />
+      <jump line="20" column="54" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/rest_errors/abstract-rest-error.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>ined') {</text>
       </register>
       <register name="/" type="4">
-        <text>*</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">dG5jVmVyc2lvbiBhbmQgYWN0aXZhdGlvbk1ldGhvZCA=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpZiAocHJvY2Vzcy5lbnYuQVBJX0VOVklST05NRU5UID09PSAicHJvZHVjdGlvbiIpIHsKICAgICAgICAvLyAgICAgZGVsZXRlIHRoaXMuc3RhY2s7CiAgICAgICAgLy8gfQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyB0c2xpbnQ6ZGlzYWJsZS1uZXh0LWxpbmU6bm8tY29uc29sZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAvLyBpZiAocHJvY2Vzcy5lbnYuQVBJX0VOVklST05NRU5UID09PSAicHJvZHVjdGlvbiIpIHsKICAgIC8vICAgZGVsZXRlIHRoaXMuc3RhY2s7CiAgICAvLyB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gbm9pbnNwZWN0aW9uIFRzTGludAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWN0aXZhdGUgfHwK</text>
+        <text encoding="base64">ICAgICAgICAvLyBpZiAocHJvY2Vzcy5lbnYuQVBJX0VOVklST05NRU5UID09PSAicHJvZHVjdGlvbiIpIHsKICAgICAgICAvLyAgICAgZGVsZXRlIHRoaXMuc3RhY2s7CiAgICAgICAgLy8gfQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gbm9pbnNwZWN0aW9uIFRzTGludAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWN0aXZhdGUgfHwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>*</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>*</last-pattern>
+      <last-pattern>&quot;</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1430,9 +1429,6 @@
     </search>
     <history>
       <history-search>
-        <entry>class</entry>
-        <entry>SSWS</entry>
-        <entry>createUser</entry>
         <entry>key</entry>
         <entry>;</entry>
         <entry>'</entry>
@@ -1450,6 +1446,9 @@
         <entry>from</entry>
         <entry>fromStatus</entry>
         <entry>*</entry>
+        <entry>AbstractRest</entry>
+        <entry>abstract</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>1,46%s/'/&quot;/g</entry>
