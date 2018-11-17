@@ -1105,11 +1105,12 @@
         <mark key="]" line="0" column="42" />
         <mark key="." line="0" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/client/src/client/base.client.ts" timestamp="1542411942653">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="68" column="110" />
-        <mark key="^" line="68" column="110" />
-        <mark key="." line="68" column="110" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/client/src/client/base.client.ts" timestamp="1542414689720">
+        <mark key="'" line="77" column="13" />
+        <mark key="[" line="32" column="46" />
+        <mark key="]" line="32" column="51" />
+        <mark key="." line="32" column="51" />
+        <mark key="^" line="32" column="51" />
       </file>
       <file name="$USER_HOME$/dev/repos/api-generator/src/models/index.ts" timestamp="1529605748730">
         <mark key="[" line="0" column="24" />
@@ -1396,7 +1397,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="32" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="453" column="36" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="625" column="40" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="694" column="38" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
@@ -1496,66 +1496,66 @@
       <jump line="56" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/client/tsconfig.json" />
       <jump line="7" column="9" filename="$USER_HOME$/dev/repos/common-identity-api/src/client/tsconfig.json" />
       <jump line="54" column="9" filename="$USER_HOME$/dev/repos/common-identity-api/src/client/tsconfig.json" />
+      <jump line="71" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/client/src/client/base.client.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLnJlcGxhY2UoLyg/PD1bXjpdKVwvezIsfS9nbSwgJy8nKQogICAgICAgICAgICAucmVwbGFjZSgvXC8kLywgJycpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>moduleResolution</text>
+        <text encoding="base64">XDxyZXBsYWNlXD4=</text>
       </register>
       <register name="0" type="4">
         <text>rbc-identity-api-client</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvKiBCYXNpYyBPcHRpb25zICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnJlcGxhY2UoLyg/PD1bXjpdKVwvezIsfS9nbSwgJy8nKQogICAgICAgICAgICAucmVwbGFjZSgvXC8kLywgJycpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBrCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmpvaW4oJy8nKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgLyogU291cmNlIE1hcCBPcHRpb25zICovCiAgICAgICAgLy8gInNvdXJjZVJvb3QiOiAiIiwgICAgICAgICAgICAgICAgICAgICAgLyogU3BlY2lmeSB0aGUgbG9jYXRpb24gd2hlcmUgZGVidWdnZXIgc2hvdWxkIGxvY2F0ZSBUeXBlU2NyaXB0IGZpbGVzIGluc3RlYWQgb2Ygc291cmNlIGxvY2F0aW9ucy4gKi8KICAgICAgICAvLyAibWFwUm9vdCI6ICIiLCAgICAgICAgICAgICAgICAgICAgICAgICAvKiBTcGVjaWZ5IHRoZSBsb2NhdGlvbiB3aGVyZSBkZWJ1Z2dlciBzaG91bGQgbG9jYXRlIG1hcCBmaWxlcyBpbnN0ZWFkIG9mIGdlbmVyYXRlZCBsb2NhdGlvbnMuICovCiAgICAgICAgLy8gImlubGluZVNvdXJjZU1hcCI6IHRydWUsICAgICAgICAgICAgICAgLyogRW1pdCBhIHNpbmdsZSBmaWxlIHdpdGggc291cmNlIG1hcHMgaW5zdGVhZCBvZiBoYXZpbmcgYSBzZXBhcmF0ZSBmaWxlLiAqLwogICAgICAgIC8vICJpbmxpbmVTb3VyY2VzIjogdHJ1ZSwgICAgICAgICAgICAgICAgIC8qIEVtaXQgdGhlIHNvdXJjZSBhbG9uZ3NpZGUgdGhlIHNvdXJjZW1hcHMgd2l0aGluIGEgc2luZ2xlIGZpbGU7IHJlcXVpcmVzICctLWlubGluZVNvdXJjZU1hcCcgb3IgJy0tc291cmNlTWFwJyB0byBiZSBzZXQuICovCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIChQUyk6IFBpY2t1cCBoZXJlLi4uIGlzc3VlIGlzIG5vIGxvb2tiZWhpbmQgcmVnZXggc3VwcG9ydCB0byBhdm9pZCBjb25zdW1pbmcgdGhlIDogaW4gdGhlIHJlZ2V4Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAicHJlc2VydmVTeW1saW5rcyI6IHRydWUsICAgICAgICAgICAgICAvKiBEbyBub3QgcmVzb2x2ZSB0aGUgcmVhbCBwYXRoIG9mIHN5bWxpbmtzLiAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAvKiBCYXNpYyBPcHRpb25zICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAiZXNNb2R1bGVJbnRlcm9wIjogdHJ1ZSwKICAgICAgICAvKiBFbmFibGVzIGVtaXQgaW50ZXJvcGVyYWJpbGl0eSBiZXR3ZWVuIENvbW1vbkpTIGFuZCBFUyBNb2R1bGVzIHZpYSBjcmVhdGlvbgogICAgICAgIG9mIG5hbWVzcGFjZSBvYmplY3RzIGZvciBhbGwgaW1wb3J0cy4gSW1wbGllcyAnYWxsb3dTeW50aGV0aWNEZWZhdWx0SW1wb3J0cycuICovCg==</text>
+        <text encoding="base64">ICAgICAgICBrCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvKiBBbGxvdyBkZWZhdWx0IGltcG9ydHMgZnJvbSBtb2R1bGVzIHdpdGggbm8gZGVmYXVsdCBleHBvcnQuIFRoaXMgZG9lcyBub3QgYWZmZWN0IGNvZGUgZW1pdCwganVzdCB0eXBlY2hlY2tpbmcuICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAicm9vdERpcnMiOiBbXSwgICAgICAgICAgICAgICAgICAgICAgICAvKiBMaXN0IG9mIHJvb3QgZm9sZGVycyB3aG9zZSBjb21iaW5lZCBjb250ZW50IHJlcHJlc2VudHMgdGhlIHN0cnVjdHVyZSBvZiB0aGUgcHJvamVjdCBhdCBydW50aW1lLiAqLwogICAgICAgIC8vICJ0eXBlUm9vdHMiOiBbXSwgICAgICAgICAgICAgICAgICAgICAgIC8qIExpc3Qgb2YgZm9sZGVycyB0byBpbmNsdWRlIHR5cGUgZGVmaW5pdGlvbnMgZnJvbS4gKi8KICAgICAgICAvLyAidHlwZXMiOiBbXSwgICAgICAgICAgICAgICAgICAgICAgICAgICAvKiBUeXBlIGRlY2xhcmF0aW9uIGZpbGVzIHRvIGJlIGluY2x1ZGVkIGluIGNvbXBpbGF0aW9uLiAqLwo=</text>
+        <text encoding="base64">CiAgICAgICAgLyogU291cmNlIE1hcCBPcHRpb25zICovCiAgICAgICAgLy8gInNvdXJjZVJvb3QiOiAiIiwgICAgICAgICAgICAgICAgICAgICAgLyogU3BlY2lmeSB0aGUgbG9jYXRpb24gd2hlcmUgZGVidWdnZXIgc2hvdWxkIGxvY2F0ZSBUeXBlU2NyaXB0IGZpbGVzIGluc3RlYWQgb2Ygc291cmNlIGxvY2F0aW9ucy4gKi8KICAgICAgICAvLyAibWFwUm9vdCI6ICIiLCAgICAgICAgICAgICAgICAgICAgICAgICAvKiBTcGVjaWZ5IHRoZSBsb2NhdGlvbiB3aGVyZSBkZWJ1Z2dlciBzaG91bGQgbG9jYXRlIG1hcCBmaWxlcyBpbnN0ZWFkIG9mIGdlbmVyYXRlZCBsb2NhdGlvbnMuICovCiAgICAgICAgLy8gImlubGluZVNvdXJjZU1hcCI6IHRydWUsICAgICAgICAgICAgICAgLyogRW1pdCBhIHNpbmdsZSBmaWxlIHdpdGggc291cmNlIG1hcHMgaW5zdGVhZCBvZiBoYXZpbmcgYSBzZXBhcmF0ZSBmaWxlLiAqLwogICAgICAgIC8vICJpbmxpbmVTb3VyY2VzIjogdHJ1ZSwgICAgICAgICAgICAgICAgIC8qIEVtaXQgdGhlIHNvdXJjZSBhbG9uZ3NpZGUgdGhlIHNvdXJjZW1hcHMgd2l0aGluIGEgc2luZ2xlIGZpbGU7IHJlcXVpcmVzICctLWlubGluZVNvdXJjZU1hcCcgb3IgJy0tc291cmNlTWFwJyB0byBiZSBzZXQuICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAicGF0aHMiOiB7fSwgICAgICAgICAgICAgICAgICAgICAgICAgICAvKiBBIHNlcmllcyBvZiBlbnRyaWVzIHdoaWNoIHJlLW1hcCBpbXBvcnRzIHRvIGxvb2t1cCBsb2NhdGlvbnMgcmVsYXRpdmUgdG8gdGhlICdiYXNlVXJsJy4gKi8K</text>
+        <text encoding="base64">ICAgICAgICAvLyAicHJlc2VydmVTeW1saW5rcyI6IHRydWUsICAgICAgICAgICAgICAvKiBEbyBub3QgcmVzb2x2ZSB0aGUgcmVhbCBwYXRoIG9mIHN5bWxpbmtzLiAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>moduleResolution</last-search>
+      <last-search encoding="base64">XDxyZXBsYWNlXD4=</last-search>
       <last-offset />
-      <last-pattern>moduleResolution</last-pattern>
+      <last-pattern encoding="base64">XDxyZXBsYWNlXD4=</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>'</entry>
         <entry>Schema</entry>
         <entry>undefined</entry>
         <entry>:</entry>
@@ -1575,6 +1575,7 @@
         <entry>&quot;</entry>
         <entry>console</entry>
         <entry>moduleResolution</entry>
+        <entry encoding="base64">XDxyZXBsYWNlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>1,21%s/'/&quot;/g</entry>
