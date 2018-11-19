@@ -1269,11 +1269,11 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/client/src/client/api.client.ts" timestamp="1542391417906">
-        <mark key="[" line="3" column="7" />
-        <mark key="]" line="3" column="12" />
-        <mark key="^" line="3" column="12" />
-        <mark key="." line="3" column="12" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/client/src/client/api.client.ts" timestamp="1542645052017">
+        <mark key="[" line="3" column="51" />
+        <mark key="]" line="3" column="50" />
+        <mark key="." line="3" column="50" />
+        <mark key="^" line="3" column="50" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/elasticsearch/index-builder.ts" timestamp="1530891234005">
         <mark key="[" line="5" column="30" />
@@ -1519,8 +1519,8 @@
       <jump line="4" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/client/src/test/client/base.client.test.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>test</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHtsb2dnZXJ9IGZyb20gJ3JiYy1pZGVudGl0eS1hcGktY2xpZW50LycK</text>
       </register>
       <register name="-" type="4">
         <text>test</text>
@@ -1532,31 +1532,31 @@
         <text>&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IHtsb2dnZXJ9IGZyb20gJ3JiYy1pZGVudGl0eS1hcGktY2xpZW50LycK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGM6IEJhc2VDbGllbnQgPSBuZXcgQmFzZUNsaWVudChBcHBDb2RlLCBCYXNlVVJMICsgJy8nKTsKCiAgICBleHBlY3QoYy5BcHBDb2RlKS50b0JlKEFwcENvZGUpOwogICAgZXhwZWN0KGMuQmFzZVVSTCkudG9CZShCYXNlVVJMKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGM6IEJhc2VDbGllbnQgPSBuZXcgQmFzZUNsaWVudChBcHBDb2RlLCBCYXNlVVJMICsgJy8nKTsKCiAgICBleHBlY3QoYy5BcHBDb2RlKS50b0JlKEFwcENvZGUpOwogICAgZXhwZWN0KGMuQmFzZVVSTCkudG9CZShCYXNlVVJMKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4cGVjdCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAvLyBBIGxpc3Qgb2YgcGF0aHMgdG8gZGlyZWN0b3JpZXMgdGhhdCBKZXN0IHNob3VsZCB1c2UgdG8gc2VhcmNoIGZvciBmaWxlcyBpbgogICAgcm9vdHM6IFsKICAgICAgInNyYyIKICAgIF0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAvLyBBdXRvbWF0aWNhbGx5IGNsZWFyIG1vY2sgY2FsbHMgYW5kIGluc3RhbmNlcyBiZXR3ZWVuIGV2ZXJ5IHRlc3QKICAgIGNsZWFyTW9ja3M6IHRydWUsCg==</text>
+        <text encoding="base64">CiAgICAvLyBBIGxpc3Qgb2YgcGF0aHMgdG8gZGlyZWN0b3JpZXMgdGhhdCBKZXN0IHNob3VsZCB1c2UgdG8gc2VhcmNoIGZvciBmaWxlcyBpbgogICAgcm9vdHM6IFsKICAgICAgInNyYyIKICAgIF0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAvLyBBdXRvbWF0aWNhbGx5IGNsZWFyIG1vY2sgY2FsbHMgYW5kIGluc3RhbmNlcyBiZXR3ZWVuIGV2ZXJ5IHRlc3QKICAgIGNsZWFyTW9ja3M6IHRydWUsCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
