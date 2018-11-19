@@ -114,6 +114,7 @@
         <mark key="." line="0" column="32" />
         <mark key="^" line="0" column="32" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/models/ActivateUserRequest.json" timestamp="1542648775530" />
       <file name="$USER_HOME$/dev/repos/automp-be/src/dealer/test-drive.ts" timestamp="1531195662444">
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="0" />
@@ -612,6 +613,16 @@
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="21" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/client/src/core/client/base.client.ts" timestamp="1542648481950">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="24" column="70" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/client/src/api.client.ts" timestamp="1542648601269">
+        <mark key="[" line="11" column="6" />
+        <mark key="]" line="12" column="3" />
+        <mark key="." line="12" column="3" />
+        <mark key="^" line="12" column="3" />
+      </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/auth/oauth/okta/client-flow.ts" timestamp="1534113865124">
         <mark key="[" line="5" column="15" />
         <mark key="]" line="5" column="20" />
@@ -998,12 +1009,12 @@
         <mark key="^" line="6" column="23" />
         <mark key="." line="3" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/client/tsconfig.json" timestamp="1542647448402">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/client/tsconfig.json" timestamp="1542648429743">
         <mark key="'" line="21" column="9" />
-        <mark key="[" line="25" column="21" />
-        <mark key="]" line="25" column="21" />
-        <mark key="." line="25" column="21" />
-        <mark key="^" line="27" column="46" />
+        <mark key="[" line="31" column="22" />
+        <mark key="]" line="32" column="12" />
+        <mark key="." line="32" column="12" />
+        <mark key="^" line="32" column="12" />
       </file>
       <file name="$USER_HOME$/hackday-1-business-1/src/geo.js" timestamp="1532026630802">
         <mark key="[" line="17" column="53" />
@@ -1292,6 +1303,7 @@
         <mark key="." line="38" column="3" />
         <mark key="^" line="38" column="3" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/models/RegisterUserRequest.json" timestamp="1542648909546" />
       <file name="$USER_HOME$/dev/repos/auto-core-incentives-api/src/core/knex.ts" timestamp="1532007872248">
         <mark key="[" line="5" column="11" />
         <mark key="]" line="5" column="27" />
@@ -1322,10 +1334,10 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/client/src/client/api.client.ts" timestamp="1542647522136">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/client/src/client/api.client.ts" timestamp="1542648263118">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/elasticsearch/index-builder.ts" timestamp="1530891234005">
         <mark key="[" line="5" column="30" />
@@ -1400,6 +1412,11 @@
         <mark key="]" line="593" column="0" />
         <mark key="^" line="599" column="37" />
         <mark key="." line="593" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/client/src/users/users.client.ts" timestamp="1542648729459">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/quickdata/alterations.js" timestamp="1530890506775">
         <mark key="[" line="15" column="0" />
@@ -1572,46 +1589,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHtsb2dnZXJ9IGZyb20gJ3JiYy1pZGVudGl0eS1hcGktY2xpZW50Lyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>'src</text>
+        <text>this.</text>
       </register>
       <register name="/" type="4">
         <text>PAUL</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9jbGllbnQnOwo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgcmVhZG9ubHkgQXBwQ29kZTogc3RyaW5nLAogICAgICAgIHB1YmxpYyByZWFkb25seSBCYXNlVVJMOiBzdHJpbmcsCiAgICAgICAgcHJvdGVjdGVkIHJlYWRvbmx5IENvbmZpZzogSUNsaWVudENvbmZpZyA9IERlZmF1bHRDbGllbnRDb25maWcsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtsb2dnZXJ9IGZyb20gJ3JiYy1pZGVudGl0eS1hcGktY2xpZW50Lyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgaWQgZnJvbSAncmJjLWlkZW50aXR5LWFwaS1jbGllbnQnOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aWQuCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aWQuCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlcihwcm9wcyk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IHtVc2Vyc30K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHtsb2dnZXJ9IGZyb20gJ3JiYy1pZGVudGl0eS1hcGktY2xpZW50L2NvcmUnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHtsb2dnZXJ9IGZyb20gJ3JiYy1pZGVudGl0eS1hcGktY2xpZW50LycK</text>
+        <text encoding="base64">ICAgICAgICAiYmFzZVVybCI6ICIuIiwKICAgICAgICAicGF0aHMiOiB7CiAgICAgICAgICAgICJyYmMtaWRlbnRpdHktYXBpLWNsaWVudCI6IFsiLi9zcmMvKiJdCiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJwYXRocyI6IHsKICAgICAgICAicmJjLWlkZW50aXR5LWFwaS1jbGllbnQiOiAiLi9zcmMiCiAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtsb2dnZXJ9IGZyb20gJ3JiYy1pZGVudGl0eS1hcGktY2xpZW50Lyc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1660,7 +1677,6 @@
         <entry>275s/'/&quot;/g</entry>
         <entry>245</entry>
         <entry>346</entry>
-        <entry>W</entry>
         <entry>q</entry>
         <entry>1</entry>
         <entry>11</entry>
@@ -1670,6 +1686,7 @@
         <entry>0</entry>
         <entry>2</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
