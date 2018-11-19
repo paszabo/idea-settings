@@ -142,11 +142,11 @@
         <mark key="." line="104" column="9" />
         <mark key="^" line="104" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer.js" timestamp="1541087044488">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
-        <mark key="^" line="105" column="9" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer.js" timestamp="1542668255133">
+        <mark key="[" line="272" column="0" />
+        <mark key="]" line="272" column="0" />
+        <mark key="." line="272" column="0" />
+        <mark key="^" line="92" column="1" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/client/src/core/client/action/index.ts" timestamp="1542665620477">
         <mark key="[" line="0" column="0" />
@@ -1278,7 +1278,7 @@
         <mark key="." line="1" column="40" />
         <mark key="^" line="5" column="86" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer-memberid.js" timestamp="1542667067261" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer-memberid.js" timestamp="1542667759893" />
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/quickdata/alterations.js" timestamp="1530890506775">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -1443,11 +1443,11 @@
       <jump line="150" column="92" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/PreferencesService.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/NotFoundException</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/NotFoundException</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>\*</text>
@@ -1456,34 +1456,34 @@
         <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9iYXNlLmFjdGlvbic7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuIGFsbFByZWZzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9iYXNlLmFjdGlvbic7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuIGFsbFByZWZzOwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9iYXNlLmFjdGlvbic7Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ZXgK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">KCk6IFByb21pc2U8YW55PiB7CiAgICAgICAgcmV0dXJuOwogICAgfQ==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgUmVnaXN0ZXJVc2VyQWN0aW9uIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihjbGllbnQuQXBwQ29kZSwgY2xpZW50LkJhc2VVUkwsIGNsaWVudC5Db25maWcpOwo=</text>
+        <text encoding="base64">Y2xhc3MgUmVnaXN0ZXJVc2VyQWN0aW9uIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNyZWRlbnRpYWxzOiBJQ3JlZGVudGlhbHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcihjbGllbnQuQXBwQ29kZSwgY2xpZW50LkJhc2VVUkwsIGNsaWVudC5Db25maWcpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
