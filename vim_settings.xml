@@ -158,11 +158,11 @@
         <mark key="." line="102" column="0" />
         <mark key="^" line="105" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/client/src/core/client/action/index.ts" timestamp="1542650669285">
-        <mark key="[" line="1" column="17" />
-        <mark key="]" line="1" column="20" />
-        <mark key="^" line="1" column="20" />
-        <mark key="." line="1" column="20" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/client/src/core/client/action/index.ts" timestamp="1542665620477">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/deploy-tncs.sh" timestamp="1542213568364">
         <mark key="[" line="31" column="44" />
@@ -375,7 +375,7 @@
         <mark key="." line="21" column="70" />
         <mark key="^" line="21" column="70" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/client/package.json" timestamp="1542646467874">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/client/package.json" timestamp="1542665375445">
         <mark key="'" line="26" column="16" />
         <mark key="[" line="1" column="13" />
         <mark key="]" line="1" column="35" />
@@ -505,11 +505,10 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="18" column="82" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/client/src/core/client/index.ts" timestamp="1542650653439">
-        <mark key="[" line="1" column="29" />
-        <mark key="]" line="1" column="29" />
-        <mark key="^" line="1" column="29" />
-        <mark key="." line="1" column="29" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/client/src/core/client/index.ts" timestamp="1542665536887">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/test-drive-status-update.manager.ts" timestamp="1536956864681">
         <mark key="[" line="20" column="0" />
@@ -595,11 +594,11 @@
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/client/src/core/client/base.client.ts" timestamp="1542650381890">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="40" />
-        <mark key="." line="33" column="9" />
-        <mark key="^" line="33" column="9" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/client/src/core/client/base.client.ts" timestamp="1542665792921">
+        <mark key="[" line="82" column="4" />
+        <mark key="]" line="82" column="9" />
+        <mark key="." line="82" column="9" />
+        <mark key="^" line="82" column="9" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/client/src/api.client.ts" timestamp="1542651796953">
         <mark key="[" line="0" column="39" />
@@ -1410,11 +1409,11 @@
         <mark key="^" line="599" column="37" />
         <mark key="." line="593" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/client/src/users/users.client.ts" timestamp="1542652306146">
-        <mark key="[" line="7" column="61" />
-        <mark key="]" line="7" column="86" />
-        <mark key="." line="7" column="86" />
-        <mark key="^" line="7" column="86" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/client/src/users/users.client.ts" timestamp="1542665832807">
+        <mark key="[" line="1" column="40" />
+        <mark key="]" line="1" column="40" />
+        <mark key="." line="1" column="40" />
+        <mark key="^" line="5" column="86" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/quickdata/alterations.js" timestamp="1530890506775">
         <mark key="[" line="15" column="0" />
@@ -1588,10 +1587,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>any</text>
+        <text>protected</text>
       </register>
       <register name="-" type="4">
-        <text>any</text>
+        <text>protected</text>
       </register>
       <register name="/" type="4">
         <text>\*</text>
@@ -1599,35 +1598,35 @@
       <register name="0" type="2">
         <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9iYXNlLmFjdGlvbic7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">KCk6IFByb21pc2U8YW55PiB7CiAgICAgICAgcmV0dXJuOwogICAgfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9iYXNlLmFjdGlvbic7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXgK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">KCk6IFByb21pc2U8YW55PiB7CiAgICAgICAgcmV0dXJuOwogICAgfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgUmVnaXN0ZXJVc2VyQWN0aW9uIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihjbGllbnQuQXBwQ29kZSwgY2xpZW50LkJhc2VVUkwsIGNsaWVudC5Db25maWcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNyZWRlbnRpYWxzOiBJQ3JlZGVudGlhbHM7Cg==</text>
+        <text encoding="base64">Y2xhc3MgUmVnaXN0ZXJVc2VyQWN0aW9uIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CmV4cG9ydCBpbnRlcmZhY2UgSVByZWZlcmVuY2VzIHsKICAgIFtdCn0K</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcihjbGllbnQuQXBwQ29kZSwgY2xpZW50LkJhc2VVUkwsIGNsaWVudC5Db25maWcpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNyZWRlbnRpYWxzOiBJQ3JlZGVudGlhbHM7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZpcnN0TmFtZTogc3RyaW5nOwogICAgbGFzdE5hbWU6IHN0cmluZzsKICAgIGVtYWlsOiBzdHJpbmc7CiAgICBsb2dpbjogc3RyaW5nOwogICAgZGF0ZU9mQmlydGg6IERhdGU7CiAgICBwcmVmZXJyZWRMYW5ndWFnZTogc3RyaW5nOwogICAgbW9iaWxlUGhvbmU6IHN0cmluZzsKICAgIGFjdGl2YXRpb25NZXRob2Q6ICdzbXMnIHwgJ2VtYWlsJzsKICAgIHRuY1ZlcnNpb246IG51bWJlcjsK</text>
+        <text encoding="base64">CmV4cG9ydCBpbnRlcmZhY2UgSVByZWZlcmVuY2VzIHsKICAgIFtdCn0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1673,7 +1672,6 @@
         <entry>245</entry>
         <entry>346</entry>
         <entry>q</entry>
-        <entry>1</entry>
         <entry>11</entry>
         <entry>%s/QUESTION/Question/g</entry>
         <entry>%s/\*/{default}/g</entry>
@@ -1685,6 +1683,7 @@
         <entry>0</entry>
         <entry>s</entry>
         <entry>&quot;w</entry>
+        <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
