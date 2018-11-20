@@ -82,6 +82,12 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api-client/src/public.api.ts" timestamp="1542742253540">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+      </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/email/index.ts" timestamp="1534525785330">
         <mark key="[" line="0" column="31" />
         <mark key="]" line="0" column="31" />
@@ -901,9 +907,6 @@
         <mark key="." line="0" column="32" />
         <mark key="^" line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/aws-models.ts" timestamp="1542730694044">
-        <mark key="'" line="171" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/automp-be/models/joyrideIdMapper/dal.ts" timestamp="1533053148574">
         <mark key="[" line="13" column="32" />
         <mark key="]" line="13" column="37" />
@@ -946,11 +949,11 @@
         <mark key="." line="6" column="72" />
         <mark key="^" line="6" column="72" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api-client/src/core/client/base.client.ts" timestamp="1542740415841">
+      <file name="$USER_HOME$/dev/repos/common-identity-api-client/src/core/client/base.client.ts" timestamp="1542742288270">
         <mark key="'" line="19" column="4" />
-        <mark key="[" line="82" column="4" />
-        <mark key="]" line="82" column="9" />
-        <mark key="." line="82" column="9" />
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="0" column="33" />
+        <mark key="." line="0" column="33" />
         <mark key="^" line="82" column="9" />
       </file>
       <file name="$USER_HOME$/dev/repos/terraform-hello-world/infrastructure/terraform/users/users-table.tf" timestamp="1541618345723">
@@ -959,6 +962,12 @@
         <mark key="]" line="5" column="3" />
         <mark key="." line="5" column="3" />
         <mark key="^" line="5" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api-client/src/test/client/base.client.test.ts" timestamp="1542742317628">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+        <mark key="^" line="0" column="17" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/drive/index.ts" timestamp="1534525671195">
         <mark key="[" line="0" column="52" />
@@ -1639,10 +1648,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IHtCYXNlQ2xpZW50Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>void</text>
+        <text encoding="base64">fSBmcm9tIA==</text>
       </register>
       <register name="/" type="4">
         <text>protected</text>
@@ -1651,7 +1660,7 @@
         <text>IMultiLanguageEmailTemplate</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IHtCYXNlQ2xpZW50Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1660,19 +1669,19 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5jbGllbnQucmVxdWVzdCh0aGlzLlVSTCwgey4uLm9wdGlvbnMsIGJvZHl9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5jbGllbnQucmVxdWVzdCh0aGlzLlVSTCwgey4uLm9wdGlvbnMsIGJvZHl9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHVzZXJuYW1lUHJlZml4Pzogc3RyaW5nOwogICAgcmV0dXJuRXJyb3JzPzogc3RyaW5nOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVzZXJuYW1lUHJlZml4Pzogc3RyaW5nOwo=</text>
+        <text encoding="base64">ICAgIHVzZXJuYW1lUHJlZml4Pzogc3RyaW5nOwogICAgcmV0dXJuRXJyb3JzPzogc3RyaW5nOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVzZXJuYW1lUHJlZml4Pzogc3RyaW5nOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
