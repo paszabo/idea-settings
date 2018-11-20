@@ -466,6 +466,13 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="12" column="3" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/okta/client/models.ts" timestamp="1542735877761">
+        <mark key="'" line="1" column="39" />
+        <mark key="[" line="15" column="21" />
+        <mark key="]" line="15" column="20" />
+        <mark key="." line="15" column="20" />
+        <mark key="^" line="15" column="20" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/client/src/core/client/index.ts" timestamp="1542665536887">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -691,6 +698,13 @@
         <mark key="]" line="6" column="1" />
         <mark key="." line="6" column="1" />
         <mark key="^" line="6" column="1" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1542735723675">
+        <mark key="'" line="0" column="36" />
+        <mark key="[" line="293" column="42" />
+        <mark key="]" line="294" column="27" />
+        <mark key="^" line="294" column="27" />
+        <mark key="." line="294" column="27" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/api/nodemon.json" timestamp="1530488452262">
         <mark key="[" line="3" column="21" />
@@ -1114,6 +1128,12 @@
         <mark key="." line="15" column="43" />
         <mark key="^" line="15" column="43" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/UpdatePasswordRequest.ts" timestamp="1542735351128">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/auto-core-incentives-api/.circleci/codedeploy/scripts/start_container.sh" timestamp="1532015260390">
         <mark key="[" line="10" column="10" />
         <mark key="]" line="10" column="13" />
@@ -1289,7 +1309,7 @@
         <mark key="." line="1" column="49" />
         <mark key="^" line="1" column="49" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1542666398390">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1542736268998">
         <mark key="'" line="531" column="0" />
         <mark key="[" line="86" column="29" />
         <mark key="]" line="87" column="0" />
@@ -1467,11 +1487,11 @@
       <jump line="144" column="86" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/UserRepository.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAvLyB7CiAgICAgICAgICAgICAgICAvLyAgICAgICAgIG1lbWJlcklkOiBkYXRhLkl0ZW1zWzBdLm1lbWJlcklkLAogICAgICAgICAgICAgICAgLy8gICAgICAgICBlbWFpbDogZGF0YS5JdGVtc1swXS5lbWFpbCwKICAgICAgICAgICAgICAgIC8vICAgICAgICAgb2t0YUlkOiBkYXRhLkl0ZW1zWzBdLm9rdGFJZCwKICAgICAgICAgICAgICAgIC8vICAgICAgICAgdXNlcm5hbWU6IGRhdGEuSXRlbXNbMF0udXNlcm5hbWUsCiAgICAgICAgICAgICAgICAvLyAgICAgICAgIGVtYWlsVmVyaWZpZWQ6IHRoaXMuZ2V0Qm9vbGVhbk9yRGVmYXVsdChkYXRhLkl0ZW1zWzBdLmVtYWlsVmVyaWZpZWQsIHRydWUpLAogICAgICAgICAgICAgICAgLy8gICAgICAgICBtb2JpbGVWZXJpZmllZDogdGhpcy5nZXRCb29sZWFuT3JEZWZhdWx0KGRhdGEuSXRlbXNbMF0ubW9iaWxlVmVyaWZpZWQsIHRydWUpLAogICAgICAgICAgICAgICAgLy8gICAgICAgICBzdWJzY3JpYmVyS2V5OiBkYXRhLkl0ZW1zWzBdLnN1YnNjcmliZXJLZXksCiAgICAgICAgICAgICAgICAvLyAgICAgICAgIGFjdGl2YXRpb25NZXRob2Q6IGRhdGEuSXRlbXNbMF0uYWN0aXZhdGlvbk1ldGhvZCB8fCAiZW1haWwiLAogICAgICAgICAgICAgICAgLy8gICAgICAgICBsYXN0UGFzc3dvcmRVcGRhdGU6IGRhdGEuSXRlbXNbMF0ubGFzdFBhc3N3b3JkVXBkYXRlID8gbmV3IERhdGUoZGF0YS5JdGVtc1swXS5sYXN0UGFzc3dvcmRVcGRhdGUpIDogbnVsbCwKICAgICAgICAgICAgICAgIC8vICAgICAgICAgY3JlYXRlZE9uOiBuZXcgRGF0ZShkYXRhLkl0ZW1zWzBdLmNyZWF0ZWRPbiB8fCBuZXcgRGF0ZSgpKSwKICAgICAgICAgICAgICAgIC8vICAgICAgICAgbGFzdFVwZGF0ZWQ6IG5ldyBEYXRlKGRhdGEuSXRlbXNbMF0ubGFzdFVwZGF0ZWQgfHwgbmV3IERhdGUoKSkKICAgICAgICAgICAgICAgIC8vIH07CgogICAgICAgICAgICAgICAgcmV0dXJuIHJlc3VsdDsK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>const result: IUserOktaEntry =</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>map</text>
@@ -1480,34 +1500,34 @@
         <text encoding="base64">aXRlbXMubWFwKGkgPT4gdGhpcy5jcmVhdGVVc2VyRW50cnkoaSkp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAvLyB7CiAgICAgICAgICAgICAgICAvLyAgICAgICAgIG1lbWJlcklkOiBkYXRhLkl0ZW1zWzBdLm1lbWJlcklkLAogICAgICAgICAgICAgICAgLy8gICAgICAgICBlbWFpbDogZGF0YS5JdGVtc1swXS5lbWFpbCwKICAgICAgICAgICAgICAgIC8vICAgICAgICAgb2t0YUlkOiBkYXRhLkl0ZW1zWzBdLm9rdGFJZCwKICAgICAgICAgICAgICAgIC8vICAgICAgICAgdXNlcm5hbWU6IGRhdGEuSXRlbXNbMF0udXNlcm5hbWUsCiAgICAgICAgICAgICAgICAvLyAgICAgICAgIGVtYWlsVmVyaWZpZWQ6IHRoaXMuZ2V0Qm9vbGVhbk9yRGVmYXVsdChkYXRhLkl0ZW1zWzBdLmVtYWlsVmVyaWZpZWQsIHRydWUpLAogICAgICAgICAgICAgICAgLy8gICAgICAgICBtb2JpbGVWZXJpZmllZDogdGhpcy5nZXRCb29sZWFuT3JEZWZhdWx0KGRhdGEuSXRlbXNbMF0ubW9iaWxlVmVyaWZpZWQsIHRydWUpLAogICAgICAgICAgICAgICAgLy8gICAgICAgICBzdWJzY3JpYmVyS2V5OiBkYXRhLkl0ZW1zWzBdLnN1YnNjcmliZXJLZXksCiAgICAgICAgICAgICAgICAvLyAgICAgICAgIGFjdGl2YXRpb25NZXRob2Q6IGRhdGEuSXRlbXNbMF0uYWN0aXZhdGlvbk1ldGhvZCB8fCAiZW1haWwiLAogICAgICAgICAgICAgICAgLy8gICAgICAgICBsYXN0UGFzc3dvcmRVcGRhdGU6IGRhdGEuSXRlbXNbMF0ubGFzdFBhc3N3b3JkVXBkYXRlID8gbmV3IERhdGUoZGF0YS5JdGVtc1swXS5sYXN0UGFzc3dvcmRVcGRhdGUpIDogbnVsbCwKICAgICAgICAgICAgICAgIC8vICAgICAgICAgY3JlYXRlZE9uOiBuZXcgRGF0ZShkYXRhLkl0ZW1zWzBdLmNyZWF0ZWRPbiB8fCBuZXcgRGF0ZSgpKSwKICAgICAgICAgICAgICAgIC8vICAgICAgICAgbGFzdFVwZGF0ZWQ6IG5ldyBEYXRlKGRhdGEuSXRlbXNbMF0ubGFzdFVwZGF0ZWQgfHwgbmV3IERhdGUoKSkKICAgICAgICAgICAgICAgIC8vIH07CgogICAgICAgICAgICAgICAgcmV0dXJuIHJlc3VsdDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB1c2VyRW50cnk7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAvLyB7CiAgICAgICAgICAgICAgICAvLyAgICAgICAgIG1lbWJlcklkOiBkYXRhLkl0ZW1zWzBdLm1lbWJlcklkLAogICAgICAgICAgICAgICAgLy8gICAgICAgICBlbWFpbDogZGF0YS5JdGVtc1swXS5lbWFpbCwKICAgICAgICAgICAgICAgIC8vICAgICAgICAgb2t0YUlkOiBkYXRhLkl0ZW1zWzBdLm9rdGFJZCwKICAgICAgICAgICAgICAgIC8vICAgICAgICAgdXNlcm5hbWU6IGRhdGEuSXRlbXNbMF0udXNlcm5hbWUsCiAgICAgICAgICAgICAgICAvLyAgICAgICAgIGVtYWlsVmVyaWZpZWQ6IHRoaXMuZ2V0Qm9vbGVhbk9yRGVmYXVsdChkYXRhLkl0ZW1zWzBdLmVtYWlsVmVyaWZpZWQsIHRydWUpLAogICAgICAgICAgICAgICAgLy8gICAgICAgICBtb2JpbGVWZXJpZmllZDogdGhpcy5nZXRCb29sZWFuT3JEZWZhdWx0KGRhdGEuSXRlbXNbMF0ubW9iaWxlVmVyaWZpZWQsIHRydWUpLAogICAgICAgICAgICAgICAgLy8gICAgICAgICBzdWJzY3JpYmVyS2V5OiBkYXRhLkl0ZW1zWzBdLnN1YnNjcmliZXJLZXksCiAgICAgICAgICAgICAgICAvLyAgICAgICAgIGFjdGl2YXRpb25NZXRob2Q6IGRhdGEuSXRlbXNbMF0uYWN0aXZhdGlvbk1ldGhvZCB8fCAiZW1haWwiLAogICAgICAgICAgICAgICAgLy8gICAgICAgICBsYXN0UGFzc3dvcmRVcGRhdGU6IGRhdGEuSXRlbXNbMF0ubGFzdFBhc3N3b3JkVXBkYXRlID8gbmV3IERhdGUoZGF0YS5JdGVtc1swXS5sYXN0UGFzc3dvcmRVcGRhdGUpIDogbnVsbCwKICAgICAgICAgICAgICAgIC8vICAgICAgICAgY3JlYXRlZE9uOiBuZXcgRGF0ZShkYXRhLkl0ZW1zWzBdLmNyZWF0ZWRPbiB8fCBuZXcgRGF0ZSgpKSwKICAgICAgICAgICAgICAgIC8vICAgICAgICAgbGFzdFVwZGF0ZWQ6IG5ldyBEYXRlKGRhdGEuSXRlbXNbMF0ubGFzdFVwZGF0ZWQgfHwgbmV3IERhdGUoKSkKICAgICAgICAgICAgICAgIC8vIH07CgogICAgICAgICAgICAgICAgcmV0dXJuIHJlc3VsdDsK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB1c2VyRW50cnk7Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">CiAgICAgICAgICAgICAgICAvLyAgICAgbWVtYmVySWQ6IGRhdGEuSXRlbS5tZW1iZXJJZCwKICAgICAgICAgICAgICAgIC8vICAgICBlbWFpbDogZGF0YS5JdGVtLmVtYWlsLAogICAgICAgICAgICAgICAgLy8gICAgIHVzZXJuYW1lOiBkYXRhLkl0ZW0udXNlcm5hbWUsCiAgICAgICAgICAgICAgICAvLyAgICAgb2t0YUlkOiBkYXRhLkl0ZW0ub2t0YUlkLAogICAgICAgICAgICAgICAgLy8gICAgIGVtYWlsVmVyaWZpZWQ6IHRoaXMuZ2V0Qm9vbGVhbk9yRGVmYXVsdChkYXRhLkl0ZW0uZW1haWxWZXJpZmllZCwgdHJ1ZSksCiAgICAgICAgICAgICAgICAvLyAgICAgbW9iaWxlVmVyaWZpZWQ6IHRoaXMuZ2V0Qm9vbGVhbk9yRGVmYXVsdChkYXRhLkl0ZW0ubW9iaWxlVmVyaWZpZWQsIHRydWUpLAogICAgICAgICAgICAgICAgLy8gICAgIHN1YnNjcmliZXJLZXk6IGRhdGEuSXRlbS5zdWJzY3JpYmVyS2V5LAogICAgICAgICAgICAgICAgLy8gICAgIGFjdGl2YXRpb25NZXRob2Q6IGRhdGEuSXRlbS5hY3RpdmF0aW9uTWV0aG9kIHx8ICJlbWFpbCIsCiAgICAgICAgICAgICAgICAvLyAgICAgbGFzdFBhc3N3b3JkVXBkYXRlOiBkYXRhLkl0ZW0ubGFzdFBhc3N3b3JkVXBkYXRlID8gbmV3IERhdGUoZGF0YS5JdGVtLmxhc3RQYXNzd29yZFVwZGF0ZSkgOiBudWxsLAogICAgICAgICAgICAgICAgLy8gICAgIGNyZWF0ZWRPbjogbmV3IERhdGUoZGF0YS5JdGVtLmNyZWF0ZWRPbiksCiAgICAgICAgICAgICAgICAvLyAgICAgbGFzdFVwZGF0ZWQ6IG5ldyBEYXRlKGRhdGEuSXRlbS5sYXN0VXBkYXRlZCkKICAgICAgICAgICAgICAgIC8vIH07Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICAvLyB7</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IGl0ZW1zID0gZGF0YS5JdGVtcyB8fCBbXTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCBlbnRyaWVzOiBJVXNlck9rdGFFbnRyeVtdID0gaXRlbXMubWFwKGkgPT4gdGhpcy5jcmVhdGVVc2VyRW50cnkoaSkpOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCBlbnRyaWVzOiBJVXNlck9rdGFFbnRyeVtdID0gaXRlbXMubWFwKGkgPT4gdGhpcy5jcmVhdGVVc2VyRW50cnkoaSkpOwoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgcmVzb2x2ZShlbnRyaWVzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCBlbnRyaWVzOiBJVXNlck9rdGFFbnRyeVtdID0gaXRlbXMubWFwKGkgPT4gdGhpcy5jcmVhdGVVc2VyRW50cnkoaSkpOwoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1546,7 +1566,6 @@
         <entry>map</entry>
       </history-search>
       <history-cmd>
-        <entry>s245/'/&quot;/g</entry>
         <entry>245s/'/&quot;/g</entry>
         <entry>268s/'/&quot;/g</entry>
         <entry>275s/'/&quot;/g</entry>
@@ -1565,6 +1584,7 @@
         <entry>1</entry>
         <entry>0</entry>
         <entry>2</entry>
+        <entry>416</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
