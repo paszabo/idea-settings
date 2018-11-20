@@ -225,7 +225,8 @@
         <mark key="." line="6" column="12" />
         <mark key="^" line="6" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Helper.ts" timestamp="1542224812763">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Helper.ts" timestamp="1542727934769">
+        <mark key="'" line="6" column="9" />
         <mark key="[" line="73" column="0" />
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
@@ -357,6 +358,11 @@
         <mark key="]" line="1" column="35" />
         <mark key="." line="33" column="26" />
         <mark key="^" line="33" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/MailService.ts" timestamp="1542728520349">
+        <mark key="[" line="0" column="50" />
+        <mark key="]" line="0" column="50" />
+        <mark key="." line="0" column="50" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/config/index.js" timestamp="1530646728401">
         <mark key="[" line="8" column="19" />
@@ -785,6 +791,9 @@
         <mark key="." line="0" column="32" />
         <mark key="^" line="0" column="32" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/aws-models.ts" timestamp="1542728809925">
+        <mark key="'" line="47" column="17" />
+      </file>
       <file name="$USER_HOME$/dev/repos/automp-be/models/joyrideIdMapper/dal.ts" timestamp="1533053148574">
         <mark key="[" line="13" column="32" />
         <mark key="]" line="13" column="37" />
@@ -1051,6 +1060,13 @@
         <mark key="^" line="27" column="4" />
         <mark key="." line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IAppDetails.ts" timestamp="1542728722447" />
+      <file name="$USER_HOME$/tmp/joi-to-json-schema-and-swagger/index.js" timestamp="1542729693384">
+        <mark key="[" line="18" column="55" />
+        <mark key="]" line="18" column="56" />
+        <mark key="." line="18" column="55" />
+        <mark key="^" line="18" column="38" />
+      </file>
       <file name="$USER_HOME$/dev/repos/automp-be/config/okta.ts" timestamp="1536164158914">
         <mark key="[" line="1" column="48" />
         <mark key="]" line="1" column="3" />
@@ -1133,6 +1149,7 @@
         <mark key="^" line="2" column="20" />
         <mark key="." line="2" column="21" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/IntercomMaketingService.ts" timestamp="1542727751320" />
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/test/lib/chromedata/client.ts" timestamp="1530896721246">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -1341,11 +1358,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
-      <jump line="19" column="82" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
-      <jump line="91" column="15" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
-      <jump line="66" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/okta/client/types.ts" />
-      <jump line="35" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/models/IUser.ts" />
       <jump line="53" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/okta/client/types.ts" />
       <jump line="746" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="47" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
@@ -1441,58 +1453,63 @@
       <jump line="34" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/client/jest.config.js" />
       <jump line="4" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/client/src/test/client/base.client.test.ts" />
       <jump line="150" column="92" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/PreferencesService.ts" />
+      <jump line="56" column="62" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/Helper.ts" />
+      <jump line="57" column="27" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/Helper.ts" />
+      <jump line="5" column="45" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/Helper.ts" />
+      <jump line="6" column="9" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/Helper.ts" />
+      <jump line="47" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/models/aws-models.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>\*</text>
+        <text>IUserOktaEntry</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9iYXNlLmFjdGlvbic7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJycgKwogICAgJ3NjJykK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuIGFsbFByZWZzOwo=</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgSm9pIGZyb20gJ2pvaSc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9iYXNlLmFjdGlvbic7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXgK</text>
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuIGFsbFByZWZzOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">KCk6IFByb21pc2U8YW55PiB7CiAgICAgICAgcmV0dXJuOwogICAgfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9iYXNlLmFjdGlvbic7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXgK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">KCk6IFByb21pc2U8YW55PiB7CiAgICAgICAgcmV0dXJuOwogICAgfQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgUmVnaXN0ZXJVc2VyQWN0aW9uIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihjbGllbnQuQXBwQ29kZSwgY2xpZW50LkJhc2VVUkwsIGNsaWVudC5Db25maWcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>\*</last-search>
+      <last-search>IUserOktaEntry</last-search>
       <last-offset />
-      <last-pattern>\*</last-pattern>
+      <last-pattern>IUserOktaEntry</last-pattern>
       <last-replace>{default}</last-replace>
       <last-substitute>\*</last-substitute>
       <last-dir>1</last-dir>
@@ -1500,8 +1517,6 @@
     </search>
     <history>
       <history-search>
-        <entry>abstract</entry>
-        <entry>&quot;</entry>
         <entry>console</entry>
         <entry>moduleResolution</entry>
         <entry encoding="base64">XDxyZXBsYWNlXD4=</entry>
@@ -1520,6 +1535,8 @@
         <entry>roots</entry>
         <entry>PAUL</entry>
         <entry>\*</entry>
+        <entry>IntercomMarketing</entry>
+        <entry>IUserOktaEntry</entry>
       </history-search>
       <history-cmd>
         <entry>s245/'/&quot;/g</entry>
@@ -1537,10 +1554,10 @@
         <entry>W</entry>
         <entry>w:w</entry>
         <entry>we</entry>
-        <entry>0</entry>
         <entry>s</entry>
         <entry>&quot;w</entry>
         <entry>1</entry>
+        <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
