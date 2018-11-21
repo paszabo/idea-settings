@@ -156,7 +156,11 @@
         <mark key="." line="104" column="9" />
         <mark key="^" line="104" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1542814748942" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1542818232549">
+        <mark key="[" line="588" column="13" />
+        <mark key="]" line="588" column="13" />
+        <mark key="." line="588" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer.js" timestamp="1542668255133">
         <mark key="[" line="272" column="0" />
         <mark key="]" line="272" column="0" />
@@ -389,6 +393,11 @@
         <mark key="]" line="1" column="35" />
         <mark key="." line="33" column="26" />
         <mark key="^" line="33" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/MailService.ts" timestamp="1542817860242">
+        <mark key="[" line="0" column="50" />
+        <mark key="]" line="0" column="50" />
+        <mark key="." line="0" column="50" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/config/index.js" timestamp="1530646728401">
         <mark key="[" line="8" column="19" />
@@ -1641,10 +1650,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>else {</text>
+        <text encoding="base64">IGVsc2Ugew==</text>
       </register>
       <register name="-" type="4">
-        <text>else {</text>
+        <text encoding="base64">IGVsc2Ugew==</text>
       </register>
       <register name="/" type="4">
         <text>forgotPassword</text>
@@ -1653,34 +1662,34 @@
         <text>...</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVzY3JpYmUoJ0FjdGlvbicsIGEpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVzY3JpYmUoJ0FjdGlvbicsIGEpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhyZXNwb25zZS5ib2R5KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhyZXNwb25zZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhyZXNwb25zZS5ib2R5KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBjOiBCYXNlQ2xpZW50ID0gbmV3IEJhc2VDbGllbnQoCiAgICAgICAgICAgIFRlc3REYXRhLkFwcENvZGUsCiAgICAgICAgICAgICwKICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhyZXNwb25zZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dGVzdCgnU2hvdWxkIG1ha2UgYSByZXF1ZXN0JywgYXN5bmMgKCkgPT4gewogICAgY29uc3QgYzogQmFzZUNsaWVudCA9IG5ldyBCYXNlQ2xpZW50KAogICAgICAgICdQQVVMX1RFU1RfQVBQX0NPREUnLAogICAgICAgICdodHRwOi8vZ29vZ2xlLmNhJywKICAgICk7CiAgICBjb25zdCByZXNwb25zZTogYW55ID0gYXdhaXQgYy5yZXF1ZXN0KCcvJyk7CgogICAgLy8gY29uc29sZS5sb2cocmVzcG9uc2UpOwogICAgY29uc29sZS5sb2cocmVzcG9uc2UuY29uc3RydWN0b3IubmFtZSk7CiAgICBjb25zb2xlLmxvZyhPYmplY3Qua2V5cyhyZXNwb25zZSkpOwogICAgY29uc29sZS5sb2cocmVzcG9uc2UuaGVhZGVycyk7CiAgICAvLyBjb25zb2xlLmxvZyhyZXNwb25zZS5ib2R5KTsKCn0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBjOiBCYXNlQ2xpZW50ID0gbmV3IEJhc2VDbGllbnQoCiAgICAgICAgICAgIFRlc3REYXRhLkFwcENvZGUsCiAgICAgICAgICAgICwKICAgICAgICApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
