@@ -156,10 +156,13 @@
         <mark key="." line="104" column="9" />
         <mark key="^" line="104" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1542818232549">
-        <mark key="[" line="588" column="13" />
-        <mark key="]" line="588" column="13" />
-        <mark key="." line="588" column="13" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1542818965760">
+        <mark key="a" line="684" column="19" />
+        <mark key="'" line="739" column="0" />
+        <mark key="[" line="714" column="27" />
+        <mark key="]" line="715" column="40" />
+        <mark key="." line="715" column="40" />
+        <mark key="^" line="715" column="40" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer.js" timestamp="1542668255133">
         <mark key="[" line="272" column="0" />
@@ -1547,7 +1550,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="54" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/rest_errors/abstract-rest-error.ts" />
       <jump line="16" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/client/src/core/logging/console.logger.ts" />
       <jump line="20" column="39" filename="$USER_HOME$/dev/repos/common-identity-api/src/client/src/core/logging/console.logger.ts" />
       <jump line="21" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/client/src/core/logging/console.logger.ts" />
@@ -1647,13 +1649,14 @@
       <jump line="451" column="31" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="1147" column="33" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="160" column="47" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="738" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGVsc2Ugew==</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGVsc2Ugew==</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>forgotPassword</text>
@@ -1668,28 +1671,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBCYWRSZXF1ZXN0RXhjZXB0aW9uKCJNaXNzaW5nIFJlY292ZXJ5IFRva2VuIiwgRXhjZXB0aW9uQ29kZXMuTUlTU0lOR19UT0tFTik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVzY3JpYmUoJ0FjdGlvbicsIGEpCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVzY3JpYmUoJ0FjdGlvbicsIGEpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhyZXNwb25zZS5ib2R5KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhyZXNwb25zZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBjOiBCYXNlQ2xpZW50ID0gbmV3IEJhc2VDbGllbnQoCiAgICAgICAgICAgIFRlc3REYXRhLkFwcENvZGUsCiAgICAgICAgICAgICwKICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhyZXNwb25zZS5ib2R5KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
