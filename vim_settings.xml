@@ -156,7 +156,7 @@
         <mark key="." line="104" column="9" />
         <mark key="^" line="104" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1542731707810" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1542814748942" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer.js" timestamp="1542668255133">
         <mark key="[" line="272" column="0" />
         <mark key="]" line="272" column="0" />
@@ -750,12 +750,12 @@
         <mark key="." line="6" column="1" />
         <mark key="^" line="6" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1542735723675">
-        <mark key="'" line="0" column="36" />
-        <mark key="[" line="293" column="42" />
-        <mark key="]" line="294" column="27" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1542814804851">
+        <mark key="'" line="93" column="33" />
+        <mark key="[" line="428" column="10" />
+        <mark key="]" line="428" column="10" />
         <mark key="^" line="294" column="27" />
-        <mark key="." line="294" column="27" />
+        <mark key="." line="428" column="10" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/api/nodemon.json" timestamp="1530488452262">
         <mark key="[" line="3" column="21" />
@@ -775,12 +775,12 @@
         <mark key="^" line="9" column="10" />
         <mark key="." line="9" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1542220508130">
-        <mark key="'" line="32" column="21" />
-        <mark key="[" line="1856" column="48" />
-        <mark key="]" line="1856" column="48" />
-        <mark key="." line="1856" column="48" />
-        <mark key="^" line="1856" column="47" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1542814565087">
+        <mark key="'" line="27" column="21" />
+        <mark key="[" line="1667" column="48" />
+        <mark key="]" line="1667" column="48" />
+        <mark key="." line="1667" column="48" />
+        <mark key="^" line="1667" column="47" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/api/serializer/types.ts" timestamp="1533322549303">
         <mark key="[" line="7" column="19" />
@@ -1442,7 +1442,7 @@
         <mark key="^" line="53" column="3" />
         <mark key="." line="53" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1542813804536">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1542814578906">
         <mark key="'" line="532" column="0" />
         <mark key="[" line="314" column="60" />
         <mark key="]" line="315" column="42" />
@@ -1537,7 +1537,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="15" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/rest_errors/abstract-rest-error.ts" />
       <jump line="6" column="9" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/rest_errors/abstract-rest-error.ts" />
       <jump line="5" column="7" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/rest_errors/abstract-rest-error.ts" />
       <jump line="7" column="9" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/rest_errors/abstract-rest-error.ts" />
@@ -1637,58 +1636,59 @@
       <jump line="307" column="19" filename="$USER_HOME$/dev/repos/common-identity-api-client/node_modules/@types/request/index.d.ts" />
       <jump line="310" column="14" filename="$USER_HOME$/dev/repos/common-identity-api-client/node_modules/@types/request/index.d.ts" />
       <jump line="8" column="35" filename="$USER_HOME$/dev/repos/common-identity-api-client/src/test/functional/register-user.test.ts" />
+      <jump line="93" column="33" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>else {</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsgJ3NvbWUtZmFrZS1icy10by1icmVhay1ldmVyeXRoaW5nJw==</text>
+        <text>else {</text>
       </register>
       <register name="/" type="4">
-        <text>Response</text>
+        <text>changeForgotPassword</text>
       </register>
       <register name="0" type="4">
         <text>...</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVzY3JpYmUoJ0FjdGlvbicsIGEpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVzY3JpYmUoJ0FjdGlvbicsIGEpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhyZXNwb25zZS5ib2R5KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhyZXNwb25zZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhyZXNwb25zZS5ib2R5KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBjOiBCYXNlQ2xpZW50ID0gbmV3IEJhc2VDbGllbnQoCiAgICAgICAgICAgIFRlc3REYXRhLkFwcENvZGUsCiAgICAgICAgICAgICwKICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhyZXNwb25zZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dGVzdCgnU2hvdWxkIG1ha2UgYSByZXF1ZXN0JywgYXN5bmMgKCkgPT4gewogICAgY29uc3QgYzogQmFzZUNsaWVudCA9IG5ldyBCYXNlQ2xpZW50KAogICAgICAgICdQQVVMX1RFU1RfQVBQX0NPREUnLAogICAgICAgICdodHRwOi8vZ29vZ2xlLmNhJywKICAgICk7CiAgICBjb25zdCByZXNwb25zZTogYW55ID0gYXdhaXQgYy5yZXF1ZXN0KCcvJyk7CgogICAgLy8gY29uc29sZS5sb2cocmVzcG9uc2UpOwogICAgY29uc29sZS5sb2cocmVzcG9uc2UuY29uc3RydWN0b3IubmFtZSk7CiAgICBjb25zb2xlLmxvZyhPYmplY3Qua2V5cyhyZXNwb25zZSkpOwogICAgY29uc29sZS5sb2cocmVzcG9uc2UuaGVhZGVycyk7CiAgICAvLyBjb25zb2xlLmxvZyhyZXNwb25zZS5ib2R5KTsKCn0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBjOiBCYXNlQ2xpZW50ID0gbmV3IEJhc2VDbGllbnQoCiAgICAgICAgICAgIFRlc3REYXRhLkFwcENvZGUsCiAgICAgICAgICAgICwKICAgICAgICApOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGVzdCgnU2hvdWxkIG1ha2UgYSByZXF1ZXN0JywgYXN5bmMgKCkgPT4gewogICAgY29uc3QgYzogQmFzZUNsaWVudCA9IG5ldyBCYXNlQ2xpZW50KAogICAgICAgICdQQVVMX1RFU1RfQVBQX0NPREUnLAogICAgICAgICdodHRwOi8vZ29vZ2xlLmNhJywKICAgICk7CiAgICBjb25zdCByZXNwb25zZTogYW55ID0gYXdhaXQgYy5yZXF1ZXN0KCcvJyk7CgogICAgLy8gY29uc29sZS5sb2cocmVzcG9uc2UpOwogICAgY29uc29sZS5sb2cocmVzcG9uc2UuY29uc3RydWN0b3IubmFtZSk7CiAgICBjb25zb2xlLmxvZyhPYmplY3Qua2V5cyhyZXNwb25zZSkpOwogICAgY29uc29sZS5sb2cocmVzcG9uc2UuaGVhZGVycyk7CiAgICAvLyBjb25zb2xlLmxvZyhyZXNwb25zZS5ib2R5KTsKCn0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>Response</last-search>
+      <last-search>changeForgotPassword</last-search>
       <last-offset />
-      <last-pattern>Response</last-pattern>
+      <last-pattern>changeForgotPassword</last-pattern>
       <last-replace>{default}</last-replace>
       <last-substitute>\*</last-substitute>
       <last-dir>1</last-dir>
@@ -1696,7 +1696,6 @@
     </search>
     <history>
       <history-search>
-        <entry>QUESTION</entry>
         <entry>.</entry>
         <entry>\.\/</entry>
         <entry>';</entry>
@@ -1716,6 +1715,7 @@
         <entry>map</entry>
         <entry>protected</entry>
         <entry>Response</entry>
+        <entry>changeForgotPassword</entry>
       </history-search>
       <history-cmd>
         <entry>275s/'/&quot;/g</entry>
