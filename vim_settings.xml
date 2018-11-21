@@ -659,9 +659,9 @@
         <mark key="^" line="5" column="17" />
         <mark key="." line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api-client/src/core/client/action/base.action.ts" timestamp="1542743452286">
+      <file name="$USER_HOME$/dev/repos/common-identity-api-client/src/core/client/action/base.action.ts" timestamp="1542809911399">
         <mark key="'" line="10" column="16" />
-        <mark key="[" line="16" column="39" />
+        <mark key="[" line="19" column="23" />
         <mark key="]" line="17" column="7" />
         <mark key="." line="17" column="7" />
         <mark key="^" line="17" column="7" />
@@ -919,11 +919,11 @@
         <mark key="." line="6" column="72" />
         <mark key="^" line="6" column="72" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api-client/src/core/client/base.client.ts" timestamp="1542747014135">
+      <file name="$USER_HOME$/dev/repos/common-identity-api-client/src/core/client/base.client.ts" timestamp="1542809434548">
         <mark key="'" line="21" column="4" />
         <mark key="[" line="51" column="36" />
-        <mark key="]" line="51" column="71" />
-        <mark key="." line="51" column="71" />
+        <mark key="]" line="51" column="36" />
+        <mark key="." line="51" column="36" />
         <mark key="^" line="51" column="71" />
       </file>
       <file name="$USER_HOME$/dev/repos/terraform-hello-world/infrastructure/terraform/users/users-table.tf" timestamp="1541618345723">
@@ -1455,11 +1455,11 @@
         <mark key="." line="1" column="40" />
         <mark key="^" line="5" column="86" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api-client/src/test/functional/register-user.test.ts" timestamp="1542763200442">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api-client/src/test/functional/register-user.test.ts" timestamp="1542809857738">
+        <mark key="[" line="26" column="48" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="1" column="17" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer-memberid.js" timestamp="1542667759893" />
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/quickdata/alterations.js" timestamp="1530890506775">
@@ -1640,10 +1640,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">ICsgJ3NvbWUtZmFrZS1icy10by1icmVhay1ldmVyeXRoaW5nJw==</text>
       </register>
       <register name="/" type="4">
         <text>Response</text>
@@ -1652,37 +1652,37 @@
         <text>...</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVzY3JpYmUoJ0FjdGlvbicsIGEpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhyZXNwb25zZS5ib2R5KTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhyZXNwb25zZSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBjOiBCYXNlQ2xpZW50ID0gbmV3IEJhc2VDbGllbnQoCiAgICAgICAgICAgIFRlc3REYXRhLkFwcENvZGUsCiAgICAgICAgICAgICwKICAgICAgICApOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">dGVzdCgnU2hvdWxkIG1ha2UgYSByZXF1ZXN0JywgYXN5bmMgKCkgPT4gewogICAgY29uc3QgYzogQmFzZUNsaWVudCA9IG5ldyBCYXNlQ2xpZW50KAogICAgICAgICdQQVVMX1RFU1RfQVBQX0NPREUnLAogICAgICAgICdodHRwOi8vZ29vZ2xlLmNhJywKICAgICk7CiAgICBjb25zdCByZXNwb25zZTogYW55ID0gYXdhaXQgYy5yZXF1ZXN0KCcvJyk7CgogICAgLy8gY29uc29sZS5sb2cocmVzcG9uc2UpOwogICAgY29uc29sZS5sb2cocmVzcG9uc2UuY29uc3RydWN0b3IubmFtZSk7CiAgICBjb25zb2xlLmxvZyhPYmplY3Qua2V5cyhyZXNwb25zZSkpOwogICAgY29uc29sZS5sb2cocmVzcG9uc2UuaGVhZGVycyk7CiAgICAvLyBjb25zb2xlLmxvZyhyZXNwb25zZS5ib2R5KTsKCn0pOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhyZXNwb25zZS5ib2R5KTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhyZXNwb25zZSk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBjOiBCYXNlQ2xpZW50ID0gbmV3IEJhc2VDbGllbnQoCiAgICAgICAgICAgIFRlc3REYXRhLkFwcENvZGUsCiAgICAgICAgICAgICwKICAgICAgICApOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">dGVzdCgnU2hvdWxkIG1ha2UgYSByZXF1ZXN0JywgYXN5bmMgKCkgPT4gewogICAgY29uc3QgYzogQmFzZUNsaWVudCA9IG5ldyBCYXNlQ2xpZW50KAogICAgICAgICdQQVVMX1RFU1RfQVBQX0NPREUnLAogICAgICAgICdodHRwOi8vZ29vZ2xlLmNhJywKICAgICk7CiAgICBjb25zdCByZXNwb25zZTogYW55ID0gYXdhaXQgYy5yZXF1ZXN0KCcvJyk7CgogICAgLy8gY29uc29sZS5sb2cocmVzcG9uc2UpOwogICAgY29uc29sZS5sb2cocmVzcG9uc2UuY29uc3RydWN0b3IubmFtZSk7CiAgICBjb25zb2xlLmxvZyhPYmplY3Qua2V5cyhyZXNwb25zZSkpOwogICAgY29uc29sZS5sb2cocmVzcG9uc2UuaGVhZGVycyk7CiAgICAvLyBjb25zb2xlLmxvZyhyZXNwb25zZS5ib2R5KTsKCn0pOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
@@ -1734,10 +1734,10 @@
         <entry>416</entry>
         <entry>54</entry>
         <entry>q</entry>
-        <entry>1</entry>
         <entry>4</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
