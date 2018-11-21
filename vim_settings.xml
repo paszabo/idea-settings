@@ -654,12 +654,12 @@
         <mark key="^" line="5" column="17" />
         <mark key="." line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api-client/src/core/client/action/base.action.ts" timestamp="1542820458800">
-        <mark key="'" line="10" column="16" />
-        <mark key="[" line="15" column="12" />
-        <mark key="]" line="15" column="12" />
-        <mark key="." line="15" column="12" />
-        <mark key="^" line="15" column="12" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api-client/src/core/client/action/base.action.ts" timestamp="1542826103395">
+        <mark key="'" line="11" column="16" />
+        <mark key="[" line="3" column="24" />
+        <mark key="]" line="3" column="24" />
+        <mark key="." line="3" column="24" />
+        <mark key="^" line="45" column="37" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/deploy-admin.sh" timestamp="1542213557156">
         <mark key="[" line="37" column="68" />
@@ -1614,11 +1614,11 @@
       <jump line="24" column="5" filename="$USER_HOME$/dev/repos/common-identity-api-client/src/core/client/base.client.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIEBjb25zdHJ1Y3Rvcgo=</text>
+      <register name="&quot;" type="4">
+        <text>../../../../node_modules/@types/</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>../../../../node_modules/@types/</text>
       </register>
       <register name="/" type="4">
         <text>onstructor</text>
