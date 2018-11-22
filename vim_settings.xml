@@ -197,11 +197,11 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-client/src/core/index.ts" timestamp="1542840423129">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="25" />
-        <mark key="^" line="1" column="25" />
-        <mark key="." line="1" column="25" />
+      <file name="$USER_HOME$/dev/repos/common-identity-client/src/core/index.ts" timestamp="1542911256658">
+        <mark key="[" line="1" column="26" />
+        <mark key="]" line="2" column="28" />
+        <mark key="^" line="2" column="28" />
+        <mark key="." line="2" column="28" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/deploy-tncs.sh" timestamp="1542213568364">
         <mark key="[" line="31" column="44" />
@@ -364,12 +364,12 @@
         <mark key="." line="1" column="35" />
         <mark key="^" line="1" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-client/src/core/client/base.client.ts" timestamp="1542908789717">
-        <mark key="'" line="85" column="5" />
-        <mark key="[" line="154" column="0" />
-        <mark key="]" line="154" column="0" />
-        <mark key="." line="154" column="0" />
-        <mark key="^" line="154" column="56" />
+      <file name="$USER_HOME$/dev/repos/common-identity-client/src/core/client/base.client.ts" timestamp="1542910979667">
+        <mark key="'" line="86" column="5" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="67" />
+        <mark key="^" line="183" column="37" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/url-shortener/shortened-url.model.ts" timestamp="1528316307749">
         <mark key="[" line="8" column="0" />
@@ -743,6 +743,12 @@
         <mark key="." line="7" column="9" />
         <mark key="^" line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-client/src/core/exceptions/base.exception.ts" timestamp="1542911296667">
+        <mark key="[" line="0" column="48" />
+        <mark key="]" line="1" column="64" />
+        <mark key="^" line="1" column="64" />
+        <mark key="." line="1" column="64" />
+      </file>
       <file name="$USER_HOME$/dev/repos/automp-be/server/routes/index.ts" timestamp="1532710513840">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -792,6 +798,12 @@
         <mark key="]" line="90" column="6" />
         <mark key="^" line="90" column="6" />
         <mark key="." line="90" column="6" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-client/src/core/exceptions/rest.exceptions.ts" timestamp="1542911269858">
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="0" column="32" />
+        <mark key="^" line="0" column="32" />
+        <mark key="." line="0" column="32" />
       </file>
       <file name="$USER_HOME$/dev/repos/motive-data/packages/incentives/api/src/core/knex.ts" timestamp="1530039733022">
         <mark key="[" line="7" column="19" />
@@ -1828,10 +1840,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCByZWFkb25seSBsb2c6IExvZ2dlciA9IGxvZ2dlcih0aGlzLmNvbnN0cnVjdG9yLm5hbWUpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'X-App-Code'</text>
       </register>
       <register name="/" type="4">
         <text>public url(</text>
@@ -1840,37 +1852,37 @@
         <text encoding="base64">ICAgIGV4cG9ydCBuYW1lc3BhY2UgVVJMcyB7CiAgICAgICAgZXhwb3J0IGNvbnN0IFFBOiBzdHJpbmcgPSAnaHR0cHM6Ly85bmQ3ajh6ZjA0LmV4ZWN1dGUtYXBpLmNhLWNlbnRyYWwtMS5hbWF6b25hd3MuY29tL3FhJzsKICAgICAgICBleHBvcnQgY29uc3QgRHVtbXlBUEk6IHN0cmluZyA9ICdodHRwOi8vbG9jYWxob3N0OjMwMDAnOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCByZWFkb25seSBsb2c6IExvZ2dlciA9IGxvZ2dlcih0aGlzLmNvbnN0cnVjdG9yLm5hbWUpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IG5hbQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyByZWFkb25seSBBcHBDb2RlSGVhZGVyS2V5OiBzdHJpbmcgPSAnWC1BcHAtQ29kZSc7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>espace URLsSsS {
-    export const QA: string = 'https://9nd7j8zf04.execute-api.ca-central-1.amazonaws.com/qa';
-    export const DummyAPI: string = 'http://localhost:3000';
-}</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGV4cG9ydCA9IFVSTHNTc1M7Cg==</text>
+        <text encoding="base64">ZXhwb3J0IG5hbQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGV4cG9ydCBjb25zdCBBcHBDb2RlOiBzdHJpbmcgPSBBcHBDb2Rlcy5Ecml2ZTsKICAgIC8vIGV4cG9ydCBjb25zdCBCYXNlVVJMOiBzdHJpbmcgPSBVUkxzLlFBOwo=</text>
+      <register name="6" type="4">
+        <text>espace URLsSsS {
+    export const QA: string = 'https://9nd7j8zf04.execute-api.ca-central-1.amazonaws.com/qa';
+    export const DummyAPI: string = 'http://localhost:3000';
+}</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zdCByID0gYXdhaXQgY2xpZW50LnJlZ2lzdGVyLmludm9rZShib2R5KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhyKTsK</text>
+        <text encoding="base64">ICAgIGV4cG9ydCA9IFVSTHNTc1M7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGV4cG9ydCBjb25zdCBBcHBDb2RlOiBzdHJpbmcgPSBBcHBDb2Rlcy5Ecml2ZTsKICAgIC8vIGV4cG9ydCBjb25zdCBCYXNlVVJMOiBzdHJpbmcgPSBVUkxzLlFBOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1924,10 +1936,10 @@
         <entry>2</entry>
         <entry>wq</entry>
         <entry>4</entry>
-        <entry>1</entry>
         <entry>31d</entry>
         <entry>11d</entry>
         <entry>7</entry>
+        <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
