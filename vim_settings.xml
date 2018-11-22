@@ -349,12 +349,12 @@
         <mark key="." line="1" column="35" />
         <mark key="^" line="1" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-client/src/core/client/base.client.ts" timestamp="1542914848758">
-        <mark key="'" line="68" column="24" />
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="0" />
-        <mark key="." line="124" column="0" />
-        <mark key="^" line="126" column="28" />
+      <file name="$USER_HOME$/dev/repos/common-identity-client/src/core/client/base.client.ts" timestamp="1542918162006">
+        <mark key="'" line="68" column="61" />
+        <mark key="[" line="150" column="48" />
+        <mark key="]" line="152" column="11" />
+        <mark key="." line="152" column="11" />
+        <mark key="^" line="152" column="11" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1542916438778">
         <mark key="[" line="0" column="0" />
@@ -868,8 +868,9 @@
         <mark key="." line="6" column="1" />
         <mark key="^" line="6" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1542916751639">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1542917942281">
         <mark key="'" line="33" column="17" />
+        <mark key="j" line="52" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/api/nodemon.json" timestamp="1530488452262">
         <mark key="[" line="3" column="21" />
@@ -963,7 +964,6 @@
         <mark key="^" line="7" column="49" />
         <mark key="." line="7" column="49" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-client/src/core/client/action/rest.action.ts" timestamp="1542914646119" />
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/db.ts" timestamp="1533832489235">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="20" column="2" />
@@ -1690,7 +1690,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="310" column="14" filename="$USER_HOME$/dev/repos/common-identity-api-client/node_modules/@types/request/index.d.ts" />
       <jump line="8" column="35" filename="$USER_HOME$/dev/repos/common-identity-api-client/src/test/functional/register-user.test.ts" />
       <jump line="93" column="33" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="270" column="25" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
@@ -1790,13 +1789,14 @@
       <jump line="289" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="853" column="15" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="33" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="68" column="61" filename="$USER_HOME$/dev/repos/common-identity-client/src/core/client/base.client.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Convert into custom exception class</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Convert into custom exception class</text>
+        <text>, e</text>
       </register>
       <register name="/" type="4">
         <text>registerUser(</text>
@@ -1805,37 +1805,37 @@
         <text>ErrorMessages.GenericHTTPException</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIChQUyk6IENvbnZlcnQgaW50byBjdXN0b20gZXhjZXB0aW9uIGNsYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmxvZy5lcnJvcigKICAgICAgICAgICAgRXJyb3JNZXNzYWdlcy5HZW5lcmljQmFkU3RhdHVzLAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBoZWFkZXJzOiByZXNwb25zZS5oZWFkZXJzLAogICAgICAgICAgICAgICAgc3RhdHVzQ29kZTogcmVzcG9uc2Uuc3RhdHVzQ29kZSwKICAgICAgICAgICAgICAgIHVybDogcmVzcG9uc2UucmVxdWVzdC51cmkuaHJlZiwKICAgICAgICAgICAgICAgIGJvZHk6IHRoaXMuSlNPTlBhcnNlU2FmZShyZXNwb25zZS5ib2R5KSwKICAgICAgICAgICAgfSwKICAgICAgICApOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmxvZy5lcnJvcihFcnJvck1lc3NhZ2VzLkdlbmVyaWNIVFRQRXhjZXB0aW9uLCBlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLmxvZwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAvLyBUT0RPIChQUyk6IENvbnZlcnQgaW50byBjdXN0b20gZXhjZXB0aW9uIGNsYXNzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="2">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIChQUyk6IENvbnZlcnQgaW50byBjdXN0b20gZXhjZXB0aW9uIGNsYXNzCg==</text>
+      </register>
       <register name=":" type="4">
-        <text>e</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1889,8 +1889,8 @@
         <entry>1</entry>
         <entry>0</entry>
         <entry>2</entry>
-        <entry>w</entry>
         <entry>e</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
