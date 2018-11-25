@@ -326,9 +326,12 @@
         <mark key="." line="1" column="35" />
         <mark key="^" line="1" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-client/src/core/client/base.client.ts" timestamp="1543110931595">
-        <mark key="'" line="80" column="7" />
-        <mark key="^" line="313" column="32" />
+      <file name="$USER_HOME$/dev/repos/common-identity-client/src/core/client/base.client.ts" timestamp="1543112457784">
+        <mark key="'" line="89" column="7" />
+        <mark key="[" line="101" column="28" />
+        <mark key="]" line="101" column="29" />
+        <mark key="." line="101" column="29" />
+        <mark key="^" line="26" column="14" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1542916438778">
         <mark key="[" line="0" column="0" />
@@ -801,10 +804,10 @@
         <mark key="^" line="9" column="10" />
         <mark key="." line="9" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1543107225095">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1543111971167">
         <mark key="'" line="1083" column="57" />
-        <mark key="[" line="232" column="26" />
-        <mark key="]" line="232" column="51" />
+        <mark key="[" line="476" column="26" />
+        <mark key="]" line="476" column="57" />
         <mark key="." line="1667" column="48" />
         <mark key="^" line="1667" column="47" />
       </file>
@@ -1350,12 +1353,12 @@
         <mark key="." line="38" column="3" />
         <mark key="^" line="38" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-client/src/users/users.client.ts" timestamp="1543107200916">
+      <file name="$USER_HOME$/dev/repos/common-identity-client/src/users/users.client.ts" timestamp="1543111993339">
         <mark key="'" line="38" column="4" />
-        <mark key="[" line="59" column="18" />
-        <mark key="]" line="59" column="70" />
-        <mark key="." line="59" column="70" />
-        <mark key="^" line="59" column="70" />
+        <mark key="[" line="49" column="76" />
+        <mark key="]" line="49" column="76" />
+        <mark key="." line="49" column="76" />
+        <mark key="^" line="49" column="76" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/client/src/core/client/action/base.action.ts" timestamp="1542652256030">
         <mark key="[" line="12" column="65" />
@@ -1640,36 +1643,45 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>uri</text>
+        <text>this.</text>
       </register>
       <register name="-" type="4">
-        <text>uri</text>
+        <text>this.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJQWN0aW9uQ2FsbGFibGVcPg==</text>
+        <text>this.uri</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBJSFRUUEhlYWRlcnMgewogICAgW2tleTogc3RyaW5nXTogc3RyaW5nOwp9Cg==</text>
+      <register name="0" type="4">
+        <text>users/activate/{activationToken}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBhcHBseVBhdGhQYXJhbXMoCiAgICAgICAgdXJsOiBzdHJpbmcsCiAgICAgICAgcGFyYW1zOiBJUGF0aFBhcmFtZXRlcnMsCiAgICAgICAgcHJlZml4OiBzdHJpbmcgPSAnOicsCiAgICApOiBzdHJpbmcgewogICAgICAgIHJldHVybiBPYmplY3QKICAgICAgICAgICAgLmVudHJpZXMocGFyYW1zKQogICAgICAgICAgICAucmVkdWNlKCh1LCBbaywgdl0pID0+IHUucmVwbGFjZShgJHtwcmVmaXh9JHtrfWAsIHYpLCB1cmwpOwogICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAob3B0cy5wYXJhbXMpIHsKICAgICAgICAgICAgdGhpcwogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGNvbnN0IFtrLCB2XSBvZiApIHsKICAgICAgICAgICAgdXJsLnJlcGxhY2UoYCR7cHJlZml4fSR7a31gLCB2KTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB1cmkodXJsOiBzdHJpbmcsIG9wdGlvbnM6IElDbGllbnRSZXF1ZXN0T3B0aW9ucyk6IHN0cmluZyB7CiAgICAgICAgaWYgKG9wdGlvbnMucGFyYW1zKSB7CiAgICAgICAgICAgIHJldHVybiB0aGlzLmFwcGx5UGF0aFBhcmFtcyh1cmwsIG9wdGlvbnMucGFyYW1zKTsKICAgICAgICB9CgogICAgICAgIHJldHVybiB1cmw7CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAob3B0cy5wYXJhbXMpIHsKICAgICAgICAgICAgdGhpcwogICAgICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgKGNvbnN0IFtrLCB2XSBvZiApIHsKICAgICAgICAgICAgdXJsLnJlcGxhY2UoYCR7cHJlZml4fSR7a31gLCB2KTsKICAgICAgICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>&quot;: {
         &quot;id&quot;: &quot;/properties/activationMethod&quot;,
         &quot;type&quot;: &quot;string&quot;,
@@ -1681,33 +1693,21 @@
     }
 },</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>&quot;: &quot;/properties/token&quot;,
-        &quot;type&quot;</text>
-      </register>
-      <register name="9" type="4">
-        <text>: {
-        &quot;id</text>
-      </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxJQWN0aW9uQ2FsbGFibGVcPg==</last-search>
+      <last-search>this.uri</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJQWN0aW9uQ2FsbGFibGVcPg==</last-pattern>
+      <last-pattern>this.uri</last-pattern>
       <last-replace>{default}</last-replace>
       <last-substitute>\*</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>authoriz</entry>
         <entry>uri:</entry>
         <entry>public error</entry>
         <entry>inv</entry>
@@ -1727,9 +1727,9 @@
         <entry>reset</entry>
         <entry>path</entry>
         <entry encoding="base64">XDxJQWN0aW9uQ2FsbGFibGVcPg==</entry>
+        <entry>this.uri</entry>
       </history-search>
       <history-cmd>
-        <entry>&quot;w</entry>
         <entry>416</entry>
         <entry>54</entry>
         <entry>q</entry>
@@ -1748,6 +1748,7 @@
         <entry>24</entry>
         <entry>39</entry>
         <entry>0</entry>
+        <entry>102</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
