@@ -315,23 +315,18 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-client/tsconfig.json" timestamp="1542939980000">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="30" column="5" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/custombodytypes/index.ts" timestamp="1530897741555">
         <mark key="[" line="1" column="35" />
         <mark key="]" line="1" column="35" />
         <mark key="." line="1" column="35" />
         <mark key="^" line="1" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-client/src/core/client/base.client.ts" timestamp="1543118354357">
-        <mark key="'" line="259" column="31" />
-        <mark key="[" line="43" column="43" />
-        <mark key="]" line="43" column="57" />
-        <mark key="." line="43" column="57" />
-        <mark key="^" line="43" column="57" />
+      <file name="$USER_HOME$/dev/repos/common-identity-client/src/core/client/base.client.ts" timestamp="1543120421465">
+        <mark key="'" line="269" column="31" />
+        <mark key="[" line="99" column="5" />
+        <mark key="]" line="102" column="34" />
+        <mark key="." line="102" column="34" />
+        <mark key="^" line="102" column="34" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1542916438778">
         <mark key="[" line="0" column="0" />
@@ -507,12 +502,12 @@
         <mark key="^" line="65" column="20" />
         <mark key="." line="65" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-client/src/core/client/types.ts" timestamp="1543115313289">
-        <mark key="'" line="27" column="17" />
-        <mark key="[" line="7" column="30" />
-        <mark key="]" line="32" column="27" />
-        <mark key="^" line="32" column="27" />
-        <mark key="." line="32" column="27" />
+      <file name="$USER_HOME$/dev/repos/common-identity-client/src/core/client/types.ts" timestamp="1543120370716">
+        <mark key="'" line="28" column="17" />
+        <mark key="[" line="8" column="20" />
+        <mark key="]" line="33" column="27" />
+        <mark key="^" line="33" column="27" />
+        <mark key="." line="33" column="27" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/logging/bunyan.logger.ts" timestamp="1536339264708">
         <mark key="[" line="37" column="0" />
@@ -894,6 +889,12 @@
         <mark key="]" line="7" column="16" />
         <mark key="^" line="7" column="16" />
         <mark key="." line="7" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-client/src/core/client/constants.ts" timestamp="1543120393912">
+        <mark key="[" line="5" column="43" />
+        <mark key="]" line="7" column="15" />
+        <mark key="." line="7" column="15" />
+        <mark key="^" line="7" column="15" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-client/test/unit/client/base.client.test.ts" timestamp="1542842925818">
         <mark key="[" line="1" column="26" />
@@ -1641,11 +1642,11 @@
       <jump line="249" column="31" filename="$USER_HOME$/dev/repos/common-identity-client/src/core/client/base.client.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>any</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmNvbnRleHQgPSBjb250ZXh0IHx8IHt9Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>any</text>
+        <text>params</text>
       </register>
       <register name="/" type="4">
         <text>this.BaseURL</text>
@@ -1654,38 +1655,38 @@
         <text encoding="base64">Y29uc3QgUGF0aFBhcmFtUmVnZXg6IFJlZ0V4cCA9IC86KFteXC9dKykvZzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNvbnRleHQgPSBjb250ZXh0IHx8IHt9Owo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgcmVhZG9ubHkgY29udGV4dDogYW55ID0ge30sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyByZWFkb25seSBDb250ZXh0SGVhZGVyczogSUNvbnRleHRIZWFkZXJNYXAgPSB7CiAgICAgICAgQXBwQ29kZTogJ1gtQXBwLUNvZGUnLAogICAgfTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ZGQK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyByZWFkb25seSBDb250ZXh0SGVhZGVyczogSUNvbnRleHRIZWFkZXJNYXAgPSB7CiAgICAgICAgQXBwQ29kZTogJ1gtQXBwLUNvZGUnLAogICAgfTsK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gdGhpcy5Db250ZXh0SGVhZGVycwogICAgICAgIC8vICAgICAuZmlsdGVyKChba10pID0+IEJvb2xlYW4odGhpcy5jb250ZXh0W2tdKSkKICAgICAgICAvLyAgICAgLm1hcChrID0+ICh7W2tdOiB0aGlzLmNvbnRleHRba119KSkKICAgICAgICAvLyAgICAgLnJlZHVjZSgoYWNjLCBjdXJyKSA9PiAoey4uLmFjYywgLi4uY3Vycn0pKTsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>[
         [
        ,
         ],
     ]</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgICAnQXBwQ29kZScsCiAgICAgICAgICAgICdYLUFwcC1Db2RlJw==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyByZWFkb25seSBDb250ZXh0SGVhZGVyczogc3RyaW5nW10gPSBbJ0FwcENvZGUnXTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHt9LAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyByZWFkb25seSBDb250ZXh0SGVhZGVyczogc3RyaW5nW10gPSBbJ0FwcENvZGUnXTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
