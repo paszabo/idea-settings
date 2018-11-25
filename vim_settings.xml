@@ -326,12 +326,12 @@
         <mark key="." line="1" column="35" />
         <mark key="^" line="1" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-client/src/core/client/base.client.ts" timestamp="1543100942757">
-        <mark key="'" line="75" column="7" />
-        <mark key="[" line="155" column="10" />
-        <mark key="]" line="156" column="7" />
-        <mark key="." line="156" column="7" />
-        <mark key="^" line="156" column="7" />
+      <file name="$USER_HOME$/dev/repos/common-identity-client/src/core/client/base.client.ts" timestamp="1543109739809">
+        <mark key="'" line="80" column="7" />
+        <mark key="[" line="92" column="40" />
+        <mark key="]" line="92" column="45" />
+        <mark key="." line="92" column="45" />
+        <mark key="^" line="92" column="45" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1542916438778">
         <mark key="[" line="0" column="0" />
@@ -507,12 +507,12 @@
         <mark key="^" line="65" column="20" />
         <mark key="." line="65" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-client/src/core/client/types.ts" timestamp="1543103375775">
-        <mark key="'" line="23" column="17" />
-        <mark key="[" line="32" column="4" />
-        <mark key="]" line="32" column="9" />
-        <mark key="^" line="32" column="9" />
-        <mark key="." line="32" column="9" />
+      <file name="$USER_HOME$/dev/repos/common-identity-client/src/core/client/types.ts" timestamp="1543109011504">
+        <mark key="'" line="26" column="17" />
+        <mark key="[" line="31" column="13" />
+        <mark key="]" line="31" column="27" />
+        <mark key="^" line="31" column="27" />
+        <mark key="." line="31" column="27" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/logging/bunyan.logger.ts" timestamp="1536339264708">
         <mark key="[" line="37" column="0" />
@@ -1643,18 +1643,36 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>IResendActivationTokenRequest</text>
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>IResendActivationTokenRequest</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJQWN0aW9uQ2FsbGFibGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIElSZXNlbmRBY3RpdmF0aW9uQ29kZUFjdGlvbiBleHRlbmRzIElBY3Rpb25DYWxsYWJsZTxJUmVzZW5kQWN0aXZhdGlvblRva2VuUmVxdWVzdCwgYW55PiB7fQo=</text>
+        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBJSFRUUEhlYWRlcnMgewogICAgW2tleTogc3RyaW5nXTogc3RyaW5nOwp9Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAob3B0cy5wYXJhbXMpIHsKICAgICAgICAgICAgdGhpcwogICAgICAgIH0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgKGNvbnN0IFtrLCB2XSBvZiApIHsKICAgICAgICAgICAgdXJsLnJlcGxhY2UoYCR7cHJlZml4fSR7a31gLCB2KTsKICAgICAgICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="6" type="4">
         <text>&quot;: {
         &quot;id&quot;: &quot;/properties/activationMethod&quot;,
         &quot;type&quot;: &quot;string&quot;,
@@ -1666,38 +1684,16 @@
     }
 },</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIH0sCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text>&quot;: &quot;/properties/token&quot;,
         &quot;type&quot;</text>
       </register>
-      <register name="4" type="4">
+      <register name="9" type="4">
         <text>: {
         &quot;id</text>
-      </register>
-      <register name="5" type="4">
-        <text>&quot;,
-        &quot;format&quot;: &quot;email&quot;
-    },</text>
-      </register>
-      <register name="6" type="4">
-        <text>&quot;: {
-        &quot;id&quot;: &quot;/properties/username&quot;,
-        &quot;type&quot;:</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQ29udmVuaWVuY2UgbWV0aG9kIHJldHVybmluZyBhIHdyYXBwZXIgZnVuY3Rpb24gdGhhdCBjYWxscyBhbgogICAgICogQWN0aW9uJ3MgYGludm9rZWAgbWV0aG9kCiAgICAgKgogICAgICogQHJldHVybnMge0lBY3Rpb25DYWxsYWJsZX0KICAgICAqIEBwYXJhbSBhY3Rpb24KICAgICAqLwogICAgcHVibGljIEFjdGlvbkNhbGxhYmxlPFQgPSBhbnksIFIgPSBhbnk+KAogICAgICAgIGFjdGlvbjogUkVTVEFjdGlvbiwKICAgICk6IElBY3Rpb25DYWxsYWJsZTxULCBSPiB7CiAgICAgICAgcmV0dXJuIGFjdGlvbi5pbnZva2UuYmluZChhY3Rpb24pOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1752,9 +1748,9 @@
         <entry>2</entry>
         <entry>e</entry>
         <entry>1</entry>
-        <entry>0</entry>
         <entry>24</entry>
         <entry>39</entry>
+        <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
