@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1543287998543">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/tsconfig.json" timestamp="1543290959131" />
       <file name="$USER_HOME$/dev/repos/common-identity-client/src/rbc-identity.client.ts" timestamp="1543288366368">
         <mark key="[" line="4" column="0" />
@@ -41,13 +38,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-client/tsconfig.json" timestamp="1542939980000">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="30" column="5" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1542916438778">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev/repos/common-identity-client/tsconfig.json" timestamp="1543292967350">
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="9" column="25" />
+        <mark key="." line="9" column="25" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-client/src/core/client/path-transformer.ts" timestamp="1543286135514">
         <mark key="[" line="17" column="0" />
@@ -61,9 +55,6 @@
         <mark key="^" line="4" column="64" />
         <mark key="." line="4" column="64" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-client/src/users/index.ts" timestamp="1542843079028">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-client/src/__test__/tsconfig.json" timestamp="1542939895459">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -76,11 +67,11 @@
         <mark key="." line="20" column="37" />
         <mark key="^" line="20" column="113" />
       </file>
-      <file name="$USER_HOME$/tmp/id-client-install/js/test1.js" timestamp="1543290665089">
-        <mark key="[" line="4" column="19" />
-        <mark key="]" line="4" column="50" />
-        <mark key="." line="4" column="50" />
-        <mark key="^" line="4" column="50" />
+      <file name="$USER_HOME$/tmp/id-client-install/js/test1.js" timestamp="1543292314219">
+        <mark key="[" line="4" column="46" />
+        <mark key="]" line="4" column="45" />
+        <mark key="." line="4" column="45" />
+        <mark key="^" line="4" column="45" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-client/src/core/client/types.ts" timestamp="1543268805557">
         <mark key="'" line="22" column="0" />
@@ -171,11 +162,11 @@
         <mark key="^" line="7" column="29" />
         <mark key="." line="6" column="45" />
       </file>
-      <file name="$USER_HOME$/tmp/id-client-install/test/index.ts" timestamp="1543290923682">
-        <mark key="[" line="2" column="54" />
-        <mark key="]" line="2" column="54" />
-        <mark key="." line="2" column="54" />
-        <mark key="^" line="2" column="53" />
+      <file name="$USER_HOME$/tmp/id-client-install/test/index.ts" timestamp="1543292790040">
+        <mark key="[" line="2" column="50" />
+        <mark key="]" line="2" column="74" />
+        <mark key="." line="2" column="74" />
+        <mark key="^" line="2" column="74" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-client/src/__test__/functional/register-user.test.ts" timestamp="1542992135610" />
       <file name="$USER_HOME$/dev/repos/common-identity-client/src/users/users.client.ts" timestamp="1543286051456">
@@ -185,11 +176,11 @@
         <mark key="^" line="70" column="39" />
         <mark key="." line="70" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-client/package.json" timestamp="1542943375905">
-        <mark key="[" line="5" column="16" />
-        <mark key="]" line="5" column="16" />
-        <mark key="." line="5" column="16" />
-        <mark key="^" line="23" column="80" />
+      <file name="$USER_HOME$/dev/repos/common-identity-client/package.json" timestamp="1543293855969">
+        <mark key="[" line="18" column="14" />
+        <mark key="]" line="18" column="14" />
+        <mark key="." line="18" column="14" />
+        <mark key="^" line="22" column="74" />
       </file>
     </filemarks>
     <jumps>
@@ -296,7 +287,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{* as core}</text>
+        <text>dist/</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4779,7 +4770,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>{* as core}</text>
+        <text>dist/</text>
       </register>
       <register name="/" type="4">
         <text>base_url</text>
@@ -4788,34 +4779,34 @@
         <text encoding="base64">ZXhwb3J0IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9wdWJsaWMuYXBpJzsK</text>
+        <text encoding="base64">aW1wb3J0IHtsb2dnZXJ9IGZyb20gJ3JiYy1pZGVudGl0eS1jbGllbnQvY29yZSc7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9yYmMtaWRlbnRpdHkuY2xpZW50JzsK</text>
+        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9wdWJsaWMuYXBpJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgVVJMcyA9IHsKICAgIFFBOiAnaHR0cHM6Ly85bmQ3ajh6ZjA0LmV4ZWN1dGUtYXBpLmNhLWNlbnRyYWwtMS5hbWF6b25hd3MuY29tL3FhJywKICAgIEZha2VVUkw6ICdodHRwczovL3BhdWwuYXBpL3YxJywKICAgIER1bW15QVBJOiAnaHR0cDovL2xvY2FsaG9zdDozMDAwJywKfTsKCmNvbnN0IEFwcENvZGVzID0gewogICAgRHJpdmU6ICdXUjAwJywKICAgIER1bW15OiAnUEFVTF9BUFBfQ09ERScsCn07Cgpjb25zdCBBcHBDb2RlID0gQXBwQ29kZXMuRHJpdmU7CmNvbnN0IGNvbnRleHQgPSB7QXBwQ29kZX07CmNvbnN0IEJhc2VVUkwgPSBVUkxzLlFBOwpjb25zdCBjbGllbnRBcmdzID0ge2NvbnRleHQsIEJhc2VVUkx9OwoK</text>
+        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9yYmMtaWRlbnRpdHkuY2xpZW50JzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgVVJMcyA9IHsKICAgIFFBOiAnaHR0cHM6Ly85bmQ3ajh6ZjA0LmV4ZWN1dGUtYXBpLmNhLWNlbnRyYWwtMS5hbWF6b25hd3MuY29tL3FhJywKICAgIEZha2VVUkw6ICdodHRwczovL3BhdWwuYXBpL3YxJywKICAgIER1bW15QVBJOiAnaHR0cDovL2xvY2FsaG9zdDozMDAwJywKfTsKCmNvbnN0IEFwcENvZGVzID0gewogICAgRHJpdmU6ICdXUjAwJywKICAgIER1bW15OiAnUEFVTF9BUFBfQ09ERScsCn07Cgpjb25zdCBBcHBDb2RlID0gQXBwQ29kZXMuRHJpdmU7CmNvbnN0IGNvbnRleHQgPSB7QXBwQ29kZX07CmNvbnN0IEJhc2VVUkwgPSBVUkxzLlFBOwpjb25zdCBjbGllbnRBcmdzID0ge2NvbnRleHQsIEJhc2VVUkx9OwoK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgbG9nID0gbG9nZ2VyKCk7CmNvbnN0IGNsaWVudCA9IG5ldyBSQkNJZGVudGl0eUNsaWVudChjbGllbnRBcmdzKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Y29uc3QgbG9nID0gbG9nZ2VyKCk7CmNvbnN0IGNsaWVudCA9IG5ldyBSQkNJZGVudGl0eUNsaWVudChjbGllbnRBcmdzKTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgZ2V0IGNvbnRleHQoKTogYW55IHsKICAgICAgICByZXR1cm4gewogICAgICAgICAgICAuLi50aGlzLmNsaWVudC5jb25maWcsCgogICAgICAgIH07CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgcmVhZG9ubHkgbG9nOiBMb2dnZXIgPSBsb2dnZXIodGhpcy5jb25zdHJ1Y3Rvci5uYW1lKTsK</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgZ2V0IGNvbnRleHQoKTogYW55IHsKICAgICAgICByZXR1cm4gewogICAgICAgICAgICAuLi50aGlzLmNsaWVudC5jb25maWcsCgogICAgICAgIH07CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
