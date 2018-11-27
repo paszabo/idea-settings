@@ -21,6 +21,9 @@
         <mark key="." line="171" column="0" />
         <mark key="^" line="168" column="6" />
       </file>
+      <file name="/a.dummy" timestamp="1543287998543">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/api/database/index.ts" timestamp="1530488272641">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="0" column="17" />
@@ -294,10 +297,6 @@
         <mark key="." line="0" column="23" />
         <mark key="^" line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/models/ResendActivationTokenRequest.json" timestamp="1543103948147">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="23" column="6" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api-client/src/core/client/constants.ts" timestamp="1542824343231">
         <mark key="[" line="21" column="8" />
         <mark key="]" line="21" column="7" />
@@ -334,11 +333,20 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="33" />
       </file>
+      <file name="$USER_HOME$/dev/repos/rbc-okta-client/src/okta/okta.client.ts" timestamp="1543343271969">
+        <mark key="[" line="6" column="29" />
+        <mark key="]" line="6" column="29" />
+        <mark key="." line="6" column="29" />
+        <mark key="^" line="6" column="18" />
+      </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/custombodytypes/index.ts" timestamp="1530897741555">
         <mark key="[" line="1" column="35" />
         <mark key="]" line="1" column="35" />
         <mark key="." line="1" column="35" />
         <mark key="^" line="1" column="35" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1543342113372">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/url-shortener/shortened-url.model.ts" timestamp="1528316307749">
         <mark key="[" line="8" column="0" />
@@ -473,7 +481,7 @@
         <mark key="." line="2" column="46" />
         <mark key="^" line="2" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/README.md" timestamp="1543341261455" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/README.md" timestamp="1543342275920" />
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/custombodytypes/custom-bodytypes.ts" timestamp="1530890287921">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
@@ -740,6 +748,12 @@
         <mark key="]" line="7" column="31" />
         <mark key="." line="7" column="31" />
         <mark key="^" line="7" column="31" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/rbc-okta-client/package.json" timestamp="1543342836640">
+        <mark key="[" line="8" column="56" />
+        <mark key="]" line="9" column="24" />
+        <mark key="^" line="9" column="24" />
+        <mark key="." line="9" column="24" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/api/database/migrate.ts" timestamp="1530499102352">
         <mark key="[" line="4" column="0" />
@@ -1554,21 +1568,18 @@
         <mark key="." line="45" column="69" />
         <mark key="^" line="45" column="69" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer-memberid.js" timestamp="1543341866635" />
       <file name="$USER_HOME$/dev/repos/joyride-etl/src/lib/quickdata/alterations.js" timestamp="1530890506775">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="^" line="5" column="6" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/tmp/id-client-install/test-js/index.js" timestamp="1543340894348">
-        <mark key="[" line="33" column="26" />
-        <mark key="]" line="33" column="39" />
-        <mark key="." line="33" column="39" />
-        <mark key="^" line="33" column="39" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/models/UsernameRequest.json" timestamp="1543335642578">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="21" column="0" />
+      <file name="$USER_HOME$/tmp/id-client-install/test-js/index.js" timestamp="1543343812649">
+        <mark key="[" line="63" column="47" />
+        <mark key="]" line="63" column="47" />
+        <mark key="." line="63" column="47" />
+        <mark key="^" line="63" column="47" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/client/src/core/logging/logger-factory.ts" timestamp="1542393938772">
         <mark key="[" line="5" column="0" />
@@ -1741,7 +1752,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ForgotPasswordTest</text>
+        <text encoding="base64">dS5oYXNoLnN1YnN0cmluZygxKS5zcGxpdCgnJicpLm1hcChzID0+IHMuc3BsaXQoJz0nKSkubWFwKChbaywgdl0pID0+ICh7W2tdOiB2fSkpLnJlZHVjZSgoYWNjLCBjdXJyKSA9PiAoey4uLmFjYywgLi4uY3Vycn0pLCB7fSk=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -6224,43 +6235,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ForgotPasswordTest</text>
+        <text encoding="base64">dS5oYXNoLnN1YnN0cmluZygxKS5zcGxpdCgnJicpLm1hcChzID0+IHMuc3BsaXQoJz0nKSkubWFwKChbaywgdl0pID0+ICh7W2tdOiB2fSkpLnJlZHVjZSgoYWNjLCBjdXJyKSA9PiAoey4uLmFjYywgLi4uY3Vycn0pLCB7fSk=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2Vyc1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>ChangeForgotPassword</text>
+      <register name="0" type="2">
+        <text encoding="base64">bG9nLmluZm8oJ0ZyYWdtZW50OicsIHUuaGFzaCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvKCdUZXN0OiAnLCBDaGFuZ2VGb3Jnb3RQYXNzd29yZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VybmFtZTogJ3Bhc3phYm9AZ21haWwuY29tJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhvcG9ydCBkZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKCdUZXN0OiAnLCBDaGFuZ2VGb3Jnb3RQYXNzd29yZCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB1c2VybmFtZTogJ3Bhc3phYm9AZ21haWwuY29tJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IHtJQ2hhbmdlRm9yZ290UGFzc3dvcmRSZXF1ZXN0fSBmcm9tICcuL3R5cGVzJzsKZXhwb3J0IHtJQWN0aXZhdGlvbklzUGVuZGluZ0FjdGlvbn0gZnJvbSAnLi90eXBlcyc7CmV4cG9ydCB7SUFjdGl2YXRpb25Jc1BlbmRpbmdSZXNwb25zZX0gZnJvbSAnLi90eXBlcyc7CmV4cG9ydCB7SVJlZ2lzdGVyVXNlckFjdGlvbn0gZnJvbSAnLi90eXBlcyc7CmV4cG9ydCB7SUZvcmdvdFBhc3N3b3JkQWN0aW9ufSBmcm9tICcuL3R5cGVzJzsKZXhwb3J0IHtJQWN0aXZhdGlvbkFjdGlvbn0gZnJvbSAnLi90eXBlcyc7CmV4cG9ydCB7SUdldE1lQWN0aW9ufSBmcm9tICcuL3R5cGVzJzsKZXhwb3J0IHtJUmVzZW5kQWN0aXZhdGlvbkNvZGVBY3Rpb259IGZyb20gJy4vdHlwZXMnOwpleHBvcnQge0lBY3RpdmF0aW9uUmVxdWVzdH0gZnJvbSAnLi90eXBlcyc7CmV4cG9ydCB7SVJlc2VuZEFjdGl2YXRpb25Ub2tlblJlcXVlc3R9IGZyb20gJy4vdHlwZXMnOwpleHBvcnQge0lVc2VybmFtZVJlcXVlc3R9IGZyb20gJy4vdHlwZXMnOwpleHBvcnQge0NvbW11bmljYXRpb25DaGFubmVsfSBmcm9tICcuL3R5cGVzJzsKZXhwb3J0IHtJUmVnaXN0ZXJVc2VyUmVxdWVzdH0gZnJvbSAnLi90eXBlcyc7CmV4cG9ydCB7SUNyZWRlbnRpYWxzfSBmcm9tICcuL3R5cGVzJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
