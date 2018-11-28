@@ -244,11 +244,11 @@
         <mark key="." line="7" column="39" />
         <mark key="^" line="10" column="30" />
       </file>
-      <file name="$USER_HOME$/tmp/id-client-install/test-js/test-okta-client.js" timestamp="1543350462769">
-        <mark key="[" line="31" column="70" />
-        <mark key="]" line="31" column="70" />
-        <mark key="." line="31" column="70" />
-        <mark key="^" line="31" column="72" />
+      <file name="$USER_HOME$/tmp/id-client-install/test-js/test-okta-client.js" timestamp="1543365199809">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="24" column="39" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/test-drive/api/test-drive.ts" timestamp="1532767978849">
         <mark key="[" line="8" column="62" />
@@ -327,6 +327,10 @@
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
         <mark key="^" line="0" column="23" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/models/ResendActivationTokenRequest.json" timestamp="1543103948147">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="23" column="6" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/rest_errors/index.ts" timestamp="1542383009179">
         <mark key="'" line="7" column="0" />
@@ -439,13 +443,6 @@
         <mark key="]" line="2" column="7" />
         <mark key="^" line="2" column="7" />
         <mark key="." line="2" column="7" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-client/src/core/constants.ts" timestamp="1543340705717">
-        <mark key="[" line="3" column="46" />
-        <mark key="]" line="3" column="118" />
-        <mark key="^" line="3" column="21" />
-        <mark key="." line="3" column="21" />
-        <mark key="n" line="1" column="71" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/api/server/joyride.server.ts" timestamp="1530488087388">
         <mark key="[" line="64" column="1" />
@@ -635,11 +632,11 @@
         <mark key="^" line="65" column="20" />
         <mark key="." line="65" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/repos/rbc-okta-client/src/okta/oauth.client.ts" timestamp="1543350327136">
-        <mark key="[" line="5" column="24" />
-        <mark key="]" line="5" column="36" />
-        <mark key="^" line="14" column="76" />
-        <mark key="." line="14" column="76" />
+      <file name="$USER_HOME$/dev/repos/rbc-okta-client/src/okta/oauth.client.ts" timestamp="1543364631390">
+        <mark key="[" line="29" column="12" />
+        <mark key="]" line="29" column="39" />
+        <mark key="." line="29" column="12" />
+        <mark key="^" line="29" column="11" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/logging/bunyan.logger.ts" timestamp="1536339264708">
         <mark key="[" line="37" column="0" />
@@ -914,13 +911,13 @@
         <mark key="^" line="24" column="91" />
         <mark key="." line="24" column="91" />
       </file>
-      <file name="$USER_HOME$/dev/repos/rbc-okta-client/src/okta/authn.client.ts" timestamp="1543349578046">
+      <file name="$USER_HOME$/dev/repos/rbc-okta-client/src/okta/authn.client.ts" timestamp="1543365286582">
         <mark key="a" line="100" column="4" />
         <mark key="'" line="122" column="7" />
-        <mark key="[" line="148" column="50" />
-        <mark key="]" line="148" column="75" />
+        <mark key="[" line="155" column="30" />
+        <mark key="]" line="155" column="30" />
         <mark key="^" line="148" column="75" />
-        <mark key="." line="148" column="75" />
+        <mark key="." line="155" column="30" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/db/src/tables.ts" timestamp="1530487173039">
         <mark key="[" line="3" column="17" />
@@ -1085,6 +1082,11 @@
         <mark key="." line="1" column="49" />
         <mark key="^" line="1" column="49" />
       </file>
+      <file name="$USER_HOME$/dev/repos/automp-be/src/core/auth/oauth/okta/okta.config.ts" timestamp="1543363321123" />
+      <file name="$USER_HOME$/dev/repos/rbc-okta-client/src/core/client/rest.client.ts" timestamp="1543364417849">
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="7" column="44" />
+      </file>
       <file name="$USER_HOME$/dev/repos/joyride-etl/package.json" timestamp="1532023558308">
         <mark key="[" line="13" column="5" />
         <mark key="]" line="13" column="11" />
@@ -1120,6 +1122,13 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/rbc-okta-client/src/core/client/base.client.ts" timestamp="1543365415196">
+        <mark key="'" line="91" column="8" />
+        <mark key="[" line="25" column="25" />
+        <mark key="]" line="19" column="12" />
+        <mark key="^" line="19" column="12" />
+        <mark key="." line="19" column="12" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/src/core/base-manager.ts" timestamp="1533760945624">
         <mark key="[" line="2" column="38" />
@@ -1618,6 +1627,12 @@
         <mark key="." line="38" column="3" />
         <mark key="^" line="38" column="3" />
       </file>
+      <file name="$USER_HOME$/dev/repos/rbc-okta-client/src/core/client/action/base.action.ts" timestamp="1543365443219">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="44" />
+        <mark key="^" line="41" column="39" />
+        <mark key="." line="48" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/client/src/core/client/action/base.action.ts" timestamp="1542652256030">
         <mark key="[" line="12" column="65" />
         <mark key="]" line="12" column="65" />
@@ -1748,6 +1763,10 @@
         <mark key="." line="63" column="47" />
         <mark key="^" line="63" column="47" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/models/UsernameRequest.json" timestamp="1543335642578">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/client/src/core/logging/logger-factory.ts" timestamp="1542393938772">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="6" />
@@ -1823,10 +1842,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="17" filename="$USER_HOME$/dev/repos/common-identity-client/src/core/client/types.ts" />
-      <jump line="20" column="7" filename="$USER_HOME$/dev/repos/common-identity-client/src/core/client/action/base.action.ts" />
-      <jump line="85" column="5" filename="$USER_HOME$/dev/repos/common-identity-client/src/core/client/base.client.ts" />
-      <jump line="142" column="18" filename="$USER_HOME$/dev/repos/common-identity-client/src/core/client/base.client.ts" />
       <jump line="6" column="37" filename="$USER_HOME$/dev/repos/common-identity-client/src/core/client/base.client.ts" />
       <jump line="67" column="24" filename="$USER_HOME$/dev/repos/common-identity-client/src/core/client/base.client.ts" />
       <jump line="62" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/admin/adminUsersHandler.ts" />
@@ -1923,10 +1938,14 @@
       <jump line="119" column="7" filename="$USER_HOME$/dev/repos/rbc-okta-client/src/okta/authn.client.ts" />
       <jump line="121" column="22" filename="$USER_HOME$/dev/repos/rbc-okta-client/src/okta/authn.client.ts" />
       <jump line="122" column="7" filename="$USER_HOME$/dev/repos/rbc-okta-client/src/okta/authn.client.ts" />
+      <jump line="329" column="0" filename="$USER_HOME$/dev/repos/rbc-okta-client/src/core/client/base.client.ts" />
+      <jump line="84" column="66" filename="$USER_HOME$/dev/repos/rbc-okta-client/src/core/client/base.client.ts" />
+      <jump line="85" column="50" filename="$USER_HOME$/dev/repos/rbc-okta-client/src/core/client/base.client.ts" />
+      <jump line="90" column="8" filename="$USER_HOME$/dev/repos/rbc-okta-client/src/core/client/base.client.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cXM6IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbWV0aG9kOiB0aGlzLm1ldGhvZCwK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -6409,52 +6428,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cXM6IA==</text>
+        <text>URL</text>
       </register>
       <register name="/" type="4">
-        <text>new</text>
+        <text>options</text>
       </register>
       <register name="0" type="4">
-        <text>:authServerId</text>
+        <text>this.config.scrubPathParams</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbWV0aG9kOiB0aGlzLm1ldGhvZCwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRoU2VydmVySWQ6ICdhdXNiaTkwbjhvRkhhc0FQSDBoNycsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdXJsOiB0aGlzLlVSTCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzY29wZTogJ2RyaXZlJywK</text>
+        <text encoding="base64">ICAgIC8vIGh0dHBzOi8vcmJjZGV2Lm9rdGFwcmV2aWV3LmNvbS9hcGkvdjEvYXV0aG4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXV0aFNlcnZlcklkOiAnZGVmYXVsdCcsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKGM6IFJFU1RDbGllbnQgfCBJQ2xpZW50Q29uZmlnKSB7CiAgICAgICAgc3VwZXIoYyk7CgoKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHR5cGU/OiBzdHJpbmc7Cg==</text>
+        <text encoding="base64">ICAgIERlZmF1bHRBdXRob3JpemU6ICcvb2F1dGgyL2RlZmF1bHQvdjEvYXV0aG9yaXplJywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZhY3RvclJlc3VsdAlEZXNjcmlwdGlvbgo=</text>
+        <text encoding="base64">ICAgIC8vIHB1YmxpYyByZWFkb25seSBBdXRob3JpemVEZWZhdWx0ID0gdGhpcy5BY3Rpb24odGhpcy51cmxzLkRlZmF1bHRBdXRob3JpemUpCiAgICAvLyAgICAgLmNhbGxhYmxlKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhdGhQYXJhbXM6IHthdXRoU2VydmVySWQ6ICdkZWZhdWx0J30sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFRoZSBmb2xsb3dpbmcgdGFibGUgc2hvd3MgdGhlIHBvc3NpYmxlIHZhbHVlcyBmb3IgdGhpcyBwcm9wZXJ0eToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNjcnViUGF0aFBhcmFtczogdHJ1ZSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>new</last-search>
+      <last-search>options</last-search>
       <last-offset />
-      <last-pattern>new</last-pattern>
+      <last-pattern>options</last-pattern>
       <last-replace>IUsernameRequest</last-replace>
       <last-substitute>IForgotPasswordRequest</last-substitute>
       <last-dir>1</last-dir>
@@ -6462,7 +6481,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\*</entry>
         <entry>callable</entry>
         <entry>prepare(</entry>
         <entry>URL</entry>
@@ -6482,6 +6500,7 @@
         <entry>curr</entry>
         <entry>time</entry>
         <entry>new</entry>
+        <entry>options</entry>
       </history-search>
       <history-cmd>
         <entry>4</entry>
