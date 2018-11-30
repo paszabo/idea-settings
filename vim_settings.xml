@@ -177,7 +177,13 @@
         <mark key="." line="104" column="9" />
         <mark key="^" line="104" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1543601554369" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1543606441380">
+        <mark key="'" line="452" column="0" />
+        <mark key="[" line="307" column="0" />
+        <mark key="]" line="307" column="0" />
+        <mark key="." line="307" column="0" />
+        <mark key="^" line="325" column="11" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer.js" timestamp="1542668255133">
         <mark key="[" line="272" column="0" />
         <mark key="]" line="272" column="0" />
@@ -901,6 +907,7 @@
         <mark key="." line="6" column="1" />
         <mark key="^" line="6" column="1" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1543606098956" />
       <file name="$USER_HOME$/dev/repos/automp-be/packages/api/nodemon.json" timestamp="1530488452262">
         <mark key="[" line="3" column="21" />
         <mark key="]" line="3" column="44" />
@@ -1715,7 +1722,7 @@
         <mark key="." line="26" column="45" />
         <mark key="^" line="26" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/RegisterRequest.ts" timestamp="1542916661031">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/RegisterRequest.ts" timestamp="1543606007337">
         <mark key="[" line="30" column="53" />
         <mark key="]" line="31" column="7" />
         <mark key="^" line="31" column="7" />
@@ -1771,7 +1778,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="31" filename="$USER_HOME$/dev/repos/common-identity-client/src/core/client/base.client.ts" />
       <jump line="72" column="3" filename="$USER_HOME$/dev/repos/common-identity-client/src/users/users.client.ts" />
       <jump line="83" column="22" filename="$USER_HOME$/dev/repos/common-identity-client/src/users/users.client.ts" />
       <jump line="84" column="28" filename="$USER_HOME$/dev/repos/common-identity-client/src/users/users.client.ts" />
@@ -1871,10 +1877,11 @@
       <jump line="307" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="376" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="134" column="2" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="453" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAKewogICAgImNyZWRlbnRpYWxzIjogewogICAgICAgICJwYXNzd29yZCI6IHsKICAgICAgICAgICAgInZhbHVlIjogIm15cGFzc3dvcmQiCiAgICAgICAgfQogICAgfQp9CiAgICAgICAgCiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgYXBwRGV0YWlsczogSUFwcERldGFpbHMgPSBhd2FpdCB0aGlzLmFwcENvbmZpZy5nZXRBcHBEYXRhKAogICAgICAgICAgICAgICAgYXBwQ29kZSk7Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -6357,43 +6364,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>${opt:LOG_RETENTION_DAYS}</text>
+        <text>.appConfig</text>
       </register>
       <register name="/" type="4">
         <text>logRet</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBsb2dSZXRlbnRpb25JbkRheXM6ICR7b3B0OkxPR19SRVRFTlRJT05fREFZU30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgTm90Rm91bmRFeGNlcHRpb24oIkFwcGxpY2F0aW9uIE5vdCBGb3VuZCIsIEV4Y2VwdGlvbkNvZGVzLkFQUExJQ0FUSU9OX05PVF9GT1VORCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAKewogICAgImNyZWRlbnRpYWxzIjogewogICAgICAgICJwYXNzd29yZCI6IHsKICAgICAgICAgICAgInZhbHVlIjogIm15cGFzc3dvcmQiCiAgICAgICAgfQogICAgfQp9CiAgICAgICAgCiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgYXBwRGV0YWlsczogSUFwcERldGFpbHMgPSBhd2FpdCB0aGlzLmFwcENvbmZpZy5nZXRBcHBEYXRhKAogICAgICAgICAgICAgICAgYXBwQ29kZSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">TE9HX1JFVEVOVElPTl9EQVlTPTcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGFwcERldGFpbHMpIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBOb3RGb3VuZEV4Y2VwdGlvbigKICAgICAgICAgICAgICAgICAgICAnQXBwbGljYXRpb24gTm90IEZvdW5kJywKICAgICAgICAgICAgICAgICAgICBFeGNlcHRpb25Db2Rlcy5BUFBMSUNBVElPTl9OT1RfRk9VTkQsCiAgICAgICAgICAgICAgICApOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmUoJ3BhY2thZ2UuanNvbicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGFwcENvZGUpIHsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9odHRwLWJhZC1zdGF0dXMuZXhjZXB0aW9uJzsK</text>
+      <register name="5" type="4">
+        <text>} else {
+                throw new BadRequestException(&quot;Application Code cannot be null&quot;,
+                                              ExceptionCodes.MISSING_APPLICATION_CODE);
+            }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9iYXNlLmV4Y2VwdGlvbic7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWFwcERldGFpbHMpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IEJhZFJlcXVlc3RFeGNlcHRpb24oCiAgICAgICAgICAgICAgICAnQXBwbGljYXRpb24gQ29kZSBjYW5ub3QgYmUgbnVsbCcsCiAgICAgICAgICAgICAgICBFeGNlcHRpb25Db2Rlcy5NSVNTSU5HX0FQUExJQ0FUSU9OX0NPREUsCiAgICAgICAgICAgICk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHtJQ2xpZW50T3B0aW9uc30gZnJvbSAnLi4vLi4vLi4vY29tbW9uLWlkZW50aXR5LWNsaWVudC9zcmMvY29yZS9jbGllbnQvdHlwZXMnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEZvdW5kRXhjZXB0aW9uKAogICAgICAgICAgICAgICAgRXhjZXB0aW9uQ29kZXMuQVBQTElDQVRJT05fTk9UX0ZPVU5ELAogICAgICAgICAgICApOwogICAgICAgICAgICB0aHJvdyBuZXcgQmFkUmVxdWVzdEV4Y2VwdGlvbigKICAgICAgICAgICAgICAgIEV4Y2VwdGlvbkNvZGVzLk1JU1NJTkdfQVBQTElDQVRJT05fQ09ERSwKICAgICAgICAgICAgKTsKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJBcHBsaWNhdGlvbiBOb3QgRm91bmQiLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmxvZy5pbmZvKCdnb3Qgb3B0aW9uczonLCB7b3B0aW9uczogSlNPTi5zdHJpbmdpZnkob3B0aW9ucyl9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGBBcHBsaWNhdGlvbiAke2FwcENvZGV9IGRvZXMgbm90IGV4aXN0YCwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
