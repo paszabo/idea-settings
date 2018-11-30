@@ -177,6 +177,7 @@
         <mark key="." line="104" column="9" />
         <mark key="^" line="104" column="9" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1543601554369" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer.js" timestamp="1542668255133">
         <mark key="[" line="272" column="0" />
         <mark key="]" line="272" column="0" />
@@ -845,7 +846,7 @@
         <mark key="^" line="16" column="32" />
         <mark key="." line="16" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/aws-lambda/index.d.ts" timestamp="1543601452813" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/aws-lambda/index.d.ts" timestamp="1543601476944" />
       <file name="$USER_HOME$/dev/repos/rbc-okta-client/src/okta/okta.base.client.ts" timestamp="1543345814067">
         <mark key="[" line="3" column="17" />
         <mark key="]" line="3" column="20" />
@@ -918,8 +919,8 @@
         <mark key="^" line="9" column="10" />
         <mark key="." line="9" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1543601286311">
-        <mark key="'" line="24" column="21" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1543602003147">
+        <mark key="'" line="307" column="0" />
         <mark key="[" line="0" column="64" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -1778,7 +1779,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="194" column="8" filename="$USER_HOME$/dev/repos/common-identity-client/src/core/client/base.client.ts" />
       <jump line="41" column="33" filename="$USER_HOME$/dev/repos/common-identity-client/src/core/client/action/base.action.ts" />
       <jump line="48" column="13" filename="$USER_HOME$/dev/repos/common-identity-client/src/core/client/base.client.ts" />
       <jump line="96" column="31" filename="$USER_HOME$/dev/repos/common-identity-client/src/core/client/base.client.ts" />
@@ -1878,6 +1878,7 @@
       <jump line="28" column="21" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="12" column="71" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="82" column="30" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="307" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -6367,7 +6368,7 @@
         <text>${opt:LOG_RETENTION_DAYS}</text>
       </register>
       <register name="/" type="4">
-        <text>updateUser</text>
+        <text>responseModel</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBsb2dSZXRlbnRpb25JbkRheXM6ICR7b3B0OkxPR19SRVRFTlRJT05fREFZU30K</text>
@@ -6407,9 +6408,9 @@
       </register>
     </registers>
     <search>
-      <last-search>updateUser</last-search>
+      <last-search>responseModel</last-search>
       <last-offset />
-      <last-pattern>updateUser</last-pattern>
+      <last-pattern>responseModel</last-pattern>
       <last-replace>HTTPO2Error</last-replace>
       <last-substitute>IdentityClientError</last-substitute>
       <last-dir>1</last-dir>
@@ -6417,7 +6418,6 @@
     </search>
     <history>
       <history-search>
-        <entry>curr</entry>
         <entry>time</entry>
         <entry>new</entry>
         <entry>options</entry>
@@ -6437,6 +6437,7 @@
         <entry>LOG</entry>
         <entry>logRetentionInDays</entry>
         <entry>updateUser</entry>
+        <entry>responseModel</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
