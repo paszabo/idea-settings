@@ -171,11 +171,18 @@
         <mark key="." line="5" column="41" />
         <mark key="^" line="5" column="41" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IUserRegInfo.ts" timestamp="1543628882480" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/logging/sumo/handler.ts" timestamp="1542212728522">
         <mark key="[" line="104" column="7" />
         <mark key="]" line="104" column="9" />
         <mark key="." line="104" column="9" />
         <mark key="^" line="104" column="9" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1543626481315">
+        <mark key="[" line="462" column="0" />
+        <mark key="]" line="462" column="32" />
+        <mark key="." line="462" column="32" />
+        <mark key="^" line="462" column="27" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer.js" timestamp="1542668255133">
         <mark key="[" line="272" column="0" />
@@ -904,7 +911,12 @@
         <mark key="." line="6" column="1" />
         <mark key="^" line="6" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1543610225662" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1543628748923">
+        <mark key="[" line="50" column="45" />
+        <mark key="]" line="36" column="31" />
+        <mark key="^" line="36" column="31" />
+        <mark key="." line="36" column="31" />
+      </file>
       <file name="$USER_HOME$/dev/repos/automp-be/packages/api/nodemon.json" timestamp="1530488452262">
         <mark key="[" line="3" column="21" />
         <mark key="]" line="3" column="44" />
@@ -923,7 +935,7 @@
         <mark key="^" line="9" column="10" />
         <mark key="." line="9" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1543612993588">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1543613496209">
         <mark key="'" line="113" column="16" />
         <mark key="[" line="135" column="0" />
         <mark key="]" line="135" column="0" />
@@ -1723,7 +1735,7 @@
         <mark key="." line="26" column="45" />
         <mark key="^" line="26" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/RegisterRequest.ts" timestamp="1543606007337">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/RegisterRequest.ts" timestamp="1543628777730">
         <mark key="[" line="30" column="53" />
         <mark key="]" line="31" column="7" />
         <mark key="^" line="31" column="7" />
@@ -1881,8 +1893,8 @@
       <jump line="113" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBsb2dSZXRlbnRpb25JbkRheXM6Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -6365,46 +6377,45 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>^</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>logRet</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBsb2dSZXRlbnRpb25JbkRheXM6ICR7b3B0OkxPR19SRVRFTlRJT05fREFZU30K</text>
+      <register name="0" type="4">
+        <text>(userEntryForError)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBsb2dSZXRlbnRpb25JbkRheXM6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHVzZXJFbnRyeUZvckVycm9yKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBleGlzdGluZ1VzZXJHcm91cHMgPSA7CiAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">IyAgbG9nUmV0ZW50aW9uSW5EYXlzOiAke29wdDpMT0dfUkVURU5USU9OX0RBWVN9Cg==</text>
+      <register name="2" type="4">
+        <text>await this
+                                .identitydb
+                                .getUserGroups(userEntryForError.memberId)</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgYXBwRGV0YWlsczogSUFwcERldGFpbHMgPSBhd2FpdCB0aGlzLmFwcENvbmZpZy5nZXRBcHBEYXRhKAogICAgICAgICAgICAgICAgYXBwQ29kZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IHNlcnZpY2VFcnI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGFwcERldGFpbHMpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBOb3RGb3VuZEV4Y2VwdGlvbigKICAgICAgICAgICAgICAgICAgICAnQXBwbGljYXRpb24gTm90IEZvdW5kJywKICAgICAgICAgICAgICAgICAgICBFeGNlcHRpb25Db2Rlcy5BUFBMSUNBVElPTl9OT1RfRk9VTkQsCiAgICAgICAgICAgICAgICApOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGFwcENvZGUpIHsK</text>
+        <text encoding="base64">ICAgIC8vIHB1YmxpYyBhc3luYyB1cGRhdGVFbWFpbCh1c2VyRGF0YTogSVVzZXIsIHVzZXJPa3RhSWQ6IHN0cmluZywKICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgICBuZXdFbWFpbDogc3RyaW5nLCBhcHBDb2RlOiBzdHJpbmcpOiBQcm9taXNlPHZvaWQ+IHsKICAgIC8vICAgICB0cnkgewogICAgLy8gICAgICAgICBpZiAoYXdhaXQgdGhpcy5kb2VzRW1haWxFeGlzdChuZXdFbWFpbCkpIHsKICAgIC8vICAgICAgICAgICAgIHRoaXMubG9nZ2VyLmRlYnVnKGBFbWFpbCBbJHtuZXdFbWFpbH1dIGFscmVhZHkgZXhpc3RzLCB0aHJvd2luZyBmb3JiaWRkZW4gZXhjZXB0aW9uYCk7CiAgICAvLyAgICAgICAgICAgICB0aHJvdyBuZXcgRm9yYmlkZGVuRXhjZXB0aW9uKCJFbWFpbCBpbiB1c2UiLCAiRU1BSUxfQUREUkVTU19FWElTVFMiKTsKICAgIC8vICAgICAgICAgfQogICAgLy8gICAgICAgICB0aGlzLmxvZ2dlci5kZWJ1ZyhgVXNlciAke3VzZXJPa3RhSWR9IGVtYWlsIHRvIGJlIHVwZGF0ZWQgdG8gJHtuZXdFbWFpbH1gKTsKICAgIC8vICAgICAgICAgaWYgKCF1c2VyT2t0YUlkKSB7CiAgICAvLyAgICAgICAgICAgICB0aGlzLmxvZ2dlci53YXJuKCJObyBQcm92aWRlciBJZCBmb3VuZCBmb3IgZW1haWwgIiArIG5ld0VtYWlsKTsKICAgIC8vICAgICAgICAgICAgIHJldHVybjsKICAgIC8vICAgICAgICAgfQogICAgLy8gICAgICAgICBjb25zdCBleHBpcnlEYXRlID0gbmV3IERhdGUoKTsKICAgIC8vICAgICAgICAgZXhwaXJ5RGF0ZS5zZXRIb3VycyhleHBpcnlEYXRlLmdldEhvdXJzKCkgKyAyNCk7CiAgICAvLyAgICAgICAgIGNvbnN0IHRva2VuRW50cnk6IElUb2tlbkVudHJ5ID0gewogICAgLy8gICAgICAgICAgICAgdG9rZW46IHV1aWQudjQoKSwKICAgIC8vICAgICAgICAgICAgIHByb3ZpZGVySWQ6IHVzZXJPa3RhSWQsCiAgICAvLyAgICAgICAgICAgICBleHBpcnk6IGV4cGlyeURhdGUudG9JU09TdHJpbmcoKSwKICAgIC8vICAgICAgICAgICAgIGF0dHJpYnV0ZVVwZGF0ZTogYGVtYWlsOiR7bmV3RW1haWx9YCwKICAgIC8vICAgICAgICAgICAgIGNvbnN1bWVkRGF0ZTogbnVsbCwKICAgIC8vICAgICAgICAgICAgIG1ldGhvZDogImVtYWlsIiwKICAgIC8vICAgICAgICAgICAgIGNyZWF0ZWRBdDogbmV3IERhdGUoKSwKICAgIC8vICAgICAgICAgICAgIHVwZGF0ZWRBdDogbmV3IERhdGUoKQogICAgLy8gICAgICAgICB9OwogICAgLy8gICAgICAgICB0aGlzLmxvZ2dlci5kZWJ1ZyhgVmVyaWZ5IFVzZXIgRW1haWwgVG9rZW46ICR7dG9rZW5FbnRyeS50b2tlbn1gKTsKICAgIC8vICAgICAgICAgYXdhaXQgdGhpcy50b2tlbmRiLnN0b3JlQXR0cmlidXRlVmVyaWZ5VG9rZW4odG9rZW5FbnRyeSk7CiAgICAvLyAgICAgICAgIC8vIFNlbmQgVmVyaWZ5IEVtYWlsIHRvIHRoZSBuZXcgSWQKICAgIC8vICAgICAgICAgY29uc3QgYXBwRGV0YWlsczogSUFwcERldGFpbHMgPSBhd2FpdCB0aGlzLmFwcENvbmZpZy5nZXRBcHBEYXRhKGFwcENvZGUpOwogICAgLy8gICAgICAgICBhd2FpdCB0aGlzLm1haWxTZXJ2aWNlLnVwZGF0ZUVtYWlsVmVyaWZ5TWFpbChhcHBEZXRhaWxzLCB1c2VyRGF0YSwgdG9rZW5FbnRyeS50b2tlbiwgbmV3RW1haWwpOwogICAgLy8gICAgICAgICBpZiAoYXBwRGV0YWlscy52ZXJpZnlFbWFpbF9zZW5kVG9DdXJyZW50ICYmIHVzZXJEYXRhLmVtYWlsKSB7CiAgICAvLyAgICAgICAgICAgICBhd2FpdCB0aGlzLm1haWxTZXJ2aWNlLnVwZGF0ZUVtYWlsQ2FuY2VsRW1haWwodXNlckRhdGEsIHRva2VuRW50cnkudG9rZW4sIGFwcERldGFpbHMpOwogICAgLy8gICAgICAgICB9CiAgICAvLyAgICAgfSBjYXRjaCAoZXJyKSB7CiAgICAvLyAgICAgICAgIHRoaXMubG9nZ2VyLmVycm9yKEpTT04uc3RyaW5naWZ5KGVyci5lcnJvclJlc3BvbnNlKSk7CiAgICAvLyAgICAgICAgIGlmIChlcnIgaW5zdGFuY2VvZiBCYWRSZXF1ZXN0RXhjZXB0aW9uCiAgICAvLyAgICAgICAgICAgICB8fCBlcnIgaW5zdGFuY2VvZiBGb3JiaWRkZW5FeGNlcHRpb24KICAgIC8vICAgICAgICAgICAgIHx8IGVyciBpbnN0YW5jZW9mIE5vdEZvdW5kRXhjZXB0aW9uKSB7CiAgICAvLyAgICAgICAgICAgICB0aHJvdyBlcnI7CiAgICAvLyAgICAgICAgIH0gZWxzZSB7CiAgICAvLyAgICAgICAgICAgICBjb25zdCBzZXJ2aWNlRXJyID0gbmV3IFNlcnZpY2VFeGNlcHRpb24oIkZhaWxlZCB0byBpbml0aWF0ZSB1cGRhdGUgdXNlciBlTWFpbCIsCiAgICAvLyAgICAgICAgICAgICAgICAgRXhjZXB0aW9uQ29kZXMuSU5URVJOQUxfRVJST1IpOwogICAgLy8gICAgICAgICAgICAgdGhyb3cgc2VydmljZUVycjsKICAgIC8vICAgICAgICAgfQogICAgLy8gICAgIH0KICAgIC8vIH0K</text>
       </register>
-      <register name="7" type="4">
-        <text>} else {
-                throw new BadRequestException(&quot;Application Code cannot be null&quot;,
-                                              ExceptionCodes.MISSING_APPLICATION_CODE);
-            }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBsb2dSZXRlbnRpb25JbkRheXM6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWFwcERldGFpbHMpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IEJhZFJlcXVlc3RFeGNlcHRpb24oCiAgICAgICAgICAgICAgICAnQXBwbGljYXRpb24gQ29kZSBjYW5ub3QgYmUgbnVsbCcsCiAgICAgICAgICAgICAgICBFeGNlcHRpb25Db2Rlcy5NSVNTSU5HX0FQUExJQ0FUSU9OX0NPREUsCiAgICAgICAgICAgICk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">IyAgbG9nUmV0ZW50aW9uSW5EYXlzOiAke29wdDpMT0dfUkVURU5USU9OX0RBWVN9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEZvdW5kRXhjZXB0aW9uKAogICAgICAgICAgICAgICAgRXhjZXB0aW9uQ29kZXMuQVBQTElDQVRJT05fTk9UX0ZPVU5ELAogICAgICAgICAgICApOwogICAgICAgICAgICB0aHJvdyBuZXcgQmFkUmVxdWVzdEV4Y2VwdGlvbigKICAgICAgICAgICAgICAgIEV4Y2VwdGlvbkNvZGVzLk1JU1NJTkdfQVBQTElDQVRJT05fQ09ERSwKICAgICAgICAgICAgKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgYXBwRGV0YWlsczogSUFwcERldGFpbHMgPSBhd2FpdCB0aGlzLmFwcENvbmZpZy5nZXRBcHBEYXRhKAogICAgICAgICAgICAgICAgYXBwQ29kZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
