@@ -78,7 +78,7 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" timestamp="1543950006752">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" timestamp="1544120618247">
         <mark key="'" line="27" column="46" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/admin-config-paul-dev.sh" timestamp="1543957109951">
@@ -4716,7 +4716,7 @@
         <text>;[]</text>
       </register>
       <register name="/" type="4">
-        <text>activate</text>
+        <text>addUser</text>
       </register>
       <register name="0" type="4">
         <text>communicationPreferences</text>
@@ -4756,9 +4756,9 @@
       </register>
     </registers>
     <search>
-      <last-search>activate</last-search>
+      <last-search>addUser</last-search>
       <last-offset />
-      <last-pattern>activate</last-pattern>
+      <last-pattern>addUser</last-pattern>
       <last-replace>body</last-replace>
       <last-substitute>oktaData</last-substitute>
       <last-dir>1</last-dir>
@@ -4766,7 +4766,6 @@
     </search>
     <history>
       <history-search>
-        <entry>TABLE</entry>
         <entry>forgot</entry>
         <entry>updateForgot</entry>
         <entry>update</entry>
@@ -4786,6 +4785,7 @@
         <entry>users.me.*assword</entry>
         <entry>token</entry>
         <entry>activate</entry>
+        <entry>addUser</entry>
       </history-search>
       <history-cmd>
         <entry>360,384s/oktaData/body/</entry>
