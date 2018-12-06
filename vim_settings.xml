@@ -17,8 +17,8 @@
         <mark key="^" line="95" column="36" />
         <mark key="." line="95" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1544114134385">
-        <mark key="'" line="886" column="25" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1544117276988">
+        <mark key="'" line="1082" column="22" />
         <mark key="[" line="2184" column="40" />
         <mark key="]" line="2184" column="47" />
         <mark key="." line="2184" column="47" />
@@ -51,6 +51,7 @@
         <mark key="." line="23" column="18" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IUserRepository.ts" timestamp="1543949152415" />
+      <file name="$USER_HOME$/dev/repos/common-identity-test/src/typescript/config.ts" timestamp="1544116914800" />
       <file name="$USER_HOME$/dev/repos/automp-be/package.json" timestamp="1544031701406" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/aws-models.ts" timestamp="1543958484257">
         <mark key="[" line="112" column="23" />
@@ -70,6 +71,7 @@
         <mark key="^" line="489" column="51" />
         <mark key="." line="517" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/models/RegisterUserRequest.json" timestamp="1544117082481" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/tables.sh" timestamp="1543957126391">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="6" column="82" />
@@ -125,8 +127,6 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/PreferencesService.ts" timestamp="1544034471680" />
     </filemarks>
     <jumps>
-      <jump line="376" column="45" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
-      <jump line="501" column="23" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="449" column="87" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="604" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="97" column="41" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
@@ -225,6 +225,8 @@
       <jump line="42" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer-memberid.js" />
       <jump line="44" column="21" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer-memberid.js" />
       <jump line="184" column="32" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer-memberid.js" />
+      <jump line="862" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="1082" column="22" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -4714,7 +4716,7 @@
         <text>;[]</text>
       </register>
       <register name="/" type="4">
-        <text>principal</text>
+        <text>users.me.*assword</text>
       </register>
       <register name="0" type="4">
         <text>communicationPreferences</text>
@@ -4754,9 +4756,9 @@
       </register>
     </registers>
     <search>
-      <last-search>principal</last-search>
+      <last-search>users.me.*assword</last-search>
       <last-offset />
-      <last-pattern>principal</last-pattern>
+      <last-pattern>users.me.*assword</last-pattern>
       <last-replace>body</last-replace>
       <last-substitute>oktaData</last-substitute>
       <last-dir>1</last-dir>
@@ -4764,8 +4766,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Prospect</entry>
-        <entry>credentials</entry>
         <entry>logRet</entry>
         <entry>RegisterUserRequest</entry>
         <entry>TABLE</entry>
@@ -4784,6 +4784,8 @@
         <entry>user\/me\/updatePassword</entry>
         <entry>updatePassword</entry>
         <entry>principal</entry>
+        <entry>registerUser</entry>
+        <entry>users.me.*assword</entry>
       </history-search>
       <history-cmd>
         <entry>360,384s/oktaData/body/</entry>
