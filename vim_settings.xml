@@ -206,9 +206,9 @@
         <mark key="^" line="37" column="34" />
         <mark key="." line="37" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1544149547841">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1544202419878">
         <mark key="a" line="203" column="68" />
-        <mark key="'" line="148" column="35" />
+        <mark key="'" line="593" column="4" />
         <mark key="[" line="110" column="33" />
         <mark key="]" line="110" column="40" />
         <mark key="." line="110" column="40" />
@@ -258,7 +258,6 @@
       <file name="$USER_HOME$/dev/repos/common-identity-client/package.json" timestamp="1544031735221" />
     </filemarks>
     <jumps>
-      <jump line="7" column="11" filename="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/tncs-config-paul-dev.sh" />
       <jump line="4" column="11" filename="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/tncs-config-paul-dev.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/admin-config-paul-dev.sh" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/admin-config-paul-dev.sh" />
@@ -358,6 +357,7 @@
       <jump line="861" column="9" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="1041" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="1116" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="593" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4847,7 +4847,7 @@
         <text>response.body</text>
       </register>
       <register name="/" type="4">
-        <text>changeForgotPassword</text>
+        <text>forgot</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IGNsaWVudDogVXNlcnNDbGllbnQgPSBuZXcgVXNlcnNDbGllbnQoCiAgICAgICAgewogICAgICAgICAgICBCYXNlVVJMOiBUZXN0RGF0YS5VUkxzLlFBLAogICAgICAgICAgICBjb250ZXh0OiB7QXBwQ29kZTogVGVzdERhdGEuQXBwQ29kZXMuRHJpdmV9LAogICAgICAgIH0sCiAgICApOwogICAgY29uc3QgZGF0ZU9mQmlydGg6IERhdGUgPSBuZXcgRGF0ZSgpOwogICAgZGF0ZU9mQmlydGguc2V0RnVsbFllYXIoMTk4OSwgOCwgMTQpOwogICAgY29uc3QgdXNlcm5hbWU6IHN0cmluZyA9ICdwYXVsLnN6YWJvQHJiYy5jb20nOwogICAgY29uc3QgZW1haWw6IHN0cmluZyA9IHVzZXJuYW1lOwogICAgY29uc3QgbG9naW46IHN0cmluZyA9IHVzZXJuYW1lOwogICAgY29uc3QgcGFzc3dvcmQ6IHN0cmluZyA9ICd0ZXN0MTIzISc7CiAgICBjb25zdCBmaXJzdE5hbWU6IHN0cmluZyA9ICdQYXVsJzsKICAgIGNvbnN0IGxhc3ROYW1lOiBzdHJpbmcgPSAnU3phYm8nOwogICAgY29uc3QgcHJlZmVycmVkTGFuZ3VhZ2U6IHN0cmluZyA9ICdlbic7CiAgICBjb25zdCBhY3RpdmF0aW9uVG9rZW46IHN0cmluZyA9ICc0Mjk4OWM3ZS1lNzZkLTRmODgtOGJmMC1lOTRmNzc3ZmNlZjgnOwo=</text>
@@ -4887,9 +4887,9 @@
       </register>
     </registers>
     <search>
-      <last-search>changeForgotPassword</last-search>
+      <last-search>forgot</last-search>
       <last-offset />
-      <last-pattern>changeForgotPassword</last-pattern>
+      <last-pattern>forgot</last-pattern>
       <last-replace>body</last-replace>
       <last-substitute>oktaData</last-substitute>
       <last-dir>1</last-dir>
@@ -4897,7 +4897,6 @@
     </search>
     <history>
       <history-search>
-        <entry>registerProspect</entry>
         <entry>updateUserCommP</entry>
         <entry encoding="base64">XDwnXD4=</entry>
         <entry>appCode</entry>
@@ -4917,6 +4916,7 @@
         <entry>getUserByProviderI</entry>
         <entry>anged</entry>
         <entry>changeForgotPassword</entry>
+        <entry>forgot</entry>
       </history-search>
       <history-cmd>
         <entry>360,384s/oktaData/body/</entry>
