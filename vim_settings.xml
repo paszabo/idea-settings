@@ -24,6 +24,9 @@
         <mark key="." line="2184" column="47" />
         <mark key="^" line="2184" column="47" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" timestamp="1544151396356">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/PreferencesRepository.ts" timestamp="1544035054836">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="99" column="125" />
@@ -131,13 +134,14 @@
         <mark key="]" line="29" column="19" />
         <mark key="." line="29" column="19" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/ITokenEntry.ts" timestamp="1544151288331" />
       <file name="$USER_HOME$/dev/repos/common-identity-test/src/javascript/descriptor-test.js" timestamp="1543631569154">
         <mark key="[" line="6" column="34" />
         <mark key="]" line="6" column="34" />
         <mark key="." line="6" column="34" />
         <mark key="^" line="10" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1544149615312">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1544151553584">
         <mark key="'" line="617" column="0" />
         <mark key="[" line="517" column="0" />
         <mark key="]" line="517" column="0" />
@@ -252,10 +256,8 @@
         <mark key="^" line="10" column="7" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-client/package.json" timestamp="1544031735221" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/PreferencesService.ts" timestamp="1544034471680" />
     </filemarks>
     <jumps>
-      <jump line="971" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="2103" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="2187" column="31" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="1358" column="27" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
@@ -355,6 +357,7 @@
       <jump line="284" column="110" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="152" column="35" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="3" column="11" filename="$USER_HOME$/dev/repos/common-identity-client/src/__test__/unit/users/users.client.test.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -4844,7 +4847,7 @@
         <text>.length</text>
       </register>
       <register name="/" type="4">
-        <text>Prospect</text>
+        <text>getEntryWithToken</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IGNsaWVudDogVXNlcnNDbGllbnQgPSBuZXcgVXNlcnNDbGllbnQoCiAgICAgICAgewogICAgICAgICAgICBCYXNlVVJMOiBUZXN0RGF0YS5VUkxzLlFBLAogICAgICAgICAgICBjb250ZXh0OiB7QXBwQ29kZTogVGVzdERhdGEuQXBwQ29kZXMuRHJpdmV9LAogICAgICAgIH0sCiAgICApOwogICAgY29uc3QgZGF0ZU9mQmlydGg6IERhdGUgPSBuZXcgRGF0ZSgpOwogICAgZGF0ZU9mQmlydGguc2V0RnVsbFllYXIoMTk4OSwgOCwgMTQpOwogICAgY29uc3QgdXNlcm5hbWU6IHN0cmluZyA9ICdwYXVsLnN6YWJvQHJiYy5jb20nOwogICAgY29uc3QgZW1haWw6IHN0cmluZyA9IHVzZXJuYW1lOwogICAgY29uc3QgbG9naW46IHN0cmluZyA9IHVzZXJuYW1lOwogICAgY29uc3QgcGFzc3dvcmQ6IHN0cmluZyA9ICd0ZXN0MTIzISc7CiAgICBjb25zdCBmaXJzdE5hbWU6IHN0cmluZyA9ICdQYXVsJzsKICAgIGNvbnN0IGxhc3ROYW1lOiBzdHJpbmcgPSAnU3phYm8nOwogICAgY29uc3QgcHJlZmVycmVkTGFuZ3VhZ2U6IHN0cmluZyA9ICdlbic7CiAgICBjb25zdCBhY3RpdmF0aW9uVG9rZW46IHN0cmluZyA9ICc0Mjk4OWM3ZS1lNzZkLTRmODgtOGJmMC1lOTRmNzc3ZmNlZjgnOwo=</text>
@@ -4884,9 +4887,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Prospect</last-search>
+      <last-search>getEntryWithToken</last-search>
       <last-offset />
-      <last-pattern>Prospect</last-pattern>
+      <last-pattern>getEntryWithToken</last-pattern>
       <last-replace>body</last-replace>
       <last-substitute>oktaData</last-substitute>
       <last-dir>1</last-dir>
@@ -4894,7 +4897,6 @@
     </search>
     <history>
       <history-search>
-        <entry>updateForgot</entry>
         <entry>update</entry>
         <entry>changeFogotPassword</entry>
         <entry>changeForgot</entry>
@@ -4914,6 +4916,7 @@
         <entry>activate</entry>
         <entry>addUser</entry>
         <entry>Prospect</entry>
+        <entry>getEntryWithToken</entry>
       </history-search>
       <history-cmd>
         <entry>360,384s/oktaData/body/</entry>
