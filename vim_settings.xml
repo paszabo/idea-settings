@@ -151,13 +151,13 @@
         <mark key="." line="37" column="47" />
         <mark key="^" line="37" column="47" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1544557728101">
-        <mark key="a" line="258" column="68" />
-        <mark key="'" line="131" column="18" />
-        <mark key="[" line="151" column="49" />
-        <mark key="]" line="152" column="23" />
-        <mark key="." line="152" column="23" />
-        <mark key="^" line="152" column="23" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1544559204766">
+        <mark key="a" line="290" column="68" />
+        <mark key="'" line="179" column="27" />
+        <mark key="[" line="179" column="66" />
+        <mark key="]" line="179" column="66" />
+        <mark key="." line="179" column="66" />
+        <mark key="^" line="179" column="66" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer-memberid.js" timestamp="1544548173848">
         <mark key="'" line="198" column="13" />
@@ -210,7 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="338" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="19" column="58" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="601" column="42" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="673" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
@@ -310,10 +309,11 @@
       <jump line="45" column="86" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="47" column="64" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="131" column="18" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="179" column="27" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBvbGRQcmVmcy5maWx0ZXIob2xkUHJlZiA9PiBjbXAob2xkUHJlZiwgbmV3UHJlZikpLmxlbmd0aCA+IDA7Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4796,52 +4796,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text encoding="base64">bmV3IE1hcDxzdHJpbmcsIElDb21tUHJlZmVyZW5jZT4oKTs=</text>
       </register>
       <register name="/" type="4">
-        <text>appConfig</text>
+        <text encoding="base64">XDxvbGRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>IUserAppCommPreferences</text>
+        <text>ICommPreference</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBvbGRQcmVmcy5maWx0ZXIob2xkUHJlZiA9PiBjbXAob2xkUHJlZiwgbmV3UHJlZikpLmxlbmd0aCA+IDA7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgbmV3UHJlZk1hcCA9IG5ldyBNYXA8c3RyaW5nLCBJQ29tbVByZWZlcmVuY2U+KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA6d2FpdHMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoY29uc3QgW10pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBzYQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHAxLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA6d2FpdHMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>appConfig</last-search>
+      <last-search encoding="base64">XDxvbGRcPg==</last-search>
       <last-offset />
-      <last-pattern>appConfig</last-pattern>
+      <last-pattern encoding="base64">XDxvbGRcPg==</last-pattern>
       <last-replace>body</last-replace>
       <last-substitute>oktaData</last-substitute>
       <last-dir>1</last-dir>
@@ -4849,7 +4849,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getUserByProviderI</entry>
         <entry>anged</entry>
         <entry>changeForgotPassword</entry>
         <entry>forgot</entry>
@@ -4869,9 +4868,9 @@
         <entry>USER</entry>
         <entry>Prospect</entry>
         <entry>appConfig</entry>
+        <entry encoding="base64">XDxvbGRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>568</entry>
         <entry>6</entry>
         <entry>459</entry>
         <entry>4</entry>
@@ -4890,6 +4889,7 @@
         <entry>0</entry>
         <entry>110</entry>
         <entry>145</entry>
+        <entry>ww</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
