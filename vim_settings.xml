@@ -10,6 +10,7 @@
         <mark key="^" line="25" column="80" />
         <mark key="." line="25" column="81" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/ICommPreferences.ts" timestamp="1544642845287" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1544634011355">
         <mark key="'" line="298" column="13" />
         <mark key="[" line="302" column="48" />
@@ -17,11 +18,11 @@
         <mark key="^" line="302" column="48" />
         <mark key="." line="302" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/test/services/PreferencesService.test.ts" timestamp="1544640677033">
-        <mark key="[" line="74" column="11" />
-        <mark key="]" line="75" column="7" />
-        <mark key="^" line="75" column="7" />
-        <mark key="." line="75" column="7" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/services/PreferencesService.test.ts" timestamp="1544641383953">
+        <mark key="[" line="79" column="38" />
+        <mark key="]" line="79" column="44" />
+        <mark key="^" line="79" column="44" />
+        <mark key="." line="79" column="44" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/models/RegisterUserRequest.json" timestamp="1544634296715">
         <mark key="[" line="133" column="15" />
@@ -52,7 +53,7 @@
         <mark key="." line="1096" column="32" />
         <mark key="^" line="1096" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/PreferencesRepository.ts" timestamp="1544035054836">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/PreferencesRepository.ts" timestamp="1544642891448">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="99" column="125" />
         <mark key="]" line="100" column="39" />
@@ -191,14 +192,14 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/PreferencesService.ts" timestamp="1544639816543">
-        <mark key="a" line="177" column="4" />
-        <mark key="b" line="211" column="4" />
-        <mark key="'" line="182" column="18" />
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="0" />
-        <mark key="." line="128" column="0" />
-        <mark key="^" line="129" column="6" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/PreferencesService.ts" timestamp="1544642835687">
+        <mark key="a" line="173" column="4" />
+        <mark key="b" line="207" column="4" />
+        <mark key="'" line="129" column="31" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="16" />
+        <mark key="^" line="65" column="15" />
+        <mark key="." line="68" column="16" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/constants.ts" timestamp="1544628272786">
         <mark key="[" line="2" column="0" />
@@ -207,7 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="9" column="27" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="16" column="27" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="197" column="85" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
@@ -307,10 +307,11 @@
       <jump line="12" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/PreferencesService.ts" />
       <jump line="182" column="18" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/PreferencesService.ts" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/services/PreferencesService.test.ts" />
+      <jump line="133" column="31" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/PreferencesService.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>communicaiton</text>
+        <text>IUserAppCommPreferences</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4793,57 +4794,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>communicaiton</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>all</text>
+        <text>this.comparePref</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KF8uaXNFcXVhbChuZXdQcmVmcywgW25ld0Jsb2dQcmVmXSkpLnRvQmUodHJ1ZSk7Cg==</text>
+      <register name="0" type="4">
+        <text>IUserAppCommPreferences</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IHByZWZlcmVuY2VzOiBJQ29tbVByZWZlcmVuY2VbXSA9IFsKICAgIC8vICAgICBuZXdzTGV0dGVyUHJlZiwKICAgIC8vICAgICBibG9nUHJlZiwKICAgIC8vICAgICBwcm9tb1ByZWYsCiAgICAvLyBdOwo=</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChlcnIpIHsKICAgICAgICAgICAgdGhyb3cgZXJyOwogICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KF8uaXNFcXVhbChuZXdQcmVmcywgW25ld0Jsb2dQcmVmXSkpLnRvQmUodHJ1ZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGNvbnN0IG5ld1ByZWZzID0gcHJlZlNlcnZpY2UucHJlZmVyZW5jZXNDaGFuZ2VkKAogICAgICAgICAgICAgICAgW25ld0Jsb2dQcmVmXSwKICAgICAgICAgICAgICAgIHByZWZlcmVuY2VzLAogICAgICAgICAgICAgICAgZmFsc2UsCiAgICAgICAgICAgICk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KF8uaXNFbXB0eShuZXdQcmVmcykpLnRvQmUodHJ1ZSk7CiAgICAgICAgICAgIGNvbnN0IG5ld0Jsb2dQcmVmID0gey4uLmJsb2dQcmVmLCBpc0FjY2VwdGVkOiB0cnVlfTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgbmV3UHJlZjogSUNvbW1QcmVmZXJlbmNlID0gewogICAgICAgICAgICAgICAgaXNBY2NlcHRlZDogdHJ1ZSwKICAgICAgICAgICAgICAgIHZhbHVlOiBlbWFpbCwKICAgICAgICAgICAgICAgIGNoYW5uZWw6ICdlbWFpbCcsCiAgICAgICAgICAgICAgICBjb21tdW5pY2F0aW9uVHlwZTogJ3NvbWV0aGluZyBuZXcnLAogICAgICAgICAgICB9Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHByb21vUHJlZjogSUNvbW1QcmVmZXJlbmNlID0gewogICAgICAgIGlzQWNjZXB0ZWQ6IHRydWUsCiAgICAgICAgY29tbXVuaWNhdGlvblR5cGU6IENvbW11bmljYXRpb25UeXBlcy5Qcm9tb3Rpb25zLAogICAgICAgIGNoYW5uZWw6ICdzbXMnLAogICAgICAgIHZhbHVlOiBlbWFpbCwKICAgIH07Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IHByZWZlcmVuY2VzOiBJQ29tbVByZWZlcmVuY2VbXSA9IFsKICAgIC8vICAgICBuZXdzTGV0dGVyUHJlZiwKICAgIC8vICAgICBibG9nUHJlZiwKICAgIC8vICAgICBwcm9tb1ByZWYsCiAgICAvLyBdOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWx1ZTogZW1haWwsCiAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KF8uaXNFcXVhbChuZXdQcmVmcywgW25ld0Jsb2dQcmVmXSkpLnRvQmUodHJ1ZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGJsb2dQcmVmOiBJQ29tbVByZWZlcmVuY2UgPSB7CiAgICAgICAgaXNBY2NlcHRlZDogZmFsc2UsCiAgICAgICAgY29tbXVuaWNhdGlvblR5cGU6IENvbW11bmljYXRpb25UeXBlcy5CbG9nUG9zdHMsCiAgICAgICAgY2hhbm5lbDogJ2VtYWlsJywKICAgICAgICB2YWx1ZTogZW1haWwsCiAgICB9Owo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGNvbnN0IG5ld1ByZWZzID0gcHJlZlNlcnZpY2UucHJlZmVyZW5jZXNDaGFuZ2VkKAogICAgICAgICAgICAgICAgW25ld0Jsb2dQcmVmXSwKICAgICAgICAgICAgICAgIHByZWZlcmVuY2VzLAogICAgICAgICAgICAgICAgZmFsc2UsCiAgICAgICAgICAgICk7Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG5ld3NMZXR0ZXJQcmVmOiBJQ29tbVByZWZlcmVuY2UgPSB7CiAgICAgICAgaXNBY2NlcHRlZDogdHJ1ZSwKICAgICAgICBjb21tdW5pY2F0aW9uVHlwZTogQ29tbXVuaWNhdGlvblR5cGVzLk5ld3NsZXR0ZXIsCiAgICAgICAgY2hhbm5lbDogJ2VtYWlsJywKICAgICAgICB2YWx1ZTogZW1haWwsCiAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KF8uaXNFbXB0eShuZXdQcmVmcykpLnRvQmUodHJ1ZSk7CiAgICAgICAgICAgIGNvbnN0IG5ld0Jsb2dQcmVmID0gey4uLmJsb2dQcmVmLCBpc0FjY2VwdGVkOiB0cnVlfTsK</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-        isAccepted: false,
-        communicationType: CommunicationTypes.BlogPosts,
-        channel: 'email',
-        value: email,
-    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHByb21vUHJlZjogSUNvbW1QcmVmZXJlbmNlID0gewogICAgICAgIGlzQWNjZXB0ZWQ6IHRydWUsCiAgICAgICAgY29tbXVuaWNhdGlvblR5cGU6IENvbW11bmljYXRpb25UeXBlcy5Qcm9tb3Rpb25zLAogICAgICAgIGNoYW5uZWw6ICdzbXMnLAogICAgICAgIHZhbHVlOiBlbWFpbCwKICAgIH07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>all</last-search>
+      <last-search>this.comparePref</last-search>
       <last-offset />
-      <last-pattern>all</last-pattern>
+      <last-pattern>this.comparePref</last-pattern>
       <last-replace>body</last-replace>
       <last-substitute>oktaData</last-substitute>
       <last-dir>1</last-dir>
@@ -4851,7 +4847,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getEntry</entry>
         <entry>getUser</entry>
         <entry>MISSING</entry>
         <entry>USER</entry>
@@ -4871,6 +4866,7 @@
         <entry>Prospect</entry>
         <entry>is</entry>
         <entry>all</entry>
+        <entry>this.comparePref</entry>
       </history-search>
       <history-cmd>
         <entry>6</entry>
