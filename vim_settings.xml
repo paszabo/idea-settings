@@ -17,6 +17,7 @@
         <mark key="^" line="302" column="48" />
         <mark key="." line="302" column="48" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IUserResponse.ts" timestamp="1544636644498" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/automate.sh" timestamp="1544031058433" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/TnCService.ts" timestamp="1544034888719">
         <mark key="[" line="92" column="37" />
@@ -86,7 +87,7 @@
         <mark key="." line="6" column="75" />
         <mark key="^" line="6" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/aws-models.ts" timestamp="1544554215607">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/aws-models.ts" timestamp="1544636622443">
         <mark key="[" line="113" column="0" />
         <mark key="]" line="113" column="0" />
         <mark key="." line="113" column="0" />
@@ -97,8 +98,8 @@
         <mark key="." line="29" column="19" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/ITokenEntry.ts" timestamp="1544151288331" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1544635968759">
-        <mark key="'" line="284" column="8" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1544636636038">
+        <mark key="'" line="783" column="22" />
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="10" />
         <mark key="^" line="898" column="101" />
@@ -127,20 +128,7 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/index.ts" timestamp="1544551849763">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="8" column="40" />
-        <mark key="]" line="9" column="40" />
-        <mark key="^" line="9" column="40" />
-        <mark key="." line="9" column="40" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/http-o2/src/exceptions/index.ts" timestamp="1543454070194">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="44" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="2" column="41" />
-      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IUser.ts" timestamp="1544636594746" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Helper.ts" timestamp="1544628298778">
         <mark key="[" line="17" column="23" />
         <mark key="]" line="17" column="23" />
@@ -174,20 +162,6 @@
         <mark key="^" line="48" column="75" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1544634277008" />
-      <file name="$USER_HOME$/dev/repos/http-o2/src/client/base.client.ts" timestamp="1543453975267">
-        <mark key="'" line="131" column="3" />
-        <mark key="[" line="171" column="13" />
-        <mark key="]" line="171" column="16" />
-        <mark key="^" line="171" column="16" />
-        <mark key="." line="171" column="16" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/http-o2/src/client/action/base.action.ts" timestamp="1543451580127">
-        <mark key="'" line="7" column="30" />
-        <mark key="[" line="44" column="52" />
-        <mark key="]" line="44" column="52" />
-        <mark key="." line="44" column="52" />
-        <mark key="^" line="23" column="47" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/deploy-users.sh" timestamp="1544031065213">
         <mark key="[" line="9" column="5" />
         <mark key="]" line="9" column="10" />
@@ -234,7 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="21" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer-memberid.js" />
       <jump line="184" column="32" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer-memberid.js" />
       <jump line="862" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="1082" column="22" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
@@ -334,6 +307,7 @@
       <jump line="298" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="175" column="99" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/PreferencesService.ts" />
       <jump line="284" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="783" column="22" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4823,7 +4797,7 @@
         <text>`</text>
       </register>
       <register name="/" type="4">
-        <text>is not activated so not</text>
+        <text>Prospect</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5sb2dnZXIuZGVidWcoYFByZWZlcmVuY2UgJHtKU09OLnN0cmluZ2lmeShwcmVmKX0gd291bGQgb3ZlcndyaXRlICR7SlNPTi5zdHJpbmdpZnkoZXhpc3RpbmcpfWApOwo=</text>
@@ -4864,9 +4838,9 @@
       </register>
     </registers>
     <search>
-      <last-search>is not activated so not</last-search>
+      <last-search>Prospect</last-search>
       <last-offset />
-      <last-pattern>is not activated so not</last-pattern>
+      <last-pattern>Prospect</last-pattern>
       <last-replace>body</last-replace>
       <last-substitute>oktaData</last-substitute>
       <last-dir>1</last-dir>
@@ -4885,15 +4859,15 @@
         <entry>delim</entry>
         <entry>new</entry>
         <entry>may</entry>
-        <entry>registrationMethod</entry>
         <entry>Constants</entry>
         <entry>&quot;self&quot;</entry>
         <entry>&quot;admin&quot;</entry>
-        <entry>Prospect</entry>
         <entry>registerUser</entry>
         <entry>public async registerUs</entry>
         <entry encoding="base64">XDxleGlzdGluZ1w+</entry>
         <entry>is not activated so not</entry>
+        <entry>registrationMethod</entry>
+        <entry>Prospect</entry>
       </history-search>
       <history-cmd>
         <entry>6</entry>
