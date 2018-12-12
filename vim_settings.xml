@@ -97,8 +97,8 @@
         <mark key="." line="29" column="19" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/ITokenEntry.ts" timestamp="1544151288331" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1544629110721">
-        <mark key="'" line="48" column="0" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1544635968759">
+        <mark key="'" line="284" column="8" />
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="10" />
         <mark key="^" line="898" column="101" />
@@ -234,7 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer-memberid.js" />
       <jump line="44" column="21" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer-memberid.js" />
       <jump line="184" column="32" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer-memberid.js" />
       <jump line="862" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
@@ -334,6 +333,7 @@
       <jump line="1364" column="25" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="298" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="175" column="99" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/PreferencesService.ts" />
+      <jump line="284" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4823,7 +4823,7 @@
         <text>`</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxleGlzdGluZ1w+</text>
+        <text>is not activated so not</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5sb2dnZXIuZGVidWcoYFByZWZlcmVuY2UgJHtKU09OLnN0cmluZ2lmeShwcmVmKX0gd291bGQgb3ZlcndyaXRlICR7SlNPTi5zdHJpbmdpZnkoZXhpc3RpbmcpfWApOwo=</text>
@@ -4864,17 +4864,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxleGlzdGluZ1w+</last-search>
+      <last-search>is not activated so not</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxleGlzdGluZ1w+</last-pattern>
+      <last-pattern>is not activated so not</last-pattern>
       <last-replace>body</last-replace>
       <last-substitute>oktaData</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>context</entry>
         <entry>new DuplicateUser</entry>
         <entry encoding="base64">XDwpXD4=</entry>
         <entry>getEntry</entry>
@@ -4894,6 +4893,7 @@
         <entry>registerUser</entry>
         <entry>public async registerUs</entry>
         <entry encoding="base64">XDxleGlzdGluZ1w+</entry>
+        <entry>is not activated so not</entry>
       </history-search>
       <history-cmd>
         <entry>6</entry>
