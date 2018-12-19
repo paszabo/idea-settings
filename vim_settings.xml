@@ -108,21 +108,15 @@
         <mark key="]" line="6" column="6" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/test/services/test.UserService.ts" timestamp="1545065138134" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/services/test.UserService.ts" timestamp="1545237797717">
+        <mark key="'" line="638" column="9" />
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="16" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="1376" column="54" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
-      <jump line="1472" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
-      <jump line="284" column="110" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
-      <jump line="152" column="35" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
-      <jump line="3" column="11" filename="$USER_HOME$/dev/repos/common-identity-client/src/__test__/unit/users/users.client.test.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" />
-      <jump line="1172" column="47" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="1036" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
-      <jump line="319" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
-      <jump line="1119" column="33" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
-      <jump line="1043" column="77" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
-      <jump line="861" column="9" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="1041" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="1116" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="593" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
@@ -211,10 +205,22 @@
       <jump line="22" column="9" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="152" column="5" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/PreferencesService.ts" />
       <jump line="174" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/PreferencesService.ts" />
+      <jump line="35" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/services/test.UserService.ts" />
+      <jump line="190" column="9" filename="$USER_HOME$/dev/repos/common-identity-api/test/services/test.UserService.ts" />
+      <jump line="221" column="9" filename="$USER_HOME$/dev/repos/common-identity-api/test/services/test.UserService.ts" />
+      <jump line="234" column="9" filename="$USER_HOME$/dev/repos/common-identity-api/test/services/test.UserService.ts" />
+      <jump line="327" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/test/services/test.UserService.ts" />
+      <jump line="302" column="11" filename="$USER_HOME$/dev/repos/common-identity-api/test/services/test.UserService.ts" />
+      <jump line="350" column="9" filename="$USER_HOME$/dev/repos/common-identity-api/test/services/test.UserService.ts" />
+      <jump line="436" column="9" filename="$USER_HOME$/dev/repos/common-identity-api/test/services/test.UserService.ts" />
+      <jump line="468" column="9" filename="$USER_HOME$/dev/repos/common-identity-api/test/services/test.UserService.ts" />
+      <jump line="519" column="77" filename="$USER_HOME$/dev/repos/common-identity-api/test/services/test.UserService.ts" />
+      <jump line="580" column="9" filename="$USER_HOME$/dev/repos/common-identity-api/test/services/test.UserService.ts" />
+      <jump line="637" column="9" filename="$USER_HOME$/dev/repos/common-identity-api/test/services/test.UserService.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Preferences</text>
+        <text>;</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4697,10 +4703,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Preferences</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>base</text>
+        <text>initiates forgot password flow when given bas username but does not continue call</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25zdCBjcmVkZW50aWFscyA9IG5ld1VzZXIuZ2V0Q3JlZGVudGlhbHMoKTsKICAgICAgICBjb25zdCBldmVudDogSVJlZ2lzdGVyVXNlckV2ZW50ID0gbmV3VXNlci5ldmVudDsKICAgICAgICBpZiAoYWN0aXZhdGUgPT09ICJ0cnVlIiB8fCBuZXdVc2VyLmFkZEFzQWRtaW4gfHwgIWNyZWRlbnRpYWxzKSB7ICAgICAgICAgICAgICAvLyAgaWYgYWN0aXZhdGluZyBkdXJpbmcgY3JlYXRpb24gbmVlZCBhZG1pbiBncm91cCBtZW1iZXJzaGlwCiAgICAgICAgICAgIGlmICghZXZlbnQuZW5oYW5jZWRBdXRoQ29udGV4dC5hZG1pbk1lbWJlcklkKSB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgRm9yYmlkZGVuRXhjZXB0aW9uKCJUeXBlIG9mIHJlZ2lzdHJhdGlvbiByZXF1aXJlcyBhZG1pbmlzdHJhdGl2ZSBwcml2aWxlZ2VzIiwKICAgICAgICAgICAgICAgICAgICBFeGNlcHRpb25Db2Rlcy5NSVNTSU5HX0FETUlOX01FTUJFUlNISVApOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
@@ -4742,9 +4748,9 @@
       </register>
     </registers>
     <search>
-      <last-search>base</last-search>
+      <last-search>initiates forgot password flow when given bas username but does not continue call</last-search>
       <last-offset />
-      <last-pattern>base</last-pattern>
+      <last-pattern>initiates forgot password flow when given bas username but does not continue call</last-pattern>
       <last-replace>body</last-replace>
       <last-substitute>oktaData</last-substitute>
       <last-dir>1</last-dir>
@@ -4752,18 +4758,6 @@
     </search>
     <history>
       <history-search>
-        <entry>USER</entry>
-        <entry>appConfig</entry>
-        <entry encoding="base64">XDxvbGRcPg==</entry>
-        <entry>delim</entry>
-        <entry>new</entry>
-        <entry>may</entry>
-        <entry>Constants</entry>
-        <entry>&quot;self&quot;</entry>
-        <entry>&quot;admin&quot;</entry>
-        <entry>public async registerUs</entry>
-        <entry encoding="base64">XDxleGlzdGluZ1w+</entry>
-        <entry>is not activated so not</entry>
         <entry>registrationMethod</entry>
         <entry>is</entry>
         <entry>all</entry>
@@ -4772,6 +4766,18 @@
         <entry>registerUser</entry>
         <entry>of</entry>
         <entry>base</entry>
+        <entry encoding="base64">cmV0dXJucyBjb3JyZWN0IHByb2ZpbGUgd2hlbiA=</entry>
+        <entry encoding="base64">cmV0dXJucyBzdWNjZXNzIGlmIHVzZXIgaXMg</entry>
+        <entry>Calls the update profile func</entry>
+        <entry>getUserHappyPath</entry>
+        <entry>getUserUnhappyPath-Member id not found</entry>
+        <entry>updateUserHappyPath</entry>
+        <entry>updateUserHappyPath-NoEmail</entry>
+        <entry>unHappy path for updateUser-Member</entry>
+        <entry>updatePasswordHappyPath</entry>
+        <entry>activateUserHappyPath</entry>
+        <entry>initiates forgot password flow</entry>
+        <entry>initiates forgot password flow when given bas username but does not continue call</entry>
       </history-search>
       <history-cmd>
         <entry>6</entry>
