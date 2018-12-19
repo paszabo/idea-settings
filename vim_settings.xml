@@ -94,14 +94,14 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/PreferencesService.ts" timestamp="1545231503199">
-        <mark key="a" line="189" column="4" />
-        <mark key="b" line="223" column="4" />
-        <mark key="'" line="139" column="31" />
-        <mark key="[" line="172" column="60" />
-        <mark key="]" line="172" column="59" />
-        <mark key="." line="172" column="59" />
-        <mark key="^" line="172" column="59" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/PreferencesService.ts" timestamp="1545233553239">
+        <mark key="a" line="190" column="4" />
+        <mark key="b" line="224" column="4" />
+        <mark key="'" line="152" column="5" />
+        <mark key="[" line="152" column="76" />
+        <mark key="]" line="153" column="6" />
+        <mark key="." line="153" column="6" />
+        <mark key="^" line="153" column="6" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/constants.ts" timestamp="1544628272786">
         <mark key="[" line="2" column="0" />
@@ -111,7 +111,6 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/services/test.UserService.ts" timestamp="1545065138134" />
     </filemarks>
     <jumps>
-      <jump line="197" column="85" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="283" column="47" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="1376" column="54" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="1472" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
@@ -211,10 +210,11 @@
       <jump line="133" column="31" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/PreferencesService.ts" />
       <jump line="21" column="30" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="22" column="9" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="152" column="5" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/PreferencesService.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLQogICAgICAgICAgbmFtZTogIlJlZ2lzdGVyUHJvc3BlY3RVc2VyUmVxdWVzdCIKICAgICAgICAgIGRlc2NyaXB0aW9uOiAiSW5mb3JtYXRpb24gcmVxdWlyZWQgdG8gcmVnaXN0ZXIgYSB1c2VyIgogICAgICAgICAgY29udGVudFR5cGU6ICJhcHBsaWNhdGlvbi9qc29uIgogICAgICAgICAgc2NoZW1hOiAke2ZpbGUobW9kZWxzL1JlZ2lzdGVyUHJvc3BlY3RVc2VyUmVxdWVzdC5qc29uKX0K</text>
+      <register name="&quot;" type="4">
+        <text>Determine which preferences changed</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4697,10 +4697,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>Determine which preferences changed</text>
       </register>
       <register name="/" type="4">
-        <text>registerUser</text>
+        <text>of</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25zdCBjcmVkZW50aWFscyA9IG5ld1VzZXIuZ2V0Q3JlZGVudGlhbHMoKTsKICAgICAgICBjb25zdCBldmVudDogSVJlZ2lzdGVyVXNlckV2ZW50ID0gbmV3VXNlci5ldmVudDsKICAgICAgICBpZiAoYWN0aXZhdGUgPT09ICJ0cnVlIiB8fCBuZXdVc2VyLmFkZEFzQWRtaW4gfHwgIWNyZWRlbnRpYWxzKSB7ICAgICAgICAgICAgICAvLyAgaWYgYWN0aXZhdGluZyBkdXJpbmcgY3JlYXRpb24gbmVlZCBhZG1pbiBncm91cCBtZW1iZXJzaGlwCiAgICAgICAgICAgIGlmICghZXZlbnQuZW5oYW5jZWRBdXRoQ29udGV4dC5hZG1pbk1lbWJlcklkKSB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgRm9yYmlkZGVuRXhjZXB0aW9uKCJUeXBlIG9mIHJlZ2lzdHJhdGlvbiByZXF1aXJlcyBhZG1pbmlzdHJhdGl2ZSBwcml2aWxlZ2VzIiwKICAgICAgICAgICAgICAgICAgICBFeGNlcHRpb25Db2Rlcy5NSVNTSU5HX0FETUlOX01FTUJFUlNISVApOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
@@ -4742,9 +4742,9 @@
       </register>
     </registers>
     <search>
-      <last-search>registerUser</last-search>
+      <last-search>of</last-search>
       <last-offset />
-      <last-pattern>registerUser</last-pattern>
+      <last-pattern>of</last-pattern>
       <last-replace>body</last-replace>
       <last-substitute>oktaData</last-substitute>
       <last-dir>1</last-dir>
@@ -4752,7 +4752,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getUser</entry>
         <entry>MISSING</entry>
         <entry>USER</entry>
         <entry>appConfig</entry>
@@ -4772,6 +4771,7 @@
         <entry>this.comparePref</entry>
         <entry>Prospect</entry>
         <entry>registerUser</entry>
+        <entry>of</entry>
       </history-search>
       <history-cmd>
         <entry>6</entry>
