@@ -146,9 +146,9 @@
         <mark key="." line="3" column="3" />
         <mark key="^" line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1547225879215">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1547227171196">
         <mark key="a" line="809" column="27" />
-        <mark key="'" line="19" column="77" />
+        <mark key="'" line="800" column="40" />
         <mark key="[" line="839" column="9" />
         <mark key="]" line="840" column="7" />
         <mark key="^" line="840" column="7" />
@@ -180,7 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="887" column="70" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="0" column="7" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/Logger.ts" />
       <jump line="98" column="90" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/UserRepository.ts" />
       <jump line="58" column="34" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/MailService.ts" />
@@ -280,6 +279,7 @@
       <jump line="189" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
       <jump line="190" column="15" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
       <jump line="199" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
+      <jump line="800" column="40" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4769,7 +4769,7 @@
         <text>MockData.changeForgotPasswordRequest.)</text>
       </register>
       <register name="/" type="4">
-        <text>unsub</text>
+        <text>register</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC4uLk1vY2tEYXRhLmNoYW5nZUZvcmdvdFBhc3N3b3JkUmVxdWVzdCwKICAgICAgICAgICAgICAgIHJlY292ZXJ5VG9rZW46IHVuZGVmaW5lZCwK</text>
@@ -4809,9 +4809,9 @@
       </register>
     </registers>
     <search>
-      <last-search>unsub</last-search>
+      <last-search>register</last-search>
       <last-offset />
-      <last-pattern>unsub</last-pattern>
+      <last-pattern>register</last-pattern>
       <last-replace>changeForgotPasswordRequest</last-replace>
       <last-substitute>changeForgotPasswordMock</last-substitute>
       <last-dir>1</last-dir>
@@ -4819,7 +4819,6 @@
     </search>
     <history>
       <history-search>
-        <entry>updatePasswordHappyPath</entry>
         <entry>activateUserHappyPath</entry>
         <entry>initiates forgot password flow</entry>
         <entry>initiates forgot password flow when given bas username but does not continue call</entry>
@@ -4839,6 +4838,7 @@
         <entry>logger</entry>
         <entry>changeForgotPasswordMock</entry>
         <entry>unsub</entry>
+        <entry>register</entry>
       </history-search>
       <history-cmd>
         <entry>81</entry>
