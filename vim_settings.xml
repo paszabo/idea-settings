@@ -16,17 +16,8 @@
         <mark key="^" line="104" column="7" />
         <mark key="." line="104" column="7" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" timestamp="1547225171481" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/configurations/AppConfig.ts" timestamp="1547073408586" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/models/RegisterUserRequest.json" timestamp="1545232144771">
-        <mark key="[" line="86" column="17" />
-        <mark key="]" line="86" column="17" />
-        <mark key="." line="86" column="17" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-client/src/users/users.client.ts" timestamp="1544149888264">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/tables.sh" timestamp="1543957126391">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="6" column="82" />
@@ -105,6 +96,9 @@
         <mark key="." line="65" column="39" />
         <mark key="^" line="65" column="39" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" timestamp="1547225070608">
+        <mark key="'" line="199" column="8" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/package.json" timestamp="1545342346983">
         <mark key="'" line="62" column="21" />
         <mark key="[" line="70" column="0" />
@@ -126,21 +120,11 @@
         <mark key="." line="6" column="75" />
         <mark key="^" line="6" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/aws-models.ts" timestamp="1544636622443">
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/deploy-users.sh" timestamp="1544031065213">
         <mark key="[" line="9" column="5" />
         <mark key="]" line="9" column="10" />
         <mark key="^" line="9" column="10" />
         <mark key="." line="9" column="10" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/package.json" timestamp="1544634574817">
-        <mark key="[" line="29" column="19" />
-        <mark key="]" line="29" column="19" />
-        <mark key="." line="29" column="19" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/RegisterRequest.ts" timestamp="1546506764203">
         <mark key="'" line="98" column="0" />
@@ -148,11 +132,6 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
         <mark key="^" line="39" column="35" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Utilities.ts" timestamp="1544628046004">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/UserRepository.ts" timestamp="1545073389925">
         <mark key="'" line="102" column="90" />
@@ -181,20 +160,11 @@
         <mark key="]" line="204" column="0" />
         <mark key="." line="204" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IIdentityRepository.ts" timestamp="1544548537156">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-client/package.json" timestamp="1545342703209">
         <mark key="[" line="48" column="28" />
         <mark key="]" line="61" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/constants.ts" timestamp="1544628272786">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="6" column="6" />
-        <mark key="." line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/models/UserUnsubscribeCommPreferencesRequest.json" timestamp="1547225134155" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/PreferencesService.ts" timestamp="1547071021072">
         <mark key="[" line="170" column="0" />
         <mark key="]" line="170" column="0" />
@@ -209,13 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="896" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="898" column="101" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="945" column="90" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="2" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="349" column="46" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="351" column="46" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="480" column="33" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="887" column="70" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="0" column="7" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/Logger.ts" />
       <jump line="98" column="90" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/UserRepository.ts" />
@@ -309,6 +272,13 @@
       <jump line="127" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/test/services/UserService.test.ts" />
       <jump line="197" column="52" filename="$USER_HOME$/dev/repos/common-identity-api/test/services/UserService.test.ts" />
       <jump line="203" column="3" filename="$USER_HOME$/dev/repos/common-identity-api/test/services/UserService.test.ts" />
+      <jump line="33" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
+      <jump line="184" column="15" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
+      <jump line="187" column="10" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
+      <jump line="188" column="14" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
+      <jump line="189" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
+      <jump line="190" column="15" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
+      <jump line="199" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4798,7 +4768,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>changeForgotPasswordMock</text>
+        <text>unsub</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC4uLk1vY2tEYXRhLmNoYW5nZUZvcmdvdFBhc3N3b3JkUmVxdWVzdCwKICAgICAgICAgICAgICAgIHJlY292ZXJ5VG9rZW46IHVuZGVmaW5lZCwK</text>
@@ -4838,9 +4808,9 @@
       </register>
     </registers>
     <search>
-      <last-search>changeForgotPasswordMock</last-search>
+      <last-search>unsub</last-search>
       <last-offset />
-      <last-pattern>changeForgotPasswordMock</last-pattern>
+      <last-pattern>unsub</last-pattern>
       <last-replace>changeForgotPasswordRequest</last-replace>
       <last-substitute>changeForgotPasswordMock</last-substitute>
       <last-dir>1</last-dir>
@@ -4848,7 +4818,6 @@
     </search>
     <history>
       <history-search>
-        <entry>unHappy path for updateUser-Member</entry>
         <entry>updatePasswordHappyPath</entry>
         <entry>activateUserHappyPath</entry>
         <entry>initiates forgot password flow</entry>
@@ -4868,6 +4837,7 @@
         <entry>TestData</entry>
         <entry>logger</entry>
         <entry>changeForgotPasswordMock</entry>
+        <entry>unsub</entry>
       </history-search>
       <history-cmd>
         <entry>81</entry>
