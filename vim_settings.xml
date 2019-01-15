@@ -17,7 +17,12 @@
         <mark key="." line="101" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" timestamp="1547225939034" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/configurations/AppConfig.ts" timestamp="1547073408586" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/configurations/AppConfig.ts" timestamp="1547579911162">
+        <mark key="[" line="43" column="9" />
+        <mark key="]" line="44" column="7" />
+        <mark key="." line="44" column="7" />
+        <mark key="^" line="44" column="7" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/users-config-qa.sh" timestamp="1547490944157" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" timestamp="1547490313965">
         <mark key="'" line="26" column="1" />
@@ -191,7 +196,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYXBwRGV0YWlsc0ZvcklucHV0Owo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4674,7 +4679,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>appDetailsForInput =</text>
       </register>
       <register name="/" type="4">
         <text>handler</text>
@@ -4683,34 +4688,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC4uLk1vY2tEYXRhLmNoYW5nZUZvcmdvdFBhc3N3b3JkUmVxdWVzdCwKICAgICAgICAgICAgICAgIHJlY292ZXJ5VG9rZW46IHVuZGVmaW5lZCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYXBwRGV0YWlsc0ZvcklucHV0Owo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZlcmlmeVNtcz86IGJvb2xlYW47CiAgICBtaW5QYXNzd29yZENoYW5nZUhvdXJzPzogbnVtYmVyOwo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgYXBwRGV0YWlsc0ZvcklucHV0OiBJQXBwRGV0YWlsczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBhcHBEZXRhaWxzRm9ySW5wdXQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtMb2dnZXJ9IGZyb20gJy4uL0xvZ2dlcic7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFjdGl2YXRpb25NYWlsOiB7CiAgICAgICAgW2xhbmdJZDogc3RyaW5nXTogSUVtYWlsVGVtcGxhdGU7CiAgICB9OwogICAgYWRtaW5BY3RpdmF0aW9uTWFpbDogewogICAgICAgIFtsYW5nSWQ6IHN0cmluZ106IElFbWFpbFRlbXBsYXRlOwogICAgfTsK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZlcmlmeVNtcz86IGJvb2xlYW47CiAgICBtaW5QYXNzd29yZENoYW5nZUhvdXJzPzogbnVtYmVyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFkbWluR3JvdXA6IHsKICAgICAgICBpZDogc3RyaW5nOwogICAgICAgIG5hbWU6IHN0cmluZzsKICAgIH07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAK</text>
+        <text encoding="base64">ICAgIGFjdGl2YXRpb25NYWlsOiB7CiAgICAgICAgW2xhbmdJZDogc3RyaW5nXTogSUVtYWlsVGVtcGxhdGU7CiAgICB9OwogICAgYWRtaW5BY3RpdmF0aW9uTWFpbDogewogICAgICAgIFtsYW5nSWQ6IHN0cmluZ106IElFbWFpbFRlbXBsYXRlOwogICAgfTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
