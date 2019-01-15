@@ -69,9 +69,9 @@
         <mark key="." line="3" column="3" />
         <mark key="^" line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1547484246530">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1547582550595">
         <mark key="a" line="809" column="27" />
-        <mark key="'" line="800" column="40" />
+        <mark key="'" line="279" column="24" />
         <mark key="[" line="839" column="9" />
         <mark key="]" line="840" column="7" />
         <mark key="^" line="840" column="7" />
@@ -93,8 +93,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="90" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/UserRepository.ts" />
-      <jump line="58" column="34" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/MailService.ts" />
       <jump line="48" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="1364" column="25" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="298" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
@@ -193,6 +191,8 @@
       <jump line="199" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
       <jump line="800" column="40" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="26" column="1" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
+      <jump line="973" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="279" column="24" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -4682,7 +4682,7 @@
         <text>appDetailsForInput =</text>
       </register>
       <register name="/" type="4">
-        <text>handler</text>
+        <text>registeredUser</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC4uLk1vY2tEYXRhLmNoYW5nZUZvcmdvdFBhc3N3b3JkUmVxdWVzdCwKICAgICAgICAgICAgICAgIHJlY292ZXJ5VG9rZW46IHVuZGVmaW5lZCwK</text>
@@ -4722,9 +4722,9 @@
       </register>
     </registers>
     <search>
-      <last-search>handler</last-search>
+      <last-search>registeredUser</last-search>
       <last-offset />
-      <last-pattern>handler</last-pattern>
+      <last-pattern>registeredUser</last-pattern>
       <last-replace>changeForgotPasswordRequest</last-replace>
       <last-substitute>changeForgotPasswordMock</last-substitute>
       <last-dir>1</last-dir>
@@ -4732,7 +4732,6 @@
     </search>
     <history>
       <history-search>
-        <entry>initiates forgot password flow</entry>
         <entry>initiates forgot password flow when given bas username but does not continue call</entry>
         <entry>==</entry>
         <entry>sinon</entry>
@@ -4752,6 +4751,7 @@
         <entry>unsub</entry>
         <entry>register</entry>
         <entry>handler</entry>
+        <entry>registeredUser</entry>
       </history-search>
       <history-cmd>
         <entry>81</entry>
