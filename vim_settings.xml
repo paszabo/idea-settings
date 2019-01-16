@@ -39,13 +39,13 @@
         <mark key="." line="3" column="3" />
         <mark key="^" line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1547582550595">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1547669248507">
         <mark key="a" line="809" column="27" />
-        <mark key="'" line="279" column="24" />
-        <mark key="[" line="839" column="9" />
-        <mark key="]" line="840" column="7" />
-        <mark key="^" line="840" column="7" />
-        <mark key="." line="840" column="7" />
+        <mark key="'" line="877" column="25" />
+        <mark key="[" line="862" column="122" />
+        <mark key="]" line="862" column="125" />
+        <mark key="^" line="862" column="125" />
+        <mark key="." line="862" column="125" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/IntercomMaketingService.ts" timestamp="1547662440627" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" timestamp="1547660055557" />
@@ -71,6 +71,11 @@
         <mark key="]" line="86" column="20" />
         <mark key="." line="86" column="20" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Utilities.ts" timestamp="1547668898406">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/services/UserService.test.ts" timestamp="1547225874171">
         <mark key="'" line="207" column="3" />
         <mark key="[" line="178" column="76" />
@@ -92,27 +97,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="1364" column="25" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
-      <jump line="298" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
-      <jump line="175" column="99" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/PreferencesService.ts" />
-      <jump line="284" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="783" column="22" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="198" column="11" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/PreferencesService.ts" />
-      <jump line="177" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/PreferencesService.ts" />
-      <jump line="212" column="67" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/PreferencesService.ts" />
-      <jump line="211" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/PreferencesService.ts" />
-      <jump line="12" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/PreferencesService.ts" />
-      <jump line="182" column="18" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/PreferencesService.ts" />
-      <jump line="2" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/services/PreferencesService.test.ts" />
-      <jump line="133" column="31" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/PreferencesService.ts" />
-      <jump line="21" column="30" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
-      <jump line="22" column="9" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="152" column="5" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/PreferencesService.ts" />
-      <jump line="174" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/PreferencesService.ts" />
-      <jump line="35" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/services/test.UserService.ts" />
-      <jump line="190" column="9" filename="$USER_HOME$/dev/repos/common-identity-api/test/services/test.UserService.ts" />
-      <jump line="221" column="9" filename="$USER_HOME$/dev/repos/common-identity-api/test/services/test.UserService.ts" />
       <jump line="234" column="9" filename="$USER_HOME$/dev/repos/common-identity-api/test/services/test.UserService.ts" />
       <jump line="327" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/test/services/test.UserService.ts" />
       <jump line="302" column="11" filename="$USER_HOME$/dev/repos/common-identity-api/test/services/test.UserService.ts" />
@@ -192,10 +176,31 @@
       <jump line="26" column="1" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
       <jump line="973" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="279" column="24" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="450" column="44" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="456" column="34" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="494" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="546" column="45" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="551" column="49" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="564" column="48" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="565" column="41" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="679" column="30" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="681" column="48" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="683" column="43" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="701" column="58" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="824" column="44" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="910" column="47" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="71" column="44" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="90" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="170" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="250" column="74" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="530" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="652" column="64" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="653" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="877" column="25" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>memberId</text>
+        <text>any</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4678,10 +4683,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>memberId</text>
+        <text>any</text>
       </register>
       <register name="/" type="4">
-        <text>registeredUser</text>
+        <text>suspendUser</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgImlkIjogIi9wcm9wZXJ0aWVzL21lbWJlcklkIiwKICAgICAgICAgICAgInR5cGUiOiAic3RyaW5nIgo=</text>
@@ -4721,9 +4726,9 @@
       </register>
     </registers>
     <search>
-      <last-search>registeredUser</last-search>
+      <last-search>suspendUser</last-search>
       <last-offset />
-      <last-pattern>registeredUser</last-pattern>
+      <last-pattern>suspendUser</last-pattern>
       <last-replace>changeForgotPasswordRequest</last-replace>
       <last-substitute>changeForgotPasswordMock</last-substitute>
       <last-dir>1</last-dir>
@@ -4731,19 +4736,6 @@
     </search>
     <history>
       <history-search>
-        <entry>initiates forgot password flow when given bas username but does not continue call</entry>
-        <entry>==</entry>
-        <entry>sinon</entry>
-        <entry>jasmine</entry>
-        <entry>chai</entry>
-        <entry>mocha</entry>
-        <entry>toHaveBeenCalled;</entry>
-        <entry>console.log</entry>
-        <entry>done</entry>
-        <entry>isProspect</entry>
-        <entry>initialLogin</entry>
-        <entry>resetPasswordConfirmMail</entry>
-        <entry>constru</entry>
         <entry>TestData</entry>
         <entry>logger</entry>
         <entry>changeForgotPasswordMock</entry>
@@ -4751,6 +4743,19 @@
         <entry>register</entry>
         <entry>handler</entry>
         <entry>registeredUser</entry>
+        <entry>getUser</entry>
+        <entry>public async getUser</entry>
+        <entry>updateUser</entry>
+        <entry>public async updateUser</entry>
+        <entry>updateAttributeVerify</entry>
+        <entry>updateEmailCancel</entry>
+        <entry>activateUser</entry>
+        <entry>removeUserFromGroup</entry>
+        <entry>forgotPassword(</entry>
+        <entry>updatePassword</entry>
+        <entry>resentActivationCode(</entry>
+        <entry>resendActivationCode</entry>
+        <entry>suspendUser</entry>
       </history-search>
       <history-cmd>
         <entry>81</entry>
