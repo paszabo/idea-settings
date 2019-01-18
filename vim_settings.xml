@@ -24,11 +24,7 @@
         <mark key="." line="1140" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/configurations/AppConfig.ts" timestamp="1547831844047">
-        <mark key="'" line="61" column="39" />
-        <mark key="[" line="1" column="40" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
+        <mark key="'" line="65" column="39" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" timestamp="1547752835573">
         <mark key="'" line="0" column="0" />
@@ -165,6 +161,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/package.json" timestamp="1547836991301" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/rest_errors/request-entity-too-large-rest-error.ts" timestamp="1547751891185">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="8" column="0" />
@@ -177,10 +174,10 @@
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/SalesforceService.ts" timestamp="1547752141321">
-        <mark key="'" line="20" column="41" />
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="0" />
-        <mark key="." line="132" column="0" />
+        <mark key="'" line="17" column="41" />
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="." line="129" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/rest_errors/request-time-out-rest-error.ts" timestamp="1547751884062">
         <mark key="'" line="0" column="0" />
@@ -326,12 +323,8 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Helper.ts" timestamp="1547751489150">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="12" column="69" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="13" column="0" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Helper.ts" timestamp="1547837136317">
+        <mark key="[" line="0" column="28" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/rest_errors/abstract-rest-error.ts" timestamp="1547755276220">
         <mark key="[" line="19" column="0" />
@@ -354,12 +347,8 @@
         <mark key="." line="0" column="58" />
         <mark key="^" line="65" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" timestamp="1547763329991">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" timestamp="1547837175931">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="266" column="0" />
-        <mark key="]" line="266" column="0" />
-        <mark key="^" line="27" column="40" />
-        <mark key="." line="266" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/index.ts" timestamp="1547750923751">
         <mark key="[" line="22" column="0" />
@@ -408,11 +397,7 @@
         <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/UserRepository.ts" timestamp="1547759781008">
-        <mark key="'" line="293" column="29" />
-        <mark key="[" line="145" column="49" />
-        <mark key="]" line="145" column="49" />
-        <mark key="^" line="10" column="22" />
-        <mark key="." line="145" column="49" />
+        <mark key="'" line="308" column="29" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/rest_errors/request-range-unsatisfiable-rest-error.ts" timestamp="1547751888103">
         <mark key="'" line="0" column="0" />
@@ -584,10 +569,8 @@
       <jump line="61" column="39" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/configurations/AppConfig.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>({
-    
-})</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gaW1wb3J0IF8gPSByZXF1aXJlKCdsb2Rhc2gnKTsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5078,40 +5061,40 @@
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IC9hd3MtbW9kZWxzSU1haWxlclNlcnZpY2UgZnJvbSAnLi9JTWFpbGVyU2VydmljZSc7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>({
-    
-})</text>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gaW1wb3J0IF8gPSByZXF1aXJlKCdsb2Rhc2gnKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyAgICAgbWVtYmVySWQ6IGl0ZW0ubWVtYmVySWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyAgICAgZW1haWw6IGl0ZW0uZW1haWwsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyAgICAgb2t0YUlkOiBpdGVtLm9rdGFJZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICB1c2VybmFtZTogaXRlbS51c2VybmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICBlbWFpbFZlcmlmaWVkOiB0aGlzLmdldEJvb2xlYW5PckRlZmF1bHQoaXRlbS5lbWFpbFZlcmlmaWVkLCB0cnVlKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICBtb2JpbGVWZXJpZmllZDogdGhpcy5nZXRCb29sZWFuT3JEZWZhdWx0KGl0ZW0ubW9iaWxlVmVyaWZpZWQsIHRydWUpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gICAgIHN1YnNjcmliZXJLZXk6IGl0ZW0uc3Vic2NyaWJlcktleSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICBhY3RpdmF0aW9uTWV0aG9kOiBpdGVtLmFjdGl2YXRpb25NZXRob2QgfHwgImVtYWlsIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICBsYXN0UGFzc3dvcmRVcGRhdGU6IGl0ZW0ubGFzdFBhc3N3b3JkVXBkYXRlID8gbmV3IERhdGUoaXRlbS5sYXN0UGFzc3dvcmRVcGRhdGUpIDogbnVsbCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICBjcmVhdGVkT246IG5ldyBEYXRlKGl0ZW0uY3JlYXRlZE9uIHx8IG5ldyBEYXRlKCkpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gICAgIGxhc3RVcGRhdGVkOiBuZXcgRGF0ZShpdGVtLmxhc3RVcGRhdGVkIHx8IG5ldyBEYXRlKCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyB9Owo=</text>
+        <text encoding="base64">Ly8gaW1wb3J0IF8gPSByZXF1aXJlKCdsb2Rhc2gnKTsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdW5zdWJzY3JpYmVkUHJlZnMucHVzaCguLi5yZXN1bHQpOwo=</text>
+      <register name="3" type="4">
+        <text>({
+    
+})</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdW5zdWJzY3JpYmVkUHJlZnMucHVzaCguLi5yZXN1bHQpOwo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyAgICAgbWVtYmVySWQ6IGl0ZW0ubWVtYmVySWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyAgICAgZW1haWw6IGl0ZW0uZW1haWwsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyAgICAgb2t0YUlkOiBpdGVtLm9rdGFJZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICB1c2VybmFtZTogaXRlbS51c2VybmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICBlbWFpbFZlcmlmaWVkOiB0aGlzLmdldEJvb2xlYW5PckRlZmF1bHQoaXRlbS5lbWFpbFZlcmlmaWVkLCB0cnVlKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICBtb2JpbGVWZXJpZmllZDogdGhpcy5nZXRCb29sZWFuT3JEZWZhdWx0KGl0ZW0ubW9iaWxlVmVyaWZpZWQsIHRydWUpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gICAgIHN1YnNjcmliZXJLZXk6IGl0ZW0uc3Vic2NyaWJlcktleSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICBhY3RpdmF0aW9uTWV0aG9kOiBpdGVtLmFjdGl2YXRpb25NZXRob2QgfHwgImVtYWlsIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICBsYXN0UGFzc3dvcmRVcGRhdGU6IGl0ZW0ubGFzdFBhc3N3b3JkVXBkYXRlID8gbmV3IERhdGUoaXRlbS5sYXN0UGFzc3dvcmRVcGRhdGUpIDogbnVsbCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICBjcmVhdGVkT246IG5ldyBEYXRlKGl0ZW0uY3JlYXRlZE9uIHx8IG5ldyBEYXRlKCkpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gICAgIGxhc3RVcGRhdGVkOiBuZXcgRGF0ZShpdGVtLmxhc3RVcGRhdGVkIHx8IG5ldyBEYXRlKCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyB9Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gcmV0cmlldmUgYWxsIGV4aXN0aW5nIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdW5zdWJzY3JpYmVkUHJlZnMucHVzaCguLi5yZXN1bHQpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ZWNvc3lzdGVtIGFwcCBjb2RlcwogICAgICAgICAgICAvLyBjb25zdCBhbGxBcHBDb2RlcyA9IGF3YWl0IGFwcENvbmZpZy5nZXRBbGxBcHBDb2RlcygpOwoKICAgICAgICAgICAgLy8gY29uc3QgcmVzdWx0OiBJVXNlckFwcENvbW1QcmVmZXJlbmNlc1tdID0gYXdhaXQgUHJvbWlzZS5hbGwoCiAgICAgICAgICAgIC8vICAgICBhbGxBcHBDb2Rlcy5tYXAoYXN5bmMgKGN1cnJlbnRBcHBDb2RlKSA9PiB7CiAgICAgICAgICAgIC8vICAgICAgICAgY29uc3QgdXBkYXRlZFByZWZzOiBJVXNlckFwcENvbW1QcmVmZXJlbmNlcyA9IGF3YWl0IHVuc3Vic2NyaWJlVXNlckNvbW1QcmVmc0Zyb21BcHAoCiAgICAgICAgICAgIC8vICAgICAgICAgICAgIG1lbWJlcklkLAogICAgICAgICAgICAvLyAgICAgICAgICAgICBjdXJyZW50QXBwQ29kZQogICAgICAgICAgICAvLyAgICAgICAgICk7CiAgICAgICAgICAgIC8vICAgICAgICAgcmV0dXJuIHVwZGF0ZWRQcmVmczsKICAgICAgICAgICAgLy8gICAgIH0pCiAgICAgICAgICAgIC8vICkudGhlbigoY29sbGVjdGlvbjogSVVzZXJBcHBDb21tUHJlZmVyZW5jZXNbXSkgPT4gewogICAgICAgICAgICAvLyAgICAgcmV0dXJuIGNvbGxlY3Rpb24uZmlsdGVyKCh1cGRhdGVkUHJlZnMpID0+IHsKICAgICAgICAgICAgLy8gICAgICAgICByZXR1cm4gdXBkYXRlZFByZWZzLmNvbW1QcmVmZXJlbmNlLmxlbmd0aCA+IDA7CiAgICAgICAgICAgIC8vICAgICB9KTsKICAgICAgICAgICAgLy8gfSk7Cg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdW5zdWJzY3JpYmVkUHJlZnMucHVzaCguLi5yZXN1bHQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgpleHBvcnQgZGVmYXVsdCBTYWxlc2ZvcmNlTWFpbGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gcmV0cmlldmUgYWxsIGV4aXN0aW5nIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CgpleHBvcnQgZGVmYXVsdCBTZW5kR3JpZE1haWxlcjsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ZWNvc3lzdGVtIGFwcCBjb2RlcwogICAgICAgICAgICAvLyBjb25zdCBhbGxBcHBDb2RlcyA9IGF3YWl0IGFwcENvbmZpZy5nZXRBbGxBcHBDb2RlcygpOwoKICAgICAgICAgICAgLy8gY29uc3QgcmVzdWx0OiBJVXNlckFwcENvbW1QcmVmZXJlbmNlc1tdID0gYXdhaXQgUHJvbWlzZS5hbGwoCiAgICAgICAgICAgIC8vICAgICBhbGxBcHBDb2Rlcy5tYXAoYXN5bmMgKGN1cnJlbnRBcHBDb2RlKSA9PiB7CiAgICAgICAgICAgIC8vICAgICAgICAgY29uc3QgdXBkYXRlZFByZWZzOiBJVXNlckFwcENvbW1QcmVmZXJlbmNlcyA9IGF3YWl0IHVuc3Vic2NyaWJlVXNlckNvbW1QcmVmc0Zyb21BcHAoCiAgICAgICAgICAgIC8vICAgICAgICAgICAgIG1lbWJlcklkLAogICAgICAgICAgICAvLyAgICAgICAgICAgICBjdXJyZW50QXBwQ29kZQogICAgICAgICAgICAvLyAgICAgICAgICk7CiAgICAgICAgICAgIC8vICAgICAgICAgcmV0dXJuIHVwZGF0ZWRQcmVmczsKICAgICAgICAgICAgLy8gICAgIH0pCiAgICAgICAgICAgIC8vICkudGhlbigoY29sbGVjdGlvbjogSVVzZXJBcHBDb21tUHJlZmVyZW5jZXNbXSkgPT4gewogICAgICAgICAgICAvLyAgICAgcmV0dXJuIGNvbGxlY3Rpb24uZmlsdGVyKCh1cGRhdGVkUHJlZnMpID0+IHsKICAgICAgICAgICAgLy8gICAgICAgICByZXR1cm4gdXBkYXRlZFByZWZzLmNvbW1QcmVmZXJlbmNlLmxlbmd0aCA+IDA7CiAgICAgICAgICAgIC8vICAgICB9KTsKICAgICAgICAgICAgLy8gfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgpleHBvcnQgZGVmYXVsdCBTRVNNYWlsZXI7Cg==</text>
+        <text encoding="base64">CgpleHBvcnQgZGVmYXVsdCBTYWxlc2ZvcmNlTWFpbGVyOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -5159,14 +5142,14 @@
         <entry>%s/changeForgotPasswordMock/changeForgotPasswordRequest/g</entry>
         <entry>0-</entry>
         <entry>1</entry>
-        <entry>q</entry>
         <entry>10,11d</entry>
         <entry>%s/&quot;/'/g</entry>
         <entry>9</entry>
         <entry>e</entry>
+        <entry>q</entry>
+        <entry>w</entry>
         <entry>0</entry>
         <entry>wq</entry>
-        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
