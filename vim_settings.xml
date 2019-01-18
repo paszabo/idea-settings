@@ -23,7 +23,8 @@
         <mark key="^" line="30" column="23" />
         <mark key="." line="1140" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/configurations/AppConfig.ts" timestamp="1547751669161">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/configurations/AppConfig.ts" timestamp="1547831844047">
+        <mark key="'" line="61" column="39" />
         <mark key="[" line="1" column="40" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -481,9 +482,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="456" column="34" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="494" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="546" column="45" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="551" column="49" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="564" column="48" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="565" column="41" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
@@ -581,6 +579,9 @@
       <jump line="8" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/mail/SendGridMailer.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/mail/SendGridMailer.ts" />
       <jump line="11" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/mail/SalesforceMailer.ts" />
+      <jump line="19" column="33" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/configurations/AppConfig.ts" />
+      <jump line="58" column="39" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/configurations/AppConfig.ts" />
+      <jump line="61" column="39" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/configurations/AppConfig.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5072,7 +5073,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>export default</text>
+        <text>cache</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IC9hd3MtbW9kZWxzSU1haWxlclNlcnZpY2UgZnJvbSAnLi9JTWFpbGVyU2VydmljZSc7Cg==</text>
@@ -5114,9 +5115,9 @@
       </register>
     </registers>
     <search>
-      <last-search>export default</last-search>
+      <last-search>cache</last-search>
       <last-offset />
-      <last-pattern>export default</last-pattern>
+      <last-pattern>cache</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -5124,7 +5125,6 @@
     </search>
     <history>
       <history-search>
-        <entry>registeredUser</entry>
         <entry>getUser</entry>
         <entry>public async getUser</entry>
         <entry>updateUser</entry>
@@ -5144,6 +5144,7 @@
         <entry>repositories</entry>
         <entry>&quot;</entry>
         <entry>export default</entry>
+        <entry>cache</entry>
       </history-search>
       <history-cmd>
         <entry>145</entry>
