@@ -161,7 +161,11 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/package.json" timestamp="1547836991301" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/package.json" timestamp="1547840489132">
+        <mark key="[" line="31" column="24" />
+        <mark key="]" line="31" column="24" />
+        <mark key="." line="31" column="24" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/rest_errors/request-entity-too-large-rest-error.ts" timestamp="1547751891185">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="8" column="0" />
@@ -569,8 +573,8 @@
       <jump line="61" column="39" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/configurations/AppConfig.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IF8gPSByZXF1aXJlKCdsb2Rhc2gnKTsK</text>
+      <register name="&quot;" type="4">
+        <text>.20</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5053,7 +5057,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.20</text>
       </register>
       <register name="/" type="4">
         <text>cache</text>
@@ -5094,7 +5098,7 @@
         <text encoding="base64">CgpleHBvcnQgZGVmYXVsdCBTYWxlc2ZvcmNlTWFpbGVyOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -5147,9 +5151,9 @@
         <entry>9</entry>
         <entry>e</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>0</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
