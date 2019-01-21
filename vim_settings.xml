@@ -131,11 +131,12 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/package.json" timestamp="1547841324291">
-        <mark key="[" line="27" column="29" />
-        <mark key="]" line="27" column="30" />
-        <mark key="." line="27" column="30" />
-        <mark key="^" line="27" column="30" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/package.json" timestamp="1548089247762">
+        <mark key="'" line="9" column="13" />
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="16" />
+        <mark key="." line="9" column="16" />
+        <mark key="^" line="9" column="16" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/NotFoundException.ts" timestamp="1547751743162">
         <mark key="[" line="4" column="0" />
@@ -367,8 +368,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="551" column="49" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="564" column="48" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="565" column="41" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="679" column="30" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="681" column="48" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
@@ -467,10 +466,12 @@
       <jump line="19" column="33" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/configurations/AppConfig.ts" />
       <jump line="58" column="39" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/configurations/AppConfig.ts" />
       <jump line="61" column="39" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/configurations/AppConfig.ts" />
+      <jump line="28" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/package.json" />
+      <jump line="9" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIkB0eXBlcyIsCg==</text>
+      <register name="&quot;" type="4">
+        <text>jasmine-ts \&quot;test/**/*.ts\&quot;&quot;,</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4953,54 +4954,54 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>jasmine-ts \&quot;test/**/*.ts\&quot;&quot;,</text>
       </register>
       <register name="/" type="4">
-        <text>cache</text>
+        <text>jasmine</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IC9hd3MtbW9kZWxzSU1haWxlclNlcnZpY2UgZnJvbSAnLi9JTWFpbGVyU2VydmljZSc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIkB0eXBlcyIsCg==</text>
+        <text encoding="base64">ICAgICJAdHlwZXMvamFzbWluZSI6ICJeMi44LjgiLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiQHR5cGVzL25vZGUiOiAiXjguMTAuMjAiLAo=</text>
+        <text encoding="base64">ICAgICJqYXNtaW5lIjogIl4yLjk5LjAiLAogICAgImphc21pbmUtY29uc29sZS1yZXBvcnRlciI6ICJeMi4wLjEiLAogICAgImphc21pbmUtc3BlYy1yZXBvcnRlciI6ICJeNC4yLjEiLAogICAgImphc21pbmUtdHMiOiAiXjAuMi4xIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IF8gPSByZXF1aXJlKCdsb2Rhc2gnKTsK</text>
+        <text encoding="base64">ICAgICJqYXNtaW5lIjogIl4yLjk5LjAiLAogICAgImphc21pbmUtY29uc29sZS1yZXBvcnRlciI6ICJeMi4wLjEiLAogICAgImphc21pbmUtc3BlYy1yZXBvcnRlciI6ICJeNC4yLjEiLAogICAgImphc21pbmUtdHMiOiAiXjAuMi4xIiwK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIkB0eXBlcyIsCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAiQHR5cGVzL25vZGUiOiAiXjguMTAuMjAiLAo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Ly8gaW1wb3J0IF8gPSByZXF1aXJlKCdsb2Rhc2gnKTsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gaW1wb3J0IF8gPSByZXF1aXJlKCdsb2Rhc2gnKTsK</text>
+      </register>
+      <register name="8" type="4">
         <text>({
     
 })</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyAgICAgbWVtYmVySWQ6IGl0ZW0ubWVtYmVySWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyAgICAgZW1haWw6IGl0ZW0uZW1haWwsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyAgICAgb2t0YUlkOiBpdGVtLm9rdGFJZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICB1c2VybmFtZTogaXRlbS51c2VybmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICBlbWFpbFZlcmlmaWVkOiB0aGlzLmdldEJvb2xlYW5PckRlZmF1bHQoaXRlbS5lbWFpbFZlcmlmaWVkLCB0cnVlKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICBtb2JpbGVWZXJpZmllZDogdGhpcy5nZXRCb29sZWFuT3JEZWZhdWx0KGl0ZW0ubW9iaWxlVmVyaWZpZWQsIHRydWUpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gICAgIHN1YnNjcmliZXJLZXk6IGl0ZW0uc3Vic2NyaWJlcktleSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICBhY3RpdmF0aW9uTWV0aG9kOiBpdGVtLmFjdGl2YXRpb25NZXRob2QgfHwgImVtYWlsIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICBsYXN0UGFzc3dvcmRVcGRhdGU6IGl0ZW0ubGFzdFBhc3N3b3JkVXBkYXRlID8gbmV3IERhdGUoaXRlbS5sYXN0UGFzc3dvcmRVcGRhdGUpIDogbnVsbCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICBjcmVhdGVkT246IG5ldyBEYXRlKGl0ZW0uY3JlYXRlZE9uIHx8IG5ldyBEYXRlKCkpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gICAgIGxhc3RVcGRhdGVkOiBuZXcgRGF0ZShpdGVtLmxhc3RVcGRhdGVkIHx8IG5ldyBEYXRlKCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyB9Owo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdW5zdWJzY3JpYmVkUHJlZnMucHVzaCguLi5yZXN1bHQpOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdW5zdWJzY3JpYmVkUHJlZnMucHVzaCguLi5yZXN1bHQpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gcmV0cmlldmUgYWxsIGV4aXN0aW5nIAo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyAgICAgbWVtYmVySWQ6IGl0ZW0ubWVtYmVySWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyAgICAgZW1haWw6IGl0ZW0uZW1haWwsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyAgICAgb2t0YUlkOiBpdGVtLm9rdGFJZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICB1c2VybmFtZTogaXRlbS51c2VybmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICBlbWFpbFZlcmlmaWVkOiB0aGlzLmdldEJvb2xlYW5PckRlZmF1bHQoaXRlbS5lbWFpbFZlcmlmaWVkLCB0cnVlKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICBtb2JpbGVWZXJpZmllZDogdGhpcy5nZXRCb29sZWFuT3JEZWZhdWx0KGl0ZW0ubW9iaWxlVmVyaWZpZWQsIHRydWUpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gICAgIHN1YnNjcmliZXJLZXk6IGl0ZW0uc3Vic2NyaWJlcktleSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICBhY3RpdmF0aW9uTWV0aG9kOiBpdGVtLmFjdGl2YXRpb25NZXRob2QgfHwgImVtYWlsIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICBsYXN0UGFzc3dvcmRVcGRhdGU6IGl0ZW0ubGFzdFBhc3N3b3JkVXBkYXRlID8gbmV3IERhdGUoaXRlbS5sYXN0UGFzc3dvcmRVcGRhdGUpIDogbnVsbCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICBjcmVhdGVkT246IG5ldyBEYXRlKGl0ZW0uY3JlYXRlZE9uIHx8IG5ldyBEYXRlKCkpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gICAgIGxhc3RVcGRhdGVkOiBuZXcgRGF0ZShpdGVtLmxhc3RVcGRhdGVkIHx8IG5ldyBEYXRlKCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyB9Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>cache</last-search>
+      <last-search>jasmine</last-search>
       <last-offset />
-      <last-pattern>cache</last-pattern>
+      <last-pattern>jasmine</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -5008,7 +5009,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getUser</entry>
         <entry>public async getUser</entry>
         <entry>updateUser</entry>
         <entry>public async updateUser</entry>
@@ -5028,6 +5028,7 @@
         <entry>&quot;</entry>
         <entry>export default</entry>
         <entry>cache</entry>
+        <entry>jasmine</entry>
       </history-search>
       <history-cmd>
         <entry>145</entry>
