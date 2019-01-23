@@ -152,10 +152,12 @@
         <mark key="[" line="44" column="77" />
         <mark key="]" line="44" column="101" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/migrate-wellspent-comm-prefs.ts" timestamp="1548227405257">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/migrate-wellspent-comm-prefs.ts" timestamp="1548232640277">
+        <mark key="'" line="33" column="25" />
+        <mark key="[" line="54" column="47" />
+        <mark key="]" line="54" column="47" />
+        <mark key="." line="54" column="47" />
+        <mark key="^" line="54" column="48" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/mail/SESMailer.ts" timestamp="1547755363169">
         <mark key="'" line="8" column="13" />
@@ -166,11 +168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/SMSService.ts" />
-      <jump line="17" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/TnCService.ts" />
-      <jump line="15" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/MailService.ts" />
-      <jump line="8" column="42" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/MailService.ts" />
-      <jump line="235" column="30" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/MailService.ts" />
       <jump line="3" column="7" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/AdminService.ts" />
       <jump line="18" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" />
@@ -266,10 +263,15 @@
       <jump line="286" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
       <jump line="222" column="36" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
       <jump line="255" column="10" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
+      <jump line="18" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/migrate-wellspent-comm-prefs.ts" />
+      <jump line="28" column="31" filename="$USER_HOME$/dev/repos/common-identity-api/src/migrate-wellspent-comm-prefs.ts" />
+      <jump line="29" column="26" filename="$USER_HOME$/dev/repos/common-identity-api/src/migrate-wellspent-comm-prefs.ts" />
+      <jump line="30" column="31" filename="$USER_HOME$/dev/repos/common-identity-api/src/migrate-wellspent-comm-prefs.ts" />
+      <jump line="31" column="25" filename="$USER_HOME$/dev/repos/common-identity-api/src/migrate-wellspent-comm-prefs.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHtJVXNlck9rdGFFbnRyeX0gZnJvbSAnLi4vbW9kZWxzL2F3cy1tb2RlbHMnOwo=</text>
+      <register name="&quot;" type="4">
+        <text>u</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4752,30 +4754,33 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
-        <text>princip</text>
+        <text>:</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBhc3luYyAoZXZlbnQ6IGFueSwgY29udGV4dDogQ29udGV4dCwgY2FsbGJhY2s/OiBDYWxsYmFjaykgPT4gewo=</text>
+      <register name="0" type="4">
+        <text>/api/v1/groups/00gemzwtuvRCzmQ430h7/users</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtJVXNlck9rdGFFbnRyeX0gZnJvbSAnLi4vbW9kZWxzL2F3cy1tb2RlbHMnOwo=</text>
+        <text encoding="base64">ICAgICAgICBjcmVkZW50aWFsczogewogICAgICAgICAgICBwYXNzd29yZDoge30sCiAgICAgICAgICAgIHByb3ZpZGVyOiB7CiAgICAgICAgICAgICAgICB0eXBlOiBPS1RBLAogICAgICAgICAgICAgICAgbmFtZTogT0tUQQogICAgICAgICAgICB9CiAgICAgICAgfSwKICAgICAgICBfbGlua3M6IHsKICAgICAgICAgICAgc2VsZjogewogICAgICAgICAgICAgICAgaHJlZjogaHR0cHM6Ly9yYmNkZXYub2t0YXByZXZpZXcuY29tL2FwaS92MS91c2Vycy8wMHVldHE5ZjM1SGowUUhZVTBoNwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtJVXNlck9rdGFFbnRyeX0gZnJvbSAnLi4vbW9kZWxzL2F3cy1tb2RlbHMnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0KPj4+Pj4+PiBmZWF0dXJlL0NJQS0zODogU3RhcnRzIGZpeGluZyB1cCBpbXBvcnRzCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0KPj4+Pj4+PiBmZWF0dXJlL0NJQS0zODogU3RhcnRzIGZpeGluZyB1cCBpbXBvcnRzCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>,
         &quot;email&quot;: {
             &quot;id&quot;: &quot;/properties/email&quot;,
@@ -4783,38 +4788,33 @@
             &quot;format&quot;: &quot;email&quot;
         }</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGNvbnN0IGxvZyA9IGNvbnNvbGU7CiAgICBsb2cuaW5mbyhgQ2hlY2tpbmcgZm9yIGFwcENvZGUgJHthcHBDb2RlfSBpbiBEQmApOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgbG9nID0gbmV3IExvZ2dlcigpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQogICAgVW5zdWJzY3JpYmVDb21tUHJlZmVyZW5jZXNDYWxsYmFjaywKfSBmcm9tICcuLi8uLi9tb2RlbHMvYXdzLW1vZGVscyc7CmltcG9ydCB7VW5zdWJzY3JpYmVSZXF1ZXN0U2VyaWFsaXplcn0gZnJvbSAnLi4vLi4vc2VyaWFsaXplcnMvcHJlZmVyZW5jZXMvdW5zdWJzY3JpYmUuc2VyaWFsaXplcic7CmltcG9ydCBQcmVmZXJlbmNlc1NlcnZpY2UgZnJvbSAnLi4vLi4vc2VydmljZXMvUHJlZmVyZW5jZXNTZXJ2aWNlJzsKaW1wb3J0IFVzZXJTZXJ2aWNlIGZyb20gJy4uLy4uL3NlcnZpY2VzL1VzZXJTZXJ2aWNlJzsKaW1wb3J0IF8gPSByZXF1aXJlKCdsb2Rhc2gnKTsKaW1wb3J0IHtXYXJtdXBFdmVudEhhbmRsZXJ9IGZyb20gJy4uLy4uL2NvcmUvaGFuZGxlcnMnOwoKPj4+Pj4+PiBmYzFlNDc2Li4uIGZlYXR1cmUvVEVDSC1ERUJULVNUT1JZOiBDcmVhdGUgd2FybXVwIHJlcXVlc3QgaGFuZGxlcgo=</text>
+        <text encoding="base64">Y29uc3QgbG9nID0gbmV3IExvZ2dlcigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>princip</last-search>
+      <last-search>:</last-search>
       <last-offset />
-      <last-pattern>princip</last-pattern>
-      <last-replace>'</last-replace>
+      <last-pattern>:</last-pattern>
+      <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>default</entry>
         <entry>GoogleMailer</entry>
         <entry>';</entry>
         <entry>repositories</entry>
-        <entry>&quot;</entry>
         <entry>export default</entry>
         <entry>cache</entry>
         <entry>jasmine</entry>
@@ -4830,10 +4830,10 @@
         <entry>core</entry>
         <entry>appcode</entry>
         <entry>princip</entry>
+        <entry>&quot;</entry>
+        <entry>:</entry>
       </history-search>
       <history-cmd>
-        <entry>Lw</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>125</entry>
         <entry>156</entry>
         <entry>%s/changeForgotPasswordMock/changeForgotPasswordRequest/g</entry>
@@ -4851,6 +4851,8 @@
         <entry>W</entry>
         <entry>344</entry>
         <entry>0</entry>
+        <entry>09</entry>
+        <entry>%s/&quot;//g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
