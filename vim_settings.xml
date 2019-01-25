@@ -27,12 +27,12 @@
         <mark key="^" line="3" column="21" />
         <mark key="." line="3" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/unsubscribe-requests-getspruce.ts" timestamp="1548441024105">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/unsubscribe-requests-getspruce.ts" timestamp="1548442894326">
         <mark key="'" line="0" column="27" />
-        <mark key="[" line="69" column="59" />
-        <mark key="]" line="69" column="59" />
-        <mark key="." line="69" column="59" />
-        <mark key="^" line="69" column="74" />
+        <mark key="[" line="85" column="52" />
+        <mark key="]" line="85" column="84" />
+        <mark key="." line="85" column="84" />
+        <mark key="^" line="85" column="84" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/PreferencesRepository.ts" timestamp="1548433129858">
         <mark key="[" line="22" column="76" />
@@ -85,6 +85,13 @@
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1548441553388">
         <mark key="'" line="76" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/mail/SendGridMailer.ts" timestamp="1548442221545">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="5" column="22" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/services/MailService.test.ts" timestamp="1548347218799">
         <mark key="[" line="4" column="54" />
@@ -172,7 +179,7 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/UserRepository.ts" timestamp="1548440061394">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/UserRepository.ts" timestamp="1548442982578">
         <mark key="'" line="309" column="29" />
         <mark key="[" line="16" column="33" />
         <mark key="]" line="16" column="60" />
@@ -321,8 +328,8 @@
       <jump line="76" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICdQYXVsIFN6YWJvIHBhc3phYm9AZ21haWwuY29tIDIwMTkvMDEvMTkgMSAxJywK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4805,7 +4812,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>registerUser</text>
@@ -4814,34 +4821,58 @@
         <text>process.stdout.write</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICdQYXVsIFN6YWJvIHBhc3phYm9AZ21haWwuY29tIDIwMTkvMDEvMTkgMSAxJywK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlcXVlc3QgPSByZXF1ZXN0c1swXTsK</text>
+        <text encoding="base64">Y29uc3QgbG9nID0gbmV3IExvZ2dlcigpOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="8">
+        <text>+
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICdQYXVsIFN6YWJvIHBhc3phYm9AZ21haWwuY29tIDIwMTkvMDEvMTkgMSAxJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB7W3JlcXVlc3QuZW1haWxdOiB1c2Vyc307Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlcXVlc3QgPSByZXF1ZXN0c1swXTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByb2Nlc3Muc3Rkb3V0LndyaXRlKEpTT04uc3RyaW5naWZ5KHVzZXJzLCBudWxsLCA0KSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgbG9nID0gY29uc29sZTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlcXVlc3QgPSByZXF1ZXN0c1swXTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">KGF3YWl0IHVzZXJkYi5nZXRFbnRyaWVzQnlFbWFpbChyZXF1ZXN0LmVtYWlsKSkubWFwKHUgPT4gKHsKICAgICAgICBtZW1iZXJJZDogdS5tZW1iZXJJZCwKICAgICAgICBlbWFpbDogdS5lbWFpbCwKICAgICAgICBva3RhSWQ6IHUub2t0YUlkLAogICAgICAgIHVzZXJuYW1lOiB1LnVzZXJuYW1lLAogICAgfSkpOw==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
