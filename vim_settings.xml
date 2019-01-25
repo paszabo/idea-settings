@@ -26,7 +26,10 @@
         <mark key="^" line="3" column="21" />
         <mark key="." line="3" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/PreferencesRepository.ts" timestamp="1548362165871" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/PreferencesRepository.ts" timestamp="1548433129858">
+        <mark key="[" line="20" column="76" />
+        <mark key="]" line="20" column="107" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IUserRepository.ts" timestamp="1548233602853" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/BadRequestException.ts" timestamp="1548348464945">
         <mark key="[" line="4" column="0" />
@@ -45,6 +48,13 @@
         <mark key="]" line="53" column="0" />
         <mark key="^" line="53" column="38" />
         <mark key="." line="53" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/scripts/sync-communication-preferences.ts" timestamp="1548433941531">
+        <mark key="'" line="23" column="23" />
+        <mark key="[" line="213" column="48" />
+        <mark key="]" line="213" column="49" />
+        <mark key="^" line="213" column="57" />
+        <mark key="." line="213" column="48" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/preferences.service.ts" timestamp="1548357652041" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/joi/factory.ts" timestamp="1548093857661">
@@ -205,8 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="29" filename="$USER_HOME$/dev/repos/common-identity-api/src/models/index.ts" />
-      <jump line="12" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/src/models/index.ts" />
       <jump line="13" column="31" filename="$USER_HOME$/dev/repos/common-identity-api/src/models/index.ts" />
       <jump line="14" column="22" filename="$USER_HOME$/dev/repos/common-identity-api/src/models/index.ts" />
       <jump line="15" column="34" filename="$USER_HOME$/dev/repos/common-identity-api/src/models/index.ts" />
@@ -305,10 +313,12 @@
       <jump line="53" column="9" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/unsubscribe-requests.ts" />
       <jump line="86" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/unsubscribe-requests.ts" />
       <jump line="17" column="15" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/unsubscribe-requests.ts" />
+      <jump line="22" column="45" filename="$USER_HOME$/dev/repos/common-identity-api/src/scripts/sync-communication-preferences.ts" />
+      <jump line="23" column="23" filename="$USER_HOME$/dev/repos/common-identity-api/src/scripts/sync-communication-preferences.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>00gemzwtuvRCzmQ430h7</text>
+        <text>h</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4791,60 +4801,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>00gemzwtuvRCzmQ430h7</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx9XD4=</text>
+        <text>'</text>
       </register>
-      <register name="0" type="4">
-        <text>No comm preferences</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBVc2VycyB3aXRoIGNvbW0gcHJlZnM6IGApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygnU3luY2luZyBwcmVmZXJlbmNlcycpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBVc2VycyB3aXRoIGNvbW0gcHJlZnM6IGApOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1lbWJlcl9jb21tX3ByZWZzLmxlbmd0aCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgVGFibGVOYW1lc1Byb2QgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGUubWVzc2FnZSA9PT0gJ05vIGNvbW0gcHJlZmVyZW5jZXMnKSB7CgogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBwcmVmcyA9IGF3YWl0IHByZWZkYi5nZXRDb21tUHJlZnNCeU1lbWJlcklkKG1lbWJlcmlkLCBhcHBjb2RlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygnU3luY2luZyBwcmVmZXJlbmNlcycpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCBzeW5jci5TeW5jUHJlZmVyZW5jZXMobS5wcm9maWxlLm1lbWJlcl9pZCwgQXBwQ29kZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGUubWVzc2FnZSA9PT0gJ05vIGNvbW0gcHJlZmVyZW5jZXMnKSB7CgogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx9XD4=</last-search>
+      <last-search>'</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx9XD4=</last-pattern>
+      <last-pattern>'</last-pattern>
       <last-replace>appCode</last-replace>
       <last-substitute>appcode</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>extend</entry>
         <entry>export =</entry>
         <entry>Be</entry>
         <entry>find</entry>
@@ -4864,6 +4873,7 @@
         <entry>appcode</entry>
         <entry>console</entry>
         <entry encoding="base64">XDx9XD4=</entry>
+        <entry>'</entry>
       </history-search>
       <history-cmd>
         <entry>9</entry>
