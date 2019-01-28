@@ -20,7 +20,6 @@
         <mark key="]" line="6" column="52" />
         <mark key="." line="6" column="52" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/configurations/AppConfig.ts" timestamp="1548364626172" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/services/TnCService.test.ts" timestamp="1548347144287">
         <mark key="[" line="3" column="32" />
         <mark key="]" line="3" column="32" />
@@ -38,11 +37,12 @@
         <mark key="[" line="22" column="76" />
         <mark key="]" line="22" column="107" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/package.json" timestamp="1548693559038">
-        <mark key="[" line="12" column="31" />
-        <mark key="]" line="13" column="22" />
-        <mark key="^" line="13" column="22" />
-        <mark key="." line="13" column="22" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" timestamp="1548694265520" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/package.json" timestamp="1548694533938">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="24" column="29" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IUserRepository.ts" timestamp="1548439948916" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/BadRequestException.ts" timestamp="1548348464945">
@@ -75,6 +75,10 @@
         <mark key="]" line="160" column="60" />
         <mark key="^" line="160" column="60" />
         <mark key="." line="160" column="60" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/package.json" timestamp="1548694297100">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="26" column="27" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/preferences.service.ts" timestamp="1548357652041" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/joi/factory.ts" timestamp="1548093857661">
@@ -345,7 +349,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJ4bWwtY3J5cHRvIjogIl4wLjEwLjEiLAo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4834,37 +4838,37 @@
         <text>registerUser</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dfbWFwW291dGNvbWVdLnB1c2gobG9nKTsK</text>
+        <text encoding="base64">ICAgICJ4bWwtY3J5cHRvIjogIl4wLjEwLjEiLAogICAgInhtbC1lbmNyeXB0aW9uIjogIl4wLjExLjIiLAogICAgInhtbGJ1aWxkZXIiOiAiXjEwLjAuMCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJ4bWwtY3J5cHRvIjogIl4wLjEwLjEiLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbG9nczsK</text>
+        <text encoding="base64">ICAgICJ4bWxidWlsZGVyIjogIl4xMC4wLjAiCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygnQnV0IG5vdCBnZXR0aW5nIHRob3NlIGxvZ3MgZm9yIG5vdycpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbG9nczsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgbmV4dExvZ3MgPSA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygnQnV0IG5vdCBnZXR0aW5nIHRob3NlIGxvZ3MgZm9yIG5vdycpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8KICAgICAgICAgICAgLy8gY29uc29sZS5sb2cobmV4dExvZ3MpOwogICAgICAgICAgICAvLyAvLyByZXR1cm4gWy4uLmxvZ3MsIC4uLihhd2FpdCB0aGlzLmdldF9sb2dzKG5leHQpKV07CiAgICAgICAgICAgIC8vIHJldHVybiBbLi4ubG9ncywgLi4ubmV4dExvZ3NdOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nX21hcFtvdXRjb21lXSA9IGxvZzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgbmV4dExvZ3MgPSA7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8KICAgICAgICAgICAgLy8gY29uc29sZS5sb2cobmV4dExvZ3MpOwogICAgICAgICAgICAvLyAvLyByZXR1cm4gWy4uLmxvZ3MsIC4uLihhd2FpdCB0aGlzLmdldF9sb2dzKG5leHQpKV07CiAgICAgICAgICAgIC8vIHJldHVybiBbLi4ubG9ncywgLi4ubmV4dExvZ3NdOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
