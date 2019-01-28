@@ -56,6 +56,12 @@
         <mark key="." line="23" column="3" />
         <mark key="^" line="23" column="3" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/kpi/okta-log-collector.ts" timestamp="1548703747467">
+        <mark key="'" line="110" column="36" />
+        <mark key="[" line="162" column="0" />
+        <mark key="]" line="162" column="0" />
+        <mark key="." line="162" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/serializers/preferences/unsubscribe.serializer.test.ts" timestamp="1548353793309">
         <mark key="'" line="36" column="24" />
         <mark key="[" line="53" column="0" />
@@ -193,6 +199,12 @@
         <mark key="^" line="1" column="24" />
         <mark key="." line="1" column="24" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/kpi/index.ts" timestamp="1548700062869">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="36" />
+        <mark key="^" line="0" column="36" />
+        <mark key="." line="0" column="36" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/UserRepository.ts" timestamp="1548695596614">
         <mark key="'" line="308" column="29" />
         <mark key="[" line="16" column="33" />
@@ -240,10 +252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="30" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
-      <jump line="5" column="44" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/Helper.ts" />
-      <jump line="9" column="33" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/Helper.ts" />
       <jump line="10" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/Helper.ts" />
       <jump line="30" column="50" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/rest_errors/unauthorized-rest-error.ts" />
@@ -340,10 +348,14 @@
       <jump line="6" column="19" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/kpi.ts" />
       <jump line="4" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/kpi.ts" />
       <jump line="103" column="10" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/kpi.ts" />
+      <jump line="102" column="61" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/kpi/okta-log-collector.ts" />
+      <jump line="162" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/kpi/okta-log-collector.ts" />
+      <jump line="104" column="71" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/kpi/okta-log-collector.ts" />
+      <jump line="105" column="36" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/kpi/okta-log-collector.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJ4bWwtY3J5cHRvIjogIl4wLjEwLjEiLAo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4826,62 +4838,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>registerUser</text>
+        <text encoding="base64">XDx7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJ4bWwtY3J5cHRvIjogIl4wLjEwLjEiLAogICAgInhtbC1lbmNyeXB0aW9uIjogIl4wLjExLjIiLAogICAgInhtbGJ1aWxkZXIiOiAiXjEwLjAuMCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLm1hcChmID0+IGZzLnJlYWRGaWxlU3luYyhmLCAndXRmLTgnKSkKICAgICAgICAgICAgLm1hcChmID0+IEpTT04ucGFyc2UoZikpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJ4bWwtY3J5cHRvIjogIl4wLjEwLjEiLAo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJ4bWxidWlsZGVyIjogIl4xMC4wLjAiCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhsb2dzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IGxvZ3MgPSBhd2FpdCBHZXRMb2dzKCk7Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbG9nczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygnQnV0IG5vdCBnZXR0aW5nIHRob3NlIGxvZ3MgZm9yIG5vdycpOwo=</text>
+        <text encoding="base64">ICAgIEFnZy5Hcm91cEJ5LkV2ZW50VHlwZShsb2dzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLm1hcChmID0+IGZzLnJlYWRGaWxlU3luYyhmLCAndXRmLTgnKSkKICAgICAgICAgICAgLm1hcChmID0+IEpTT04ucGFyc2UoZikpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgbmV4dExvZ3MgPSA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8KICAgICAgICAgICAgLy8gY29uc29sZS5sb2cobmV4dExvZ3MpOwogICAgICAgICAgICAvLyAvLyByZXR1cm4gWy4uLmxvZ3MsIC4uLihhd2FpdCB0aGlzLmdldF9sb2dzKG5leHQpKV07CiAgICAgICAgICAgIC8vIHJldHVybiBbLi4ubG9ncywgLi4ubmV4dExvZ3NdOwo=</text>
+        <text encoding="base64">ICAgICAgICAuc2xpY2UoMCwgbGltaXQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>registerUser</last-search>
+      <last-search encoding="base64">XDx7XD4=</last-search>
       <last-offset />
-      <last-pattern>registerUser</last-pattern>
+      <last-pattern encoding="base64">XDx7XD4=</last-pattern>
       <last-replace>appCode</last-replace>
       <last-substitute>appcode</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Be</entry>
-        <entry>find</entry>
-        <entry encoding="base64">XDwpXD4=</entry>
         <entry>Lambda</entry>
         <entry encoding="base64">XDxpbXBvcnRcPg==</entry>
         <entry>core</entry>
@@ -4899,6 +4908,9 @@
         <entry encoding="base64">XDx9XD4=</entry>
         <entry>'</entry>
         <entry>registerUser</entry>
+        <entry>GetLogs</entry>
+        <entry>map</entry>
+        <entry encoding="base64">XDx7XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>9</entry>
