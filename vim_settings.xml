@@ -59,11 +59,11 @@
         <mark key="." line="44" column="9" />
         <mark key="^" line="44" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/subscription.service.ts" timestamp="1548801671772">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/subscription.service.ts" timestamp="1548801692497">
         <mark key="'" line="31" column="0" />
-        <mark key="[" line="164" column="0" />
-        <mark key="]" line="167" column="6" />
-        <mark key="." line="167" column="6" />
+        <mark key="[" line="170" column="38" />
+        <mark key="]" line="170" column="38" />
+        <mark key="." line="170" column="38" />
         <mark key="^" line="167" column="6" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/handlers/app-code.ts" timestamp="1548218065226">
@@ -371,8 +371,8 @@
       <jump line="23" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/subscription.service.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgYXN5bmMgbG9nVW5zdWJzY3JpYmVSZXF1ZXN0KHJlcXVlc3Q6IElVbnN1YnNjcmliZVJlcXVlc3QpOiBQcm9taXNlPHZvaWQ+IHsKICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4855,7 +4855,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>logger</text>
