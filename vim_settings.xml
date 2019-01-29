@@ -44,11 +44,11 @@
         <mark key="^" line="3" column="53" />
         <mark key="." line="3" column="53" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/chris-unsubscribe-request-script.ts" timestamp="1548439154086">
-        <mark key="[" line="22" column="53" />
-        <mark key="]" line="23" column="3" />
-        <mark key="." line="23" column="3" />
-        <mark key="^" line="23" column="3" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/chris-unsubscribe-request-script.ts" timestamp="1548787356415">
+        <mark key="[" line="44" column="4" />
+        <mark key="]" line="44" column="9" />
+        <mark key="." line="44" column="9" />
+        <mark key="^" line="44" column="9" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/handlers/app-code.ts" timestamp="1548218065226">
         <mark key="[" line="23" column="0" />
@@ -347,7 +347,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>stringify</text>
+        <text>console</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4830,7 +4830,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>stringify</text>
+        <text>console</text>
       </register>
       <register name="/" type="4">
         <text>AdminUsersEmailVar</text>
