@@ -33,6 +33,7 @@
         <mark key="." line="85" column="84" />
         <mark key="^" line="85" column="84" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1548780891688" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/PreferencesRepository.ts" timestamp="1548433129858">
         <mark key="[" line="22" column="76" />
         <mark key="]" line="22" column="107" />
@@ -169,7 +170,7 @@
         <mark key="." line="10" column="8" />
         <mark key="^" line="10" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" timestamp="1548778630926">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" timestamp="1548780842289">
         <mark key="[" line="10" column="33" />
         <mark key="]" line="11" column="15" />
         <mark key="^" line="11" column="15" />
@@ -4849,7 +4850,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx7XD4=</text>
+        <text>AdminUsersEmailVar</text>
       </register>
       <register name="0" type="4">
         <text>[result, l.outcome.reason]</text>
@@ -4889,17 +4890,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx7XD4=</last-search>
+      <last-search>AdminUsersEmailVar</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx7XD4=</last-pattern>
+      <last-pattern>AdminUsersEmailVar</last-pattern>
       <last-replace>appCode</last-replace>
       <last-substitute>appcode</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Lambda</entry>
         <entry encoding="base64">XDxpbXBvcnRcPg==</entry>
         <entry>core</entry>
         <entry>princip</entry>
@@ -4919,6 +4919,7 @@
         <entry>GetLogs</entry>
         <entry>map</entry>
         <entry encoding="base64">XDx7XD4=</entry>
+        <entry>AdminUsersEmailVar</entry>
       </history-search>
       <history-cmd>
         <entry>9</entry>
