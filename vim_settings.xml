@@ -88,6 +88,7 @@
         <mark key="^" line="147" column="36" />
         <mark key="." line="147" column="36" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/aws-models.ts" timestamp="1548880153386" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/scripts/sync-communication-preferences.ts" timestamp="1548878963940">
         <mark key="'" line="23" column="23" />
         <mark key="[" line="194" column="0" />
@@ -257,6 +258,12 @@
         <mark key="." line="0" column="36" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/deploy-admin.sh" timestamp="1548778422655" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1548880113842">
+        <mark key="'" line="27" column="22" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/aws-lambda/index.d.ts" timestamp="1548880168450">
+        <mark key="'" line="192" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/preferences/index.ts" timestamp="1548202036310">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="35" />
@@ -298,7 +305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/index.ts" />
       <jump line="10" column="54" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/IntercomMaketingService.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/ScimService.ts" />
       <jump line="31" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
@@ -398,6 +404,7 @@
       <jump line="11" column="75" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/check-for-unsbuscribe-requests.ts" />
       <jump line="1" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/check-for-unsbuscribe-requests.ts" />
       <jump line="207" column="49" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
+      <jump line="27" column="22" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -4887,7 +4894,7 @@
         <text encoding="base64">ICAgV2VzdA==</text>
       </register>
       <register name="/" type="4">
-        <text>delete</text>
+        <text>query</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgcmVxdWVzdHM6IFVuc3Vic2NyaWJlUmVxdWVzdFtdID0gZGF0YS5tYXAoZCA9PiB7CiAgICBjb25zdCBbZmlyc3QsIGxhc3QsIGVtYWlsLCBkYXRlXSA9IGQuc3BsaXQoJyAnKS5zbGljZSgwLCA0KTsKICAgIHJldHVybiBuZXcgVW5zdWJzY3JpYmVSZXF1ZXN0KGZpcnN0LCBsYXN0LCBlbWFpbCwgZGF0ZSk7Cn0pOwo=</text>
@@ -4927,9 +4934,9 @@
       </register>
     </registers>
     <search>
-      <last-search>delete</last-search>
+      <last-search>query</last-search>
       <last-offset />
-      <last-pattern>delete</last-pattern>
+      <last-pattern>query</last-pattern>
       <last-replace>appCode</last-replace>
       <last-substitute>appcode</last-substitute>
       <last-dir>1</last-dir>
@@ -4937,8 +4944,6 @@
     </search>
     <history>
       <history-search>
-        <entry>&quot;</entry>
-        <entry>:</entry>
         <entry>filter</entry>
         <entry>.map</entry>
         <entry encoding="base64">Pj4=</entry>
@@ -4957,6 +4962,8 @@
         <entry>appcode</entry>
         <entry encoding="base64">XDwpXD4=</entry>
         <entry>delete</entry>
+        <entry>register</entry>
+        <entry>query</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
