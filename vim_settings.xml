@@ -28,12 +28,12 @@
         <mark key="^" line="3" column="21" />
         <mark key="." line="3" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/unsubscribe-requests-getspruce.ts" timestamp="1548442894326">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/unsubscribe-requests-getspruce.ts" timestamp="1548872307122">
         <mark key="'" line="0" column="27" />
-        <mark key="[" line="85" column="52" />
-        <mark key="]" line="85" column="84" />
-        <mark key="." line="85" column="84" />
-        <mark key="^" line="85" column="84" />
+        <mark key="[" line="83" column="49" />
+        <mark key="]" line="83" column="51" />
+        <mark key="." line="83" column="51" />
+        <mark key="^" line="83" column="51" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1548789729857" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" timestamp="1548795585575">
@@ -41,12 +41,11 @@
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" timestamp="1548694265520" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/README.md" timestamp="1548794881309" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/check-for-unsbuscribe-requests.ts" timestamp="1548869549445">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/check-for-unsbuscribe-requests.ts" timestamp="1548871695124">
         <mark key="'" line="1" column="28" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="^" line="28" column="20" />
-        <mark key="." line="47" column="0" />
+        <mark key="]" line="27" column="57" />
+        <mark key="^" line="27" column="57" />
+        <mark key="." line="27" column="57" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IUserRepository.ts" timestamp="1548439948916" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/BadRequestException.ts" timestamp="1548348464945">
@@ -226,7 +225,7 @@
         <mark key="^" line="1" column="38" />
         <mark key="." line="1" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/unsubscribe-requests-old.ts" timestamp="1548867699825">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/unsubscribe-requests-old.ts" timestamp="1548871994708">
         <mark key="'" line="16" column="0" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="73" />
@@ -398,7 +397,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgcmVxdWVzdHM6IFVuc3Vic2NyaWJlUmVxdWVzdFtdID0gZGF0YS5tYXAoZCA9PiB7CiAgICBjb25zdCBbZmlyc3QsIGxhc3QsIGVtYWlsLCBkYXRlXSA9IGQuc3BsaXQoJyAnKS5zbGljZSgwLCA0KTsKICAgIHJldHVybiBuZXcgVW5zdWJzY3JpYmVSZXF1ZXN0KGZpcnN0LCBsYXN0LCBlbWFpbCwgZGF0ZSk7Cn0pOwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4881,13 +4880,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text encoding="base64">ICAgV2VzdA==</text>
       </register>
       <register name="/" type="4">
         <text>appcode</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByb2Nlc3Muc3Rkb3V0LndyaXRlKEpTT04uc3RyaW5naWZ5KG1hdGNoZXMsIG51bGwsIDQpKTsK</text>
+        <text encoding="base64">Y29uc3QgcmVxdWVzdHM6IFVuc3Vic2NyaWJlUmVxdWVzdFtdID0gZGF0YS5tYXAoZCA9PiB7CiAgICBjb25zdCBbZmlyc3QsIGxhc3QsIGVtYWlsLCBkYXRlXSA9IGQuc3BsaXQoJyAnKS5zbGljZSgwLCA0KTsKICAgIHJldHVybiBuZXcgVW5zdWJzY3JpYmVSZXF1ZXN0KGZpcnN0LCBsYXN0LCBlbWFpbCwgZGF0ZSk7Cn0pOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -4920,7 +4919,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0c1tzdWIuZW1haWxdLnN1YnNjcmliZXIgPSBzdWI7CiAgICAgICAgICAgIHJlc3VsdHNbc3ViLmVtYWlsXS51bnN1YnNjcmliZXMgPSBtYXRjaGVzOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>s</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -4974,8 +4973,8 @@
         <entry>99</entry>
         <entry>0</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>s</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
