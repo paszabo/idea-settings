@@ -88,12 +88,12 @@
         <mark key="^" line="147" column="36" />
         <mark key="." line="147" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/scripts/sync-communication-preferences.ts" timestamp="1548876683753">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/scripts/sync-communication-preferences.ts" timestamp="1548878963940">
         <mark key="'" line="23" column="23" />
-        <mark key="[" line="193" column="0" />
-        <mark key="]" line="202" column="44" />
-        <mark key="^" line="202" column="44" />
-        <mark key="." line="202" column="44" />
+        <mark key="[" line="194" column="0" />
+        <mark key="]" line="194" column="0" />
+        <mark key="^" line="201" column="44" />
+        <mark key="." line="194" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/package.json" timestamp="1548694297100">
         <mark key="[" line="24" column="0" />
@@ -401,7 +401,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgcmVxdWVzdHM6IFVuc3Vic2NyaWJlUmVxdWVzdFtdID0gZGF0YS5tYXAoZCA9PiB7CiAgICBjb25zdCBbZmlyc3QsIGxhc3QsIGVtYWlsLCBkYXRlXSA9IGQuc3BsaXQoJyAnKS5zbGljZSgwLCA0KTsKICAgIHJldHVybiBuZXcgVW5zdWJzY3JpYmVSZXF1ZXN0KGZpcnN0LCBsYXN0LCBlbWFpbCwgZGF0ZSk7Cn0pOwo=</text>
+        <text encoding="base64">YXN5bmMgZnVuY3Rpb24K</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4893,7 +4893,7 @@
         <text encoding="base64">Y29uc3QgcmVxdWVzdHM6IFVuc3Vic2NyaWJlUmVxdWVzdFtdID0gZGF0YS5tYXAoZCA9PiB7CiAgICBjb25zdCBbZmlyc3QsIGxhc3QsIGVtYWlsLCBkYXRlXSA9IGQuc3BsaXQoJyAnKS5zbGljZSgwLCA0KTsKICAgIHJldHVybiBuZXcgVW5zdWJzY3JpYmVSZXF1ZXN0KGZpcnN0LCBsYXN0LCBlbWFpbCwgZGF0ZSk7Cn0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXN5bmMgZnVuY3Rpb24K</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -4902,25 +4902,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvciAoY29uc3QgW2ssIHZdIG9mIE9iamVjdC5lbnRyaWVzKG1hdGNoZXMpKSB7CiAgICAgICAgaWYgKG1hdGNoZXNbXSkKICAgIH0KICAgIHByb2Nlc3Muc3Rkb3V0LndyaXRlKEpTT04uc3RyaW5naWZ5KG1hdGNoZXMuZmlsdGVyKAogICAgICAgIChtOiBhbnkpID0+ICFfLmlzRW1wdHkobS51bnN1YnNjcmliZXMpKSwgbnVsbCwgNCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZvciAoY29uc3QgW2ssIHZdIG9mIE9iamVjdC5lbnRyaWVzKG1hdGNoZXMpKSB7CiAgICAgICAgaWYgKG1hdGNoZXNbXSkKICAgIH0KICAgIHByb2Nlc3Muc3Rkb3V0LndyaXRlKEpTT04uc3RyaW5naWZ5KG1hdGNoZXMuZmlsdGVyKAogICAgICAgIChtOiBhbnkpID0+ICFfLmlzRW1wdHkobS51bnN1YnNjcmliZXMpKSwgbnVsbCwgNCkpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIV8uaXNFbXB0eShtYXRjaGVzKSkgewogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0c1tzdWIuZW1haWxdLnN1YnNjcmliZXIgPSBzdWI7CiAgICAgICAgICAgIHJlc3VsdHNbc3ViLmVtYWlsXS51bnN1YnNjcmliZXMgPSBtYXRjaGVzOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIV8uaXNFbXB0eShtYXRjaGVzKSkgewogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
