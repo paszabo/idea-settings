@@ -41,6 +41,13 @@
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" timestamp="1548694265520" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/README.md" timestamp="1548794881309" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/check-for-unsbuscribe-requests.ts" timestamp="1548869549445">
+        <mark key="'" line="1" column="28" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="28" column="20" />
+        <mark key="." line="47" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IUserRepository.ts" timestamp="1548439948916" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/BadRequestException.ts" timestamp="1548348464945">
         <mark key="[" line="4" column="0" />
@@ -53,11 +60,11 @@
         <mark key="^" line="3" column="53" />
         <mark key="." line="3" column="53" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/chris-unsubscribe-request-script.ts" timestamp="1548787356415">
-        <mark key="[" line="44" column="4" />
-        <mark key="]" line="44" column="9" />
-        <mark key="." line="44" column="9" />
-        <mark key="^" line="44" column="9" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/chris-unsubscribe-request-script.ts" timestamp="1548866387833">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/subscription.service.ts" timestamp="1548801692497">
         <mark key="'" line="31" column="0" />
@@ -135,17 +142,21 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/request/index.d.ts" timestamp="1548448736326" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/ICommPreferences.ts" timestamp="1548791507656" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/node/index.d.ts" timestamp="1548448756066" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" timestamp="1548791006917">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="13" column="43" />
-        <mark key="^" line="6" column="63" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" timestamp="1548865660986">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="21" column="39" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serializers/appcode.serializer.ts" timestamp="1548108081791">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="52" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/ForbiddenException.ts" timestamp="1548348478880">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/unsubscribe-requests.ts" timestamp="1548437396524">
         <mark key="'" line="18" column="15" />
@@ -165,6 +176,11 @@
         <mark key="]" line="0" column="40" />
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="40" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Helper.ts" timestamp="1548219236010">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serializers/index.ts" timestamp="1548219047036">
         <mark key="[" line="0" column="0" />
@@ -198,17 +214,22 @@
         <mark key="." line="13" column="36" />
         <mark key="^" line="11" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" timestamp="1548801150000">
-        <mark key="[" line="264" column="50" />
-        <mark key="]" line="264" column="61" />
-        <mark key="." line="264" column="61" />
-        <mark key="^" line="264" column="61" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/format-unsubscribe-requests.ts" timestamp="1548868866930">
+        <mark key="[" line="70" column="22" />
+        <mark key="]" line="70" column="51" />
+        <mark key="^" line="70" column="11" />
+        <mark key="." line="70" column="11" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/index.ts" timestamp="1548791193368">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="38" />
         <mark key="^" line="1" column="38" />
         <mark key="." line="1" column="38" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/unsubscribe-requests-old.ts" timestamp="1548867699825">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="73" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/rest_errors/index.ts" timestamp="1548348248422">
         <mark key="[" line="14" column="0" />
@@ -228,6 +249,11 @@
         <mark key="." line="0" column="36" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/deploy-admin.sh" timestamp="1548778422655" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/rest_errors/rest-errors.ts" timestamp="1548348849168">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/preferences/index.ts" timestamp="1548202036310">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="35" />
@@ -269,9 +295,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/rest_errors/request-time-out-rest-error.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/rest_errors/request-range-unsatisfiable-rest-error.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/rest_errors/request-entity-too-large-rest-error.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/rest_errors/proxy-authentication-required-rest-error.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/index.ts" />
       <jump line="10" column="54" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/IntercomMaketingService.ts" />
@@ -369,10 +392,13 @@
       <jump line="13" column="15" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/subscription.service.ts" />
       <jump line="0" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/subscription.service.ts" />
       <jump line="23" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/subscription.service.ts" />
+      <jump line="16" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/unsubscribe-requests-old.ts" />
+      <jump line="11" column="75" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/check-for-unsbuscribe-requests.ts" />
+      <jump line="1" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/check-for-unsbuscribe-requests.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4855,52 +4881,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
-        <text>logger</text>
+        <text>appcode</text>
       </register>
-      <register name="0" type="4">
-        <text>IUserAppCommPreferences</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByb2Nlc3Muc3Rkb3V0LndyaXRlKEpTT04uc3RyaW5naWZ5KG1hdGNoZXMsIG51bGwsIDQpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgYXN5bmMgbG9nVW5zdWJzY3JpYmVSZXF1ZXN0KHJlcXVlc3Q6IElVbnN1YnNjcmliZVJlcXVlc3QpOiBQcm9taXNlPHZvaWQ+IHsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgcmV0OiBJVXNlckFwcENvbW1QcmVmZXJlbmNlc1tdOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICAgIGZvciAoY29uc3QgW2ssIHZdIG9mIE9iamVjdC5lbnRyaWVzKG1hdGNoZXMpKSB7CiAgICAgICAgaWYgKG1hdGNoZXNbXSkKICAgIH0KICAgIHByb2Nlc3Muc3Rkb3V0LndyaXRlKEpTT04uc3RyaW5naWZ5KG1hdGNoZXMuZmlsdGVyKAogICAgICAgIChtOiBhbnkpID0+ICFfLmlzRW1wdHkobS51bnN1YnNjcmliZXMpKSwgbnVsbCwgNCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRhdGE6IElVbnN1YnNjcmliZVJlcXVlc3QgPSByZXN1bHQudmFsdWU7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIV8uaXNFbXB0eShtYXRjaGVzKSkgewogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnByZWZTZXJ2aWNlLmNvbXBhcmVQcmVmZXJlbmNlcygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0c1tzdWIuZW1haWxdLnN1YnNjcmliZXIgPSBzdWI7CiAgICAgICAgICAgIHJlc3VsdHNbc3ViLmVtYWlsXS51bnN1YnNjcmliZXMgPSBtYXRjaGVzOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>s</text>
       </register>
     </registers>
     <search>
-      <last-search>logger</last-search>
+      <last-search>appcode</last-search>
       <last-offset />
-      <last-pattern>logger</last-pattern>
+      <last-pattern>appcode</last-pattern>
       <last-replace>appCode</last-replace>
       <last-substitute>appcode</last-substitute>
       <last-dir>1</last-dir>
@@ -4918,7 +4944,6 @@
         <entry encoding="base64">PDw=</entry>
         <entry>models</entry>
         <entry encoding="base64">XDxzZXJpYWxpemVyXD4=</entry>
-        <entry>appcode</entry>
         <entry>console</entry>
         <entry encoding="base64">XDx9XD4=</entry>
         <entry>'</entry>
@@ -4928,16 +4953,15 @@
         <entry encoding="base64">XDx7XD4=</entry>
         <entry>AdminUsersEmailVar</entry>
         <entry>logger</entry>
+        <entry>appcode</entry>
       </history-search>
       <history-cmd>
-        <entry>9</entry>
         <entry>e</entry>
         <entry>1</entry>
         <entry>we</entry>
         <entry>q</entry>
         <entry>318</entry>
         <entry>ew</entry>
-        <entry>W</entry>
         <entry>344</entry>
         <entry>09</entry>
         <entry>%s/&quot;//g</entry>
@@ -4949,7 +4973,9 @@
         <entry encoding="base64">JzwsJz45OQ==</entry>
         <entry>99</entry>
         <entry>0</entry>
+        <entry>W</entry>
         <entry>w</entry>
+        <entry>s</entry>
       </history-cmd>
       <history-expr />
       <history-input />
