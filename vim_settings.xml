@@ -178,8 +178,8 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="53" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" timestamp="1548960258593">
-        <mark key="'" line="207" column="49" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" timestamp="1548970606261">
+        <mark key="'" line="24" column="29" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serializers/preferences/unsubscribe.serializer.ts" timestamp="1548353781796">
         <mark key="[" line="13" column="35" />
@@ -247,7 +247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/MailService.ts" />
       <jump line="66" column="49" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/IntercomMaketingService.ts" />
       <jump line="8" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/rest_errors/precondition-failed-rest-error.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/rest_errors/payment-required-rest-error.ts" />
@@ -347,6 +346,7 @@
       <jump line="222" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/scripts/sync-communication-preferences.ts" />
       <jump line="268" column="73" filename="$USER_HOME$/dev/repos/common-identity-api/src/scripts/sync-communication-preferences.ts" />
       <jump line="620" column="63" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="24" column="29" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -4836,7 +4836,7 @@
         <text>00g1x5bnk6n940ZJW2p7</text>
       </register>
       <register name="/" type="4">
-        <text>isPendingAct</text>
+        <text>delete</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8vIHByb2Nlc3Muc3Rkb3V0LndyaXRlKEpTT04uc3RyaW5naWZ5KHN1YnNldCwgbnVsbCwgNCkpOwo=</text>
@@ -4876,9 +4876,9 @@
       </register>
     </registers>
     <search>
-      <last-search>isPendingAct</last-search>
+      <last-search>delete</last-search>
       <last-offset />
-      <last-pattern>isPendingAct</last-pattern>
+      <last-pattern>delete</last-pattern>
       <last-replace>appCode</last-replace>
       <last-substitute>appcode</last-substitute>
       <last-dir>1</last-dir>
@@ -4900,12 +4900,12 @@
         <entry>logger</entry>
         <entry>appcode</entry>
         <entry encoding="base64">XDwpXD4=</entry>
-        <entry>delete</entry>
         <entry>register</entry>
         <entry>query</entry>
         <entry encoding="base64">XDxhcGlfa2V5XD4=</entry>
         <entry>console</entry>
         <entry>isPendingAct</entry>
+        <entry>delete</entry>
       </history-search>
       <history-cmd>
         <entry>ew</entry>
