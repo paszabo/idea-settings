@@ -33,10 +33,6 @@
         <mark key="^" line="83" column="51" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1548789729857" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/PreferencesRepository.ts" timestamp="1548433129858">
-        <mark key="[" line="22" column="76" />
-        <mark key="]" line="22" column="107" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" timestamp="1548795585575">
         <mark key="'" line="255" column="10" />
       </file>
@@ -60,6 +56,11 @@
         <mark key="^" line="3" column="53" />
         <mark key="." line="3" column="53" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/config.ts" timestamp="1548953060622">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/chris-unsubscribe-request-script.ts" timestamp="1548866387833">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -80,7 +81,7 @@
         <mark key="^" line="7" column="29" />
         <mark key="." line="7" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/admin-config-qa.sh" timestamp="1548778585949" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/admin-config-qa.sh" timestamp="1548953019460" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/kpi/okta-log-collector.ts" timestamp="1548711405040">
         <mark key="'" line="116" column="36" />
         <mark key="[" line="147" column="36" />
@@ -95,10 +96,6 @@
         <mark key="]" line="199" column="24" />
         <mark key="^" line="201" column="44" />
         <mark key="." line="199" column="24" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/package.json" timestamp="1548694297100">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="26" column="27" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/preferences.service.ts" timestamp="1548800086781">
         <mark key="[" line="76" column="15" />
@@ -168,9 +165,11 @@
         <mark key="." line="7" column="19" />
         <mark key="^" line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/users-config-qa.sh" timestamp="1548876067008">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="9" column="63" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/users-config-qa.sh" timestamp="1548952637289">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="32" column="65" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="29" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/http-o2/package.json" timestamp="1548786298665">
         <mark key="[" line="1" column="25" />
@@ -257,11 +256,11 @@
         <mark key="^" line="0" column="36" />
         <mark key="." line="0" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/subscription.repository.ts" timestamp="1548896134990">
-        <mark key="[" line="15" column="8" />
-        <mark key="]" line="15" column="8" />
-        <mark key="." line="15" column="8" />
-        <mark key="^" line="15" column="13" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/subscription.repository.ts" timestamp="1548953161371">
+        <mark key="[" line="11" column="23" />
+        <mark key="]" line="11" column="49" />
+        <mark key="." line="11" column="49" />
+        <mark key="^" line="11" column="49" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/deploy-admin.sh" timestamp="1548778422655" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1548880113842">
@@ -317,8 +316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="54" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/IntercomMaketingService.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/ScimService.ts" />
       <jump line="31" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="25" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/TnCService.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/SMSService.ts" />
@@ -417,10 +414,12 @@
       <jump line="1" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/check-for-unsbuscribe-requests.ts" />
       <jump line="207" column="49" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
       <jump line="27" column="22" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="3" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/config.ts" />
+      <jump line="37" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/config.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>'</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4903,16 +4902,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>query</text>
+        <text encoding="base64">XDxhcGlfa2V5XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgcmVxdWVzdHM6IFVuc3Vic2NyaWJlUmVxdWVzdFtdID0gZGF0YS5tYXAoZCA9PiB7CiAgICBjb25zdCBbZmlyc3QsIGxhc3QsIGVtYWlsLCBkYXRlXSA9IGQuc3BsaXQoJyAnKS5zbGljZSgwLCA0KTsKICAgIHJldHVybiBuZXcgVW5zdWJzY3JpYmVSZXF1ZXN0KGZpcnN0LCBsYXN0LCBlbWFpbCwgZGF0ZSk7Cn0pOwo=</text>
+      <register name="0" type="4">
+        <text>process.env.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -4921,42 +4920,41 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IE5vZGVFbnYgPSBwcm9jZXNzLmVudi5OT0RFX0VOVjsKZXhwb3J0IGNvbnN0IEFQSUVudiA9IHByb2Nlc3MuZW52LkFQSV9FTlZJUk9OTUVOVDsKCmV4cG9ydCBjb25zdCBOT0RFX1BBQ0tBR0VfTkFNRSA9ICdyYmMuaWRlbnRpdHkuYXBpLnVzZXJzJzsKZXhwb3J0IGNvbnN0IE5PREVfUEFDS0FHRV9WRVJTSU9OID0gJzIuMi4yJzsKCmV4cG9ydCBjb25zdCBUd2lsaW8gPSB7CiAgICBBY2NvdW50U0lEOiBwcm9jZXNzLmVudi5UV0lMSU9fQUNDT1VOVF9TSUQsCiAgICBBdXRoVG9rZW46IHByb2Nlc3MuZW52LlRXSUxJT19BVVRIX1RPS0VOLAogICAgTWVzc2FnaW5nU2VydmljZVNJRDogcHJvY2Vzcy5lbnYuVFdJTElPX01FU1NBR0lOR19TRVJWSUNFX1NJRCwKfTsKCmV4cG9ydCBjb25zdCBPa3RhID0gewogICAgdXJsOiBwcm9jZXNzLmVudi5PS1RBX1VSTCwKICAgIEF1dGhTZXJ2ZXJJRDogcHJvY2Vzcy5lbnYuT0tUQV9BVVRIX1NFUlZFUl9JRCwKICAgIEFQSUtleTogcHJvY2Vzcy5lbnYuT0tUQV9BUElfS0VZLAp9OwoKZXhwb3J0IGNvbnN0IFRhYmxlcyA9IHsKICAgIFRva2VuczogcHJvY2Vzcy5lbnYuVE9LRU5TX1RBQkxFLAogICAgVXNlcnM6IHByb2Nlc3MuZW52LlVTRVJTX09LVEFfVEFCTEUsCiAgICBBcHBDb25maWc6IHByb2Nlc3MuZW52LkFQUF9DT05GSUdfVEFCTEUsCiAgICBUbkNNYXN0ZXI6IHByb2Nlc3MuZW52LlROQ19NQVNURVJfVEFCTEUsCiAgICBUbkNVc2VyU3RhdHVzOiBwcm9jZXNzLmVudi5UTkNfVVNFUl9TVEFUVVNfVEFCTEUsCiAgICBDb21tdW5pY2F0aW9uUHJlZmVyZW5jZXM6IHByb2Nlc3MuZW52LlVTRVJTX0NPTU1fUFJFRl9UQUJMRSwKICAgIENvbW11bmljYXRpb25QcmVmZXJlbmNlc0F1ZGl0OiBwcm9jZXNzLmVudi5BVURJVF9DT01NX1BSRUZfVEFCTEUsCiAgICBVbnN1YnNjcmliZVJlcXVlc3RzOiBwcm9jZXNzLmVudi5VTlNVQlNDUklCRV9MT0dfVEFCTEUsCn07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QVBJX0VOVklST05NRU5UID0gJ3FhJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">QVBJX0VOVklST05NRU5UID0gJ3FhJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VFdJTElPX0FDQ09VTlRfU0lEID0gJ0FDOGE3NTYxZmFmNGNhYmUzZTI2YjJiNmQxYjQ1Y2ZhZDUnOwpUV0lMSU9fQVVUSF9UT0tFTiA9ICc2OGI2ZTM3YmIzNWM3MDdkYTA5MmZlOWYwY2ZkZjU1ZSc7ClRXSUxJT19NRVNTQUdJTkdfU0VSVklDRV9TSUQgPSAnTUc5MDdlNTdiMDRkMjI1YzZkMjY2ZWVlYmUzMzQ2NWIzYSc7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihwcm9wcyk7CiAgICAgICAgKCkK</text>
+        <text encoding="base64">TE9HX1JFVEVOVElPTl9EQVlTID0gNzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YXN5bmMgZnVuY3Rpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>query</last-search>
+      <last-search encoding="base64">XDxhcGlfa2V5XD4=</last-search>
       <last-offset />
-      <last-pattern>query</last-pattern>
+      <last-pattern encoding="base64">XDxhcGlfa2V5XD4=</last-pattern>
       <last-replace>appCode</last-replace>
       <last-substitute>appcode</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>filter</entry>
         <entry>.map</entry>
         <entry encoding="base64">Pj4=</entry>
         <entry encoding="base64">PDw=</entry>
@@ -4976,12 +4974,9 @@
         <entry>delete</entry>
         <entry>register</entry>
         <entry>query</entry>
+        <entry encoding="base64">XDxhcGlfa2V5XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>e</entry>
-        <entry>1</entry>
-        <entry>we</entry>
-        <entry>q</entry>
         <entry>318</entry>
         <entry>ew</entry>
         <entry>344</entry>
@@ -4997,6 +4992,10 @@
         <entry>0</entry>
         <entry>W</entry>
         <entry>s</entry>
+        <entry>37</entry>
+        <entry>4</entry>
+        <entry>1</entry>
+        <entry>3</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
