@@ -14,6 +14,12 @@
         <mark key="]" line="5" column="28" />
         <mark key="." line="5" column="28" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1548439847992">
+        <mark key="'" line="1139" column="0" />
+        <mark key="[" line="1140" column="0" />
+        <mark key="]" line="1140" column="0" />
+        <mark key="." line="1140" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/services/PreferencesService.test.ts" timestamp="1548346793975">
         <mark key="[" line="6" column="52" />
         <mark key="]" line="6" column="52" />
@@ -86,12 +92,11 @@
         <mark key="]" line="44" column="64" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/aws-models.ts" timestamp="1548880153386" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/scripts/sync-communication-preferences.ts" timestamp="1548961202397">
-        <mark key="'" line="306" column="73" />
-        <mark key="[" line="290" column="4" />
-        <mark key="]" line="290" column="6" />
-        <mark key="." line="290" column="6" />
-        <mark key="^" line="290" column="6" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/scripts/sync-communication-preferences.ts" timestamp="1548963302827">
+        <mark key="'" line="318" column="73" />
+        <mark key="[" line="195" column="0" />
+        <mark key="]" line="195" column="0" />
+        <mark key="." line="195" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/package.json" timestamp="1548694297100">
         <mark key="[" line="24" column="0" />
@@ -110,7 +115,7 @@
         <mark key="^" line="104" column="39" />
         <mark key="." line="104" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/IntercomMaketingService.ts" timestamp="1548958330218">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/IntercomMaketingService.ts" timestamp="1548963420573">
         <mark key="[" line="76" column="9" />
         <mark key="]" line="76" column="20" />
         <mark key="^" line="76" column="20" />
@@ -230,6 +235,12 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/models/UsernameRequest.json" timestamp="1548961962266" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/aws-lambda/index.d.ts" timestamp="1548880168450">
         <mark key="'" line="192" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/UserRepository.ts" timestamp="1548695596614">
+        <mark key="'" line="308" column="29" />
+        <mark key="[" line="16" column="33" />
+        <mark key="]" line="16" column="60" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/services/UserService.test.ts" timestamp="1548346917463">
         <mark key="[" line="11" column="53" />
@@ -356,8 +367,8 @@
       <jump line="620" column="63" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>const</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAogICAgICAgICAgICB0aHJvdyBuZXcgRXJyb3IoJ05vIGNvbW0gcHJlZmVyZW5jZXMnKTsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4840,16 +4851,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>const</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>isPendingAct</text>
       </register>
-      <register name="0" type="4">
-        <text>${memberid}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhgU2xlZXBpbmcgZm9yIDEwIHNlY29uZHMgdG8gYXZvaWQgaGl0dGluZyByYXRlIGxpbWl0YCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIHNsZWVwKG1zOiBudW1iZXIpIHsKICAgICAgICByZXR1cm4gbmV3IFByb21pc2UocmVzb2x2ZSA9PiB7CiAgICAgICAgICAgIHNldFRpbWVvdXQocmVzb2x2ZSwgbXMpOwogICAgICAgIH0pOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAogICAgICAgICAgICB0aHJvdyBuZXcgRXJyb3IoJ05vIGNvbW0gcHJlZmVyZW5jZXMnKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -4861,22 +4872,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB1c2VyOiBhbnkgPSBhd2FpdCB1c2VyU2VydmljZS5nZXRVc2VyKG1lbWJlcmlkLCBudWxsLCBhcHBjb2RlKTsK</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCBzbGVlcCgxMDAwMCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNyZWF0ZWQ6IHUuY3JlYXRlZCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgdXNlcjogYW55ID0gYXdhaXQgdXNlclNlcnZpY2UuZ2V0VXNlcihtZW1iZXJpZCwgbnVsbCwgYXBwY29kZSk7Cg==</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIHNsZWVwKG1zOiBudW1iZXIpIHsKICAgICAgICByZXR1cm4gbmV3IFByb21pc2UocmVzb2x2ZSA9PiB7CiAgICAgICAgICAgIHNldFRpbWVvdXQocmVzb2x2ZSwgbXMpOwogICAgICAgIH0pOwogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgYXBwY29uZmlnOiBBcHBDb25maWcgPSBBcHBDb25maWcuZ2V0SW5zdGFuY2UoSlNPTi5zdHJpbmdpZnkob3B0cykpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB1c2VyOiBhbnkgPSBhd2FpdCB1c2VyU2VydmljZS5nZXRVc2VyKG1lbWJlcmlkLCBudWxsLCBhcHBjb2RlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
