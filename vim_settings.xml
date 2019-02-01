@@ -103,12 +103,12 @@
         <mark key="." line="7" column="29" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/admin-config-qa.sh" timestamp="1548953019460" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/kpi/okta-log-collector.ts" timestamp="1549010743071">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/kpi/okta-log-collector.ts" timestamp="1549012837865">
         <mark key="'" line="116" column="36" />
-        <mark key="[" line="147" column="52" />
-        <mark key="]" line="147" column="52" />
-        <mark key="^" line="147" column="52" />
-        <mark key="." line="147" column="52" />
+        <mark key="[" line="151" column="99" />
+        <mark key="]" line="151" column="99" />
+        <mark key="^" line="151" column="97" />
+        <mark key="." line="151" column="99" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/admin/adminUsersHandler.ts" timestamp="1548958016681">
         <mark key="[" line="44" column="0" />
@@ -464,7 +464,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>, since</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4947,13 +4947,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>, since</text>
       </register>
       <register name="/" type="4">
         <text>scan</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBwYXJhbXMgPSB7CiAgICAgICAgICAgIFRhYmxlTmFtZTogdGhpcy5UYWJsZU5hbWUsCiAgICAgICAgICAgIEtleUNvbmRpdGlvbkV4cHJlc3Npb246ICJlbWFpbCA9IDplbWFpbCIsCiAgICAgICAgICAgIEV4cHJlc3Npb25BdHRyaWJ1dGVWYWx1ZXM6IHsKICAgICAgICAgICAgICAgICI6ZW1haWwiOiByZXF1ZXN0LmVtYWlsLnRvTG93ZXJDYXNlKCksCiAgICAgICAgICAgIH0sCiAgICAgICAgfTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBhd2FpdCBjb2xsZWN0b3IuZ2V0X2xvZ3ModW5kZWZpbmVkLCBzaW5jZSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
