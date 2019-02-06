@@ -38,6 +38,9 @@
         <mark key="." line="83" column="51" />
         <mark key="^" line="83" column="51" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1549471012451">
+        <mark key="'" line="266" column="28" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" timestamp="1548795585575">
         <mark key="'" line="255" column="10" />
       </file>
@@ -148,7 +151,7 @@
         <mark key="^" line="10" column="14" />
         <mark key="." line="10" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1549043487580">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1549471049245">
         <mark key="'" line="983" column="44" />
         <mark key="[" line="1111" column="0" />
         <mark key="]" line="1111" column="0" />
@@ -305,8 +308,8 @@
         <mark key="^" line="10" column="29" />
         <mark key="." line="10" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1549469359831">
-        <mark key="'" line="382" column="41" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1549471020496">
+        <mark key="'" line="97" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-client/src/auth-code-flow.ts" timestamp="1549008822784">
         <mark key="[" line="14" column="8" />
@@ -371,8 +374,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serializers/preferences/unsubscribe.ts" />
-      <jump line="209" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/joi/index.d.ts" />
       <jump line="1" column="26" filename="$USER_HOME$/dev/repos/common-identity-api/src/serializers/preferences/unsubscribe.ts" />
       <jump line="37" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/serializers/preferences/unsubscribe.serializer.test.ts" />
       <jump line="3" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serializers/preferences/unsubscribe.ts" />
@@ -471,6 +472,8 @@
       <jump line="983" column="44" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="555" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="382" column="41" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="266" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="97" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -4960,7 +4963,7 @@
         <text>const result: IUserOktaEntry =</text>
       </register>
       <register name="/" type="4">
-        <text>registerUser</text>
+        <text>forgotPassword</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dXNlcnNBcGlHYXRld2F5SWQ9OW5kN2o4emYwNAp1c2Vyc0FwaUdhdGV3YXlSb290SWQ9MzdsbDBsYmU5Mgo=</text>
@@ -5000,9 +5003,9 @@
       </register>
     </registers>
     <search>
-      <last-search>registerUser</last-search>
+      <last-search>forgotPassword</last-search>
       <last-offset />
-      <last-pattern>registerUser</last-pattern>
+      <last-pattern>forgotPassword</last-pattern>
       <last-replace>appCode</last-replace>
       <last-substitute>appcode</last-substitute>
       <last-dir>1</last-dir>
@@ -5010,8 +5013,6 @@
     </search>
     <history>
       <history-search>
-        <entry>GetLogs</entry>
-        <entry>map</entry>
         <entry encoding="base64">XDx7XD4=</entry>
         <entry>AdminUsersEmailVar</entry>
         <entry>logger</entry>
@@ -5030,6 +5031,8 @@
         <entry>usernamePrefix</entry>
         <entry>getUserByProviderId</entry>
         <entry>registerUser</entry>
+        <entry>forgot</entry>
+        <entry>forgotPassword</entry>
       </history-search>
       <history-cmd>
         <entry>344</entry>
