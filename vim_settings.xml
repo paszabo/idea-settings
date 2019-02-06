@@ -305,8 +305,8 @@
         <mark key="^" line="10" column="29" />
         <mark key="." line="10" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1549041716821">
-        <mark key="'" line="620" column="63" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1549469359831">
+        <mark key="'" line="382" column="41" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-client/src/auth-code-flow.ts" timestamp="1549008822784">
         <mark key="[" line="14" column="8" />
@@ -371,7 +371,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="213" column="33" filename="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/joi/index.d.ts" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serializers/preferences/unsubscribe.ts" />
       <jump line="209" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/joi/index.d.ts" />
       <jump line="1" column="26" filename="$USER_HOME$/dev/repos/common-identity-api/src/serializers/preferences/unsubscribe.ts" />
@@ -471,6 +470,7 @@
       <jump line="249" column="32" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/admin/adminUsersHandler.ts" />
       <jump line="983" column="44" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="555" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="382" column="41" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -4960,7 +4960,7 @@
         <text>const result: IUserOktaEntry =</text>
       </register>
       <register name="/" type="4">
-        <text>getUserByProviderId</text>
+        <text>registerUser</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dXNlcnNBcGlHYXRld2F5SWQ9OW5kN2o4emYwNAp1c2Vyc0FwaUdhdGV3YXlSb290SWQ9MzdsbDBsYmU5Mgo=</text>
@@ -5000,9 +5000,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getUserByProviderId</last-search>
+      <last-search>registerUser</last-search>
       <last-offset />
-      <last-pattern>getUserByProviderId</last-pattern>
+      <last-pattern>registerUser</last-pattern>
       <last-replace>appCode</last-replace>
       <last-substitute>appcode</last-substitute>
       <last-dir>1</last-dir>
@@ -5010,7 +5010,6 @@
     </search>
     <history>
       <history-search>
-        <entry>registerUser</entry>
         <entry>GetLogs</entry>
         <entry>map</entry>
         <entry encoding="base64">XDx7XD4=</entry>
@@ -5030,6 +5029,7 @@
         <entry>parseAppCode</entry>
         <entry>usernamePrefix</entry>
         <entry>getUserByProviderId</entry>
+        <entry>registerUser</entry>
       </history-search>
       <history-cmd>
         <entry>344</entry>
