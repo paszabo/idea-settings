@@ -9,7 +9,8 @@
         <mark key="^" line="193" column="7" />
         <mark key="." line="179" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/MailService.ts" timestamp="1549473908814">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/MailService.ts" timestamp="1549483027362">
+        <mark key="'" line="48" column="120" />
         <mark key="[" line="61" column="56" />
         <mark key="]" line="62" column="7" />
         <mark key="." line="62" column="7" />
@@ -169,7 +170,7 @@
         <mark key="^" line="10" column="14" />
         <mark key="." line="10" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1549473982930">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1549482990090">
         <mark key="'" line="933" column="12" />
         <mark key="[" line="933" column="13" />
         <mark key="]" line="934" column="11" />
@@ -394,7 +395,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/models/index.ts" />
       <jump line="317" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
       <jump line="319" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
       <jump line="352" column="22" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
@@ -494,6 +494,7 @@
       <jump line="199" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="933" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="453" column="56" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="48" column="120" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/MailService.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4983,7 +4984,7 @@
         <text>await this.tncdb.getTncs(appCode)</text>
       </register>
       <register name="/" type="4">
-        <text>reactivateUser(</text>
+        <text>updateEmailVerifyTemplate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc3QgY3VycmVudFRuY3M6IElUbmNJbmZvW10gPSBhd2FpdCB0aGlzLnRuY2RiLmdldFRuY3MoYXBwQ29kZSk7Cg==</text>
@@ -5023,9 +5024,9 @@
       </register>
     </registers>
     <search>
-      <last-search>reactivateUser(</last-search>
+      <last-search>updateEmailVerifyTemplate</last-search>
       <last-offset />
-      <last-pattern>reactivateUser(</last-pattern>
+      <last-pattern>updateEmailVerifyTemplate</last-pattern>
       <last-replace>appCode</last-replace>
       <last-substitute>appcode</last-substitute>
       <last-dir>1</last-dir>
@@ -5033,7 +5034,6 @@
     </search>
     <history>
       <history-search>
-        <entry>appcode</entry>
         <entry encoding="base64">XDwpXD4=</entry>
         <entry>register</entry>
         <entry>query</entry>
@@ -5053,6 +5053,7 @@
         <entry>resendActivation</entry>
         <entry>activateUser</entry>
         <entry>reactivateUser(</entry>
+        <entry>updateEmailVerifyTemplate</entry>
       </history-search>
       <history-cmd>
         <entry>344</entry>
