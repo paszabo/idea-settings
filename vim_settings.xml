@@ -34,12 +34,18 @@
         <mark key="." line="71" column="0" />
         <mark key="^" line="70" column="46" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/joi/index.d.ts" timestamp="1548095193166">
+        <mark key="'" line="209" column="17" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/package.json" timestamp="1549563724742">
         <mark key="'" line="9" column="13" />
         <mark key="[" line="9" column="13" />
         <mark key="]" line="9" column="16" />
         <mark key="." line="9" column="16" />
         <mark key="^" line="9" column="16" />
+      </file>
+      <file name="$USER_HOME$/Downloads/rbc-identity-api-qa-qa-swagger (1).json" timestamp="1549661549906">
+        <mark key="'" line="2976" column="6" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/models/UserTnCResponse.json" timestamp="1549489986150" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/kpi/okta-log-collector.ts" timestamp="1549564024929">
@@ -56,15 +62,13 @@
         <mark key="^" line="10" column="14" />
         <mark key="." line="10" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1549482990090">
-        <mark key="]" line="104" column="11" />
-        <mark key="^" line="104" column="11" />
-        <mark key="." line="104" column="11" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/request/index.d.ts" timestamp="1549658678346" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" timestamp="1549649288807" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" timestamp="1549467489581">
         <mark key="'" line="724" column="63" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/aws-sdk/clients/dynamodb.d.ts" timestamp="1549007953897">
+        <mark key="'" line="1730" column="50" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" timestamp="1549479056846" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/users-config-production.sh" timestamp="1549650363487">
@@ -73,33 +77,20 @@
         <mark key="^" line="25" column="19" />
         <mark key="." line="25" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1549660714129">
-        <mark key="'" line="78" column="31" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1549661965416">
+        <mark key="'" line="144" column="38" />
         <mark key="[" line="110" column="60" />
         <mark key="]" line="110" column="60" />
         <mark key="." line="110" column="60" />
         <mark key="^" line="110" column="60" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/aws-lambda/index.d.ts" timestamp="1548880168450">
+        <mark key="'" line="192" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/models/TncResponse.json" timestamp="1549473213053" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/prefs-config-qa.sh" timestamp="1549649546802" />
     </filemarks>
     <jumps>
-      <jump line="352" column="22" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
-      <jump line="309" column="75" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
-      <jump line="192" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/aws-lambda/index.d.ts" />
-      <jump line="28" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
-      <jump line="216" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/serializers/preferences/unsubscribe.serializer.test.ts" />
-      <jump line="7" column="7" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/PreferencesRepository.ts" />
-      <jump line="3" column="56" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
-      <jump line="4" column="51" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
-      <jump line="5" column="55" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
-      <jump line="6" column="54" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
-      <jump line="7" column="35" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
-      <jump line="266" column="64" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
-      <jump line="272" column="54" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
-      <jump line="286" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
-      <jump line="222" column="36" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
       <jump line="255" column="10" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
       <jump line="18" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/migrate-wellspent-comm-prefs.ts" />
       <jump line="28" column="31" filename="$USER_HOME$/dev/repos/common-identity-api/src/migrate-wellspent-comm-prefs.ts" />
@@ -184,6 +175,22 @@
       <jump line="48" column="120" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/MailService.ts" />
       <jump line="82" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/kpi/get-application-users.ts" />
       <jump line="77" column="31" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="12" column="19" filename="$USER_HOME$/Downloads/rbc-identity-api-qa-qa-swagger (1).json" />
+      <jump line="49" column="12" filename="$USER_HOME$/Downloads/rbc-identity-api-qa-qa-swagger (1).json" />
+      <jump line="194" column="12" filename="$USER_HOME$/Downloads/rbc-identity-api-qa-qa-swagger (1).json" />
+      <jump line="609" column="12" filename="$USER_HOME$/Downloads/rbc-identity-api-qa-qa-swagger (1).json" />
+      <jump line="805" column="12" filename="$USER_HOME$/Downloads/rbc-identity-api-qa-qa-swagger (1).json" />
+      <jump line="936" column="12" filename="$USER_HOME$/Downloads/rbc-identity-api-qa-qa-swagger (1).json" />
+      <jump line="1067" column="12" filename="$USER_HOME$/Downloads/rbc-identity-api-qa-qa-swagger (1).json" />
+      <jump line="1380" column="6" filename="$USER_HOME$/Downloads/rbc-identity-api-qa-qa-swagger (1).json" />
+      <jump line="1573" column="6" filename="$USER_HOME$/Downloads/rbc-identity-api-qa-qa-swagger (1).json" />
+      <jump line="1760" column="6" filename="$USER_HOME$/Downloads/rbc-identity-api-qa-qa-swagger (1).json" />
+      <jump line="1947" column="6" filename="$USER_HOME$/Downloads/rbc-identity-api-qa-qa-swagger (1).json" />
+      <jump line="2135" column="6" filename="$USER_HOME$/Downloads/rbc-identity-api-qa-qa-swagger (1).json" />
+      <jump line="2592" column="6" filename="$USER_HOME$/Downloads/rbc-identity-api-qa-qa-swagger (1).json" />
+      <jump line="2777" column="6" filename="$USER_HOME$/Downloads/rbc-identity-api-qa-qa-swagger (1).json" />
+      <jump line="2976" column="6" filename="$USER_HOME$/Downloads/rbc-identity-api-qa-qa-swagger (1).json" />
+      <jump line="144" column="38" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4673,7 +4680,7 @@
         <text>rue</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxKU09OXD4=</text>
+        <text>registerUser</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IElkZW50aXR5U2VydmljZVVSTCA9ICdodHRwczovLzlxdXY4MXlsbmcuZXhlY3V0ZS1hcGkuY2EtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vcGF1bC1kZXYnOwo=</text>
@@ -4713,17 +4720,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxKU09OXD4=</last-search>
+      <last-search>registerUser</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxKU09OXD4=</last-pattern>
+      <last-pattern>registerUser</last-pattern>
       <last-replace>appCode</last-replace>
       <last-substitute>appcode</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>query</entry>
         <entry encoding="base64">XDxhcGlfa2V5XD4=</entry>
         <entry>console</entry>
         <entry>isPendingAct</entry>
@@ -4734,15 +4740,16 @@
         <entry>parseAppCode</entry>
         <entry>usernamePrefix</entry>
         <entry>getUserByProviderId</entry>
-        <entry>registerUser</entry>
         <entry>forgot</entry>
         <entry>forgotPassword</entry>
         <entry>resendActivation</entry>
         <entry>activateUser</entry>
         <entry>reactivateUser(</entry>
         <entry>updateEmailVerifyTemplate</entry>
-        <entry>users</entry>
         <entry encoding="base64">XDxKU09OXD4=</entry>
+        <entry>users</entry>
+        <entry>users.register</entry>
+        <entry>registerUser</entry>
       </history-search>
       <history-cmd>
         <entry>344</entry>
