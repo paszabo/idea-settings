@@ -17,10 +17,7 @@
         <mark key="]" line="1140" column="0" />
         <mark key="." line="1140" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1549471012451">
-        <mark key="'" line="266" column="28" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/TnCService.ts" timestamp="1549646485920">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/TnCService.ts" timestamp="1549648917148">
         <mark key="[" line="47" column="44" />
         <mark key="]" line="47" column="45" />
         <mark key="^" line="47" column="45" />
@@ -29,14 +26,12 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" timestamp="1549483807610">
         <mark key="'" line="255" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TncRepository.ts" timestamp="1549473434672">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/tncs/tncHandler.ts" timestamp="1549649129581" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TncRepository.ts" timestamp="1549648613002">
         <mark key="[" line="71" column="0" />
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
         <mark key="^" line="70" column="46" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/joi/index.d.ts" timestamp="1548095193166">
-        <mark key="'" line="209" column="17" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/package.json" timestamp="1549563724742">
         <mark key="'" line="9" column="13" />
@@ -53,6 +48,7 @@
         <mark key="^" line="120" column="97" />
         <mark key="." line="120" column="99" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/tncs-config-qa.sh" timestamp="1549648679221" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/jest.config.js" timestamp="1549645287364">
         <mark key="[" line="9" column="15" />
         <mark key="]" line="10" column="14" />
@@ -64,6 +60,7 @@
         <mark key="^" line="104" column="11" />
         <mark key="." line="104" column="11" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" timestamp="1549649288807" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" timestamp="1549475571097">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="40" column="39" />
@@ -72,15 +69,12 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" timestamp="1549467489581">
         <mark key="'" line="724" column="63" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/aws-sdk/clients/dynamodb.d.ts" timestamp="1549007953897">
-        <mark key="'" line="1730" column="50" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" timestamp="1549479056846" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1549472545416">
-        <mark key="'" line="199" column="8" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/aws-lambda/index.d.ts" timestamp="1548880168450">
-        <mark key="'" line="192" column="0" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/users-config-production.sh" timestamp="1549650363487">
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="25" column="19" />
+        <mark key="^" line="25" column="19" />
+        <mark key="." line="25" column="19" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/UserRepository.ts" timestamp="1549043906845">
         <mark key="'" line="308" column="29" />
@@ -89,6 +83,7 @@
         <mark key="." line="305" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/models/TncResponse.json" timestamp="1549473213053" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/prefs-config-qa.sh" timestamp="1549649546802" />
     </filemarks>
     <jumps>
       <jump line="319" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
@@ -194,7 +189,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Got</text>
+        <text>MG907e57b04d225c6d266eeebe33465b3a</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4677,7 +4672,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Got</text>
+        <text>MG907e57b04d225c6d266eeebe33465b3a</text>
       </register>
       <register name="/" type="4">
         <text>users</text>
