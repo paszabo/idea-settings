@@ -42,6 +42,10 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/aws-sdk/clients/dynamodb.d.ts" timestamp="1549007953897">
         <mark key="'" line="1730" column="50" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/unsubscribe-requests-old.ts" timestamp="1550073091925">
+        <mark key="[" line="39" column="27" />
+        <mark key="]" line="39" column="55" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/users-config-production.sh" timestamp="1549650363487">
         <mark key="[" line="6" column="18" />
         <mark key="]" line="25" column="19" />
@@ -186,7 +190,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>rue</text>
+        <text>'Cumulative preferences list'</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4674,8 +4678,8 @@
       <register name="/" type="4">
         <text>registerUser</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IElkZW50aXR5U2VydmljZVVSTCA9ICdodHRwczovLzlxdXY4MXlsbmcuZXhlY3V0ZS1hcGkuY2EtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vcGF1bC1kZXYnOwo=</text>
+      <register name="0" type="4">
+        <text>'Cumulative preferences list'</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwcmVmZXJlbmNlczogewogICAgICAgICAgICBjb21tdW5pY2F0aW9uUHJlZmVyZW5jZXM6IFsKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBjb21tdW5pY2F0aW9uVHlwZTogZ2V0KCdjb21tX3R5cGUnKSwKICAgICAgICAgICAgICAgICAgICBjaGFubmVsOiBnZXQoJ2NvbW1fY2hhbm5lbCcpLAogICAgICAgICAgICAgICAgICAgIHZhbHVlOiBnZXQoJ2VtYWlsJyksCiAgICAgICAgICAgICAgICAgICAgaXNBY2NlcHRlZDogdHJ1ZQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICBdCiAgICAgICAgfQo=</text>
