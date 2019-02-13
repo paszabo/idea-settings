@@ -33,6 +33,7 @@
         <mark key="." line="71" column="0" />
         <mark key="^" line="70" column="46" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/check-for-unsbuscribe-requests.ts" timestamp="1550074521390" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/joi/index.d.ts" timestamp="1548095193166">
         <mark key="'" line="209" column="17" />
       </file>
@@ -42,9 +43,11 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/aws-sdk/clients/dynamodb.d.ts" timestamp="1549007953897">
         <mark key="'" line="1730" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/unsubscribe-requests-old.ts" timestamp="1550073091925">
-        <mark key="[" line="39" column="27" />
-        <mark key="]" line="39" column="55" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/unsubscribe-requests-old.ts" timestamp="1550074236518">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="3" column="27" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/users-config-production.sh" timestamp="1549650363487">
         <mark key="[" line="6" column="18" />
@@ -189,8 +192,8 @@
       <jump line="144" column="38" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'Cumulative preferences list'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4673,7 +4676,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>rue</text>
+        <text>q</text>
       </register>
       <register name="/" type="4">
         <text>registerUser</text>
@@ -4682,34 +4685,34 @@
         <text>'Cumulative preferences list'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVmZXJlbmNlczogewogICAgICAgICAgICBjb21tdW5pY2F0aW9uUHJlZmVyZW5jZXM6IFsKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBjb21tdW5pY2F0aW9uVHlwZTogZ2V0KCdjb21tX3R5cGUnKSwKICAgICAgICAgICAgICAgICAgICBjaGFubmVsOiBnZXQoJ2NvbW1fY2hhbm5lbCcpLAogICAgICAgICAgICAgICAgICAgIHZhbHVlOiBnZXQoJ2VtYWlsJyksCiAgICAgICAgICAgICAgICAgICAgaXNBY2NlcHRlZDogdHJ1ZQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICBdCiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInByZWZlcmVuY2VzIjogewoJCSJjb21tdW5pY2F0aW9uUHJlZmVyZW5jZXMiOiBbCgkJCXsKCQkJCSJjb21tdW5pY2F0aW9uVHlwZSI6ICJibG9ncG9zdCIsCgkJCQkiY2hhbm5lbCI6ICJlbWFpbCIsCgkJCQkidmFsdWUiOiAicGFzemFib0BnbWFpbC5jb20iLAoJCQkJImlzQWNjZXB0ZWQiOiB0cnVlCgkJCX0KCQldCgl9LAo=</text>
+        <text encoding="base64">Ly8gY29uc3QgZGRiID0gbmV3IEFXUy5EeW5hbW9EQi5Eb2N1bWVudENsaWVudCh7cmVnaW9uOiAnY2EtY2VudHJhbC0xJ30pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgago=</text>
+        <text encoding="base64">Ly8gY29uc3QgSnNvbjJDc3ZQYXJzZXIgPSByZXF1aXJlKCdqc29uMmNzdicpLlBhcnNlcjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Ly8gY29uc3QgTk9ERV9FTlYgPSAncGF1bC1kZXYnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmVmZXJlbmNlczogewogICAgICAgICAgICBjb21tdW5pY2F0aW9uUHJlZmVyZW5jZXM6IFsKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBjb21tdW5pY2F0aW9uVHlwZTogZ2V0KCdjb21tX3R5cGUnKSwKICAgICAgICAgICAgICAgICAgICBjaGFubmVsOiBnZXQoJ2NvbW1fY2hhbm5lbCcpLAogICAgICAgICAgICAgICAgICAgIHZhbHVlOiBnZXQoJ2VtYWlsJyksCiAgICAgICAgICAgICAgICAgICAgaXNBY2NlcHRlZDogdHJ1ZQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICBdCiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgInByZWZlcmVuY2VzIjogewoJCSJjb21tdW5pY2F0aW9uUHJlZmVyZW5jZXMiOiBbCgkJCXsKCQkJCSJjb21tdW5pY2F0aW9uVHlwZSI6ICJibG9ncG9zdCIsCgkJCQkiY2hhbm5lbCI6ICJlbWFpbCIsCgkJCQkidmFsdWUiOiAicGFzemFib0BnbWFpbC5jb20iLAoJCQkJImlzQWNjZXB0ZWQiOiB0cnVlCgkJCX0KCQldCgl9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFzZVVybDogSWRlbnRpdHlTZXJ2aWNlVVJMLAogICAgICAgICAgICB1cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgago=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHVybCA9ICdodHRwczovL1BST1NQRUNULVVTRVJTLUFQSSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyhKU09OLnN0cmluZ2lmeShkYXRhKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
