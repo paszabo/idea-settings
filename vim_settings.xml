@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/MailService.ts" timestamp="1550245974648">
-        <mark key="'" line="18" column="13" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/MailService.ts" timestamp="1550596891108">
+        <mark key="'" line="25" column="37" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/kpi/get-application-users.ts" timestamp="1549574703246">
         <mark key="'" line="99" column="4" />
@@ -34,9 +34,6 @@
         <mark key="." line="47" column="45" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" timestamp="1550593462121" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" timestamp="1549483807610">
-        <mark key="'" line="255" column="10" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/package.json" timestamp="1550245615864">
         <mark key="[" line="2" column="14" />
         <mark key="]" line="2" column="14" />
@@ -61,12 +58,6 @@
         <mark key="." line="2" column="16" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/.circleci/config.yml" timestamp="1550247345186" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/joi/index.d.ts" timestamp="1548095193166">
-        <mark key="'" line="209" column="17" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/aws-sdk/clients/dynamodb.d.ts" timestamp="1549007953897">
-        <mark key="'" line="1730" column="50" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/models/ResendActivationTokenRequest.json" timestamp="1550593858559" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/unsubscribe-requests-old.ts" timestamp="1550082686571">
         <mark key="[" line="2" column="0" />
@@ -87,9 +78,6 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/Downloads/rbc-identity-api-qa-qa-swagger (1).json" timestamp="1549661549906">
-        <mark key="'" line="2976" column="6" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1550593743227">
         <mark key="'" line="203" column="47" />
         <mark key="[" line="110" column="60" />
@@ -109,9 +97,6 @@
         <mark key="]" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/aws-lambda/index.d.ts" timestamp="1548880168450">
-        <mark key="'" line="192" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/jest.config.js" timestamp="1549645287364">
         <mark key="[" line="9" column="15" />
         <mark key="]" line="10" column="14" />
@@ -122,7 +107,6 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/mail/SendGridMailer.ts" timestamp="1550245765596" />
     </filemarks>
     <jumps>
-      <jump line="56" column="7" filename="$USER_HOME$/dev/repos/common-identity-api/src/migrate-wellspent-comm-prefs.ts" />
       <jump line="8" column="11" filename="$USER_HOME$/dev/repos/common-identity-api/src/migrate-wellspent-comm-prefs.ts" />
       <jump line="14" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/data/MockData.ts" />
       <jump line="22" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/models/index.ts" />
@@ -222,6 +206,7 @@
       <jump line="103" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="113" column="88" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="203" column="47" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="25" column="37" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/MailService.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4711,7 +4696,7 @@
         <text>1.0.0</text>
       </register>
       <register name="/" type="4">
-        <text>resend</text>
+        <text>Invalid Email Ser</text>
       </register>
       <register name="0" type="4">
         <text>'Cumulative preferences list'</text>
@@ -4751,9 +4736,9 @@
       </register>
     </registers>
     <search>
-      <last-search>resend</last-search>
+      <last-search>Invalid Email Ser</last-search>
       <last-offset />
-      <last-pattern>resend</last-pattern>
+      <last-pattern>Invalid Email Ser</last-pattern>
       <last-replace>appCode</last-replace>
       <last-substitute>appcode</last-substitute>
       <last-dir>1</last-dir>
@@ -4761,7 +4746,6 @@
     </search>
     <history>
       <history-search>
-        <entry>delete</entry>
         <entry>scan</entry>
         <entry>UserCommPreferencesRequest</entry>
         <entry>DEPLOYMENT_BUCKET</entry>
@@ -4781,6 +4765,7 @@
         <entry>IEmailTemplate</entry>
         <entry>activate</entry>
         <entry>resend</entry>
+        <entry>Invalid Email Ser</entry>
       </history-search>
       <history-cmd>
         <entry>344</entry>
