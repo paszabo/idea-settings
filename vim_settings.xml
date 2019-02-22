@@ -94,11 +94,12 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/mail/SendGridMailer.ts" timestamp="1550245765596" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/ICommPreferences.ts" timestamp="1550697098224" />
       <file name="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/node_modules/request/index.js" timestamp="1550844920035" />
-      <file name="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-callback.js" timestamp="1550852415740">
-        <mark key="[" line="159" column="52" />
-        <mark key="]" line="159" column="54" />
-        <mark key="^" line="159" column="54" />
-        <mark key="." line="159" column="54" />
+      <file name="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-callback.js" timestamp="1550854731304">
+        <mark key="'" line="89" column="25" />
+        <mark key="[" line="138" column="24" />
+        <mark key="]" line="138" column="24" />
+        <mark key="^" line="2" column="2" />
+        <mark key="." line="138" column="24" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/package.json" timestamp="1550245615864">
         <mark key="[" line="2" column="14" />
@@ -162,9 +163,6 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Utilities.ts" timestamp="1550683031293" />
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/unsubscribe-requests-old.ts" />
-      <jump line="11" column="75" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/check-for-unsbuscribe-requests.ts" />
-      <jump line="1" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/check-for-unsbuscribe-requests.ts" />
       <jump line="207" column="49" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
       <jump line="27" column="22" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="3" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/config.ts" />
@@ -262,10 +260,13 @@
       <jump line="78" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="116" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="156" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="140" column="41" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-callback.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-callback.js" />
+      <jump line="108" column="25" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-callback.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3Qgb2t0YV91cmwgPSAnaHR0cHM6Ly9yYmNkZXYub2t0YXByZXZpZXcuY29tJzsKY29uc3Qgb2t0YV9hdXRoX3NlcnZlciA9ICdhdXNiaTkwbjhvRkhhc0FQSDBoNyc7CmNvbnN0IHVybHMgPSBuZXcgT2t0YVVSTHMob2t0YV91cmwsIG9rdGFfYXV0aF9zZXJ2ZXIpOwpjb25zdCBva3RhID0gbmV3IE9rdGFBdXRoQ29kZUZsb3dDbGllbnQodXJscyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>zjtildOzDpR3yn1nqO23TPOSnlHCF0fysxSRUc82</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4748,16 +4749,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>app_</text>
+        <text>zjtildOzDpR3yn1nqO23TPOSnlHCF0fysxSRUc82</text>
       </register>
       <register name="/" type="4">
         <text>updateUser</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBvcnQ6IDMwMDAsCiAgICBva3RhOiB7CiAgICAgICAgcmVkaXJlY3RfdXJpOiBgaHR0cDovL2xvY2FsaG9zdDozMDAwL2F1dGgtY2FsbGJhY2tgLAogICAgICAgIGNsaWVudF9pZDogJzBvYWpmcGN3OWtjWmpuR0VoMGg3JywKICAgICAgICBjbGllbnRfc2VjcmV0OiAnemp0aWxkT3pEcFIzeW4xbnFPMjNUUE9TbmxIQ0YwZnlzeFNSVWM4MicsCiAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnJlZGlyZWN0X3VyaSA9IGNvbmZpZy5yZWRpcmVjdF91cmk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3Qgb2t0YV91cmwgPSAnaHR0cHM6Ly9yYmNkZXYub2t0YXByZXZpZXcuY29tJzsKY29uc3Qgb2t0YV9hdXRoX3NlcnZlciA9ICdhdXNiaTkwbjhvRkhhc0FQSDBoNyc7CmNvbnN0IHVybHMgPSBuZXcgT2t0YVVSTHMob2t0YV91cmwsIG9rdGFfYXV0aF9zZXJ2ZXIpOwpjb25zdCBva3RhID0gbmV3IE9rdGFBdXRoQ29kZUZsb3dDbGllbnQodXJscyk7Cg==</text>
+        <text encoding="base64">ICogQHR5cGUge2NyZWF0ZUFwcGxpY2F0aW9ufQo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -4766,25 +4767,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgQXV0aENvbmZpZyB7CiAgICBjb25zdHJ1Y3Rvcihjb25maWcpIHsKICAgICAgICB0aGlzLmNsaWVudF9pZCA9IGNvbmZpZy5jbGllbnRfaWQ7CiAgICAgICAgdGhpcy5jbGllbnRfc2VjcmV0ID0gY29uZmlnLmNsaWVudF9zZWNyZXQ7CiAgICAgICAgdGhpcy5yZWRpcmVjdF91cmkgPSBjb25maWcucmVkaXJlY3RfdXJpOwogICAgICAgIHRoaXMucmVkaXJlY3RfcGF0aCA9IGNvbmZpZy5yZWRpcmVjdF9wYXRoOwogICAgfQp9CgoKY2xhc3MgQXBwQ29uZmlnIHsKICAgIGNvbnN0cnVjdG9yKGNvbmZpZykgewogICAgICAgIHRoaXMucG9ydCA9IGNvbmZpZy5wb3J0IHx8IDMwMDA7CiAgICAgICAgdGhpcy5hdXRoID0gbmV3IEF1dGhDb25maWcoY29uZmlnLm9rdGEpOwogICAgfQp9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIENvbmZpZ0tleXMgPSBbJ3BvcnQnLCAnYXV0aCddOwoK</text>
+        <text encoding="base64">Y29uc3QgbG9nID0gY29uc29sZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y29uc3QgY29uZmlnID0gewogICAgcG9ydDogMzAwMCwKICAgIG9rdGE6IHsKICAgICAgICByZWRpcmVjdF91cmk6IGBodHRwOi8vbG9jYWxob3N0OjMwMDAvYXV0aC1jYWxsYmFja2AsCiAgICAgICAgcmVkaXJlY3RfcGF0aDogYGF1dGgtY2FsbGJhY2tgLAogICAgICAgIGNsaWVudF9pZDogJzBvYWpmcGN3OWtjWmpuR0VoMGg3JywKICAgICAgICBjbGllbnRfc2VjcmV0OiAnemp0aWxkT3pEcFIzeW4xbnFPMjNUUE9TbmxIQ0YwZnlzeFNSVWM4MicsCiAgICB9LAp9Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNhbGxiYWNrX2hvc3Q6ICdodHRwOi8vbG9jYWxob3N0OjMwMDAnLAogICAgLy8gY2FsbGJhY2tfcGF0aDogJ2F1dGgtY2FsbGJhY2snLAogICAgLy8gY2FsbGJhY2tfdXJsOiBgaHR0cDovL2xvY2FsaG9zdDozMDAwL2F1dGgtY2FsbGJhY2tgLAogICAgLy8gY2xpZW50X2lkOiAnMG9hamZwY3c5a2Naam5HRWgwaDcnLAogICAgLy8gY2xpZW50X3NlY3JldDogJ3pqdGlsZE96RHBSM3luMW5xTzIzVFBPU25sSENGMGZ5c3hTUlVjODInLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGNvbnN0IGtleSBvZiB0aGlzLkNvbmZpZ0tleXMpIHsKICAgICAgICAgICAgdGhpc1trZXldID0gY29uZmlnW2tleV07CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Y29uc3Qgb2t0YV91cmwgPSAnaHR0cHM6Ly9yYmNkZXYub2t0YXByZXZpZXcuY29tJzsKY29uc3Qgb2t0YV9hdXRoX3NlcnZlciA9ICdhdXNiaTkwbjhvRkhhc0FQSDBoNyc7CmNvbnN0IHVybHMgPSBuZXcgT2t0YVVSTHMob2t0YV91cmwsIG9rdGFfYXV0aF9zZXJ2ZXIpOwpjb25zdCBva3RhID0gbmV3IE9rdGFBdXRoQ29kZUZsb3dDbGllbnQodXJscyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG9rdGE6IHsKICAgICAgICBjYWxsYmFja191cmw6IGBodHRwOi8vbG9jYWxob3N0OjMwMDAvYXV0aC1jYWxsYmFja2AsCiAgICAgICAgY2xpZW50X2lkOiAnMG9hamZwY3c5a2Naam5HRWgwaDcnLAogICAgICAgIGNsaWVudF9zZWNyZXQ6ICd6anRpbGRPekRwUjN5bjFucU8yM1RQT1NubEhDRjBmeXN4U1JVYzgyJywKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
