@@ -94,11 +94,11 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/mail/SendGridMailer.ts" timestamp="1550245765596" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/ICommPreferences.ts" timestamp="1550697098224" />
       <file name="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/node_modules/request/index.js" timestamp="1550844920035" />
-      <file name="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-callback.js" timestamp="1550848393333">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="27" column="0" />
+      <file name="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-callback.js" timestamp="1550850097412">
+        <mark key="[" line="114" column="35" />
+        <mark key="]" line="114" column="35" />
+        <mark key="^" line="114" column="35" />
+        <mark key="." line="114" column="35" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/package.json" timestamp="1550245615864">
         <mark key="[" line="2" column="14" />
@@ -162,9 +162,6 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Utilities.ts" timestamp="1550683031293" />
     </filemarks>
     <jumps>
-      <jump line="105" column="36" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/kpi/okta-log-collector.ts" />
-      <jump line="7" column="62" filename="$USER_HOME$/dev/repos/http-o2/bin/release-package-json.js" />
-      <jump line="0" column="60" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/PreferencesService.ts" />
       <jump line="13" column="15" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/subscription.service.ts" />
       <jump line="0" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/subscription.service.ts" />
       <jump line="23" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/subscription.service.ts" />
@@ -262,10 +259,13 @@
       <jump line="39" column="0" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-callback.js" />
       <jump line="85" column="11" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-callback.js" />
       <jump line="86" column="40" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-callback.js" />
+      <jump line="51" column="21" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-callback.js" />
+      <jump line="77" column="33" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-callback.js" />
+      <jump line="88" column="21" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-callback.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgYXBwID0gZXhwcmVzcygpOwphcHAudXNlKGJvZHlfcGFyc2VyLmpzb24oKSk7CmFwcC5wb3N0KCcvbG9naW4nLCBhc3luYyAocmVxdWVzdCwgcmVzcG9uc2UpID0+IHsKICAgIGxvZy5pbmZvKCdSZWNlaXZlZCBsb2dpbiByZXF1ZXN0OicsIHNjcnViX3Bhc3N3b3JkKHJlcXVlc3QuYm9keSkpOwoKICAgIGNvbnN0IHNlc3Npb25fdG9rZW4gPSBhd2FpdCBva3RhX2F1dGhuKAogICAgICAgIHJlcXVlc3QuYm9keS51c2VybmFtZSwKICAgICAgICByZXF1ZXN0LmJvZHkucGFzc3dvcmQsCiAgICApOwogICAgY29uc3QgcmVzdWx0ID0gYXdhaXQgb2t0YV9hdXRob3JpemUoYXBwX2NvbmZpZy5jbGllbnRfaWQsIHNlc3Npb25fdG9rZW4pOwoKICAgIHJlc3BvbnNlLmpzb24ocmVzdWx0LmJvZHkpOwp9KTsKYXBwLmdldChgLyR7YXBwX2NvbmZpZy5jYWxsYmFja19wYXRofWAsIGFzeW5jIChyZXF1ZXN0LCByZXNwb25zZSkgPT4gewogICAgbG9nLmluZm8oJ0F1dGggY29kZSBmbG93IGNhbGxiYWNrIGludm9rZWQgd2l0aCBjb2RlOicsIHJlcXVlc3QucXVlcnkpOwoKICAgIGNvbnN0IGF1dGhfY29kZSA9IHJlcXVlc3QucXVlcnkuY29kZTsKICAgIGNvbnN0IGJlYXJlcl90b2tlbiA9IGF3YWl0IG9rdGFfdG9rZW4oCiAgICAgICAgYXV0aF9jb2RlLAogICAgICAgIGFwcF9jb25maWcuY2xpZW50X2lkLAogICAgICAgIGFwcF9jb25maWcuY2xpZW50X3NlY3JldCwKICAgICk7CgogICAgbG9nLmRlYnVnKGBTdWNjZXNzZnVsbHkgZ2VuZXJhdGVkIGJlYXJlciB0b2tlbiBmcm9tIGF1dGggY29kZSAke2F1dGhfY29kZX1gKTsKCiAgICByZXNwb25zZS5qc29uKHtiZWFyZXJfdG9rZW59KTsKfSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>: app_config.callback_url</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4748,60 +4748,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>{...request.body, password: request.body.password.replace(/./g, '*')}</text>
+        <text>: app_config.callback_url</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXF1ZXN0XD4=</text>
+        <text>urls\.</text>
       </register>
-      <register name="0" type="4">
-        <text>password.replace(/./g, '*')</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBiZWFyZXJfdG9rZW4gPSBhd2FpdCBva3RhX3Rva2VuKAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgYXBwID0gZXhwcmVzcygpOwphcHAudXNlKGJvZHlfcGFyc2VyLmpzb24oKSk7CmFwcC5wb3N0KCcvbG9naW4nLCBhc3luYyAocmVxdWVzdCwgcmVzcG9uc2UpID0+IHsKICAgIGxvZy5pbmZvKCdSZWNlaXZlZCBsb2dpbiByZXF1ZXN0OicsIHNjcnViX3Bhc3N3b3JkKHJlcXVlc3QuYm9keSkpOwoKICAgIGNvbnN0IHNlc3Npb25fdG9rZW4gPSBhd2FpdCBva3RhX2F1dGhuKAogICAgICAgIHJlcXVlc3QuYm9keS51c2VybmFtZSwKICAgICAgICByZXF1ZXN0LmJvZHkucGFzc3dvcmQsCiAgICApOwogICAgY29uc3QgcmVzdWx0ID0gYXdhaXQgb2t0YV9hdXRob3JpemUoYXBwX2NvbmZpZy5jbGllbnRfaWQsIHNlc3Npb25fdG9rZW4pOwoKICAgIHJlc3BvbnNlLmpzb24ocmVzdWx0LmJvZHkpOwp9KTsKYXBwLmdldChgLyR7YXBwX2NvbmZpZy5jYWxsYmFja19wYXRofWAsIGFzeW5jIChyZXF1ZXN0LCByZXNwb25zZSkgPT4gewogICAgbG9nLmluZm8oJ0F1dGggY29kZSBmbG93IGNhbGxiYWNrIGludm9rZWQgd2l0aCBjb2RlOicsIHJlcXVlc3QucXVlcnkpOwoKICAgIGNvbnN0IGF1dGhfY29kZSA9IHJlcXVlc3QucXVlcnkuY29kZTsKICAgIGNvbnN0IGJlYXJlcl90b2tlbiA9IGF3YWl0IG9rdGFfdG9rZW4oCiAgICAgICAgYXV0aF9jb2RlLAogICAgICAgIGFwcF9jb25maWcuY2xpZW50X2lkLAogICAgICAgIGFwcF9jb25maWcuY2xpZW50X3NlY3JldCwKICAgICk7CgogICAgbG9nLmRlYnVnKGBTdWNjZXNzZnVsbHkgZ2VuZXJhdGVkIGJlYXJlciB0b2tlbiBmcm9tIGF1dGggY29kZSAke2F1dGhfY29kZX1gKTsKCiAgICByZXNwb25zZS5qc29uKHtiZWFyZXJfdG9rZW59KTsKfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVkaXJlY3RfdXJpOiBhcHBfY29uZmlnLmNhbGxiYWNrX3VybCwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gY29uc3Qgb2t0YV9hcGlfdXJsID0gYCR7b2t0YV91cmx9L2FwaS92MWA7Ci8vIGNvbnN0IG9rdGFfb2F1dGhfdXJsID0gYCR7b2t0YV91cmx9L29hdXRoMi8ke29rdGFfYXV0aF9zZXJ2ZXJ9L3YxYDsKLy8gY29uc3Qgb2t0YV9hdXRoel91cmwgPSBgJHtva3RhX29hdXRoX3VybH0vYXV0aG9yaXplYDsKLy8gY29uc3Qgb2t0YV9hdXRobl91cmwgPSBgJHtva3RhX2FwaV91cmx9L2F1dGhuYDsKLy8gY29uc3Qgb2t0YV90b2tlbl91cmwgPSBgJHtva3RhX29hdXRoX3VybH0vdG9rZW5gOwovLyBjb25zdCB1cmxzID0gewovLyAgICAgb2t0YV9hdXRoel91cmwsCi8vICAgICBva3RhX2F1dGhuX3VybCwKLy8gICAgIG9rdGFfdG9rZW5fdXJsLAovLyB9Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGxvZy5pbmZvKGBSZWNlaXZlZCBsb2dpbiByZXF1ZXN0OiAke0pTT04uc3RyaW5naWZ5KHJlcXVlc3QuYm9keSl9YCk7Cg==</text>
+        <text encoding="base64">Y29uc3Qgb2t0YV91cmwgPSAnaHR0cHM6Ly9yYmNkZXYub2t0YXByZXZpZXcuY29tJzsKY29uc3Qgb2t0YV9hdXRoX3NlcnZlciA9ICdhdXNiaTkwbjhvRkhhc0FQSDBoNyc7CmNvbnN0IHVybHMgPSBuZXcgT2t0YVVSTHMob2t0YV91cmwsIG9rdGFfYXV0aF9zZXJ2ZXIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHtvcHRpb25zfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zdCBiZWFyZXJfdG9rZW4gPSBhd2FpdCBva3RhX3Rva2VuKAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBsb2cuaW5mbyhyZXN1bHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zdCByZXN1bHQgPSBhd2FpdCBva3RhX2F1dGhvcml6ZShhcHBfY29uZmlnLmNsaWVudF9pZCwgc2Vzc2lvbl90b2tlbik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGF1dGhfY29kZSA9IHJlcXVlc3QucXVlcnkuY29kZTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zdCBzZXNzaW9uX3Rva2VuID0gYXdhaXQgb2t0YV9hdXRobigK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAvLyBsb2cuaW5mbyhyZXN1bHQpOwo=</text>
+        <text encoding="base64">Ly8gY29uc3QgY2xpZW50ID0gUmVxdWVzdC5kZWZhdWx0cygKLy8gICAgIHsKLy8gICAgICAgICBzaW1wbGU6IGZhbHNlLAovLyAgICAgICAgIHJlc29sdmVXaXRoRnVsbFJlc3BvbnNlOiB0cnVlLAovLyAgICAgICAgIGpzb246IHRydWUsCi8vICAgICB9LAovLyApOwovLwovLyBhc3luYyBmdW5jdGlvbiBva3RhX2F1dGhuKHVzZXJuYW1lLCBwYXNzd29yZCkgewovLyAgICAgY29uc3QgYm9keSA9IHt1c2VybmFtZSwgcGFzc3dvcmR9OwovLyAgICAgY29uc3QgdXJpID0gdXJscy5hdXRobl91cmw7Ci8vICAgICBjb25zdCBvcHRpb25zID0ge3VyaSwgYm9keX07Ci8vICAgICBjb25zdCByZXNwb25zZSA9IGF3YWl0IGNsaWVudC5wb3N0KG9wdGlvbnMpOwovLwovLyAgICAgY29uc3QgZGF0YSA9IHJlc3BvbnNlLmJvZHk7Ci8vCi8vICAgICBpZiAoZGF0YS5zdGF0dXMgIT09ICdTVUNDRVNTJykgewovLyAgICAgICAgIHJldHVybjsKLy8gICAgIH0KLy8KLy8gICAgIHJldHVybiBkYXRhLnNlc3Npb25Ub2tlbjsKLy8gfQoKCi8vIGFzeW5jIGZ1bmN0aW9uIG9rdGFfYXV0aG9yaXplKGNsaWVudF9pZCwgc2Vzc2lvblRva2VuKSB7Ci8vICAgICBjb25zdCBxcyA9IHsKLy8gICAgICAgICBjbGllbnRfaWQsCi8vICAgICAgICAgc2Vzc2lvblRva2VuLAovLyAgICAgICAgIHJlc3BvbnNlX3R5cGU6ICdjb2RlJywKLy8gICAgICAgICByZXNwb25zZV9tb2RlOiAncXVlcnknLAovLyAgICAgICAgIHNjb3BlOiAnb3BlbmlkJywKLy8gICAgICAgICByZWRpcmVjdF91cmk6IGFwcF9jb25maWcuY2FsbGJhY2tfdXJsLAovLyAgICAgICAgIG5vbmNlOiAnZm9vJywKLy8gICAgICAgICBzdGF0ZTogJ2JhcicsCi8vICAgICB9OwovLwovLyAgICAgcmV0dXJuIGF3YWl0IGNsaWVudC5nZXQodXJscy5hdXRoel91cmwsIHtxc30pOwovLyB9CgoKLy8gYXN5bmMgZnVuY3Rpb24gb2t0YV90b2tlbihjb2RlLCBjbGllbnRfaWQsIGNsaWVudF9zZWNyZXQpIHsKLy8gICAgIGNvbnN0IGF1dGggPSB7dXNlcm5hbWU6IGNsaWVudF9pZCwgcGFzc3dvcmQ6IGNsaWVudF9zZWNyZXR9OwovLyAgICAgY29uc3QgZm9ybSA9IHsKLy8gICAgICAgICBjb2RlLAovLyAgICAgICAgIGdyYW50X3R5cGU6ICdhdXRob3JpemF0aW9uX2NvZGUnLAovLyAgICAgICAgIHJlZGlyZWN0X3VyaTogYXBwX2NvbmZpZy5jYWxsYmFja191cmwsCi8vICAgICB9OwovLyAgICAgY29uc3QgdXJpID0gdXJscy50b2tlbl91cmw7Ci8vCi8vICAgICBjb25zdCByZXN1bHQgPSBhd2FpdCBjbGllbnQucG9zdCh7dXJpLCBmb3JtLCBhdXRofSk7Ci8vCi8vICAgICByZXR1cm4gcmVzdWx0LmJvZHkuYWNjZXNzX3Rva2VuOwovLyB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvKGBBdXRoIGNvZGUgZmxvdyBjYWxsYmFjayBpbnZva2VkIHdpdGggY29kZTogJHthdXRoX2NvZGV9YCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgdXJscyA9IHJlcXVpcmUoJy4vb2t0YS5jb25maWcnKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXF1ZXN0XD4=</last-search>
+      <last-search>urls\.</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXF1ZXN0XD4=</last-pattern>
+      <last-pattern>urls\.</last-pattern>
       <last-replace>appCode</last-replace>
       <last-substitute>appcode</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>reactivateUser(</entry>
         <entry>updateEmailVerifyTemplate</entry>
         <entry encoding="base64">XDxKU09OXD4=</entry>
         <entry>users</entry>
@@ -4821,6 +4820,7 @@
         <entry encoding="base64">XDx9XD4=</entry>
         <entry>log</entry>
         <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
+        <entry>urls\.</entry>
       </history-search>
       <history-cmd>
         <entry>%s/appcode/appCode/g</entry>
