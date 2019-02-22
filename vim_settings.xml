@@ -45,7 +45,7 @@
         <mark key="." line="71" column="0" />
         <mark key="^" line="70" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IAppDetails.ts" timestamp="1550840600434" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IAppDetails.ts" timestamp="1550844760777" />
       <file name="$USER_HOME$/dev/repos/automp-be/.circleci/config.yml" timestamp="1550247345186" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serializers/member-id.serializer.ts" timestamp="1550702682870">
         <mark key="[" line="3" column="60" />
@@ -93,6 +93,13 @@
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/mail/SendGridMailer.ts" timestamp="1550245765596" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/ICommPreferences.ts" timestamp="1550697098224" />
+      <file name="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/node_modules/request/index.js" timestamp="1550844920035" />
+      <file name="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-callback.js" timestamp="1550848393333">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/package.json" timestamp="1550245615864">
         <mark key="[" line="2" column="14" />
         <mark key="]" line="2" column="14" />
@@ -144,17 +151,17 @@
         <mark key="." line="110" column="60" />
         <mark key="^" line="110" column="60" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/okta.config.js" timestamp="1550847230571">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="8" column="18" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-client/src/core/client/action/base.action.ts" timestamp="1550678142872" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Utilities.ts" timestamp="1550683031293" />
     </filemarks>
     <jumps>
-      <jump line="34" column="81" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/kpi.ts" />
-      <jump line="6" column="19" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/kpi.ts" />
-      <jump line="4" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/kpi.ts" />
-      <jump line="103" column="10" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/kpi.ts" />
-      <jump line="102" column="61" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/kpi/okta-log-collector.ts" />
-      <jump line="162" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/kpi/okta-log-collector.ts" />
-      <jump line="104" column="71" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/kpi/okta-log-collector.ts" />
       <jump line="105" column="36" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/kpi/okta-log-collector.ts" />
       <jump line="7" column="62" filename="$USER_HOME$/dev/repos/http-o2/bin/release-package-json.js" />
       <jump line="0" column="60" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/PreferencesService.ts" />
@@ -248,10 +255,17 @@
       <jump line="85" column="58" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/preferences/subscription.service.test.ts" />
       <jump line="4" column="18" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/preferences/subscription.service.test.ts" />
       <jump line="15" column="29" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/subscription.service.ts" />
+      <jump line="9" column="65" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-callback.js" />
+      <jump line="35" column="28" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-callback.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/okta.config.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/okta.config.js" />
+      <jump line="39" column="0" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-callback.js" />
+      <jump line="85" column="11" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-callback.js" />
+      <jump line="86" column="40" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-callback.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>undefined</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc3QgYXBwID0gZXhwcmVzcygpOwphcHAudXNlKGJvZHlfcGFyc2VyLmpzb24oKSk7CmFwcC5wb3N0KCcvbG9naW4nLCBhc3luYyAocmVxdWVzdCwgcmVzcG9uc2UpID0+IHsKICAgIGxvZy5pbmZvKCdSZWNlaXZlZCBsb2dpbiByZXF1ZXN0OicsIHNjcnViX3Bhc3N3b3JkKHJlcXVlc3QuYm9keSkpOwoKICAgIGNvbnN0IHNlc3Npb25fdG9rZW4gPSBhd2FpdCBva3RhX2F1dGhuKAogICAgICAgIHJlcXVlc3QuYm9keS51c2VybmFtZSwKICAgICAgICByZXF1ZXN0LmJvZHkucGFzc3dvcmQsCiAgICApOwogICAgY29uc3QgcmVzdWx0ID0gYXdhaXQgb2t0YV9hdXRob3JpemUoYXBwX2NvbmZpZy5jbGllbnRfaWQsIHNlc3Npb25fdG9rZW4pOwoKICAgIHJlc3BvbnNlLmpzb24ocmVzdWx0LmJvZHkpOwp9KTsKYXBwLmdldChgLyR7YXBwX2NvbmZpZy5jYWxsYmFja19wYXRofWAsIGFzeW5jIChyZXF1ZXN0LCByZXNwb25zZSkgPT4gewogICAgbG9nLmluZm8oJ0F1dGggY29kZSBmbG93IGNhbGxiYWNrIGludm9rZWQgd2l0aCBjb2RlOicsIHJlcXVlc3QucXVlcnkpOwoKICAgIGNvbnN0IGF1dGhfY29kZSA9IHJlcXVlc3QucXVlcnkuY29kZTsKICAgIGNvbnN0IGJlYXJlcl90b2tlbiA9IGF3YWl0IG9rdGFfdG9rZW4oCiAgICAgICAgYXV0aF9jb2RlLAogICAgICAgIGFwcF9jb25maWcuY2xpZW50X2lkLAogICAgICAgIGFwcF9jb25maWcuY2xpZW50X3NlY3JldCwKICAgICk7CgogICAgbG9nLmRlYnVnKGBTdWNjZXNzZnVsbHkgZ2VuZXJhdGVkIGJlYXJlciB0b2tlbiBmcm9tIGF1dGggY29kZSAke2F1dGhfY29kZX1gKTsKCiAgICByZXNwb25zZS5qc29uKHtiZWFyZXJfdG9rZW59KTsKfSk7Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4734,52 +4748,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>undefined</text>
+        <text>{...request.body, password: request.body.password.replace(/./g, '*')}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxbXD4=</text>
+        <text encoding="base64">XDxyZXF1ZXN0XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIG1lbWJlcklkLAogICAgICAgICAgICAgICAgICAgICAgICBhcHBDb2RlLAogICAgICAgICAgICAgICAgICAgICAgICBjb21tUHJlZmVyZW5jZTogUHJlZmVyZW5jZXMuYWxsLm1hcCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHAgPT4gKHsuLi5wLCBpc0FjY2VwdGVkOiBmYWxzZX0pKSwKICAgICAgICAgICAgICAgICAgICB9LAo=</text>
+      <register name="0" type="4">
+        <text>password.replace(/./g, '*')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">Y29uc3QgYXBwID0gZXhwcmVzcygpOwphcHAudXNlKGJvZHlfcGFyc2VyLmpzb24oKSk7CmFwcC5wb3N0KCcvbG9naW4nLCBhc3luYyAocmVxdWVzdCwgcmVzcG9uc2UpID0+IHsKICAgIGxvZy5pbmZvKCdSZWNlaXZlZCBsb2dpbiByZXF1ZXN0OicsIHNjcnViX3Bhc3N3b3JkKHJlcXVlc3QuYm9keSkpOwoKICAgIGNvbnN0IHNlc3Npb25fdG9rZW4gPSBhd2FpdCBva3RhX2F1dGhuKAogICAgICAgIHJlcXVlc3QuYm9keS51c2VybmFtZSwKICAgICAgICByZXF1ZXN0LmJvZHkucGFzc3dvcmQsCiAgICApOwogICAgY29uc3QgcmVzdWx0ID0gYXdhaXQgb2t0YV9hdXRob3JpemUoYXBwX2NvbmZpZy5jbGllbnRfaWQsIHNlc3Npb25fdG9rZW4pOwoKICAgIHJlc3BvbnNlLmpzb24ocmVzdWx0LmJvZHkpOwp9KTsKYXBwLmdldChgLyR7YXBwX2NvbmZpZy5jYWxsYmFja19wYXRofWAsIGFzeW5jIChyZXF1ZXN0LCByZXNwb25zZSkgPT4gewogICAgbG9nLmluZm8oJ0F1dGggY29kZSBmbG93IGNhbGxiYWNrIGludm9rZWQgd2l0aCBjb2RlOicsIHJlcXVlc3QucXVlcnkpOwoKICAgIGNvbnN0IGF1dGhfY29kZSA9IHJlcXVlc3QucXVlcnkuY29kZTsKICAgIGNvbnN0IGJlYXJlcl90b2tlbiA9IGF3YWl0IG9rdGFfdG9rZW4oCiAgICAgICAgYXV0aF9jb2RlLAogICAgICAgIGFwcF9jb25maWcuY2xpZW50X2lkLAogICAgICAgIGFwcF9jb25maWcuY2xpZW50X3NlY3JldCwKICAgICk7CgogICAgbG9nLmRlYnVnKGBTdWNjZXNzZnVsbHkgZ2VuZXJhdGVkIGJlYXJlciB0b2tlbiBmcm9tIGF1dGggY29kZSAke2F1dGhfY29kZX1gKTsKCiAgICByZXNwb25zZS5qc29uKHtiZWFyZXJfdG9rZW59KTsKfSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIC8vIGxvZy5pbmZvKGBSZWNlaXZlZCBsb2dpbiByZXF1ZXN0OiAke0pTT04uc3RyaW5naWZ5KHJlcXVlc3QuYm9keSl9YCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHtvcHRpb25zfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIGRlc2NyaWJlKCd1bnN1YnNjcmliZUZyb21Db21tdW5pY2F0aW9uJywgYXN5bmMgKCkgPT4ge30pOwo=</text>
+        <text encoding="base64">CiAgICBsb2cuaW5mbyhyZXN1bHQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGF1dGhfY29kZSA9IHJlcXVlc3QucXVlcnkuY29kZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICAvLyBsb2cuaW5mbyhyZXN1bHQpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">KAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbWVtYmVySWQ6IHN0cmluZywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFwcENvZGU6IHN0cmluZywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIF86IHN0cmluZywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbW1QcmVmZXJlbmNlOiBJQ29tbVByZWZlcmVuY2VbXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKSA9PiAoe21lbWJlcklkLCBhcHBDb2RlLCBjb21tUHJlZmVyZW5jZX0p</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGxvZy5pbmZvKGBBdXRoIGNvZGUgZmxvdyBjYWxsYmFjayBpbnZva2VkIHdpdGggY29kZTogJHthdXRoX2NvZGV9YCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgdXJscyA9IHJlcXVpcmUoJy4vb2t0YS5jb25maWcnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxbXD4=</last-search>
+      <last-search encoding="base64">XDxyZXF1ZXN0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxbXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyZXF1ZXN0XD4=</last-pattern>
       <last-replace>appCode</last-replace>
       <last-substitute>appcode</last-substitute>
       <last-dir>-1</last-dir>
@@ -4787,9 +4801,6 @@
     </search>
     <history>
       <history-search>
-        <entry>forgotPassword</entry>
-        <entry>resendActivation</entry>
-        <entry>activateUser</entry>
         <entry>reactivateUser(</entry>
         <entry>updateEmailVerifyTemplate</entry>
         <entry encoding="base64">XDxKU09OXD4=</entry>
@@ -4807,10 +4818,11 @@
         <entry>memberId</entry>
         <entry encoding="base64">XDx7XD4=</entry>
         <entry encoding="base64">XDxbXD4=</entry>
+        <entry encoding="base64">XDx9XD4=</entry>
+        <entry>log</entry>
+        <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/&quot;//g</entry>
-        <entry>wq</entry>
         <entry>%s/appcode/appCode/g</entry>
         <entry>47</entry>
         <entry>32</entry>
@@ -4825,9 +4837,11 @@
         <entry>249</entry>
         <entry>3</entry>
         <entry>51</entry>
-        <entry>78</entry>
         <entry>54</entry>
+        <entry>36</entry>
+        <entry>2</entry>
         <entry>0</entry>
+        <entry>78</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
