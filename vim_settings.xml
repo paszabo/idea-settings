@@ -94,11 +94,11 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/mail/SendGridMailer.ts" timestamp="1550245765596" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/ICommPreferences.ts" timestamp="1550697098224" />
       <file name="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/node_modules/request/index.js" timestamp="1550844920035" />
-      <file name="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-callback.js" timestamp="1550850097412">
-        <mark key="[" line="114" column="35" />
-        <mark key="]" line="114" column="35" />
-        <mark key="^" line="114" column="35" />
-        <mark key="." line="114" column="35" />
+      <file name="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-callback.js" timestamp="1550852415740">
+        <mark key="[" line="159" column="52" />
+        <mark key="]" line="159" column="54" />
+        <mark key="^" line="159" column="54" />
+        <mark key="." line="159" column="54" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/package.json" timestamp="1550245615864">
         <mark key="[" line="2" column="14" />
@@ -264,8 +264,8 @@
       <jump line="156" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>: app_config.callback_url</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc3Qgb2t0YV91cmwgPSAnaHR0cHM6Ly9yYmNkZXYub2t0YXByZXZpZXcuY29tJzsKY29uc3Qgb2t0YV9hdXRoX3NlcnZlciA9ICdhdXNiaTkwbjhvRkhhc0FQSDBoNyc7CmNvbnN0IHVybHMgPSBuZXcgT2t0YVVSTHMob2t0YV91cmwsIG9rdGFfYXV0aF9zZXJ2ZXIpOwpjb25zdCBva3RhID0gbmV3IE9rdGFBdXRoQ29kZUZsb3dDbGllbnQodXJscyk7Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4748,40 +4748,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>: app_config.callback_url</text>
+        <text>app_</text>
       </register>
       <register name="/" type="4">
         <text>updateUser</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBiZWFyZXJfdG9rZW4gPSBhd2FpdCBva3RhX3Rva2VuKAo=</text>
+        <text encoding="base64">ICAgIHBvcnQ6IDMwMDAsCiAgICBva3RhOiB7CiAgICAgICAgcmVkaXJlY3RfdXJpOiBgaHR0cDovL2xvY2FsaG9zdDozMDAwL2F1dGgtY2FsbGJhY2tgLAogICAgICAgIGNsaWVudF9pZDogJzBvYWpmcGN3OWtjWmpuR0VoMGg3JywKICAgICAgICBjbGllbnRfc2VjcmV0OiAnemp0aWxkT3pEcFIzeW4xbnFPMjNUUE9TbmxIQ0YwZnlzeFNSVWM4MicsCiAgICB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVkaXJlY3RfdXJpOiBhcHBfY29uZmlnLmNhbGxiYWNrX3VybCwK</text>
+        <text encoding="base64">Y29uc3Qgb2t0YV91cmwgPSAnaHR0cHM6Ly9yYmNkZXYub2t0YXByZXZpZXcuY29tJzsKY29uc3Qgb2t0YV9hdXRoX3NlcnZlciA9ICdhdXNiaTkwbjhvRkhhc0FQSDBoNyc7CmNvbnN0IHVybHMgPSBuZXcgT2t0YVVSTHMob2t0YV91cmwsIG9rdGFfYXV0aF9zZXJ2ZXIpOwpjb25zdCBva3RhID0gbmV3IE9rdGFBdXRoQ29kZUZsb3dDbGllbnQodXJscyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gY29uc3Qgb2t0YV9hcGlfdXJsID0gYCR7b2t0YV91cmx9L2FwaS92MWA7Ci8vIGNvbnN0IG9rdGFfb2F1dGhfdXJsID0gYCR7b2t0YV91cmx9L29hdXRoMi8ke29rdGFfYXV0aF9zZXJ2ZXJ9L3YxYDsKLy8gY29uc3Qgb2t0YV9hdXRoel91cmwgPSBgJHtva3RhX29hdXRoX3VybH0vYXV0aG9yaXplYDsKLy8gY29uc3Qgb2t0YV9hdXRobl91cmwgPSBgJHtva3RhX2FwaV91cmx9L2F1dGhuYDsKLy8gY29uc3Qgb2t0YV90b2tlbl91cmwgPSBgJHtva3RhX29hdXRoX3VybH0vdG9rZW5gOwovLyBjb25zdCB1cmxzID0gewovLyAgICAgb2t0YV9hdXRoel91cmwsCi8vICAgICBva3RhX2F1dGhuX3VybCwKLy8gICAgIG9rdGFfdG9rZW5fdXJsLAovLyB9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3Qgb2t0YV91cmwgPSAnaHR0cHM6Ly9yYmNkZXYub2t0YXByZXZpZXcuY29tJzsKY29uc3Qgb2t0YV9hdXRoX3NlcnZlciA9ICdhdXNiaTkwbjhvRkhhc0FQSDBoNyc7CmNvbnN0IHVybHMgPSBuZXcgT2t0YVVSTHMob2t0YV91cmwsIG9rdGFfYXV0aF9zZXJ2ZXIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zdCBiZWFyZXJfdG9rZW4gPSBhd2FpdCBva3RhX3Rva2VuKAo=</text>
+        <text encoding="base64">ICAgIENvbmZpZ0tleXMgPSBbJ3BvcnQnLCAnYXV0aCddOwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zdCByZXN1bHQgPSBhd2FpdCBva3RhX2F1dGhvcml6ZShhcHBfY29uZmlnLmNsaWVudF9pZCwgc2Vzc2lvbl90b2tlbik7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zdCBzZXNzaW9uX3Rva2VuID0gYXdhaXQgb2t0YV9hdXRobigK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gY29uc3QgY2xpZW50ID0gUmVxdWVzdC5kZWZhdWx0cygKLy8gICAgIHsKLy8gICAgICAgICBzaW1wbGU6IGZhbHNlLAovLyAgICAgICAgIHJlc29sdmVXaXRoRnVsbFJlc3BvbnNlOiB0cnVlLAovLyAgICAgICAgIGpzb246IHRydWUsCi8vICAgICB9LAovLyApOwovLwovLyBhc3luYyBmdW5jdGlvbiBva3RhX2F1dGhuKHVzZXJuYW1lLCBwYXNzd29yZCkgewovLyAgICAgY29uc3QgYm9keSA9IHt1c2VybmFtZSwgcGFzc3dvcmR9OwovLyAgICAgY29uc3QgdXJpID0gdXJscy5hdXRobl91cmw7Ci8vICAgICBjb25zdCBvcHRpb25zID0ge3VyaSwgYm9keX07Ci8vICAgICBjb25zdCByZXNwb25zZSA9IGF3YWl0IGNsaWVudC5wb3N0KG9wdGlvbnMpOwovLwovLyAgICAgY29uc3QgZGF0YSA9IHJlc3BvbnNlLmJvZHk7Ci8vCi8vICAgICBpZiAoZGF0YS5zdGF0dXMgIT09ICdTVUNDRVNTJykgewovLyAgICAgICAgIHJldHVybjsKLy8gICAgIH0KLy8KLy8gICAgIHJldHVybiBkYXRhLnNlc3Npb25Ub2tlbjsKLy8gfQoKCi8vIGFzeW5jIGZ1bmN0aW9uIG9rdGFfYXV0aG9yaXplKGNsaWVudF9pZCwgc2Vzc2lvblRva2VuKSB7Ci8vICAgICBjb25zdCBxcyA9IHsKLy8gICAgICAgICBjbGllbnRfaWQsCi8vICAgICAgICAgc2Vzc2lvblRva2VuLAovLyAgICAgICAgIHJlc3BvbnNlX3R5cGU6ICdjb2RlJywKLy8gICAgICAgICByZXNwb25zZV9tb2RlOiAncXVlcnknLAovLyAgICAgICAgIHNjb3BlOiAnb3BlbmlkJywKLy8gICAgICAgICByZWRpcmVjdF91cmk6IGFwcF9jb25maWcuY2FsbGJhY2tfdXJsLAovLyAgICAgICAgIG5vbmNlOiAnZm9vJywKLy8gICAgICAgICBzdGF0ZTogJ2JhcicsCi8vICAgICB9OwovLwovLyAgICAgcmV0dXJuIGF3YWl0IGNsaWVudC5nZXQodXJscy5hdXRoel91cmwsIHtxc30pOwovLyB9CgoKLy8gYXN5bmMgZnVuY3Rpb24gb2t0YV90b2tlbihjb2RlLCBjbGllbnRfaWQsIGNsaWVudF9zZWNyZXQpIHsKLy8gICAgIGNvbnN0IGF1dGggPSB7dXNlcm5hbWU6IGNsaWVudF9pZCwgcGFzc3dvcmQ6IGNsaWVudF9zZWNyZXR9OwovLyAgICAgY29uc3QgZm9ybSA9IHsKLy8gICAgICAgICBjb2RlLAovLyAgICAgICAgIGdyYW50X3R5cGU6ICdhdXRob3JpemF0aW9uX2NvZGUnLAovLyAgICAgICAgIHJlZGlyZWN0X3VyaTogYXBwX2NvbmZpZy5jYWxsYmFja191cmwsCi8vICAgICB9OwovLyAgICAgY29uc3QgdXJpID0gdXJscy50b2tlbl91cmw7Ci8vCi8vICAgICBjb25zdCByZXN1bHQgPSBhd2FpdCBjbGllbnQucG9zdCh7dXJpLCBmb3JtLCBhdXRofSk7Ci8vCi8vICAgICByZXR1cm4gcmVzdWx0LmJvZHkuYWNjZXNzX3Rva2VuOwovLyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGNvbnN0IGtleSBvZiB0aGlzLkNvbmZpZ0tleXMpIHsKICAgICAgICAgICAgdGhpc1trZXldID0gY29uZmlnW2tleV07CiAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9rdGE6IHsKICAgICAgICBjYWxsYmFja191cmw6IGBodHRwOi8vbG9jYWxob3N0OjMwMDAvYXV0aC1jYWxsYmFja2AsCiAgICAgICAgY2xpZW50X2lkOiAnMG9hamZwY3c5a2Naam5HRWgwaDcnLAogICAgICAgIGNsaWVudF9zZWNyZXQ6ICd6anRpbGRPekRwUjN5bjFucU8yM1RQT1NubEhDRjBmeXN4U1JVYzgyJywKICAgIH0K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -4823,7 +4823,6 @@
         <entry>updateUser</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/appcode/appCode/g</entry>
         <entry>47</entry>
         <entry>32</entry>
         <entry encoding="base64">JzwsJz45OQ==</entry>
@@ -4842,6 +4841,7 @@
         <entry>2</entry>
         <entry>0</entry>
         <entry>78</entry>
+        <entry>13</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
