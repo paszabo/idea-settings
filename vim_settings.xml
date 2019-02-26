@@ -117,12 +117,7 @@
         <mark key="^" line="19" column="25" />
         <mark key="." line="19" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1551212037573">
-        <mark key="[" line="307" column="45" />
-        <mark key="]" line="307" column="44" />
-        <mark key="." line="307" column="44" />
-        <mark key="^" line="307" column="44" />
-      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1551214268260" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/mail/SendGridMailer.ts" timestamp="1551212091805" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/ICommPreferences.ts" timestamp="1550697098224" />
       <file name="$USER_HOME$/dev/repos/common-identity-tutorials/register-prospect-user/README.md" timestamp="1551189707352">
@@ -144,6 +139,9 @@
         <mark key="]" line="9" column="19" />
         <mark key="." line="9" column="19" />
         <mark key="^" line="6" column="62" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" timestamp="1551214691883">
+        <mark key="'" line="30" column="34" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/models/RegisterUserRequest.json" timestamp="1551192644612" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IUser.ts" timestamp="1551200800124" />
@@ -231,7 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1700" column="310" filename="$USER_HOME$/dev/repos/common-identity-api/node_modules/aws-sdk/clients/dynamodb.d.ts" />
       <jump line="1704" column="239" filename="$USER_HOME$/dev/repos/common-identity-api/node_modules/aws-sdk/clients/dynamodb.d.ts" />
       <jump line="1724" column="545" filename="$USER_HOME$/dev/repos/common-identity-api/node_modules/aws-sdk/clients/dynamodb.d.ts" />
       <jump line="1730" column="50" filename="$USER_HOME$/dev/repos/common-identity-api/node_modules/aws-sdk/clients/dynamodb.d.ts" />
@@ -331,6 +328,7 @@
       <jump line="40" column="24" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/app-config.service.ts" />
       <jump line="41" column="49" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/app-config.service.ts" />
       <jump line="32" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/PreferencesService.ts" />
+      <jump line="30" column="34" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -4820,7 +4818,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>Entered update preference service</text>
+        <text>unsubscribe</text>
       </register>
       <register name="0" type="4">
         <text>APPLICATION_MISCONFIGURED</text>
@@ -4860,9 +4858,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Entered update preference service</last-search>
+      <last-search>unsubscribe</last-search>
       <last-offset />
-      <last-pattern>Entered update preference service</last-pattern>
+      <last-pattern>unsubscribe</last-pattern>
       <last-replace>appCode</last-replace>
       <last-substitute>appcode</last-substitute>
       <last-dir>1</last-dir>
@@ -4870,7 +4868,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1bmRlZmluZWRcPg==</entry>
         <entry encoding="base64">XDxvbGRcPg==</entry>
         <entry>ss16</entry>
         <entry>merge</entry>
@@ -4890,6 +4887,7 @@
         <entry>logger</entry>
         <entry>ger</entry>
         <entry>Entered update preference service</entry>
+        <entry>unsubscribe</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
