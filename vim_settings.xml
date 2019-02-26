@@ -41,11 +41,11 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" timestamp="1550593462121" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/PreferencesRepository.ts" timestamp="1550688141799" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" timestamp="1551121244850" />
-      <file name="$USER_HOME$/dev/repos/common-identity-tutorials/register-prospect-user/lambda_unbounce_webhook.js" timestamp="1551188704295">
-        <mark key="[" line="59" column="59" />
-        <mark key="]" line="61" column="59" />
-        <mark key="." line="61" column="59" />
-        <mark key="^" line="61" column="59" />
+      <file name="$USER_HOME$/dev/repos/common-identity-tutorials/register-prospect-user/lambda_unbounce_webhook.js" timestamp="1551193085390">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="41" column="47" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/package.json" timestamp="1550245580485">
         <mark key="[" line="2" column="16" />
@@ -110,6 +110,7 @@
         <mark key="." line="13" column="18" />
         <mark key="^" line="13" column="18" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IUserRegInfo.ts" timestamp="1551193197911" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/jest.config.js" timestamp="1550699707099">
         <mark key="[" line="17" column="23" />
         <mark key="]" line="19" column="25" />
@@ -148,6 +149,7 @@
         <mark key="[" line="95" column="0" />
         <mark key="]" line="125" column="45" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/models/RegisterUserRequest.json" timestamp="1551192644612" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IUser.ts" timestamp="1550602218559" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/preferences/preferences.service.test.ts" timestamp="1550694940510">
         <mark key="'" line="256" column="25" />
@@ -219,6 +221,7 @@
         <mark key="^" line="0" column="39" />
         <mark key="." line="0" column="39" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/RegisterRequest.ts" timestamp="1551193378645" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Utilities.ts" timestamp="1550683031293" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/UserRepository.ts" timestamp="1551115799696" />
     </filemarks>
@@ -325,8 +328,8 @@
       <jump line="3" column="25" filename="$USER_HOME$/dev/repos/common-identity-tutorials/register-prospect-user/lambda_unbounce_webhook.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>WR00</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gY29uc3QgYXBwX2NvZGUgPSBwcm9jZXNzLmVudi5BUFBfQ09ERTsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4818,37 +4821,37 @@
         <text>UnbounceRegisterProspectUserWebHook</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gY29uc3QgYXBwX2NvZGUgPSBwcm9jZXNzLmVudi5BUFBfQ09ERTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bG9nLmluZm8oSWRlbnRpdHlBUElDbGllbnQpOwo=</text>
+        <text encoding="base64">ICogSWRlbnRpdHkgU2VydmljZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0YWdlOgo=</text>
+        <text encoding="base64">Y29uc3QgY2xpZW50ID0gbmV3IElkZW50aXR5QVBJQ2xpZW50KGlkZW50aXR5X3NlcnZpY2VfdXJsLCBhcHBfY29kZSk7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICoKICogQHBhcmFtIGV2ZW50CiAqIEBwYXJhbSBjb250ZXh0CiAqIEBwYXJhbSBjYWxsYmFjawogKiBAcmV0dXJucyB7UHJvbWlzZTx2b2lkPn0KICogQGNvbnN0cnVjdG9yCg==</text>
+        <text encoding="base64">bG9nLmluZm8oSWRlbnRpdHlBUElDbGllbnQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0YWdlOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICoKICogQHBhcmFtIGtleQogKiBAcGFyYW0gZGF0YQogKiBAcmV0dXJucyB7Kn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNsaWVudCA9IG5ldyBJZGVudGl0eUFQSUNsaWVudChJZGVudGl0eVNlcnZpY2VVUkwsIGJvZHkuYXBwX2NvZGUpOwo=</text>
+        <text encoding="base64">ICoKICogQHBhcmFtIGV2ZW50CiAqIEBwYXJhbSBjb250ZXh0CiAqIEBwYXJhbSBjYWxsYmFjawogKiBAcmV0dXJucyB7UHJvbWlzZTx2b2lkPn0KICogQGNvbnN0cnVjdG9yCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>5d</text>
       </register>
     </registers>
     <search>
@@ -4884,7 +4887,6 @@
         <entry>registerProspect</entry>
       </history-search>
       <history-cmd>
-        <entry>99</entry>
         <entry>s</entry>
         <entry>37</entry>
         <entry>4</entry>
@@ -4904,6 +4906,7 @@
         <entry>14</entry>
         <entry>1</entry>
         <entry>w</entry>
+        <entry>5d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
