@@ -15,7 +15,7 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1551283865740">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1551289437777">
         <mark key="'" line="2158" column="2" />
         <mark key="[" line="1784" column="0" />
         <mark key="]" line="1791" column="39" />
@@ -137,7 +137,7 @@
         <mark key="^" line="19" column="25" />
         <mark key="." line="19" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1551219072227">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1551289507160">
         <mark key="'" line="508" column="9" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/mail/SendGridMailer.ts" timestamp="1551212091805" />
@@ -149,12 +149,12 @@
         <mark key="." line="8" column="88" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/node_modules/request/index.js" timestamp="1550844920035" />
-      <file name="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-callback.js" timestamp="1551282461378">
+      <file name="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-callback.js" timestamp="1551289213531">
         <mark key="'" line="96" column="25" />
-        <mark key="[" line="139" column="23" />
-        <mark key="]" line="139" column="62" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="49" />
         <mark key="^" line="139" column="62" />
-        <mark key="." line="139" column="62" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-tutorials/register-prospect-user/serverless.yml" timestamp="1551188883024">
         <mark key="[" line="9" column="19" />
@@ -370,8 +370,8 @@
       <jump line="2158" column="2" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmF1dGhuX3VybCA9IGAke3RoaXMuYXBpX3VybH0vYXV0aG5gOwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4866,43 +4866,43 @@
                 user.preferredLanguage,
             )</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmF1dGhuX3VybCA9IGAke3RoaXMuYXBpX3VybH0vYXV0aG5gOwo=</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
         <text>|| this.getEmailTemplate(
                 'activationMail',
                 appDetails,
                 user.preferredLanguage,
             )</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>this.getEmailTemplate(
             'activationMail',
             appDetails,
             user.preferredLanguage,
         )</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBlbWFpbERhdGFNYXAuc2V0KCJhY3RpdmF0aW9uTGlua19mciIsIGFjdGl2YXRpb25VcmxGciArIHRva2VuKTsKICAgICAgICBlbWFpbERhdGFNYXAuc2V0KCJhY3RpdmF0aW9uTGlua19lbiIsIGFjdGl2YXRpb25VcmxFbiArIHRva2VuKTsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB9IGNhdGNoIChlcnIpIHsKICAgICAgICAgICAgdGhpcy5sb2dnZXIud2FybihgRXJyb3Igc2VuZGluZyBhY3RpdmF0aW9uIGVtYWlsOiAke0pTT04uc3RyaW5naWZ5KGVycil9YCk7CiAgICAgICAgfQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBlbWFpbERhdGFNYXAuc2V0KCJ2ZXJpZnlFbWFpbExpbmtfZW4iLCBhcHBEZXRhaWxzLnVwZGF0ZUVtYWlsVmVyaWZ5VXJsX2VuICsgdG9rZW4pOwogICAgICAgIGVtYWlsRGF0YU1hcC5zZXQoInZlcmlmeUVtYWlsTGlua19mciIsIGFwcERldGFpbHMudXBkYXRlRW1haWxWZXJpZnlVcmxfZnIgKyB0b2tlbik7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
