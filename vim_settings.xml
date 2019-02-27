@@ -149,12 +149,12 @@
         <mark key="." line="8" column="88" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/node_modules/request/index.js" timestamp="1550844920035" />
-      <file name="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-callback.js" timestamp="1551290654114">
-        <mark key="'" line="96" column="25" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="49" />
-        <mark key="^" line="139" column="62" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-callback.js" timestamp="1551292181219">
+        <mark key="'" line="81" column="26" />
+        <mark key="[" line="126" column="10" />
+        <mark key="]" line="121" column="14" />
+        <mark key="^" line="121" column="36" />
+        <mark key="." line="121" column="14" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-tutorials/register-prospect-user/serverless.yml" timestamp="1551188883024">
         <mark key="[" line="9" column="19" />
@@ -268,7 +268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/admin/adminUsersHandler.ts" />
       <jump line="81" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/admin/adminUsersHandler.ts" />
       <jump line="104" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/admin/adminUsersHandler.ts" />
       <jump line="146" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/admin/adminUsersHandler.ts" />
@@ -368,10 +367,11 @@
       <jump line="69" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/MailService.ts" />
       <jump line="549" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="2158" column="2" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="81" column="26" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-callback.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmF1dGhuX3VybCA9IGAke3RoaXMuYXBpX3VybH0vYXV0aG5gOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4854,10 +4854,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2dnZXJcPg==</text>
+        <text>token</text>
       </register>
       <register name="0" type="4">
         <text>this.getEmailTemplate(
@@ -4909,17 +4909,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2dnZXJcPg==</last-search>
+      <last-search>token</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2dnZXJcPg==</last-pattern>
+      <last-pattern>token</last-pattern>
       <last-replace>appCode</last-replace>
       <last-substitute>appcode</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>memberId</entry>
         <entry encoding="base64">XDx7XD4=</entry>
         <entry encoding="base64">XDxbXD4=</entry>
         <entry encoding="base64">XDx9XD4=</entry>
@@ -4939,6 +4938,7 @@
         <entry>activate</entry>
         <entry>activateUser</entry>
         <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
+        <entry>token</entry>
       </history-search>
       <history-cmd>
         <entry>4</entry>
