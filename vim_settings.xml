@@ -75,7 +75,9 @@
         <mark key="." line="22" column="18" />
         <mark key="^" line="22" column="80" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/.circleci/config.yml" timestamp="1550247345186" />
+      <file name="$USER_HOME$/dev/repos/automp-be/.circleci/config.yml" timestamp="1551369237594">
+        <mark key="'" line="106" column="12" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serializers/member-id.serializer.ts" timestamp="1550702682870">
         <mark key="[" line="3" column="60" />
         <mark key="]" line="3" column="61" />
@@ -117,6 +119,12 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/config.yml" timestamp="1551369244565">
+        <mark key="'" line="101" column="24" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/preferences.service.ts" timestamp="1550857717746">
         <mark key="'" line="108" column="9" />
         <mark key="[" line="67" column="15" />
@@ -142,6 +150,9 @@
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer.js" timestamp="1551302681256" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/mail/SendGridMailer.ts" timestamp="1551212091805" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/authorizer-memberid.js" timestamp="1551367527961">
+        <mark key="a" line="229" column="12" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/ICommPreferences.ts" timestamp="1550697098224" />
       <file name="$USER_HOME$/dev/repos/common-identity-tutorials/register-prospect-user/README.md" timestamp="1551189707352">
         <mark key="[" line="9" column="0" />
@@ -150,12 +161,12 @@
         <mark key="." line="8" column="88" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/node_modules/request/index.js" timestamp="1550844920035" />
-      <file name="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-callback.js" timestamp="1551300472533">
+      <file name="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-callback.js" timestamp="1551367613672">
         <mark key="'" line="81" column="26" />
-        <mark key="[" line="126" column="10" />
-        <mark key="]" line="121" column="14" />
-        <mark key="^" line="121" column="36" />
-        <mark key="." line="121" column="14" />
+        <mark key="[" line="145" column="23" />
+        <mark key="]" line="145" column="62" />
+        <mark key="." line="145" column="62" />
+        <mark key="^" line="145" column="62" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-tutorials/register-prospect-user/serverless.yml" timestamp="1551188883024">
         <mark key="[" line="9" column="19" />
@@ -190,6 +201,7 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/admin-config-paul-dev.sh" timestamp="1551186872876" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/prefs-config-paul-dev.sh" timestamp="1551368354792" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/models/ResendActivationTokenRequest.json" timestamp="1550593858559" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serializers/preferences/unsubscribe.serializer.ts" timestamp="1550702648748" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/unsubscribe-requests-old.ts" timestamp="1550082686571">
@@ -235,12 +247,6 @@
         <mark key="." line="7" column="43" />
         <mark key="^" line="7" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1551220610120">
-        <mark key="'" line="116" column="38" />
-        <mark key="]" line="187" column="60" />
-        <mark key="." line="187" column="60" />
-        <mark key="^" line="187" column="60" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/okta.config.js" timestamp="1550847230571">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="0" column="0" />
@@ -270,11 +276,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/admin/adminUsersHandler.ts" />
-      <jump line="104" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/admin/adminUsersHandler.ts" />
-      <jump line="146" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/admin/adminUsersHandler.ts" />
-      <jump line="169" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/admin/adminUsersHandler.ts" />
-      <jump line="192" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/admin/adminUsersHandler.ts" />
       <jump line="215" column="32" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/admin/adminUsersHandler.ts" />
       <jump line="249" column="32" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/admin/adminUsersHandler.ts" />
       <jump line="983" column="44" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
@@ -370,10 +371,15 @@
       <jump line="549" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="2158" column="2" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="81" column="26" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-callback.js" />
+      <jump line="19" column="4" filename="$USER_HOME$/dev/repos/automp-be/.circleci/config.yml" />
+      <jump line="106" column="12" filename="$USER_HOME$/dev/repos/automp-be/.circleci/config.yml" />
+      <jump line="114" column="42" filename="$USER_HOME$/dev/repos/common-identity-api/.circleci/config.yml" />
+      <jump line="107" column="24" filename="$USER_HOME$/dev/repos/common-identity-api/.circleci/config.yml" />
+      <jump line="101" column="24" filename="$USER_HOME$/dev/repos/common-identity-api/.circleci/config.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4856,64 +4862,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>token</text>
+        <text>branch</text>
       </register>
-      <register name="0" type="4">
-        <text>this.getEmailTemplate(
-                'activationMail',
-                appDetails,
-                user.preferredLanguage,
-            )</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb25seTogL14oKGJ1Z3xmZWF0dXJlKVxcLyk/Q0lBLVswLTldKy8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmF1dGhuX3VybCA9IGAke3RoaXMuYXBpX3VybH0vYXV0aG5gOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>|| this.getEmailTemplate(
-                'activationMail',
-                appDetails,
-                user.preferredLanguage,
-            )</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>this.getEmailTemplate(
-            'activationMail',
-            appDetails,
-            user.preferredLanguage,
-        )</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbWFpbERhdGFNYXAuc2V0KCJhY3RpdmF0aW9uTGlua19mciIsIGFjdGl2YXRpb25VcmxGciArIHRva2VuKTsKICAgICAgICBlbWFpbERhdGFNYXAuc2V0KCJhY3RpdmF0aW9uTGlua19lbiIsIGFjdGl2YXRpb25VcmxFbiArIHRva2VuKTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIC0gKnJlbW90ZS1k</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChlcnIpIHsKICAgICAgICAgICAgdGhpcy5sb2dnZXIud2FybihgRXJyb3Igc2VuZGluZyBhY3RpdmF0aW9uIGVtYWlsOiAke0pTT04uc3RyaW5naWZ5KGVycil9YCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbWFpbERhdGFNYXAuc2V0KCJ2ZXJpZnlFbWFpbExpbmtfZW4iLCBhcHBEZXRhaWxzLnVwZGF0ZUVtYWlsVmVyaWZ5VXJsX2VuICsgdG9rZW4pOwogICAgICAgIGVtYWlsRGF0YU1hcC5zZXQoInZlcmlmeUVtYWlsTGlua19mciIsIGFwcERldGFpbHMudXBkYXRlRW1haWxWZXJpZnlVcmxfZnIgKyB0b2tlbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>token</last-search>
+      <last-search>branch</last-search>
       <last-offset />
-      <last-pattern>token</last-pattern>
+      <last-pattern>branch</last-pattern>
       <last-replace>appCode</last-replace>
       <last-substitute>appcode</last-substitute>
       <last-dir>1</last-dir>
@@ -4921,7 +4915,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx7XD4=</entry>
         <entry encoding="base64">XDxbXD4=</entry>
         <entry encoding="base64">XDx9XD4=</entry>
         <entry>log</entry>
@@ -4941,6 +4934,7 @@
         <entry>activateUser</entry>
         <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
         <entry>token</entry>
+        <entry>branch</entry>
       </history-search>
       <history-cmd>
         <entry>4</entry>
@@ -4953,7 +4947,6 @@
         <entry>2</entry>
         <entry>78</entry>
         <entry>13</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>&quot;W</entry>
         <entry>W</entry>
         <entry>0</entry>
@@ -4962,6 +4955,7 @@
         <entry>5d</entry>
         <entry>155</entry>
         <entry>34</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
