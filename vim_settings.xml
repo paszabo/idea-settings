@@ -91,6 +91,13 @@
         <mark key="." line="30" column="36" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/models/ActivateUserRequest.json" timestamp="1551220744548" />
+      <file name="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-flow.js" timestamp="1551381598844">
+        <mark key="'" line="260" column="12" />
+        <mark key="[" line="278" column="0" />
+        <mark key="]" line="278" column="0" />
+        <mark key="^" line="237" column="19" />
+        <mark key="." line="278" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/mail/GoogleMailer.ts" timestamp="1551205086601" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/subscription.service.ts" timestamp="1550699652627">
         <mark key="'" line="15" column="29" />
@@ -132,7 +139,7 @@
         <mark key="." line="246" column="76" />
         <mark key="^" line="246" column="76" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-tutorials/register-prospect-user/register-prospect-user.js" timestamp="1551371573102">
+      <file name="$USER_HOME$/dev/repos/common-identity-tutorials/register-prospect-user/register-prospect-user.js" timestamp="1551373769035">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
@@ -161,12 +168,12 @@
         <mark key="." line="8" column="88" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/node_modules/request/index.js" timestamp="1550844920035" />
-      <file name="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-callback.js" timestamp="1551367613672">
-        <mark key="'" line="81" column="26" />
-        <mark key="[" line="145" column="23" />
-        <mark key="]" line="145" column="62" />
-        <mark key="." line="145" column="62" />
-        <mark key="^" line="145" column="62" />
+      <file name="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-callback.js" timestamp="1551376547483">
+        <mark key="'" line="71" column="56" />
+        <mark key="[" line="109" column="75" />
+        <mark key="]" line="110" column="7" />
+        <mark key="." line="110" column="7" />
+        <mark key="^" line="110" column="7" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-tutorials/register-prospect-user/serverless.yml" timestamp="1551188883024">
         <mark key="[" line="9" column="19" />
@@ -223,11 +230,11 @@
         <mark key="^" line="67" column="48" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/package.json" timestamp="1551237566632">
-        <mark key="[" line="6" column="5" />
-        <mark key="]" line="6" column="40" />
-        <mark key="." line="6" column="40" />
-        <mark key="^" line="6" column="40" />
+      <file name="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/package.json" timestamp="1551377982652">
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="7" column="25" />
+        <mark key="." line="7" column="25" />
+        <mark key="^" line="7" column="25" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/users-config-production.sh" timestamp="1549650363487">
         <mark key="[" line="6" column="18" />
@@ -241,11 +248,23 @@
         <mark key="." line="1" column="22" />
         <mark key="^" line="1" column="22" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/api-error.js" timestamp="1551380885016">
+        <mark key="[" line="13" column="1" />
+        <mark key="]" line="15" column="34" />
+        <mark key="." line="15" column="34" />
+        <mark key="^" line="15" column="34" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-tutorials/register-prospect-user/package.json" timestamp="1551188218566">
         <mark key="[" line="7" column="43" />
         <mark key="]" line="7" column="43" />
         <mark key="." line="7" column="43" />
         <mark key="^" line="7" column="43" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/README.md" timestamp="1551381271744">
+        <mark key="[" line="36" column="75" />
+        <mark key="]" line="36" column="75" />
+        <mark key="^" line="36" column="75" />
+        <mark key="." line="36" column="75" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/okta.config.js" timestamp="1550847230571">
         <mark key="'" line="9" column="0" />
@@ -256,6 +275,12 @@
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer-memberid.js" timestamp="1551305972655" />
       <file name="$USER_HOME$/dev/repos/common-identity-client/src/core/client/action/base.action.ts" timestamp="1550678142872" />
+      <file name="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/banner.js" timestamp="1551380740056">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/repositories/index.ts" timestamp="1551115138331">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="39" />
@@ -276,29 +301,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="215" column="32" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/admin/adminUsersHandler.ts" />
-      <jump line="249" column="32" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/admin/adminUsersHandler.ts" />
-      <jump line="983" column="44" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="555" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
-      <jump line="382" column="41" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
-      <jump line="266" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
-      <jump line="97" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
-      <jump line="199" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
-      <jump line="933" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="453" column="56" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
-      <jump line="48" column="120" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/MailService.ts" />
-      <jump line="82" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/kpi/get-application-users.ts" />
-      <jump line="77" column="31" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
-      <jump line="12" column="19" filename="$USER_HOME$/Downloads/rbc-identity-api-qa-qa-swagger (1).json" />
-      <jump line="49" column="12" filename="$USER_HOME$/Downloads/rbc-identity-api-qa-qa-swagger (1).json" />
-      <jump line="194" column="12" filename="$USER_HOME$/Downloads/rbc-identity-api-qa-qa-swagger (1).json" />
-      <jump line="609" column="12" filename="$USER_HOME$/Downloads/rbc-identity-api-qa-qa-swagger (1).json" />
-      <jump line="805" column="12" filename="$USER_HOME$/Downloads/rbc-identity-api-qa-qa-swagger (1).json" />
-      <jump line="936" column="12" filename="$USER_HOME$/Downloads/rbc-identity-api-qa-qa-swagger (1).json" />
-      <jump line="1067" column="12" filename="$USER_HOME$/Downloads/rbc-identity-api-qa-qa-swagger (1).json" />
-      <jump line="1380" column="6" filename="$USER_HOME$/Downloads/rbc-identity-api-qa-qa-swagger (1).json" />
-      <jump line="1573" column="6" filename="$USER_HOME$/Downloads/rbc-identity-api-qa-qa-swagger (1).json" />
-      <jump line="1760" column="6" filename="$USER_HOME$/Downloads/rbc-identity-api-qa-qa-swagger (1).json" />
       <jump line="1947" column="6" filename="$USER_HOME$/Downloads/rbc-identity-api-qa-qa-swagger (1).json" />
       <jump line="2135" column="6" filename="$USER_HOME$/Downloads/rbc-identity-api-qa-qa-swagger (1).json" />
       <jump line="2592" column="6" filename="$USER_HOME$/Downloads/rbc-identity-api-qa-qa-swagger (1).json" />
@@ -376,10 +378,33 @@
       <jump line="114" column="42" filename="$USER_HOME$/dev/repos/common-identity-api/.circleci/config.yml" />
       <jump line="107" column="24" filename="$USER_HOME$/dev/repos/common-identity-api/.circleci/config.yml" />
       <jump line="101" column="24" filename="$USER_HOME$/dev/repos/common-identity-api/.circleci/config.yml" />
+      <jump line="67" column="7" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-callback.js" />
+      <jump line="69" column="56" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-callback.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-flow.js" />
+      <jump line="59" column="26" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-flow.js" />
+      <jump line="201" column="31" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-flow.js" />
+      <jump line="203" column="12" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-flow.js" />
+      <jump line="209" column="12" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-flow.js" />
+      <jump line="218" column="12" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-flow.js" />
+      <jump line="228" column="8" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-flow.js" />
+      <jump line="238" column="8" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-flow.js" />
+      <jump line="283" column="46" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-flow.js" />
+      <jump line="284" column="30" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-flow.js" />
+      <jump line="299" column="33" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-flow.js" />
+      <jump line="54" column="37" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-flow.js" />
+      <jump line="166" column="10" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-flow.js" />
+      <jump line="169" column="43" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-flow.js" />
+      <jump line="175" column="16" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-flow.js" />
+      <jump line="177" column="14" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-flow.js" />
+      <jump line="178" column="14" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-flow.js" />
+      <jump line="185" column="15" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-flow.js" />
+      <jump line="192" column="22" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-flow.js" />
+      <jump line="199" column="15" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-flow.js" />
+      <jump line="272" column="12" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-flow.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBwcmVmZXJlbmNlczogewogICAgICAgIC8vICAgICBjb21tdW5pY2F0aW9uUHJlZmVyZW5jZXM6IFsKICAgICAgICAvLyAgICAgICAgIHsKICAgICAgICAvLyAgICAgICAgICAgICBjaGFubmVsOiAnZW1haWwnLAogICAgICAgIC8vICAgICAgICAgICAgIHZhbHVlOiBlbWFpbCwKICAgICAgICAvLyAgICAgICAgICAgICBpc0FjY2VwdGVkOiB0cnVlLAogICAgICAgIC8vICAgICAgICAgICAgIGNvbW11bmljYXRpb25UeXBlOiAnZW1haWwubmV3c2xldHRlcicsCiAgICAgICAgLy8gICAgICAgICB9LAogICAgICAgIC8vICAgICAgICAgewogICAgICAgIC8vICAgICAgICAgICAgIGNoYW5uZWw6ICdlbWFpbCcsCiAgICAgICAgLy8gICAgICAgICAgICAgdmFsdWU6IGVtYWlsLAogICAgICAgIC8vICAgICAgICAgICAgIGlzQWNjZXB0ZWQ6IHRydWUsCiAgICAgICAgLy8gICAgICAgICAgICAgY29tbXVuaWNhdGlvblR5cGU6ICdlbWFpbC5wcm9tbycsCiAgICAgICAgLy8gICAgICAgICB9LAogICAgICAgIC8vICAgICBdLAogICAgICAgIC8vIH0sCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4862,25 +4887,25 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>prospect_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>branch</text>
+        <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW1haWw6ICdwYXN6YWJvQGdtYWlsLmNvbScsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2Uuc3RhdHVzKDUwMCkuanNvbih7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBwcmVmZXJlbmNlczogewogICAgICAgIC8vICAgICBjb21tdW5pY2F0aW9uUHJlZmVyZW5jZXM6IFsKICAgICAgICAvLyAgICAgICAgIHsKICAgICAgICAvLyAgICAgICAgICAgICBjaGFubmVsOiAnZW1haWwnLAogICAgICAgIC8vICAgICAgICAgICAgIHZhbHVlOiBlbWFpbCwKICAgICAgICAvLyAgICAgICAgICAgICBpc0FjY2VwdGVkOiB0cnVlLAogICAgICAgIC8vICAgICAgICAgICAgIGNvbW11bmljYXRpb25UeXBlOiAnZW1haWwubmV3c2xldHRlcicsCiAgICAgICAgLy8gICAgICAgICB9LAogICAgICAgIC8vICAgICAgICAgewogICAgICAgIC8vICAgICAgICAgICAgIGNoYW5uZWw6ICdlbWFpbCcsCiAgICAgICAgLy8gICAgICAgICAgICAgdmFsdWU6IGVtYWlsLAogICAgICAgIC8vICAgICAgICAgICAgIGlzQWNjZXB0ZWQ6IHRydWUsCiAgICAgICAgLy8gICAgICAgICAgICAgY29tbXVuaWNhdGlvblR5cGU6ICdlbWFpbC5wcm9tbycsCiAgICAgICAgLy8gICAgICAgICB9LAogICAgICAgIC8vICAgICBdLAogICAgICAgIC8vIH0sCg==</text>
+        <text encoding="base64">Y29uc3QgcG9ydCA9IDMwMDA7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW1haWw6ICdwYXN6YWJvQGdtYWlsLmNvbScsCg==</text>
+        <text encoding="base64">LyoqCiAqIFBvcnQgdGhlIGV4YW1wbGUgYXBwIHdpbGwgYmluZCB0bwogKi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAogICAgYXN5bmMgcmVnaXN0ZXJfdXNlcihkYXRhKSB7CiAgICAgICAgY29uc3QgcmVzcG9zZSA9IGF3YWl0IHRoaXMuY2xpZW50LnBvc3QoCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9CiAgICAgICAgKQogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -4889,10 +4914,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oJ1JlY2VpdmVkIGxvZ2luIHJlcXVlc3Q6Jywgc2NydWJfcGFzc3dvcmQocmVxdWVzdC5ib2R5KSk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIC0gKnJlbW90ZS1k</text>
+      <register name="7" type="2">
+        <text encoding="base64">Y2xhc3MgQVBJRXJyb3IgZXh0ZW5kcyBFcnJvciB7CiAgICBjb25zdHJ1Y3RvcihtZXNzYWdlLCBkYXRhKSB7CiAgICAgICAgc3VwZXIobWVzc2FnZSk7CiAgICAgICAgdGhpcy5kYXRhID0gZGF0YTsKICAgIH0KCiAgICB0b0pTT04oKSB7CiAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgZXJyb3I6IHRoaXMubWVzc2FnZSwKICAgICAgICAgICAgZGV0YWlsczogdGhpcy5kYXRhLAogICAgICAgICAgICBzdGFjazogdGhpcy5zdGFjay5zcGxpdCgnXG4nKSwKICAgICAgICB9OwogICAgfQp9Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -4905,9 +4930,9 @@
       </register>
     </registers>
     <search>
-      <last-search>branch</last-search>
+      <last-search>console</last-search>
       <last-offset />
-      <last-pattern>branch</last-pattern>
+      <last-pattern>console</last-pattern>
       <last-replace>appCode</last-replace>
       <last-substitute>appcode</last-substitute>
       <last-dir>1</last-dir>
@@ -4915,10 +4940,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxbXD4=</entry>
-        <entry encoding="base64">XDx9XD4=</entry>
-        <entry>log</entry>
-        <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
         <entry>urls\.</entry>
         <entry>updateUser</entry>
         <entry>A</entry>
@@ -4935,6 +4956,10 @@
         <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
         <entry>token</entry>
         <entry>branch</entry>
+        <entry>d</entry>
+        <entry>the</entry>
+        <entry>log</entry>
+        <entry>console</entry>
       </history-search>
       <history-cmd>
         <entry>4</entry>
@@ -4949,13 +4974,13 @@
         <entry>13</entry>
         <entry>&quot;W</entry>
         <entry>W</entry>
-        <entry>0</entry>
         <entry>14</entry>
-        <entry>1</entry>
         <entry>5d</entry>
         <entry>155</entry>
         <entry>34</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>0</entry>
+        <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
