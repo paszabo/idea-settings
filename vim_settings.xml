@@ -80,6 +80,12 @@
         <mark key="^" line="3" column="61" />
         <mark key="." line="3" column="61" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-tutorials/testing/angry-unhandled-promise-rejection.js" timestamp="1551457345227">
+        <mark key="[" line="74" column="8" />
+        <mark key="]" line="74" column="8" />
+        <mark key="." line="74" column="8" />
+        <mark key="^" line="82" column="38" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/tslint.json" timestamp="1550698449785">
         <mark key="[" line="30" column="37" />
         <mark key="]" line="30" column="36" />
@@ -87,8 +93,8 @@
         <mark key="." line="30" column="36" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/models/ActivateUserRequest.json" timestamp="1551220744548" />
-      <file name="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-flow.js" timestamp="1551386985351">
-        <mark key="'" line="265" column="12" />
+      <file name="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-flow.js" timestamp="1551456905883">
+        <mark key="'" line="245" column="32" />
         <mark key="[" line="243" column="0" />
         <mark key="]" line="243" column="0" />
         <mark key="^" line="246" column="0" />
@@ -293,7 +299,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1947" column="6" filename="$USER_HOME$/Downloads/rbc-identity-api-qa-qa-swagger (1).json" />
       <jump line="2135" column="6" filename="$USER_HOME$/Downloads/rbc-identity-api-qa-qa-swagger (1).json" />
       <jump line="2592" column="6" filename="$USER_HOME$/Downloads/rbc-identity-api-qa-qa-swagger (1).json" />
       <jump line="2777" column="6" filename="$USER_HOME$/Downloads/rbc-identity-api-qa-qa-swagger (1).json" />
@@ -393,10 +398,11 @@
       <jump line="192" column="22" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-flow.js" />
       <jump line="199" column="15" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-flow.js" />
       <jump line="272" column="12" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-flow.js" />
+      <jump line="245" column="32" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-flow.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJsYXN0TG9naW4iOiAiMjAxOS0wMi0yOFQyMDo0MTo1Ny4wMDBaIiwKICAgICJsYXN0TG9naW4iOiAiMjAxOS0wMi0yOFQyMDo0NDowNS4wMDBaIiwKICAgICJsYXN0TG9naW4iOiAiMjAxOS0wMi0yOFQyMDo0NDozNi4wMDBaIiwKICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">YXdhaXQg</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4879,43 +4885,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">YXdhaXQg</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2Uuc3RhdHVzKDUwMCkuanNvbih7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCBkb19zdHVmZigpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJsYXN0TG9naW4iOiAiMjAxOS0wMi0yOFQyMDo0MTo1Ny4wMDBaIiwKICAgICJsYXN0TG9naW4iOiAiMjAxOS0wMi0yOFQyMDo0NDowNS4wMDBaIiwKICAgICJsYXN0TG9naW4iOiAiMjAxOS0wMi0yOFQyMDo0NDozNi4wMDBaIiwKICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgcG9ydCA9IDMwMDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAqIFBvcnQgdGhlIGV4YW1wbGUgYXBwIHdpbGwgYmluZCB0bwogKi8K</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLnRyYWNlKGUpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlc3VsdDMgPSBhd2FpdCBvcmNoZXN0cmF0b3Iub3JjaGVzdHJhdGVfdGhpbmcodHJ1ZSk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oJ1JlY2VpdmVkIGxvZ2luIHJlcXVlc3Q6Jywgc2NydWJfcGFzc3dvcmQocmVxdWVzdC5ib2R5KSk7Cg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IGRvX3N0dWZmKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgQVBJRXJyb3IgZXh0ZW5kcyBFcnJvciB7CiAgICBjb25zdHJ1Y3RvcihtZXNzYWdlLCBkYXRhKSB7CiAgICAgICAgc3VwZXIobWVzc2FnZSk7CiAgICAgICAgdGhpcy5kYXRhID0gZGF0YTsKICAgIH0KCiAgICB0b0pTT04oKSB7CiAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgZXJyb3I6IHRoaXMubWVzc2FnZSwKICAgICAgICAgICAgZGV0YWlsczogdGhpcy5kYXRhLAogICAgICAgICAgICBzdGFjazogdGhpcy5zdGFjay5zcGxpdCgnXG4nKSwKICAgICAgICB9OwogICAgfQp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlc3VsdDEgPSBhd2FpdCBvcmNoZXN0cmF0b3Iub3JjaGVzdHJhdGVfdGhpbmcodHJ1ZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
