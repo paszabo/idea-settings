@@ -48,8 +48,8 @@
         <mark key="^" line="2" column="18" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/prod/prefs-config-production.sh" timestamp="1551717191210" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1551468271384">
-        <mark key="'" line="508" column="9" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1551718745268">
+        <mark key="'" line="652" column="44" />
       </file>
       <file name="/Clipboard.txt" timestamp="1551467545433">
         <mark key="[" line="0" column="0" />
@@ -94,7 +94,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/preferences/PreferencesService.test.ts" />
       <jump line="294" column="25" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/preferences/preferences.service.test.ts" />
       <jump line="108" column="9" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/preferences.service.ts" />
       <jump line="429" column="45" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
@@ -194,6 +193,7 @@
       <jump line="64" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/Cache.ts" />
       <jump line="228" column="33" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="412" column="22" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="652" column="44" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4683,7 +4683,7 @@
         <text>How long the value should live in seconds</text>
       </register>
       <register name="/" type="4">
-        <text>joinApp</text>
+        <text>registerUser</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0ZXN0KCdIYXBweSBwYXRoJywgYXN5bmMgKCkgPT4gewogICAgICAgICAgICBjb25zdCBkdHRtID0gbmV3IERhdGUoKTsKICAgICAgICAgICAgY29uc3QgZHVyYXRpb24gPSAxMjM7CiAgICAgICAgICAgIGNvbnN0IGV4cGVjdGVkID0gZHR0bS5zZXRTZWNvbmRzKGR0dG0uZ2V0U2Vjb25kcygpICsgZHVyYXRpb24pCiAgICAgICAgICAgICAgICAudmFsdWVPZigpOwoKICAgICAgICAgICAgY29uc3QgdHRsID0gY2FjaGUudHRsKGR1cmF0aW9uLCBkdHRtKTsKCiAgICAgICAgICAgIGV4cGVjdCh0dGwpLnRvQmUoZXhwZWN0ZWQpOwogICAgICAgIH0pOwo=</text>
@@ -4723,9 +4723,9 @@
       </register>
     </registers>
     <search>
-      <last-search>joinApp</last-search>
+      <last-search>registerUser</last-search>
       <last-offset />
-      <last-pattern>joinApp</last-pattern>
+      <last-pattern>registerUser</last-pattern>
       <last-replace>appCode</last-replace>
       <last-substitute>appcode</last-substitute>
       <last-dir>1</last-dir>
@@ -4733,7 +4733,6 @@
     </search>
     <history>
       <history-search>
-        <entry>logger</entry>
         <entry>ger</entry>
         <entry>Entered update preference service</entry>
         <entry>unsubscribe</entry>
@@ -4753,6 +4752,7 @@
         <entry>appcode</entry>
         <entry>ate</entry>
         <entry>joinApp</entry>
+        <entry>registerUser</entry>
       </history-search>
       <history-cmd>
         <entry>3</entry>
