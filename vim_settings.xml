@@ -91,17 +91,16 @@
         <mark key="^" line="89" column="69" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/handler-utils.ts" timestamp="1551737911286">
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="^" line="86" column="47" />
-        <mark key="." line="101" column="0" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" timestamp="1551738110995">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" timestamp="1551747011516">
         <mark key="'" line="209" column="6" />
-        <mark key="[" line="209" column="0" />
-        <mark key="]" line="209" column="6" />
+        <mark key="[" line="209" column="15" />
+        <mark key="]" line="209" column="16" />
         <mark key="^" line="209" column="6" />
-        <mark key="." line="209" column="6" />
+        <mark key="." line="209" column="16" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1551468254481">
         <mark key="'" line="412" column="22" />
@@ -211,8 +210,8 @@
       <jump line="209" column="6" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHtXYXJtdXBIYW5kbGVyfSBmcm9tICcuLi9oYW5kbGVyLXV0aWxzJzsK</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4695,7 +4694,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>unsubscribeUserCommPreferences</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>UnsubscribeUserCommPreferences</text>
