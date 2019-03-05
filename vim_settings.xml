@@ -95,12 +95,12 @@
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" timestamp="1551747011516">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" timestamp="1551747066036">
         <mark key="'" line="209" column="6" />
-        <mark key="[" line="209" column="15" />
-        <mark key="]" line="209" column="16" />
+        <mark key="[" line="35" column="22" />
+        <mark key="]" line="35" column="22" />
         <mark key="^" line="209" column="6" />
-        <mark key="." line="209" column="16" />
+        <mark key="." line="35" column="22" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1551468254481">
         <mark key="'" line="412" column="22" />
@@ -211,7 +211,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>, WarmupHandler</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4694,7 +4694,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>, WarmupHandler</text>
       </register>
       <register name="/" type="4">
         <text>UnsubscribeUserCommPreferences</text>
