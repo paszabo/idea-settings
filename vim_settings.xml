@@ -9,11 +9,12 @@
         <mark key="^" line="12" column="16" />
         <mark key="." line="12" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/applications.service.ts" timestamp="1551735514964">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="70" />
-        <mark key="^" line="12" column="52" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/applications.service.ts" timestamp="1551748509273">
+        <mark key="'" line="30" column="7" />
+        <mark key="[" line="13" column="74" />
+        <mark key="]" line="14" column="2" />
+        <mark key="^" line="14" column="2" />
+        <mark key="." line="14" column="2" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1551468321241">
         <mark key="[" line="577" column="10" />
@@ -95,12 +96,8 @@
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" timestamp="1551747066036">
-        <mark key="'" line="209" column="6" />
-        <mark key="[" line="35" column="22" />
-        <mark key="]" line="35" column="22" />
-        <mark key="^" line="209" column="6" />
-        <mark key="." line="35" column="22" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" timestamp="1551749510170">
+        <mark key="'" line="265" column="6" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1551468254481">
         <mark key="'" line="412" column="22" />
@@ -108,7 +105,6 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IIdentityRepository.ts" timestamp="1551468273369" />
     </filemarks>
     <jumps>
-      <jump line="57" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/preferences/subscription.service.test.ts" />
       <jump line="63" column="52" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/preferences/subscription.service.test.ts" />
       <jump line="68" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/preferences/subscription.service.test.ts" />
       <jump line="73" column="104" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/preferences/subscription.service.test.ts" />
@@ -208,10 +204,11 @@
       <jump line="217" column="5" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
       <jump line="246" column="23" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
       <jump line="209" column="6" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
+      <jump line="23" column="7" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/applications.service.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, WarmupHandler</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICogQGV4YW1wbGUgPGNhcHRpb24+PC9jYXB0aW9uPgo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4694,40 +4691,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, WarmupHandler</text>
+        <text>Providing app code via header</text>
       </register>
       <register name="/" type="4">
-        <text>UnsubscribeUserCommPreferences</text>
+        <text>code</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBldmVudC5zb3VyY2UgPT09ICJzZXJ2ZXJsZXNzLXBsdWdpbi13YXJtdXAiOwo=</text>
+        <text encoding="base64">ICogQGV4YW1wbGUgPGNhcHRpb24+PC9jYXB0aW9uPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtXYXJtdXBIYW5kbGVyfSBmcm9tICcuLi9oYW5kbGVyLXV0aWxzJzsK</text>
+        <text encoding="base64">ICogICAgICJlbWFpbCI6ICJwYXVsLnN6YWJvQHJiYy5jb20iLAogKiAgICAgImFwcF9jb2RlIjogIlRFU1QiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQHBhcmFtIGV2ZW50CiAqIEBwYXJhbSB7Q29udGV4dH0gY29udGV4dAogKiBAcGFyYW0ge1Vuc3Vic2NyaWJlQ29tbVByZWZlcmVuY2VzQ2FsbGJhY2t9IGNhbGxiYWNrCiAqIEByZXR1cm5zIHtQcm9taXNlPHZvaWQ+fQogKiBAY29uc3RydWN0b3IK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmICh3YXJtdXBSZXF1ZXN0KGV2ZW50KSkgewogICAgICAgIHJldHVybiBjYWxsYmFjayhudWxsLCBudWxsKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAqICBnaXZlbiBhcHAgY29kZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgoKCg==</text>
+        <text encoding="base64">aW1wb3J0IHtXYXJtdXBIYW5kbGVyfSBmcm9tICcuLi9oYW5kbGVyLXV0aWxzJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CgoKCgoKCgoKCgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICh3YXJtdXBSZXF1ZXN0KGV2ZW50KSkgewogICAgICAgIHJldHVybiBjYWxsYmFjayhudWxsLCBudWxsKTsKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgoKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGV2ZW50OiBhbnksCiAgICBjb250ZXh0OiBDb250ZXh0LAogICAgY2FsbGJhY2s6IGFueSwK</text>
+        <text encoding="base64">CgoKCgoKCgoKCgoK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -4737,9 +4734,9 @@
       </register>
     </registers>
     <search>
-      <last-search>UnsubscribeUserCommPreferences</last-search>
+      <last-search>code</last-search>
       <last-offset />
-      <last-pattern>UnsubscribeUserCommPreferences</last-pattern>
+      <last-pattern>code</last-pattern>
       <last-replace>appCode</last-replace>
       <last-substitute>appcode</last-substitute>
       <last-dir>1</last-dir>
@@ -4747,7 +4744,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Entered update preference service</entry>
         <entry>unsubscribe</entry>
         <entry>resetPasswordConfirmMail</entry>
         <entry>activate</entry>
@@ -4767,6 +4763,7 @@
         <entry>joinApp</entry>
         <entry>registerUser</entry>
         <entry>UnsubscribeUserCommPreferences</entry>
+        <entry>code</entry>
       </history-search>
       <history-cmd>
         <entry>51</entry>
