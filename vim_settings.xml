@@ -110,12 +110,12 @@
         <mark key="." line="82" column="9" />
         <mark key="^" line="82" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" timestamp="1551756739243">
-        <mark key="'" line="270" column="12" />
-        <mark key="[" line="274" column="2" />
-        <mark key="]" line="274" column="4" />
-        <mark key="^" line="274" column="4" />
-        <mark key="." line="274" column="4" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" timestamp="1551757957526">
+        <mark key="'" line="265" column="12" />
+        <mark key="[" line="285" column="1" />
+        <mark key="]" line="285" column="2" />
+        <mark key="^" line="285" column="2" />
+        <mark key="." line="285" column="2" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IIdentityRepository.ts" timestamp="1551468273369" />
     </filemarks>
@@ -222,8 +222,8 @@
       <jump line="270" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>const handler =</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIFVuc3Vic2NyaWJlVXNlckNvbW1QcmVmZXJlbmNlcygKLy8gICAgIGV2ZW50OiBhbnksCi8vICAgICBjb250ZXh0OiBDb250ZXh0LAovLyAgICAgY2FsbGJhY2s6IFVuc3Vic2NyaWJlQ29tbVByZWZlcmVuY2VzQ2FsbGJhY2ssCi8vICkgewo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4715,18 +4715,21 @@
         <text encoding="base64">ZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIFVuc3Vic2NyaWJlVXNlckNvbW1QcmVmZXJlbmNlcygKICAgIGV2ZW50OiBhbnksCiAgICBjb250ZXh0OiBDb250ZXh0LAogICAgY2FsbGJhY2s6IFVuc3Vic2NyaWJlQ29tbVByZWZlcmVuY2VzQ2FsbGJhY2ssCikgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8gZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIFVuc3Vic2NyaWJlVXNlckNvbW1QcmVmZXJlbmNlcygKLy8gICAgIGV2ZW50OiBhbnksCi8vICAgICBjb250ZXh0OiBDb250ZXh0LAovLyAgICAgY2FsbGJhY2s6IFVuc3Vic2NyaWJlQ29tbVByZWZlcmVuY2VzQ2FsbGJhY2ssCi8vICkgewo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyhgTG9va2luZyB1cCB1c2VyICR7ZW1haWx9IGluIGFwcGxpY2F0aW9uICR7YXBwQ29kZX1gKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyhgTG9va2luZyB1cCB1c2VyICR7ZW1haWx9IGluIGFwcGxpY2F0aW9uICR7YXBwQ29kZX1gKTsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyhgTG9va2luZyB1cCB1c2VyICR7ZW1haWx9IGluIGFwcGxpY2F0aW9uICR7YXBwQ29kZX1gKTsK</text>
+      </register>
+      <register name="5" type="4">
         <text>new TnCService(
             this.logger,
             this.appConfig,
@@ -4735,20 +4738,17 @@
             this.identitydb,
         )</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ID0gbmV3IE1haWxTZXJ2aWNlKAogICAgICAgICAgICB0aGlzLmxvZ2dlciwKICAgICAgICAgICAgdGhpcy5pZGVudGl0eWRiLAogICAgICAgICk=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgbWFpbFNlcnZpY2U6IE1haWxTZXJ2aWNlID0gbmV3IE1haWxTZXJ2aWNlKHRoaXMubG9nZ2VyLCB0aGlzLmlkZW50aXR5ZGIpOwogICAgcHJpdmF0ZSBzbXNTZXJ2aWNlOiBTTVNTZXJ2aWNlID0gbmV3IFNNU1NlcnZpY2UodGhpcy5sb2dnZXIpOwogICAgcHJpdmF0ZSB0bmNkYjogVG5jUmVwb3NpdG9yeSA9IG5ldyBUbmNSZXBvc2l0b3J5KHRoaXMubG9nZ2VyKTsKICAgIHByaXZhdGUgdXRpbHM6IFV0aWxpdGllcyA9IG5ldyBVdGlsaXRpZXMoKTsKICAgIHByaXZhdGUgdG5jU2VydmljZTogVG5DU2VydmljZSA9IG5ldyBUbkNTZXJ2aWNlKAogICAgICAgIHRoaXMubG9nZ2VyLAogICAgICAgIHRoaXMuYXBwQ29uZmlnLAogICAgICAgIHRoaXMudG5jZGIsCiAgICAgICAgdGhpcy51c2VyZGIsCiAgICAgICAgdGhpcy5pZGVudGl0eWRiLAogICAgKTsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyAoUGF1bCk6IFVzZSBVc2VyU2VydmljZS5nZXRVc2VyQnlFbWFpbAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICogICAgICJlbWFpbCI6ICJwYXVsLnN6YWJvQHJiYy5jb20iLAogKiAgICAgImFwcF9jb2RlIjogIlRFU1QiCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogQHBhcmFtIGV2ZW50CiAqIEBwYXJhbSB7Q29udGV4dH0gY29udGV4dAogKiBAcGFyYW0ge1Vuc3Vic2NyaWJlQ29tbVByZWZlcmVuY2VzQ2FsbGJhY2t9IGNhbGxiYWNrCiAqIEByZXR1cm5zIHtQcm9taXNlPHZvaWQ+fQogKiBAY29uc3RydWN0b3IK</text>
+        <text encoding="base64">ICogICAgICJlbWFpbCI6ICJwYXVsLnN6YWJvQHJiYy5jb20iLAogKiAgICAgImFwcF9jb2RlIjogIlRFU1QiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
