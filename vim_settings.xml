@@ -65,6 +65,13 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/typescript/lib/lib.es5.d.ts" timestamp="1551462701872" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" timestamp="1551737981115">
+        <mark key="'" line="30" column="34" />
+        <mark key="[" line="298" column="21" />
+        <mark key="]" line="298" column="50" />
+        <mark key="." line="298" column="50" />
+        <mark key="^" line="298" column="50" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/index.ts" timestamp="1551462781562">
         <mark key="[" line="4" column="17" />
         <mark key="]" line="4" column="21" />
@@ -83,26 +90,25 @@
         <mark key="." line="89" column="69" />
         <mark key="^" line="89" column="69" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" timestamp="1551736571508">
-        <mark key="[" line="221" column="53" />
-        <mark key="]" line="222" column="3" />
-        <mark key="." line="222" column="3" />
-        <mark key="^" line="222" column="3" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/handler-utils.ts" timestamp="1551737911286">
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="^" line="86" column="47" />
+        <mark key="." line="101" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" timestamp="1551738110995">
+        <mark key="'" line="209" column="6" />
+        <mark key="[" line="209" column="0" />
+        <mark key="]" line="209" column="6" />
+        <mark key="^" line="209" column="6" />
+        <mark key="." line="209" column="6" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1551468254481">
         <mark key="'" line="412" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/test/services/UserService.test.ts" timestamp="1551466298238">
-        <mark key="'" line="31" column="53" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="29" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IIdentityRepository.ts" timestamp="1551468273369" />
     </filemarks>
     <jumps>
-      <jump line="1336" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="33" column="14" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/preferences/subscription.service.test.ts" />
-      <jump line="50" column="31" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/preferences/subscription.service.test.ts" />
       <jump line="57" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/preferences/subscription.service.test.ts" />
       <jump line="63" column="52" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/preferences/subscription.service.test.ts" />
       <jump line="68" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/preferences/subscription.service.test.ts" />
@@ -200,10 +206,13 @@
       <jump line="21" column="28" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-flow.js" />
       <jump line="27" column="21" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-flow.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-flow.js" />
+      <jump line="217" column="5" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
+      <jump line="246" column="23" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
+      <jump line="209" column="6" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.xor('appCode', 'global')</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHtXYXJtdXBIYW5kbGVyfSBmcm9tICcuLi9oYW5kbGVyLXV0aWxzJzsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4686,31 +4695,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.xor('appCode', 'global')</text>
+        <text>unsubscribeUserCommPreferences</text>
       </register>
       <register name="/" type="4">
-        <text>registerUser</text>
+        <text>UnsubscribeUserCommPreferences</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0KCdIYXBweSBwYXRoJywgYXN5bmMgKCkgPT4gewogICAgICAgICAgICBjb25zdCBkdHRtID0gbmV3IERhdGUoKTsKICAgICAgICAgICAgY29uc3QgZHVyYXRpb24gPSAxMjM7CiAgICAgICAgICAgIGNvbnN0IGV4cGVjdGVkID0gZHR0bS5zZXRTZWNvbmRzKGR0dG0uZ2V0U2Vjb25kcygpICsgZHVyYXRpb24pCiAgICAgICAgICAgICAgICAudmFsdWVPZigpOwoKICAgICAgICAgICAgY29uc3QgdHRsID0gY2FjaGUudHRsKGR1cmF0aW9uLCBkdHRtKTsKCiAgICAgICAgICAgIGV4cGVjdCh0dGwpLnRvQmUoZXhwZWN0ZWQpOwogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBldmVudC5zb3VyY2UgPT09ICJzZXJ2ZXJsZXNzLXBsdWdpbi13YXJtdXAiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aWYgKCEoY2xpZW50X2lkICYmIGNsaWVudF9zZWNyZXQpKSB7CiAgICB0aHJvdyBuZXcgRXJyb3IoJ2NsaWVudF9pZCBhbmQgY2xpZW50X3NlY3JldCBhcmUgYm90aCByZXF1aXJlZCcpOwp9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtXYXJtdXBIYW5kbGVyfSBmcm9tICcuLi9oYW5kbGVyLXV0aWxzJzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqCiAqIENhbGxiYWNrL3JlZGlyZWN0X3VyaSBwYXRoCiAqCiAqIE5vdGU6IE11c3QgYmUgd2hpdGVsaXN0ZWQgaW4gT2t0YSEKICovCmNvbnN0IHBvcnQgPSAzMDAwOwpjb25zdCByZWRpcmVjdF9wYXRoID0gJ2F1dGgtY2FsbGJhY2snOwpjb25zdCBleHRlcm5hbF91cmwgPSBgaHR0cDovL2xvY2FsaG9zdDoke3BvcnR9YDsKY29uc3QgcmVkaXJlY3RfdXJpID0gYCR7ZXh0ZXJuYWxfdXJsfS8ke3JlZGlyZWN0X3BhdGh9YDsKCmNvbnN0IG9rdGFfdXJsID0gJ2h0dHBzOi8vcmJjZGV2Lm9rdGFwcmV2aWV3LmNvbSc7CmNvbnN0IG9rdGFfYXV0aF9zZXJ2ZXJfaWQgPSAnYXVzYmk5MG44b0ZIYXNBUEgwaDcnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICAgIGlmICh3YXJtdXBSZXF1ZXN0KGV2ZW50KSkgewogICAgICAgIHJldHVybiBjYWxsYmFjayhudWxsLCBudWxsKTsKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGFwcENvZGUgPSBFeHRyYWN0QXBwQ29kZShldmVudC5oZWFkZXJzLCB7c2lsZW50OiB0cnVlfSk7Cg==</text>
+        <text encoding="base64">CgoKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgcmVhZG9ubHkgYXBwZGI6IEFwcENvbmZpZyA9IEFwcENvbmZpZy5nZXRJbnN0YW5jZSgpLAo=</text>
+        <text encoding="base64">CgoKCgoKCgoKCgoK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -4719,19 +4728,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSB7RGF0ZX0gZHR0bQo=</text>
+        <text encoding="base64">ICAgIGV2ZW50OiBhbnksCiAgICBjb250ZXh0OiBDb250ZXh0LAogICAgY2FsbGJhY2s6IGFueSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCByZWFkb25seSBUdGxJbmRleCA9ICd0dGwtaW5kZXgnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>registerUser</last-search>
+      <last-search>UnsubscribeUserCommPreferences</last-search>
       <last-offset />
-      <last-pattern>registerUser</last-pattern>
+      <last-pattern>UnsubscribeUserCommPreferences</last-pattern>
       <last-replace>appCode</last-replace>
       <last-substitute>appcode</last-substitute>
       <last-dir>1</last-dir>
@@ -4739,7 +4748,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ger</entry>
         <entry>Entered update preference service</entry>
         <entry>unsubscribe</entry>
         <entry>resetPasswordConfirmMail</entry>
@@ -4759,9 +4767,9 @@
         <entry>ate</entry>
         <entry>joinApp</entry>
         <entry>registerUser</entry>
+        <entry>UnsubscribeUserCommPreferences</entry>
       </history-search>
       <history-cmd>
-        <entry>3</entry>
         <entry>51</entry>
         <entry>54</entry>
         <entry>36</entry>
@@ -4779,6 +4787,7 @@
         <entry>s</entry>
         <entry>sw</entry>
         <entry>16</entry>
+        <entry>101</entry>
         <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
