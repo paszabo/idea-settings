@@ -421,15 +421,14 @@
         <mark key="^" line="0" column="39" />
         <mark key="." line="0" column="39" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/jwt.txt" timestamp="1551884591433">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="66" column="5" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="29" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
-      <jump line="49" column="33" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="207" column="50" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="247" column="54" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="208" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="244" column="82" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="348" column="29" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="474" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="614" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="666" column="5" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
@@ -523,10 +522,17 @@
       <jump line="1012" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
       <jump line="1048" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
       <jump line="1056" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
+      <jump line="16" column="25" filename="$USER_HOME$/dev/repos/common-identity-api/jwt.txt" />
+      <jump line="7" column="3" filename="$USER_HOME$/dev/repos/common-identity-api/jwt.txt" />
+      <jump line="56" column="14" filename="$USER_HOME$/dev/repos/common-identity-api/jwt.txt" />
+      <jump line="15" column="14" filename="$USER_HOME$/dev/repos/common-identity-api/jwt.txt" />
+      <jump line="20" column="14" filename="$USER_HOME$/dev/repos/common-identity-api/jwt.txt" />
+      <jump line="30" column="14" filename="$USER_HOME$/dev/repos/common-identity-api/jwt.txt" />
+      <jump line="24" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/jwt.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmZWF0dXJlL0NJQS0yMjogV29yayBpbiBwcm9ncmVzczogVW5zdWJzY3JpYmUgYnkgZW1haWwgKyBiaWcgcmVmYWN0b3Jpbmc6dGVzdC91bml0L3NlcnZpY2VzL1VzZXJTZXJ2aWNlLnRlc3QudHMK</text>
+        <text encoding="base64">ClVzZXIgSUQgVG9rZW4KICAgIHsKICAgICAgInN1YiI6ICIwMHVqbXZweHNpOG9GeElzejBoNyIsCiAgICAgICJ2ZXIiOiAxLAogICAgICAiaXNzIjogImh0dHBzOi8vcmJjZGV2Lm9rdGFwcmV2aWV3LmNvbS9vYXV0aDIvYXVzYmk5MG44b0ZIYXNBUEgwaDciLAogICAgICAiYXVkIjogIjBvYWpqejkxN21qZkx3REhuMGg3IiwKICAgICAgImlhdCI6IDE1NTE4ODQyMDUsCiAgICAgICJleHAiOiAxNTUxODg3ODA1LAogICAgICAianRpIjogIklELkFobkczMUpfY2J3YklwbmVXOWRiSGQ0dndNSHl2X1NqR0xEU1NpZzM2Z3ciLAogICAgICAiYW1yIjogWwogICAgICAgICJwd2QiCiAgICAgIF0sCiAgICAgICJpZHAiOiAiMDBvYmk1MnFqMTlKMzBFOUIwaDciLAogICAgICAibm9uY2UiOiAibm9uY2UiLAogICAgICAiYXV0aF90aW1lIjogMTAwMCwKICAgICAgImF0X2hhc2giOiAicHJldmlld19hdF9oYXNoIiwKICAgICAgIm1lbWJlcl9pZCI6ICIiCiAgICB9Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5009,40 +5015,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>ID</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PDw=</text>
+        <text>0oajjz917mjfLwDHn0h7</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdXNlcm5hbWU6IHVzZXIudXNlcm5hbWUudG9Mb3dlckNhc2UoKSwK</text>
+        <text encoding="base64">Q2xpZW50IENyZWRlbnRpYWxzIElEIFRva2VuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmZWF0dXJlL0NJQS0yMjogV29yayBpbiBwcm9ncmVzczogVW5zdWJzY3JpYmUgYnkgZW1haWwgKyBiaWcgcmVmYWN0b3Jpbmc6dGVzdC91bml0L3NlcnZpY2VzL1VzZXJTZXJ2aWNlLnRlc3QudHMK</text>
+        <text encoding="base64">ClVzZXIgSUQgVG9rZW4KICAgIHsKICAgICAgInN1YiI6ICIwMHVqbXZweHNpOG9GeElzejBoNyIsCiAgICAgICJ2ZXIiOiAxLAogICAgICAiaXNzIjogImh0dHBzOi8vcmJjZGV2Lm9rdGFwcmV2aWV3LmNvbS9vYXV0aDIvYXVzYmk5MG44b0ZIYXNBUEgwaDciLAogICAgICAiYXVkIjogIjBvYWpqejkxN21qZkx3REhuMGg3IiwKICAgICAgImlhdCI6IDE1NTE4ODQyMDUsCiAgICAgICJleHAiOiAxNTUxODg3ODA1LAogICAgICAianRpIjogIklELkFobkczMUpfY2J3YklwbmVXOWRiSGQ0dndNSHl2X1NqR0xEU1NpZzM2Z3ciLAogICAgICAiYW1yIjogWwogICAgICAgICJwd2QiCiAgICAgIF0sCiAgICAgICJpZHAiOiAiMDBvYmk1MnFqMTlKMzBFOUIwaDciLAogICAgICAibm9uY2UiOiAibm9uY2UiLAogICAgICAiYXV0aF90aW1lIjogMTAwMCwKICAgICAgImF0X2hhc2giOiAicHJldmlld19hdF9oYXNoIiwKICAgICAgIm1lbWJlcl9pZCI6ICIiCiAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFEOnRlc3Qvc2VydmljZXMvVXNlclNlcnZpY2UudGVzdC50cwogICAgICAgICAgICBleHBlY3QoaWRlbnRpdHlkYi51cGRhdGVVc2VyKQogICAgICAgICAgICAgICAgLnRvSGF2ZUJlZW5OdGhDYWxsZWRXaXRoKAogICAgICAgICAgICAgICAgICAgIDEsCiAgICAgICAgICAgICAgICAgICAgZnJvbVVzZXIoKS5tZW1iZXJJZCwKICAgICAgICAgICAgICAgICAgICBmcm9tVXNlcigpLAogICAgICAgICAgICAgICAgICAgIGZhbHNlLAogICAgICAgICAgICAgICAgKTsKICAgICAgICAgICAgZXhwZWN0KGlkZW50aXR5ZGIudXBkYXRlVXNlcikKICAgICAgICAgICAgICAgIC50b0hhdmVCZWVuTnRoQ2FsbGVkV2l0aCgKICAgICAgICAgICAgICAgICAgICAyLAogICAgICAgICAgICAgICAgICAgIE1vY2tEYXRhLnRvTWVtYmVySWQsCiAgICAgICAgICAgICAgICAgICAgdG9Vc2VyKCksCiAgICAgICAgICAgICAgICAgICAgZmFsc2UsCiAgICAgICAgICAgICAgICApOwo9PT09PT09Cg==</text>
+        <text encoding="base64">Q2xpZW50IENyZWRlbnRpYWxzIEF1dGggVG9rZW4K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Pj4+Pj4+PiBmZWF0dXJlL0NJQS0yMjogV29yayBpbiBwcm9ncmVzczogVW5zdWJzY3JpYmUgYnkgZW1haWwgKyBiaWcgcmVmYWN0b3Jpbmc6dGVzdC91bml0L3NlcnZpY2VzL1VzZXJTZXJ2aWNlLnRlc3QudHMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFEOnRlc3Qvc2VydmljZXMvVXNlclNlcnZpY2UudGVzdC50cwogICAgICAgICAgICBnZXRBcHBEYXRhOiBqZXN0LmZuKCkKICAgICAgICAgICAgICAgIC5tb2NrUmV0dXJuVmFsdWUoTW9ja0FwcERldGFpbCksCj09PT09PT0K</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFEOnRlc3Qvc2VydmljZXMvVXNlclNlcnZpY2UudGVzdC50cwogICAgICAgICAgICBleHBlY3QoaWRlbnRpdHlkYi51cGRhdGVVc2VyKQogICAgICAgICAgICAgICAgLnRvSGF2ZUJlZW5OdGhDYWxsZWRXaXRoKAogICAgICAgICAgICAgICAgICAgIDEsCiAgICAgICAgICAgICAgICAgICAgZnJvbVVzZXIoKS5tZW1iZXJJZCwKICAgICAgICAgICAgICAgICAgICBmcm9tVXNlcigpLAogICAgICAgICAgICAgICAgICAgIGZhbHNlLAogICAgICAgICAgICAgICAgKTsKICAgICAgICAgICAgZXhwZWN0KGlkZW50aXR5ZGIudXBkYXRlVXNlcikKICAgICAgICAgICAgICAgIC50b0hhdmVCZWVuTnRoQ2FsbGVkV2l0aCgKICAgICAgICAgICAgICAgICAgICAyLAogICAgICAgICAgICAgICAgICAgIE1vY2tEYXRhLnRvTWVtYmVySWQsCiAgICAgICAgICAgICAgICAgICAgdG9Vc2VyKCksCiAgICAgICAgICAgICAgICAgICAgZmFsc2UsCiAgICAgICAgICAgICAgICApOwo9PT09PT09Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Pj4+Pj4+PiBmZWF0dXJlL0NJQS0yMjogV29yayBpbiBwcm9ncmVzczogVW5zdWJzY3JpYmUgYnkgZW1haWwgKyBiaWcgcmVmYWN0b3Jpbmc6dGVzdC91bml0L3NlcnZpY2VzL1VzZXJTZXJ2aWNlLnRlc3QudHMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFEOnRlc3Qvc2VydmljZXMvVXNlclNlcnZpY2UudGVzdC50cwogICAgICAgICAgICBnZXRFbnRyeTogamVzdC5mbigpLm1vY2tSZXNvbHZlZFZhbHVlKHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbWVtYmVySWQ6IE1vY2tEYXRhLm1lbWJlcklkLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pLAo9PT09PT09Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFEOnRlc3Qvc2VydmljZXMvVXNlclNlcnZpY2UudGVzdC50cwogICAgICAgICAgICBnZXRBcHBEYXRhOiBqZXN0LmZuKCkKICAgICAgICAgICAgICAgIC5tb2NrUmV0dXJuVmFsdWUoTW9ja0FwcERldGFpbCksCj09PT09PT0K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Pj4+Pj4+PiBmZWF0dXJlL0NJQS0yMjogV29yayBpbiBwcm9ncmVzczogVW5zdWJzY3JpYmUgYnkgZW1haWwgKyBiaWcgcmVmYWN0b3Jpbmc6dGVzdC91bml0L3NlcnZpY2VzL1VzZXJTZXJ2aWNlLnRlc3QudHMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFEOnRlc3Qvc2VydmljZXMvVXNlclNlcnZpY2UudGVzdC50cwogICAgICAgICkKICAgICAgICAgICAgLm1vY2tSZXNvbHZlZFZhbHVlKHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtZW1iZXJJZDogTW9ja0RhdGEubWVtYmVySWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXBwQ29kZTogTW9ja0RhdGEuYXBwQ29kZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pOwo9PT09PT09Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFEOnRlc3Qvc2VydmljZXMvVXNlclNlcnZpY2UudGVzdC50cwogICAgICAgICAgICBnZXRFbnRyeTogamVzdC5mbigpLm1vY2tSZXNvbHZlZFZhbHVlKHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbWVtYmVySWQ6IE1vY2tEYXRhLm1lbWJlcklkLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pLAo9PT09PT09Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Pj4+Pj4+PiBmZWF0dXJlL0NJQS0yMjogV29yayBpbiBwcm9ncmVzczogVW5zdWJzY3JpYmUgYnkgZW1haWwgKyBiaWcgcmVmYWN0b3Jpbmc6dGVzdC91bml0L3NlcnZpY2VzL1VzZXJTZXJ2aWNlLnRlc3QudHMK</text>
@@ -5052,9 +5058,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">PDw=</last-search>
+      <last-search>0oajjz917mjfLwDHn0h7</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PDw=</last-pattern>
+      <last-pattern>0oajjz917mjfLwDHn0h7</last-pattern>
       <last-replace>user</last-replace>
       <last-substitute>data</last-substitute>
       <last-dir>1</last-dir>
@@ -5062,8 +5068,6 @@
     </search>
     <history>
       <history-search>
-        <entry>spyOn</entry>
-        <entry>getUsersBy</entry>
         <entry>getUser</entry>
         <entry>USERNAME_INDEX</entry>
         <entry>EMAIL_INDEX</entry>
@@ -5082,6 +5086,8 @@
         <entry>user</entry>
         <entry>Date</entry>
         <entry encoding="base64">PDw=</entry>
+        <entry>cid</entry>
+        <entry>0oajjz917mjfLwDHn0h7</entry>
       </history-search>
       <history-cmd>
         <entry>34</entry>
@@ -5102,8 +5108,8 @@
         <entry>244,249%s/user\./data\./</entry>
         <entry>52,78%s/data/user/</entry>
         <entry>52,78s/data/user/</entry>
-        <entry>0</entry>
         <entry>w</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
