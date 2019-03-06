@@ -97,6 +97,12 @@
         <mark key="." line="169" column="3" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/prod/prefs-config-production.sh" timestamp="1551717191210" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/users.api.test.ts" timestamp="1551898271594">
+        <mark key="[" line="5" column="41" />
+        <mark key="]" line="5" column="42" />
+        <mark key="^" line="20" column="46" />
+        <mark key="." line="5" column="42" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/core/Helper.test.ts" timestamp="1551847999565">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -536,7 +542,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Happy path</text>
+        <text>;</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5019,7 +5025,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Happy path</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>getUserNew</text>
@@ -5058,7 +5064,7 @@
         <text encoding="base64">PDw8PDw8PCBIRUFEOnRlc3Qvc2VydmljZXMvVXNlclNlcnZpY2UudGVzdC50cwogICAgICAgICAgICBnZXRFbnRyeTogamVzdC5mbigpLm1vY2tSZXNvbHZlZFZhbHVlKHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbWVtYmVySWQ6IE1vY2tEYXRhLm1lbWJlcklkLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pLAo9PT09PT09Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/getUserNew/getUser/g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -5112,8 +5118,8 @@
         <entry>52,78%s/data/user/</entry>
         <entry>52,78s/data/user/</entry>
         <entry>0</entry>
-        <entry>w</entry>
         <entry>%s/getUserNew/getUser/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
