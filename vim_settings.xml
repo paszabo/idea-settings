@@ -40,12 +40,23 @@
         <mark key="]" line="34" column="40" />
         <mark key="." line="34" column="40" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/services/SalesforceService.test.ts" timestamp="1551462510236">
+        <mark key="[" line="26" column="7" />
+        <mark key="]" line="26" column="84" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-flow.js" timestamp="1551736859241">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="26" column="42" />
         <mark key="]" line="26" column="42" />
         <mark key="." line="26" column="42" />
         <mark key="^" line="26" column="42" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/core/repositories/users.repository.test.ts" timestamp="1551843349051">
+        <mark key="'" line="24" column="4" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="31" column="11" />
+        <mark key="^" line="6" column="10" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/package.json" timestamp="1551465383372">
         <mark key="'" line="9" column="13" />
@@ -103,6 +114,10 @@
         <mark key="]" line="194" column="19" />
         <mark key="." line="194" column="19" />
         <mark key="^" line="194" column="22" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/rest_errors/abstract-rest-error.ts" timestamp="1551764947471">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="41" column="14" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Helper.ts" timestamp="1551815374097">
         <mark key="[" line="102" column="4" />
@@ -170,7 +185,10 @@
         <mark key="^" line="159" column="67" />
         <mark key="." line="159" column="67" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IUserRepository.ts" timestamp="1551736444766" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IUserRepository.ts" timestamp="1551843259420">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="14" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" timestamp="1551824777200">
         <mark key="'" line="402" column="45" />
         <mark key="[" line="400" column="61" />
@@ -250,7 +268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="53" filename="$USER_HOME$/dev/repos/common-identity-api/test/services/UserService.test.ts" />
       <jump line="152" column="6" filename="$USER_HOME$/dev/repos/common-identity-api/test/services/MailService.test.ts" />
       <jump line="158" column="27" filename="$USER_HOME$/dev/repos/common-identity-api/test/services/MailService.test.ts" />
       <jump line="177" column="25" filename="$USER_HOME$/dev/repos/common-identity-api/test/services/MailService.test.ts" />
@@ -350,10 +367,11 @@
       <jump line="135" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
       <jump line="403" column="45" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
+      <jump line="14" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/test/core/repositories/users.repository.test.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.xor('memberId', 'email')</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0ZXN0KCdIYXBweSBwYXRoJywgYXN5bmMgKCkgPT4gewogICAgICAgIH0pOwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4836,13 +4854,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.xor('memberId', 'email')</text>
+        <text>getEntryWithUsername</text>
       </register>
       <register name="/" type="4">
-        <text>M</text>
+        <text encoding="base64">XDxkZXNjcmliZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogSWYgdGhlIHVzZXIgaGFzIHZlcmlmaWVkIHRoZWlyIGVtYWlsIHZpYSB1c2VyIGFjdGl2YXRpb24gcHJvY2VzcwogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0KCdIYXBweSBwYXRoJywgYXN5bmMgKCkgPT4gewogICAgICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbnN0IHVzZXJuYW1lUHJlZml4ID0gJ1RFU1RfJzsKCiAgICAvLyBhZnRlckVhY2goKCkgPT4gewogICAgLy8gICAgIGplc3QucmVzZXRBbGxNb2NrcygpOwogICAgLy8gfSk7Cg==</text>
@@ -4879,17 +4897,16 @@
       </register>
     </registers>
     <search>
-      <last-search>M</last-search>
+      <last-search encoding="base64">XDxkZXNjcmliZVw+</last-search>
       <last-offset />
-      <last-pattern>M</last-pattern>
+      <last-pattern encoding="base64">XDxkZXNjcmliZVw+</last-pattern>
       <last-replace>EmailIndex</last-replace>
       <last-substitute>EMAIL_INDEX</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>UnsubscribeUserCommPreferences</entry>
         <entry>Un</entry>
         <entry>this</entry>
         <entry>Code</entry>
@@ -4909,6 +4926,7 @@
         <entry>this.appConfig</entry>
         <entry>getUserByEmail</entry>
         <entry>M</entry>
+        <entry encoding="base64">XDxkZXNjcmliZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
