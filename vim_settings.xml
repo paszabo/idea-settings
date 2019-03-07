@@ -274,12 +274,13 @@
         <mark key="^" line="17" column="24" />
         <mark key="." line="17" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1551933890417">
-        <mark key="'" line="79" column="30" />
-        <mark key="[" line="1070" column="9" />
-        <mark key="]" line="1071" column="0" />
-        <mark key="^" line="1071" column="0" />
-        <mark key="." line="1071" column="0" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1551993517070">
+        <mark key="a" line="874" column="53" />
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="874" column="57" />
+        <mark key="]" line="877" column="55" />
+        <mark key="^" line="877" column="55" />
+        <mark key="." line="877" column="55" />
       </file>
       <file name="/Clipboard.txt" timestamp="1551467545433">
         <mark key="[" line="0" column="0" />
@@ -356,11 +357,11 @@
         <mark key="." line="196" column="19" />
         <mark key="^" line="196" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Helper.ts" timestamp="1551852972084">
-        <mark key="[" line="32" column="5" />
-        <mark key="]" line="32" column="5" />
-        <mark key="." line="32" column="5" />
-        <mark key="^" line="32" column="5" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Helper.ts" timestamp="1551993483109">
+        <mark key="[" line="28" column="6" />
+        <mark key="]" line="29" column="30" />
+        <mark key="." line="29" column="30" />
+        <mark key="^" line="29" column="30" />
       </file>
       <file name="$USER_HOME$/dev/repos/code-coverage-example/index.js" timestamp="1551971743643">
         <mark key="[" line="0" column="19" />
@@ -513,8 +514,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="509" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
-      <jump line="539" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
       <jump line="568" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
       <jump line="569" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
       <jump line="592" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
@@ -613,10 +612,12 @@
       <jump line="66" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/SalesforceService.test.ts" />
       <jump line="31" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/SalesforceService.test.ts" />
       <jump line="61" column="60" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/IntercomMarketingService.test.ts" />
+      <jump line="1080" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="54" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>90125</text>
+        <text>8</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5099,10 +5100,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>90125</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
-        <text>mockReturnValue</text>
+        <text>appDetails.minPasswordChangeH</text>
       </register>
       <register name="0" type="4">
         <text>{...MockData.user};</text>
@@ -5145,9 +5146,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mockReturnValue</last-search>
+      <last-search>appDetails.minPasswordChangeH</last-search>
       <last-offset />
-      <last-pattern>mockReturnValue</last-pattern>
+      <last-pattern>appDetails.minPasswordChangeH</last-pattern>
       <last-replace>getUser</last-replace>
       <last-substitute>getUserNew</last-substitute>
       <last-dir>1</last-dir>
@@ -5155,7 +5156,6 @@
     </search>
     <history>
       <history-search>
-        <entry>user</entry>
         <entry>Date</entry>
         <entry encoding="base64">PDw=</entry>
         <entry>cid</entry>
@@ -5175,6 +5175,7 @@
         <entry>getAppDetails</entry>
         <entry>getAppData</entry>
         <entry>mockReturnValue</entry>
+        <entry>appDetails.minPasswordChangeH</entry>
       </history-search>
       <history-cmd>
         <entry>16</entry>
@@ -5191,11 +5192,11 @@
         <entry>244,249%s/user\./data\./</entry>
         <entry>52,78%s/data/user/</entry>
         <entry>52,78s/data/user/</entry>
-        <entry>0</entry>
         <entry>%s/getUserNew/getUser/g</entry>
         <entry>212</entry>
         <entry>395</entry>
         <entry>1276</entry>
+        <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
