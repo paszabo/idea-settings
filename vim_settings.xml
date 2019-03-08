@@ -471,12 +471,25 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serializers/preferences/unsubscribe.serializer.ts" timestamp="1552073133901">
+        <mark key="[" line="13" column="46" />
+        <mark key="]" line="13" column="46" />
+        <mark key="^" line="13" column="46" />
+        <mark key="." line="13" column="46" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/repositories/app-config.repository.ts" timestamp="1551218973210">
         <mark key="'" line="8" column="4" />
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="72" />
         <mark key="^" line="67" column="48" />
         <mark key="." line="68" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" timestamp="1552072656163">
+        <mark key="'" line="59" column="14" />
+        <mark key="[" line="58" column="14" />
+        <mark key="]" line="59" column="14" />
+        <mark key="^" line="59" column="14" />
+        <mark key="." line="59" column="14" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/package.json" timestamp="1551377982652">
         <mark key="[" line="7" column="20" />
@@ -524,7 +537,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="592" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
       <jump line="633" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
       <jump line="831" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
       <jump line="869" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
@@ -624,10 +636,11 @@
       <jump line="54" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="124" column="49" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="146" column="14" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" />
+      <jump line="59" column="14" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QVdTX0FDQ09VTlRfSUQ9IjYyMjI1OTM1MTI4MyIK</text>
+      <register name="&quot;" type="4">
+        <text>appCode</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5110,10 +5123,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>appCode</text>
       </register>
       <register name="/" type="4">
-        <text>Token Already Consumed</text>
+        <text>Unsubscribe</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QVdTX0FDQ09VTlRfSUQ9IjYyMjI1OTM1MTI4MyIK</text>
@@ -5156,9 +5169,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Token Already Consumed</last-search>
+      <last-search>Unsubscribe</last-search>
       <last-offset />
-      <last-pattern>Token Already Consumed</last-pattern>
+      <last-pattern>Unsubscribe</last-pattern>
       <last-replace>getUser</last-replace>
       <last-substitute>getUserNew</last-substitute>
       <last-dir>1</last-dir>
@@ -5166,7 +5179,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cid</entry>
         <entry>0oajjz917mjfLwDHn0h7</entry>
         <entry>utils</entry>
         <entry>getUserNew</entry>
@@ -5186,6 +5198,7 @@
         <entry>appDetails.minPasswordChangeH</entry>
         <entry>resendActivation</entry>
         <entry>Token Already Consumed</entry>
+        <entry>Unsubscribe</entry>
       </history-search>
       <history-cmd>
         <entry>16</entry>
