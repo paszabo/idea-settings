@@ -131,13 +131,13 @@
         <mark key="." line="57" column="0" />
         <mark key="^" line="43" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1552074355368">
-        <mark key="a" line="874" column="53" />
-        <mark key="'" line="54" column="0" />
-        <mark key="[" line="874" column="57" />
-        <mark key="]" line="877" column="55" />
-        <mark key="^" line="877" column="55" />
-        <mark key="." line="877" column="55" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1552086608555">
+        <mark key="a" line="876" column="53" />
+        <mark key="'" line="502" column="14" />
+        <mark key="[" line="561" column="0" />
+        <mark key="]" line="566" column="10" />
+        <mark key="^" line="550" column="36" />
+        <mark key="." line="561" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-tutorials/register-prospect-user/README.md" timestamp="1551189707352">
         <mark key="[" line="9" column="0" />
@@ -537,9 +537,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="633" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
-      <jump line="831" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
-      <jump line="869" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
       <jump line="874" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
       <jump line="889" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
       <jump line="919" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
@@ -637,10 +634,13 @@
       <jump line="124" column="49" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="146" column="14" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" />
       <jump line="59" column="14" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
+      <jump line="16" column="7" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="663" column="31" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="502" column="14" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>appCode</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBhY3RpdmF0aW9uTWV0aG9kID0gbmV3VXNlci5nZXRQcm9maWxlKCkuYWN0aXZhdGlvbk1ldGhvZDsKICAgICAgICBjb25zdCBhVG9rZW4gPSAoCiAgICAgICAgICAgIGFjdGl2YXRpb25NZXRob2QgPT09ICdzbXMnID8KICAgICAgICAgICAgYXdhaXQgdGhpcy5nZXRTTVNjb2RlKCkgOgogICAgICAgICAgICB1dWlkLnY0KCkKICAgICAgICApOwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5123,64 +5123,64 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>appCode</text>
+        <text>userentryforerror</text>
       </register>
       <register name="/" type="4">
-        <text>Unsubscribe</text>
+        <text encoding="base64">XDxjb25zdGFudHNcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QVdTX0FDQ09VTlRfSUQ9IjYyMjI1OTM1MTI4MyIK</text>
+      <register name="0" type="4">
+        <text>userEntryForError</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBhY3RpdmF0aW9uTWV0aG9kID0gbmV3VXNlci5nZXRQcm9maWxlKCkuYWN0aXZhdGlvbk1ldGhvZDsKICAgICAgICBjb25zdCBhVG9rZW4gPSAoCiAgICAgICAgICAgIGFjdGl2YXRpb25NZXRob2QgPT09ICdzbXMnID8KICAgICAgICAgICAgYXdhaXQgdGhpcy5nZXRTTVNjb2RlKCkgOgogICAgICAgICAgICB1dWlkLnY0KCkKICAgICAgICApOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB4ID0gNDI7CiAgICAgICAgY29uc3QgeSA9IDkwMTI1OwogICAgICAgIGNvbnN0IGZvbyA9IG5ldyBGb28oeCwgeSk7CgogICAgICAgIGNvbnN0IHJlc3VsdCA9IGZvby50aGluZzEoKTsKCiAgICAgICAgZXhwZWN0KHJlc3VsdCkudG9FcXVhbCh4ICoqIHkpOwo=</text>
+      <register name="2" type="4">
+        <text>await this.identitydb.getUserGroups(
+                        userEntryForError.memberId,
+                    )</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvdmVyYWdlVGhyZXNob2xkOiB7CiAgICAgICAgZ2xvYmFsOiB7CiAgICAgICAgICAgIGJyYW5jaGVzOiAzMCwKICAgICAgICAgICAgZnVuY3Rpb25zOiA0MCwKICAgICAgICAgICAgbGluZXM6IDUwLAogICAgICAgICAgICBzdGF0ZW1lbnRzOiA1MCwKICAgICAgICB9LAogICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IGJhZFJlcXVlc3QgPSBlcnIgYXMgQmFkUmVxdWVzdEV4Y2VwdGlvbjsKCiAgICAgICAgICAgICAgICBpZiAoYmFkUmVxdWVzdC5lcnJvclJlc3BvbnNlLmVycm9yQ29kZSA9PT0KICAgICAgICAgICAgICAgICAgICBFeGNlcHRpb25Db2Rlcy5VU0VSX0FMUkVBRFlfRVhJU1RTKSB7CiAgICAgICAgICAgICAgICAgICAgY29uc3QgdXNlckVudHJ5Rm9yRXJyb3IgPSBhd2FpdCB0aGlzLnVzZXJkYgogICAgICAgICAgICAgICAgICAgICAgICAuZ2V0RW50cnlXaXRoVXNlcm5hbWUobmV3VXNlci5nZXRQcm9maWxlKCkubG9naW4pOwogICAgICAgICAgICAgICAgICAgIGxldCBleGlzdGluZ1VzZXJHcm91cHM6IHN0cmluZ1tdID0gW107CgogICAgICAgICAgICAgICAgICAgIGlmICh1c2VyRW50cnlGb3JFcnJvcikgewogICAgICAgICAgICAgICAgICAgICAgICBleGlzdGluZ1VzZXJHcm91cHMgPQogICAgICAgICAgICAgICAgICAgICAgICAgICAgYXdhaXQgdGhpcy5pZGVudGl0eWRiLmdldFVzZXJHcm91cHMoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdXNlckVudHJ5Rm9yRXJyb3IubWVtYmVySWQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIGJhZFJlcXVlc3QuZXJyb3JSZXNwb25zZS5hZGRpdGlvbmFsRGF0YSA9IHsKICAgICAgICAgICAgICAgICAgICAgICAgZXhpc3RpbmdVc2VyR3JvdXBzLAogICAgICAgICAgICAgICAgICAgIH07CiAgICAgICAgICAgICAgICAgICAgdGhyb3cgYmFkUmVxdWVzdDsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBhcHBEZXRhaWxzID0gYXdhaXQgdGhpcy5hcHBTZXJ2aWNlLmdldChhcHBDb2RlKTsKICAgICAgICBsZXQgcmVnaXN0ZXJlZFVzZXI6IElVc2VyICYgSVJlZ2lzdGVyVXNlckRhdGEgPSBudWxsOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCB4ID0gNDI7CiAgICAgICAgY29uc3QgeSA9IDkwMTI1OwogICAgICAgIGNvbnN0IGZvbyA9IG5ldyBGb28oeCwgeSk7CgogICAgICAgIGNvbnN0IHJlc3VsdCA9IGZvby50aGluZzEoKTsKCiAgICAgICAgZXhwZWN0KHJlc3VsdCkudG9FcXVhbCh4ICoqIHkpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvdmVyYWdlVGhyZXNob2xkOiB7CiAgICAgICAgZ2xvYmFsOiB7CiAgICAgICAgICAgIGJyYW5jaGVzOiAzMCwKICAgICAgICAgICAgZnVuY3Rpb25zOiA0MCwKICAgICAgICAgICAgbGluZXM6IDUwLAogICAgICAgICAgICBzdGF0ZW1lbnRzOiA1MCwKICAgICAgICB9LAogICAgfSwK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLAogICAgICAgICk7Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>{
                 ...MockData.userEntry,
                 intercomId: MockData.intercomId,
             }</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgamVzdC5zcHlPbih1dWlkLCAndjQnKS5tb2NrUmV0dXJuVmFsdWUoTW9ja0RhdGEudG9rZW5FbnRyeS50b2tlbik7CiAgICAgICAgICAgIHVzZXJkYi5nZXRFbnRyeVdpdGhVc2VybmFtZS5tb2NrUmVzb2x2ZWRWYWx1ZShNb2NrRGF0YS51c2VyRW50cnkpOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWRlbnRpdHlkYi5nZXRVc2VyQnlQcm92aWRlcklkLm1vY2tSZXNvbHZlZFZhbHVlKHVzZXIpOwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChlcnIpIHsKICAgICAgICAgICAgdGhyb3cgKGVycik7CiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Unsubscribe</last-search>
+      <last-search encoding="base64">XDxjb25zdGFudHNcPg==</last-search>
       <last-offset />
-      <last-pattern>Unsubscribe</last-pattern>
+      <last-pattern encoding="base64">XDxjb25zdGFudHNcPg==</last-pattern>
       <last-replace>getUser</last-replace>
       <last-substitute>getUserNew</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>0oajjz917mjfLwDHn0h7</entry>
-        <entry>utils</entry>
         <entry>getUserNew</entry>
         <entry encoding="base64">XDxtb2NrUmVzb2x2ZWRWYWx1ZVw+</entry>
         <entry>userService</entry>
@@ -5199,6 +5199,8 @@
         <entry>resendActivation</entry>
         <entry>Token Already Consumed</entry>
         <entry>Unsubscribe</entry>
+        <entry encoding="base64">Pj4+</entry>
+        <entry encoding="base64">XDxjb25zdGFudHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>16</entry>
