@@ -33,10 +33,9 @@
         <mark key="." line="24" column="32" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1552328163677">
-        <mark key="'" line="788" column="2" />
         <mark key="[" line="173" column="30" />
         <mark key="]" line="173" column="30" />
-        <mark key="^" line="2156" column="18" />
+        <mark key="^" line="173" column="18" />
         <mark key="." line="173" column="30" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" timestamp="1552258164050">
@@ -88,12 +87,12 @@
       <file name="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-flow.js" timestamp="1551888087906">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serializers/serializer.error-handler.ts" timestamp="1552324736991">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serializers/serializer.error-handler.ts" timestamp="1552330333319">
         <mark key="'" line="13" column="15" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="40" column="19" />
-        <mark key="^" line="40" column="19" />
-        <mark key="." line="40" column="19" />
+        <mark key="[" line="52" column="51" />
+        <mark key="]" line="52" column="63" />
+        <mark key="." line="52" column="63" />
+        <mark key="^" line="52" column="63" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/aws-models.ts" timestamp="1551845928680">
         <mark key="[" line="168" column="30" />
@@ -586,7 +585,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>, protected initialData?: any</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5069,7 +5068,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>, protected initialData?: any</text>
       </register>
       <register name="/" type="4">
         <text>version</text>
@@ -5078,31 +5077,31 @@
         <text encoding="base64">QVdTX0FDQ09VTlRfSUQ9ImFybjphd3M6aWFtOjowMDA1NTAwNTA0NTE4OnJvb3QiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QVdTX0FDQ09VTlRfSUQ9ImFybjphd3M6aWFtOjowMDA1NTAwNTA0NTE4OnJvb3QiCg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBhYnN0cmFjdCByZWFkb25seSBzY2hlbWE6IGFueQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">QVdTX0FDQ09VTlRfSUQ9ImFybjphd3M6aWFtOjowMDA1NTAwNTA0NTE4OnJvb3QiCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBleGNlcHRpb24uZXJyb3JSZXNwb25zZS5hZGRpdGlvbmFsRGF0YSA9IGVycm9yLmRldGFpbHM7CiAgICAgICAgZXhjZXB0aW9uLmVycm9yUmVzcG9uc2UuZXhjZXB0aW9uID0gJ1ZBTElEQVRJT05fRVJST1InOwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgICAgICBleGNlcHRpb24uZXJyb3JSZXNwb25zZS5hZGRpdGlvbmFsRGF0YSA9IGVycm9yLmRldGFpbHM7CiAgICAgICAgZXhjZXB0aW9uLmVycm9yUmVzcG9uc2UuZXhjZXB0aW9uID0gJ1ZBTElEQVRJT05fRVJST1InOw==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIXByb2ZpbGUucHJlZmVycmVkTGFuZ3VhZ2UpIHsKICAgICAgICAgICAgcHJvZmlsZS5wcmVmZXJyZWRMYW5ndWFnZSA9IGNvbnN0YW50cy5EZWZhdWx0TGFuZ3VhZ2VJZDsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9zZXJpYWxpemVyLmVycm9yLWhhbmRsZXInOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIXByb2ZpbGUucHJlZmVycmVkTGFuZ3VhZ2UpIHsKICAgICAgICAgICAgcHJvZmlsZS5wcmVmZXJyZWRMYW5ndWFnZSA9IGNvbnN0YW50cy5EZWZhdWx0TGFuZ3VhZ2VJZDsKICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9wcmVmZXJlbmNlcyc7Cg==</text>
+        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9zZXJpYWxpemVyLmVycm9yLWhhbmRsZXInOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9wcmVmZXJlbmNlcyc7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
