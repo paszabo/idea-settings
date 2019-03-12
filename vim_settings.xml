@@ -16,7 +16,7 @@
         <mark key="." line="78" column="28" />
         <mark key="^" line="78" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1552405249543">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1552407933375">
         <mark key="'" line="742" column="26" />
         <mark key="[" line="1088" column="8" />
         <mark key="]" line="1088" column="13" />
@@ -38,7 +38,8 @@
         <mark key="^" line="24" column="32" />
         <mark key="." line="24" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1552328163677">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1552407871889">
+        <mark key="'" line="1726" column="18" />
         <mark key="[" line="173" column="30" />
         <mark key="]" line="173" column="30" />
         <mark key="^" line="173" column="18" />
@@ -166,7 +167,7 @@
         <mark key="." line="57" column="0" />
         <mark key="^" line="43" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1552405081012">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1552407888344">
         <mark key="b" line="44" column="4" />
         <mark key="'" line="967" column="65" />
         <mark key="]" line="885" column="16" />
@@ -502,6 +503,7 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="11" column="28" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/IntercomMaketingService.ts" timestamp="1552406404691" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/mail/SendGridMailer.ts" timestamp="1551384784034">
         <mark key="[" line="50" column="40" />
         <mark key="]" line="51" column="3" />
@@ -546,6 +548,7 @@
         <mark key="." line="600" column="28" />
         <mark key="^" line="600" column="28" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/models/RegisterUserRequest.json" timestamp="1551985841731" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/users.repository.ts" timestamp="1551853850113">
         <mark key="'" line="132" column="48" />
         <mark key="[" line="53" column="47" />
@@ -609,8 +612,8 @@
         <mark key="^" line="36" column="75" />
         <mark key="." line="36" column="75" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1552069824354">
-        <mark key="'" line="124" column="49" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1552407881378">
+        <mark key="'" line="14" column="25" />
         <mark key="[" line="125" column="9" />
         <mark key="]" line="126" column="7" />
         <mark key="." line="126" column="7" />
@@ -634,6 +637,7 @@
         <mark key="^" line="0" column="39" />
         <mark key="." line="0" column="39" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/RegisterRequest.ts" timestamp="1551985951008" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/jwt.txt" timestamp="1551888135523">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="66" column="5" />
@@ -642,9 +646,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="27" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/scim/serverless.yml" />
-      <jump line="526" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/scim/serverless.yml" />
       <jump line="31" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" />
       <jump line="267" column="74" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" />
       <jump line="268" column="82" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" />
@@ -742,6 +743,9 @@
       <jump line="886" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="957" column="65" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="967" column="65" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="220" column="38" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="1726" column="18" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="14" column="25" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5231,7 +5235,7 @@
         <text encoding="base64">Y29uc3Qgb3B0aW9uczogKHJlcXVlc3QuVXJsT3B0aW9ucyAmIHJlcXVlc3QuQ29yZU9wdGlvbnMpID0=</text>
       </register>
       <register name="/" type="4">
-        <text>dataMissing</text>
+        <text>deleteUser</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmVmZXJyZWRMYW5ndWFnZTogSm9pLnN0cmluZygpLmRlZmF1bHQoY29uc3RhbnRzLkRlZmF1bHRMYW5ndWFnZUlkKSwK</text>
@@ -5271,9 +5275,9 @@
       </register>
     </registers>
     <search>
-      <last-search>dataMissing</last-search>
+      <last-search>deleteUser</last-search>
       <last-offset />
-      <last-pattern>dataMissing</last-pattern>
+      <last-pattern>deleteUser</last-pattern>
       <last-replace>getUser</last-replace>
       <last-substitute>getUserNew</last-substitute>
       <last-dir>1</last-dir>
@@ -5281,8 +5285,6 @@
     </search>
     <history>
       <history-search>
-        <entry>construct</entry>
-        <entry>getUserGroups</entry>
         <entry>changePassword</entry>
         <entry>updatePassword</entry>
         <entry>\/\/</entry>
@@ -5301,6 +5303,8 @@
         <entry>constants1</entry>
         <entry>constants</entry>
         <entry>dataMissing</entry>
+        <entry>delete</entry>
+        <entry>deleteUser</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
