@@ -16,12 +16,12 @@
         <mark key="." line="78" column="28" />
         <mark key="^" line="78" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1552335182669">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1552405249543">
         <mark key="'" line="742" column="26" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="^" line="70" column="61" />
-        <mark key="." line="70" column="0" />
+        <mark key="[" line="1088" column="8" />
+        <mark key="]" line="1088" column="13" />
+        <mark key="^" line="1088" column="13" />
+        <mark key="." line="1088" column="13" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/services/PreferencesService.test.ts" timestamp="1551461331784">
         <mark key="'" line="136" column="28" />
@@ -166,8 +166,7 @@
         <mark key="." line="57" column="0" />
         <mark key="^" line="43" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1552336716428">
-        <mark key="a" line="525" column="34" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1552405081012">
         <mark key="b" line="44" column="4" />
         <mark key="'" line="967" column="65" />
         <mark key="]" line="885" column="16" />
@@ -301,8 +300,12 @@
         <mark key="^" line="18" column="35" />
         <mark key="." line="18" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serializers/identity/profile.ts" timestamp="1552336763125">
-        <mark key="'" line="6" column="64" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serializers/identity/profile.ts" timestamp="1552404930909">
+        <mark key="'" line="5" column="64" />
+        <mark key="[" line="11" column="47" />
+        <mark key="]" line="13" column="106" />
+        <mark key="." line="13" column="106" />
+        <mark key="^" line="13" column="106" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/repositories/users.repository.test.ts" timestamp="1551853724736">
         <mark key="'" line="6" column="16" />
@@ -741,8 +744,8 @@
       <jump line="967" column="65" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aWYgKCFjb25zdGFudHMpIHsKICAgIGNvbnN0IGUgPSBuZXcgRXJyb3IoJ05PIENPTlNUQU5UUyEgV1RGJyk7CgogICAgY29uc29sZS5sb2coZS5zdGFjayk7CgogICAgdGhyb3cgZQoKfQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y29uc3Qgb3B0aW9uczogKHJlcXVlc3QuVXJsT3B0aW9ucyAmIHJlcXVlc3QuQ29yZU9wdGlvbnMpID0=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5225,10 +5228,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhyb3cg</text>
+        <text encoding="base64">Y29uc3Qgb3B0aW9uczogKHJlcXVlc3QuVXJsT3B0aW9ucyAmIHJlcXVlc3QuQ29yZU9wdGlvbnMpID0=</text>
       </register>
       <register name="/" type="4">
-        <text>constants</text>
+        <text>dataMissing</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmVmZXJyZWRMYW5ndWFnZTogSm9pLnN0cmluZygpLmRlZmF1bHQoY29uc3RhbnRzLkRlZmF1bHRMYW5ndWFnZUlkKSwK</text>
@@ -5268,9 +5271,9 @@
       </register>
     </registers>
     <search>
-      <last-search>constants</last-search>
+      <last-search>dataMissing</last-search>
       <last-offset />
-      <last-pattern>constants</last-pattern>
+      <last-pattern>dataMissing</last-pattern>
       <last-replace>getUser</last-replace>
       <last-substitute>getUserNew</last-substitute>
       <last-dir>1</last-dir>
@@ -5278,7 +5281,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cons</entry>
         <entry>construct</entry>
         <entry>getUserGroups</entry>
         <entry>changePassword</entry>
@@ -5298,6 +5300,7 @@
         <entry>defaultLanguageId</entry>
         <entry>constants1</entry>
         <entry>constants</entry>
+        <entry>dataMissing</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
