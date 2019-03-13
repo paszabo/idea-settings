@@ -164,7 +164,7 @@
         <mark key="." line="57" column="0" />
         <mark key="^" line="43" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1552434324489">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1552491205793">
         <mark key="b" line="44" column="4" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-tutorials/register-prospect-user/README.md" timestamp="1551189707352">
@@ -180,7 +180,6 @@
         <mark key="." line="391" column="18" />
         <mark key="^" line="391" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/users-config-qa.sh" timestamp="1552487720068" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/package.json" timestamp="1552486889575">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="21" />
@@ -307,6 +306,7 @@
         <mark key="." line="13" column="106" />
         <mark key="^" line="13" column="106" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/models/ResetPasswordRequest.json" timestamp="1552491787189" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/repositories/users.repository.test.ts" timestamp="1551853724736">
         <mark key="'" line="6" column="16" />
         <mark key="[" line="80" column="24" />
@@ -314,8 +314,6 @@
         <mark key="." line="80" column="28" />
         <mark key="^" line="80" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/repositories/IdentityRepository.test.ts" timestamp="1552436318780" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IIdentityRepository.ts" timestamp="1552414837666" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/PreferencesService.ts" timestamp="1551211564346">
         <mark key="'" line="32" column="0" />
       </file>
@@ -509,7 +507,6 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="11" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/IntercomMaketingService.ts" timestamp="1552406404691" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/mail/SendGridMailer.ts" timestamp="1551384784034">
         <mark key="[" line="50" column="40" />
         <mark key="]" line="51" column="3" />
@@ -554,7 +551,6 @@
         <mark key="." line="600" column="28" />
         <mark key="^" line="600" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/models/RegisterUserRequest.json" timestamp="1551985841731" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/users.repository.ts" timestamp="1551853850113">
         <mark key="'" line="132" column="48" />
         <mark key="[" line="53" column="47" />
@@ -619,8 +615,8 @@
         <mark key="^" line="36" column="75" />
         <mark key="." line="36" column="75" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1552407881378">
-        <mark key="'" line="14" column="25" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1552491175005">
+        <mark key="'" line="402" column="79" />
         <mark key="[" line="125" column="9" />
         <mark key="]" line="126" column="7" />
         <mark key="." line="126" column="7" />
@@ -644,7 +640,6 @@
         <mark key="^" line="0" column="39" />
         <mark key="." line="0" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/RegisterRequest.ts" timestamp="1551985951008" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/jwt.txt" timestamp="1551888135523">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="66" column="5" />
@@ -653,7 +648,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="267" column="74" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" />
       <jump line="268" column="82" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" />
       <jump line="788" column="2" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="11" column="27" filename="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/prod/tncs-config-production.sh" />
@@ -753,6 +747,7 @@
       <jump line="1726" column="18" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="14" column="25" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="239" column="21" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="402" column="79" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5242,7 +5237,7 @@
         <text>/users/resendActivationCode</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDb3VsZFw+</text>
+        <text>changeForgotPass</text>
       </register>
       <register name="0" type="4">
         <text>https://9quv81ylng.execute-api.ca-central-1.amazonaws.com/paul-dev</text>
@@ -5282,17 +5277,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDb3VsZFw+</last-search>
+      <last-search>changeForgotPass</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDb3VsZFw+</last-pattern>
+      <last-pattern>changeForgotPass</last-pattern>
       <last-replace>getUser</last-replace>
       <last-substitute>getUserNew</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>updatePassword</entry>
         <entry>\/\/</entry>
         <entry>early</entry>
         <entry>abort</entry>
@@ -5312,6 +5306,7 @@
         <entry>delete</entry>
         <entry>deleteUser</entry>
         <entry encoding="base64">XDxDb3VsZFw+</entry>
+        <entry>changeForgotPass</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
