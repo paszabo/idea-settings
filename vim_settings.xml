@@ -105,12 +105,12 @@
         <mark key="." line="36" column="42" />
         <mark key="^" line="36" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/package.json" timestamp="1552486836260">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/package.json" timestamp="1552492539720">
         <mark key="'" line="9" column="13" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="21" />
-        <mark key="." line="2" column="18" />
-        <mark key="^" line="2" column="18" />
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="47" />
+        <mark key="." line="10" column="47" />
+        <mark key="^" line="10" column="47" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/admin/adminUsersHandler.ts" timestamp="1551809495064">
         <mark key="'" line="520" column="0" />
@@ -164,9 +164,15 @@
         <mark key="." line="57" column="0" />
         <mark key="^" line="43" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1552491205793">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1552494162760">
         <mark key="b" line="44" column="4" />
+        <mark key="'" line="24" column="12" />
+        <mark key="[" line="437" column="76" />
+        <mark key="]" line="437" column="82" />
+        <mark key="^" line="437" column="82" />
+        <mark key="." line="437" column="82" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/request/index.d.ts" timestamp="1552492890150" />
       <file name="$USER_HOME$/dev/repos/common-identity-tutorials/register-prospect-user/README.md" timestamp="1551189707352">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="8" column="88" />
@@ -314,6 +320,12 @@
         <mark key="." line="80" column="28" />
         <mark key="^" line="80" column="28" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/users/register-user.test.ts" timestamp="1552494600581">
+        <mark key="[" line="25" column="14" />
+        <mark key="]" line="61" column="36" />
+        <mark key="." line="61" column="36" />
+        <mark key="^" line="61" column="36" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/PreferencesService.ts" timestamp="1551211564346">
         <mark key="'" line="32" column="0" />
       </file>
@@ -417,15 +429,6 @@
         <mark key="]" line="22" column="18" />
         <mark key="." line="22" column="18" />
         <mark key="^" line="22" column="80" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" timestamp="1552336289953">
-        <mark key="a" line="557" column="36" />
-        <mark key="'" line="601" column="40" />
-        <mark key="[" line="607" column="53" />
-        <mark key="]" line="608" column="34" />
-        <mark key="^" line="608" column="34" />
-        <mark key="." line="608" column="34" />
-        <mark key="o" line="632" column="18" />
       </file>
       <file name="$USER_HOME$/dev/repos/automp-be/.circleci/config.yml" timestamp="1551369237594">
         <mark key="'" line="106" column="12" />
@@ -591,11 +594,11 @@
         <mark key="^" line="268" column="22" />
         <mark key="." line="268" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/test-client.ts" timestamp="1552487429259">
-        <mark key="[" line="4" column="12" />
-        <mark key="]" line="4" column="78" />
-        <mark key="^" line="3" column="104" />
-        <mark key="." line="4" column="12" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/test-client.ts" timestamp="1552492822691">
+        <mark key="[" line="19" column="25" />
+        <mark key="]" line="19" column="32" />
+        <mark key="^" line="19" column="32" />
+        <mark key="." line="19" column="32" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/package.json" timestamp="1551377982652">
         <mark key="[" line="7" column="20" />
@@ -622,11 +625,11 @@
         <mark key="." line="126" column="7" />
         <mark key="^" line="126" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serializers/serializer.ts" timestamp="1552331635606">
-        <mark key="[" line="12" column="44" />
-        <mark key="]" line="12" column="44" />
-        <mark key="." line="12" column="44" />
-        <mark key="^" line="12" column="44" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serializers/serializer.ts" timestamp="1552493370738">
+        <mark key="[" line="16" column="86" />
+        <mark key="]" line="16" column="86" />
+        <mark key="." line="16" column="86" />
+        <mark key="^" line="16" column="86" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/banner.js" timestamp="1551380740056">
         <mark key="[" line="0" column="0" />
@@ -648,7 +651,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="268" column="82" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" />
       <jump line="788" column="2" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="11" column="27" filename="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/prod/tncs-config-production.sh" />
       <jump line="11" column="26" filename="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/prod/prefs-config-production.sh" />
@@ -748,10 +750,11 @@
       <jump line="14" column="25" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="239" column="21" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="402" column="79" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="24" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>https://9quv81ylng.execute-api.ca-central-1.amazonaws.com/paul-dev</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb21tdW5pY2F0aW9uUHJlZmVyZW5jZXM6IFtdLAo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5234,52 +5237,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/users/resendActivationCode</text>
+        <text>lastUpdated: expect.any(String),</text>
       </register>
       <register name="/" type="4">
-        <text>changeForgotPass</text>
+        <text>registerUser</text>
       </register>
-      <register name="0" type="4">
-        <text>https://9quv81ylng.execute-api.ca-central-1.amazonaws.com/paul-dev</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsYXN0VXBkYXRlZDogZXhwZWN0LmFueShTdHJpbmcpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb21tdW5pY2F0aW9uUHJlZmVyZW5jZXM6IFtdLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgaWRwVXNlciA9IGF3YWl0IHRoaXMuaWRlbnRpdHlkYi5nZXRVc2VyQnlQcm92aWRlcklkKAogICAgICAgICAgICAgICAgY2lhVXNlci5va3RhSWQsCiAgICAgICAgICAgICAgICB0cnVlLAogICAgICAgICAgICApOwogICAgICAgICAgICB1c2Vycy5wdXNoKGF3YWl0IHRoaXMudXRpbHMubWFwVXNlclRvUmVzcG9uc2UoaWRwVXNlciwgY2lhVXNlcikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbWFpbCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aWYgKCFjb25zdGFudHMpIHsKICAgIGNvbnN0IGUgPSBuZXcgRXJyb3IoJ05PIENPTlNUQU5UUyEgV1RGJyk7CgogICAgY29uc29sZS5sb2coZS5zdGFjayk7CgogICAgdGhyb3cgZQoKfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaXJzdE5hbWUsCiAgICAgICAgICAgICAgICAgICAgbGFzdE5hbWUsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gaWYgKHByb3NwZWN0VXNlckVudHJ5ICYmCiAgICAgICAgICAgIC8vICAgICBwcm9zcGVjdFVzZXJFbnRyeS5yZWdpc3RyYXRpb25NZXRob2QgPT09CiAgICAgICAgICAgIC8vICAgICBjb25zdGFudHMuUmVnaXN0cmF0aW9uTWV0aG9kLlByb3NwZWN0KSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIEpvaUVycm9yQWRhcHRlcihlcnJvcjogVmFsaWRhdGlvbkVycm9yKSB7CiAgICBjb25zdCBtZXNzYWdlID0gZXJyb3IuZGV0YWlscy5tYXAoaSA9PiBpLm1lc3NhZ2UpLmpvaW4oJywgJyk7CiAgICBjb25zdCBleGNlcHRpb24gPSBuZXcgQmFkUmVxdWVzdEV4Y2VwdGlvbigKICAgICAgICBtZXNzYWdlLAogICAgICAgIEV4Y2VwdGlvbkNvZGVzLklOVkFMSURfREFUQSwKICAgICk7CiAgICBleGNlcHRpb24uZXJyb3JSZXNwb25zZS5hZGRpdGlvbmFsRGF0YSA9IGVycm9yLmRldGFpbHM7CiAgICBleGNlcHRpb24uZXJyb3JSZXNwb25zZS5leGNlcHRpb24gPSAnVkFMSURBVElPTl9FUlJPUic7CgogICAgdGhyb3cgZXhjZXB0aW9uOwp9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CmV4cG9ydCBhc3luYyBmdW5jdGlvbiB2YWxpZGF0ZSgKICAgIHNlcmlhbGl6ZXI6IGFueSwKICAgIGRhdGE6IGFueSwKICAgIG9wdGlvbnM6IFZhbGlkYXRpb25PcHRpb25zID0ge30sCikgewogICAgY29uc3QgcmVzdWx0ID0gc2VyaWFsaXplci52YWxpZGF0ZShkYXRhKTsKCn0KCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcHJvc3BlY3RVc2VyRW50cnkgPSBhd2FpdCB0aGlzLnVzZXJkYi5nZXRFbnRyeVdpdGhVc2VybmFtZSgKICAgICAgICAgICAgICAgIG5ld1VzZXIubG9naW4KICAgICAgICAgICAgKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB2YWxpZGF0aW9uUmVzdWx0ID0gUmVnaXN0cmF0aW9uUHJvZmlsZVNjaGVtYS52YWxpZGF0ZSgKICAgICAgICAgICAgcHJvZmlsZSwKICAgICAgICAgICAge2Fib3J0RWFybHk6IGZhbHNlLCBhbGxvd1Vua25vd246IHRydWV9CiAgICAgICAgKTsKICAgICAgICBpZiAodmFsaWRhdGlvblJlc3VsdC5lcnJvcikgewogICAgICAgICAgICB0aHJvdyBKb2lFcnJvckFkYXB0ZXIodmFsaWRhdGlvblJlc3VsdC5lcnJvcik7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBjb25zdCBwcm9zcGVjdFVzZXJFbnRyeSA9IGF3YWl0IHRoaXMudXNlcmRiLmdldEVudHJ5V2l0aFVzZXJuYW1lKAogICAgICAgICAgICAgICAgbmV3VXNlci5sb2dpbgogICAgICAgICAgICApOwogICAgICAgICAgICBpZiAocHJvc3BlY3RVc2VyRW50cnkgJiYKICAgICAgICAgICAgICAgIHByb3NwZWN0VXNlckVudHJ5LnJlZ2lzdHJhdGlvbk1ldGhvZCA9PT0KICAgICAgICAgICAgICAgIGNvbnN0YW50cy5SZWdpc3RyYXRpb25NZXRob2QuUHJvc3BlY3QpIHsKICAgICAgICAgICAgICAgIHJlZ2lzdGVyZWRVc2VyID0gYXdhaXQgdGhpcy5pZGVudGl0eWRiLmFjdGl2YXRlUHJvc3BlY3RVc2VyKAogICAgICAgICAgICAgICAgICAgIG5ld1VzZXIKICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgICAgICB0aGlzLmxvZ2dlci5pbmZvKGBTdWNjZXNzZnVsbHkgcmVnaXN0ZXJlZCBwcm9zcGVjdCB1c2VyICR7cmVnaXN0ZXJlZFVzZXIubG9naW59YCk7CiAgICAgICAgICAgIH0KICAgICAgICB9IGNhdGNoIChlKSB7CiAgICAgICAgICAgIHRoaXMubG9nZ2VyLmluZm8oYFVzZXIgaXMgbm90IGEgcHJvc3BlY3QgdXNlcmApOwogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IGNsYXNzIFNlcmlhbGl6ZXIgewogICAgcHJvdGVjdGVkIHJlYWRvbmx5IG9wdGlvbnM6IFZhbGlkYXRpb25PcHRpb25zID0gewogICAgICAgIGFib3J0RWFybHk6IGZhbHNlLAogICAgICAgIGFsbG93VW5rbm93bjogdHJ1ZSwKICAgIH07CgogICAgY29uc3RydWN0b3IocHJvdGVjdGVkIHJlYWRvbmx5IHNjaGVtYTogYW55KSB7fQoKICAgIHB1YmxpYyBhc3luYyB2YWxpZGF0ZShkYXRhOiBhbnksIG9wdGlvbnM6IFZhbGlkYXRpb25PcHRpb25zKTogUHJvbWlzZTxhbnk+IHsKICAgICAgICBjb25zdCB7ZXJyb3IsIHZhbHVlfSA9IHRoaXMuc2NoZW1hLnZhbGlkYXRlKGRhdGEsIG9wdGlvbnMpOwogICAgICAgIGlmIChlcnJvcikgewogICAgICAgICAgICB0aHJvdyBuZXcgVmFsaWRhdGlvbkV4Y2VwdGlvbihlcnJvcik7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gdmFsdWU7CiAgICB9Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCByYW5kb21Ub2tlbiA9IHV1aWQudjQoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>changeForgotPass</last-search>
+      <last-search>registerUser</last-search>
       <last-offset />
-      <last-pattern>changeForgotPass</last-pattern>
+      <last-pattern>registerUser</last-pattern>
       <last-replace>getUser</last-replace>
       <last-substitute>getUserNew</last-substitute>
       <last-dir>1</last-dir>
@@ -5291,7 +5294,6 @@
         <entry>early</entry>
         <entry>abort</entry>
         <entry>RegistrationProfile</entry>
-        <entry>registerUser</entry>
         <entry>registerProspect</entry>
         <entry>version</entry>
         <entry>registerUser(</entry>
@@ -5307,6 +5309,7 @@
         <entry>deleteUser</entry>
         <entry encoding="base64">XDxDb3VsZFw+</entry>
         <entry>changeForgotPass</entry>
+        <entry>registerUser</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
