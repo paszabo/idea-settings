@@ -157,14 +157,14 @@
         <mark key="." line="57" column="0" />
         <mark key="^" line="43" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1552572063402">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1552572966314">
         <mark key="a" line="491" column="45" />
         <mark key="b" line="44" column="4" />
         <mark key="'" line="1105" column="35" />
-        <mark key="[" line="237" column="70" />
-        <mark key="]" line="238" column="19" />
-        <mark key="." line="238" column="19" />
-        <mark key="^" line="238" column="19" />
+        <mark key="[" line="1260" column="80" />
+        <mark key="]" line="1260" column="80" />
+        <mark key="." line="1260" column="80" />
+        <mark key="^" line="1260" column="37" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/request/index.d.ts" timestamp="1552492890150" />
       <file name="$USER_HOME$/dev/repos/common-identity-tutorials/register-prospect-user/README.md" timestamp="1551189707352">
@@ -587,8 +587,8 @@
         <mark key="^" line="36" column="75" />
         <mark key="." line="36" column="75" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1552570827585">
-        <mark key="'" line="243" column="36" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1552573199828">
+        <mark key="'" line="105" column="35" />
         <mark key="[" line="125" column="9" />
         <mark key="]" line="126" column="7" />
         <mark key="." line="126" column="7" />
@@ -620,7 +620,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="171" column="144" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/MailService.ts" />
       <jump line="172" column="71" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/MailService.ts" />
       <jump line="199" column="135" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/MailService.ts" />
       <jump line="200" column="63" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/MailService.ts" />
@@ -720,10 +719,11 @@
       <jump line="62" column="15" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/preferences/unsubscribe.test.ts" />
       <jump line="1105" column="35" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="243" column="36" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="105" column="35" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QocmVzdWx0LnN0YXR1c0NvZGUpLnRvRXF1YWwoMjAwKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dGhlIA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5206,13 +5206,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/lifecycle/deactivate</text>
+        <text encoding="base64">dGhlIA==</text>
       </register>
       <register name="/" type="4">
-        <text>registerUser</text>
+        <text>after change</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF3YWl0IHRoaXMuY2xpZW50LnBvc3QoYHVzZXJzLyR7b2t0YUlkfS9saWZlY3ljbGUvZGVhY3RpdmF0ZWApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMubG9nZ2VyLmluZm8oYFVzZXIgJHt1c2VyLnVzZXJuYW1lfSBoYXMgbm8gY29tbSBwcmVmZXJlbmNlcyB0byBzZW5kIHRvIHRoZSBtYXJrZXRpbmcgc2VydmljZWApOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBleHBlY3QocmVzdWx0LnN0YXR1c0NvZGUpLnRvRXF1YWwoMjAwKTsK</text>
@@ -5249,9 +5249,9 @@
       </register>
     </registers>
     <search>
-      <last-search>registerUser</last-search>
+      <last-search>after change</last-search>
       <last-offset />
-      <last-pattern>registerUser</last-pattern>
+      <last-pattern>after change</last-pattern>
       <last-replace>getUser</last-replace>
       <last-substitute>getUserNew</last-substitute>
       <last-dir>1</last-dir>
@@ -5259,8 +5259,6 @@
     </search>
     <history>
       <history-search>
-        <entry>helpers.</entry>
-        <entry>Helpers</entry>
         <entry>jest</entry>
         <entry>DefaultLanguageId</entry>
         <entry>defaultLanguageId</entry>
@@ -5279,6 +5277,8 @@
         <entry>.scan</entry>
         <entry>.pro</entry>
         <entry>registerUser</entry>
+        <entry>afterChangeForgot</entry>
+        <entry>after change</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
