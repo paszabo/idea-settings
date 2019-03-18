@@ -94,6 +94,13 @@
         <mark key="." line="29" column="42" />
         <mark key="^" line="29" column="54" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-flow.js" timestamp="1552943362698">
+        <mark key="'" line="18" column="23" />
+        <mark key="[" line="17" column="19" />
+        <mark key="]" line="18" column="62" />
+        <mark key="." line="18" column="62" />
+        <mark key="^" line="18" column="62" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/package.json" timestamp="1552662283114">
         <mark key="'" line="9" column="13" />
         <mark key="[" line="10" column="9" />
@@ -139,12 +146,12 @@
         <mark key="^" line="96" column="41" />
         <mark key="." line="96" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/preferences.service.ts" timestamp="1552567410367">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/preferences.service.ts" timestamp="1552942585441">
         <mark key="'" line="125" column="9" />
-        <mark key="[" line="114" column="66" />
-        <mark key="]" line="114" column="94" />
-        <mark key="." line="114" column="94" />
-        <mark key="^" line="114" column="94" />
+        <mark key="[" line="108" column="35" />
+        <mark key="]" line="108" column="40" />
+        <mark key="." line="108" column="40" />
+        <mark key="^" line="108" column="40" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-tutorials/register-prospect-user/register-prospect-user.js" timestamp="1551373769035">
         <mark key="[" line="57" column="0" />
@@ -152,10 +159,10 @@
         <mark key="." line="57" column="0" />
         <mark key="^" line="43" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1552925255806">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1552942868890">
         <mark key="a" line="491" column="45" />
         <mark key="b" line="44" column="4" />
-        <mark key="'" line="28" column="21" />
+        <mark key="'" line="548" column="42" />
         <mark key="[" line="1260" column="80" />
         <mark key="]" line="1260" column="80" />
         <mark key="." line="1260" column="80" />
@@ -562,8 +569,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="600" column="38" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
-      <jump line="601" column="40" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
       <jump line="46" column="19" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="416" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="450" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
@@ -662,10 +667,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/handler-utils.ts" />
       <jump line="313" column="54" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/handler-utils.ts" />
       <jump line="277" column="3" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/handler-utils.ts" />
+      <jump line="548" column="42" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="18" column="23" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-flow.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHx8IHt9</text>
+        <text>B6WIkSrVekVBjmw2WqSrZ_Z0SiSqXRp-vz2EZiUU</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5148,10 +5155,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHx8IHt9</text>
+        <text>B6WIkSrVekVBjmw2WqSrZ_Z0SiSqXRp-vz2EZiUU</text>
       </register>
       <register name="/" type="4">
-        <text>WarmupHandler</text>
+        <text>scope =</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgRk9SR09UX1BBU1NXT1JEX05PVF9WRVJJRklFRDogc3RyaW5nID0gIkZPUkdPVF9QQVNTV09SRF9OT1RfVkVSSUZJRUQiOwo=</text>
@@ -5191,9 +5198,9 @@
       </register>
     </registers>
     <search>
-      <last-search>WarmupHandler</last-search>
+      <last-search>scope =</last-search>
       <last-offset />
-      <last-pattern>WarmupHandler</last-pattern>
+      <last-pattern>scope =</last-pattern>
       <last-replace>config.okta.APIKey</last-replace>
       <last-substitute>process.env.OKTA_API_KEY</last-substitute>
       <last-dir>1</last-dir>
@@ -5201,8 +5208,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pro</entry>
-        <entry>.then</entry>
         <entry>ger</entry>
         <entry>log</entry>
         <entry>.scan</entry>
@@ -5221,6 +5226,8 @@
         <entry>Helper</entry>
         <entry>WarmupHand</entry>
         <entry>WarmupHandler</entry>
+        <entry>activateUser</entry>
+        <entry>scope =</entry>
       </history-search>
       <history-cmd>
         <entry>52,78%s/data/user/</entry>
@@ -5239,9 +5246,9 @@
         <entry>%s/process.env.OKTA_URL/config.okta.url</entry>
         <entry>%s/process.env.OKTA_API_KEY/config.okta.APIKey</entry>
         <entry>63</entry>
-        <entry>0</entry>
         <entry>42</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
