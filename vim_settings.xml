@@ -150,6 +150,15 @@
         <mark key="." line="57" column="0" />
         <mark key="^" line="43" column="43" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1552925255806">
+        <mark key="a" line="491" column="45" />
+        <mark key="b" line="44" column="4" />
+        <mark key="'" line="28" column="21" />
+        <mark key="[" line="1260" column="80" />
+        <mark key="]" line="1260" column="80" />
+        <mark key="." line="1260" column="80" />
+        <mark key="^" line="1260" column="37" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/request/index.d.ts" timestamp="1552492890150" />
       <file name="$USER_HOME$/dev/repos/common-identity-tutorials/register-prospect-user/README.md" timestamp="1551189707352">
         <mark key="[" line="9" column="0" />
@@ -203,8 +212,8 @@
         <mark key="." line="115" column="34" />
         <mark key="^" line="115" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/handler-utils.ts" timestamp="1552618817212">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/handler-utils.ts" timestamp="1552925062474">
+        <mark key="'" line="84" column="47" />
         <mark key="[" line="115" column="30" />
         <mark key="]" line="115" column="47" />
         <mark key="^" line="115" column="47" />
@@ -431,7 +440,7 @@
         <mark key="^" line="17" column="24" />
         <mark key="." line="17" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/IntercomMaketingService.ts" timestamp="1552568139486" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/IntercomMaketingService.ts" timestamp="1552925331674" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/mail/SendGridMailer.ts" timestamp="1551384784034">
         <mark key="[" line="50" column="40" />
         <mark key="]" line="51" column="3" />
@@ -553,9 +562,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="968" column="65" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="60" column="44" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
-      <jump line="565" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
       <jump line="515" column="60" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
       <jump line="1" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
       <jump line="564" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
@@ -653,6 +659,9 @@
       <jump line="1312" column="49" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
       <jump line="0" column="9" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/README.md" />
       <jump line="0" column="87" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/env/qa.sh" />
+      <jump line="124" column="23" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/handler-utils.ts" />
+      <jump line="84" column="47" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/handler-utils.ts" />
+      <jump line="28" column="21" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5142,7 +5151,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>getUsersByEmail</text>
+        <text>registerUser</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">UmVhY3RET00ucmVuZGVyKDxBcHAgLz4sIGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJyNhcHAnKSk7Cg==</text>
@@ -5182,9 +5191,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getUsersByEmail</last-search>
+      <last-search>registerUser</last-search>
       <last-offset />
-      <last-pattern>getUsersByEmail</last-pattern>
+      <last-pattern>registerUser</last-pattern>
       <last-replace>config.okta.APIKey</last-replace>
       <last-substitute>process.env.OKTA_API_KEY</last-substitute>
       <last-dir>1</last-dir>
@@ -5192,7 +5201,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDb3VsZFw+</entry>
         <entry>changeForgotPass</entry>
         <entry encoding="base64">XDx7XD4=</entry>
         <entry>delete</entry>
@@ -5202,7 +5210,6 @@
         <entry>log</entry>
         <entry>.scan</entry>
         <entry>.pro</entry>
-        <entry>registerUser</entry>
         <entry>afterChangeForgot</entry>
         <entry>after change</entry>
         <entry>API_ENVIRONMENT</entry>
@@ -5212,6 +5219,8 @@
         <entry>process.env</entry>
         <entry>rbc.ident</entry>
         <entry>getUsersByEmail</entry>
+        <entry>Extract</entry>
+        <entry>registerUser</entry>
       </history-search>
       <history-cmd>
         <entry>52,78%s/data/user/</entry>
