@@ -41,12 +41,12 @@
         <mark key="^" line="24" column="32" />
         <mark key="." line="24" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1553119504039">
-        <mark key="'" line="1914" column="28" />
-        <mark key="[" line="236" column="0" />
-        <mark key="]" line="237" column="67" />
-        <mark key="^" line="237" column="66" />
-        <mark key="." line="237" column="66" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1553120810012">
+        <mark key="'" line="260" column="4" />
+        <mark key="[" line="1989" column="16" />
+        <mark key="]" line="1991" column="5" />
+        <mark key="^" line="1991" column="5" />
+        <mark key="." line="1991" column="5" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" timestamp="1552614575296">
         <mark key="'" line="130" column="14" />
@@ -472,7 +472,7 @@
         <mark key="." line="43" column="34" />
         <mark key="^" line="43" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/users-config-paul-dev.sh" timestamp="1553119677639">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/users-config-paul-dev.sh" timestamp="1553120690166">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="34" />
         <mark key="^" line="12" column="28" />
@@ -785,10 +785,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/tncs/tncHandler.ts" />
-      <jump line="29" column="14" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/tncs/tncHandler.ts" />
-      <jump line="28" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/tncs/tncHandler.ts" />
-      <jump line="235" column="2" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="57" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="58" column="14" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="7" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/SMSService.ts" />
@@ -885,10 +881,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/admin-config-paul-dev.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/prefs-config-paul-dev.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/tncs-config-paul-dev.sh" />
+      <jump line="238" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="236" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="256" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="260" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyBPa3RhCg==</text>
+        <text encoding="base64">IyAgICBDT0JSQU5EX0NBQ0hFX0RVUkFUSU9OOiAke29wdDpDT0JSQU5EX0NBQ0hFX0RVUkFUSU9OfQojICAgIFVTRVJfU0VTU0lPTl9DQUNIRV9EVVJBVElPTjogJHtvcHQ6VVNFUl9TRVNTSU9OX0NBQ0hFX0RVUkFUSU9OfQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5371,13 +5371,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>opt:</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>environment</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Q09CUkFORF9DQUNIRV9EVVJBVElPTj0iMzYwMCIKVVNFUl9TRVNTSU9OX0NBQ0hFX0RVUkFUSU9OPSIxNTAwIgo=</text>
+        <text encoding="base64">IyAgICBDT0JSQU5EX0NBQ0hFX0RVUkFUSU9OOiAke29wdDpDT0JSQU5EX0NBQ0hFX0RVUkFUSU9OfQojICAgIFVTRVJfU0VTU0lPTl9DQUNIRV9EVVJBVElPTjogJHtvcHQ6VVNFUl9TRVNTSU9OX0NBQ0hFX0RVUkFUSU9OfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyBPa3RhCg==</text>
@@ -5424,7 +5424,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Extract</entry>
         <entry>registerUser</entry>
         <entry>Helper</entry>
         <entry>WarmupHand</entry>
@@ -5443,6 +5442,7 @@
         <entry>getUser</entry>
         <entry>getTnCContent</entry>
         <entry>tncdb</entry>
+        <entry>yodlee</entry>
         <entry>environment</entry>
       </history-search>
       <history-cmd>
