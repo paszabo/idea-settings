@@ -132,8 +132,8 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" timestamp="1553089721340">
-        <mark key="'" line="92" column="82" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" timestamp="1553101279131">
+        <mark key="'" line="736" column="17" />
         <mark key="[" line="857" column="14" />
         <mark key="]" line="857" column="18" />
         <mark key="." line="857" column="18" />
@@ -320,7 +320,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="11" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/preferences/unsubscribe.test.ts" />
       <jump line="49" column="26" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/preferences/unsubscribe.test.ts" />
       <jump line="61" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/preferences/unsubscribe.test.ts" />
       <jump line="62" column="15" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/preferences/unsubscribe.test.ts" />
@@ -420,6 +419,7 @@
       <jump line="44" column="11" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/preferences/unsubscribe.test.ts" />
       <jump line="45" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/preferences/unsubscribe.test.ts" />
       <jump line="183" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="736" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4909,7 +4909,7 @@
         <text>^</text>
       </register>
       <register name="/" type="4">
-        <text>updateUserPreferences</text>
+        <text>delete</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAqIFRPRE86IE1ha2UgdGhpcyBub3QgZGVsZXRlIHRoZSB3aG9sZSBEQiBiZWNhdXNlIHRoYXQgd2lsbCBjYXVzZSBwcm9ibGVtcyBpbiBRQSBhbmQgYWJvdmUK</text>
@@ -4949,9 +4949,9 @@
       </register>
     </registers>
     <search>
-      <last-search>updateUserPreferences</last-search>
+      <last-search>delete</last-search>
       <last-offset />
-      <last-pattern>updateUserPreferences</last-pattern>
+      <last-pattern>delete</last-pattern>
       <last-replace>config.okta.APIKey</last-replace>
       <last-substitute>process.env.OKTA_API_KEY</last-substitute>
       <last-dir>1</last-dir>
@@ -4974,11 +4974,11 @@
         <entry>newPreferences</entry>
         <entry>isEmpty</entry>
         <entry>Duplicate user</entry>
-        <entry>delete</entry>
         <entry>activate</entry>
         <entry>email =</entry>
         <entry>updatePreferences</entry>
         <entry>updateUserPreferences</entry>
+        <entry>delete</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getUserNew/getUser/g</entry>
