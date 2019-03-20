@@ -44,8 +44,8 @@
         <mark key="^" line="41" column="53" />
         <mark key="." line="41" column="53" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/tncs/tncHandler.ts" timestamp="1553105832799">
-        <mark key="'" line="23" column="21" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/tncs/tncHandler.ts" timestamp="1553114071464">
+        <mark key="'" line="60" column="63" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/README.md" timestamp="1552754981757">
         <mark key="[" line="20" column="59" />
@@ -60,12 +60,12 @@
         <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-client/src/rbc-identity.client.ts" timestamp="1552928709877" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/config.ts" timestamp="1552999640093">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/config.ts" timestamp="1553114423505">
         <mark key="'" line="68" column="5" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="46" />
-        <mark key="^" line="5" column="27" />
-        <mark key="." line="5" column="27" />
+        <mark key="[" line="39" column="49" />
+        <mark key="]" line="39" column="49" />
+        <mark key="^" line="39" column="42" />
+        <mark key="." line="39" column="49" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/SMSService.ts" timestamp="1552619357730">
         <mark key="'" line="50" column="62" />
@@ -211,12 +211,12 @@
         <mark key="^" line="54" column="24" />
         <mark key="." line="54" column="49" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/TnCService.ts" timestamp="1552619409659">
-        <mark key="'" line="93" column="43" />
-        <mark key="[" line="43" column="8" />
-        <mark key="]" line="43" column="13" />
-        <mark key="^" line="43" column="13" />
-        <mark key="." line="43" column="13" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/TnCService.ts" timestamp="1553114320257">
+        <mark key="'" line="47" column="26" />
+        <mark key="[" line="30" column="7" />
+        <mark key="]" line="30" column="6" />
+        <mark key="^" line="30" column="6" />
+        <mark key="." line="30" column="6" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/PreferencesRepository.ts" timestamp="1552618626278">
         <mark key="'" line="10" column="0" />
@@ -283,7 +283,7 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/services/IntercomMarketingService.test.ts" timestamp="1551461338945">
         <mark key="'" line="24" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" timestamp="1553105821990">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" timestamp="1553114058017">
         <mark key="'" line="268" column="82" />
         <mark key="[" line="600" column="14" />
         <mark key="]" line="600" column="28" />
@@ -339,10 +339,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="11" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/Helper.ts" />
-      <jump line="12" column="44" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/config.ts" />
-      <jump line="34" column="52" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/config.ts" />
-      <jump line="2" column="42" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/config.ts" />
       <jump line="0" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/Logger.ts" />
       <jump line="4" column="22" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/GenericException.ts" />
       <jump line="35" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
@@ -439,10 +435,14 @@
       <jump line="1127" column="52" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="1154" column="47" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="23" column="21" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/tncs/tncHandler.ts" />
+      <jump line="60" column="63" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/tncs/tncHandler.ts" />
+      <jump line="32" column="6" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/TnCService.ts" />
+      <jump line="34" column="48" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/TnCService.ts" />
+      <jump line="47" column="26" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/TnCService.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>^</text>
+        <text>_NAME</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4925,10 +4925,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>^</text>
+        <text>_NAME</text>
       </register>
       <register name="/" type="4">
-        <text>getUser</text>
+        <text>tncdb</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAqIFRPRE86IE1ha2UgdGhpcyBub3QgZGVsZXRlIHRoZSB3aG9sZSBEQiBiZWNhdXNlIHRoYXQgd2lsbCBjYXVzZSBwcm9ibGVtcyBpbiBRQSBhbmQgYWJvdmUK</text>
@@ -4968,9 +4968,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getUser</last-search>
+      <last-search>tncdb</last-search>
       <last-offset />
-      <last-pattern>getUser</last-pattern>
+      <last-pattern>tncdb</last-pattern>
       <last-replace>config.okta.APIKey</last-replace>
       <last-substitute>process.env.OKTA_API_KEY</last-substitute>
       <last-dir>1</last-dir>
@@ -4978,8 +4978,6 @@
     </search>
     <history>
       <history-search>
-        <entry>process.env</entry>
-        <entry>rbc.ident</entry>
         <entry>getUsersByEmail</entry>
         <entry>Extract</entry>
         <entry>registerUser</entry>
@@ -4998,6 +4996,8 @@
         <entry>delete</entry>
         <entry>getMe</entry>
         <entry>getUser</entry>
+        <entry>getTnCContent</entry>
+        <entry>tncdb</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getUserNew/getUser/g</entry>
