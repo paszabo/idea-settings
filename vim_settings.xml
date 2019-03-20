@@ -17,8 +17,8 @@
         <mark key="." line="1090" column="13" />
         <mark key="^" line="1090" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1553089396769">
-        <mark key="'" line="1726" column="18" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1553101881533">
+        <mark key="'" line="1914" column="28" />
         <mark key="[" line="173" column="30" />
         <mark key="]" line="173" column="30" />
         <mark key="^" line="173" column="18" />
@@ -292,8 +292,8 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="13" column="54" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1553089537003">
-        <mark key="'" line="183" column="8" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1553101904044">
+        <mark key="'" line="596" column="54" />
         <mark key="[" line="125" column="9" />
         <mark key="]" line="126" column="7" />
         <mark key="." line="126" column="7" />
@@ -320,10 +320,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="26" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/preferences/unsubscribe.test.ts" />
-      <jump line="61" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/preferences/unsubscribe.test.ts" />
-      <jump line="62" column="15" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/preferences/unsubscribe.test.ts" />
-      <jump line="1105" column="35" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="243" column="36" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="105" column="35" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="11" column="56" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/Cache.ts" />
@@ -420,6 +416,10 @@
       <jump line="45" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/preferences/unsubscribe.test.ts" />
       <jump line="183" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="736" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
+      <jump line="1914" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="562" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="581" column="22" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="596" column="54" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4909,7 +4909,7 @@
         <text>^</text>
       </register>
       <register name="/" type="4">
-        <text>delete</text>
+        <text>getUser</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAqIFRPRE86IE1ha2UgdGhpcyBub3QgZGVsZXRlIHRoZSB3aG9sZSBEQiBiZWNhdXNlIHRoYXQgd2lsbCBjYXVzZSBwcm9ibGVtcyBpbiBRQSBhbmQgYWJvdmUK</text>
@@ -4949,9 +4949,9 @@
       </register>
     </registers>
     <search>
-      <last-search>delete</last-search>
+      <last-search>getUser</last-search>
       <last-offset />
-      <last-pattern>delete</last-pattern>
+      <last-pattern>getUser</last-pattern>
       <last-replace>config.okta.APIKey</last-replace>
       <last-substitute>process.env.OKTA_API_KEY</last-substitute>
       <last-dir>1</last-dir>
@@ -4959,8 +4959,6 @@
     </search>
     <history>
       <history-search>
-        <entry>process.env.OKTA_URL</entry>
-        <entry>process.env.OKTA_API_KEY</entry>
         <entry>process.env</entry>
         <entry>rbc.ident</entry>
         <entry>getUsersByEmail</entry>
@@ -4979,6 +4977,8 @@
         <entry>updatePreferences</entry>
         <entry>updateUserPreferences</entry>
         <entry>delete</entry>
+        <entry>getMe</entry>
+        <entry>getUser</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getUserNew/getUser/g</entry>
