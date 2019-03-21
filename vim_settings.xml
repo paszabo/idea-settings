@@ -19,12 +19,12 @@
         <mark key="." line="78" column="28" />
         <mark key="^" line="78" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1553003657740">
-        <mark key="'" line="410" column="17" />
-        <mark key="[" line="1090" column="8" />
-        <mark key="]" line="1090" column="13" />
-        <mark key="." line="1090" column="13" />
-        <mark key="^" line="1090" column="13" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1553196904268">
+        <mark key="'" line="32" column="49" />
+        <mark key="[" line="731" column="67" />
+        <mark key="]" line="731" column="67" />
+        <mark key="." line="731" column="67" />
+        <mark key="^" line="731" column="67" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/services/PreferencesService.test.ts" timestamp="1551461331784">
         <mark key="'" line="136" column="28" />
@@ -695,7 +695,7 @@
         <mark key="^" line="602" column="28" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-client/src/users/users.client.ts" timestamp="1552928728422" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/users.repository.ts" timestamp="1552932214735">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/users.repository.ts" timestamp="1553196823059">
         <mark key="'" line="132" column="48" />
         <mark key="[" line="53" column="47" />
         <mark key="]" line="53" column="47" />
@@ -840,7 +840,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="48" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/SMSService.ts" />
       <jump line="32" column="62" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/SMSService.ts" />
       <jump line="35" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/SMSService.ts" />
       <jump line="48" column="50" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/SMSService.ts" />
@@ -940,6 +939,7 @@
       <jump line="30" column="6" filename="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/deploy-prefs.sh" />
       <jump line="21" column="25" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="105" column="5" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
+      <jump line="32" column="49" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5429,7 +5429,7 @@
         <text>/users/register</text>
       </register>
       <register name="/" type="4">
-        <text>unsubscribe</text>
+        <text>User is registered as prospect</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IFwKICAgIC0tQ0lBX0VYVEVSTkFMX1VTRVJTX1VSTD0iJHtDSUFfRVhURVJOQUxfVVNFUlNfVVJMfSI=</text>
@@ -5478,9 +5478,9 @@
       </register>
     </registers>
     <search>
-      <last-search>unsubscribe</last-search>
+      <last-search>User is registered as prospect</last-search>
       <last-offset />
-      <last-pattern>unsubscribe</last-pattern>
+      <last-pattern>User is registered as prospect</last-pattern>
       <last-replace>config.okta.APIKey</last-replace>
       <last-substitute>process.env.OKTA_API_KEY</last-substitute>
       <last-dir>1</last-dir>
@@ -5488,7 +5488,6 @@
     </search>
     <history>
       <history-search>
-        <entry>scope =</entry>
         <entry>newPreferences</entry>
         <entry>isEmpty</entry>
         <entry>Duplicate user</entry>
@@ -5508,6 +5507,7 @@
         <entry encoding="base64">XDxVU0VSX1NFU1NJT05fQ0FDSEVfRFVSQVRJT05cPg==</entry>
         <entry>changeForgotPassword</entry>
         <entry>unsubscribe</entry>
+        <entry>User is registered as prospect</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getUserNew/getUser/g</entry>
