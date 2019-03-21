@@ -41,7 +41,7 @@
         <mark key="^" line="24" column="32" />
         <mark key="." line="24" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1553180945691">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1553186821635">
         <mark key="'" line="1181" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" timestamp="1552614575296">
@@ -213,6 +213,15 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
         <mark key="^" line="43" column="43" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1553187013666">
+        <mark key="a" line="491" column="44" />
+        <mark key="b" line="44" column="4" />
+        <mark key="'" line="109" column="26" />
+        <mark key="[" line="1231" column="127" />
+        <mark key="]" line="1231" column="127" />
+        <mark key="." line="1231" column="127" />
+        <mark key="^" line="1231" column="127" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/deploy-tncs.sh" timestamp="1553184978161">
         <mark key="'" line="1" column="0" />
@@ -757,8 +766,8 @@
         <mark key="^" line="38" column="67" />
         <mark key="." line="38" column="67" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1553184035812">
-        <mark key="'" line="50" column="26" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1553187027955">
+        <mark key="'" line="21" column="25" />
         <mark key="[" line="0" column="52" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
@@ -818,7 +827,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/SMSService.ts" />
       <jump line="30" column="50" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/SMSService.ts" />
       <jump line="31" column="48" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/SMSService.ts" />
       <jump line="32" column="62" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/SMSService.ts" />
@@ -918,6 +926,7 @@
       <jump line="27" column="7" filename="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/env-configs/dev/admin-config-dev.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/env-configs/dev/admin-config-dev.sh" />
       <jump line="30" column="6" filename="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/deploy-prefs.sh" />
+      <jump line="21" column="25" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5407,7 +5416,7 @@
         <text>/users/register</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxVU0VSX1NFU1NJT05fQ0FDSEVfRFVSQVRJT05cPg==</text>
+        <text>changeForgotPassword</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IFwKICAgIC0tQ0lBX0VYVEVSTkFMX1VTRVJTX1VSTD0iJHtDSUFfRVhURVJOQUxfVVNFUlNfVVJMfSI=</text>
@@ -5456,17 +5465,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxVU0VSX1NFU1NJT05fQ0FDSEVfRFVSQVRJT05cPg==</last-search>
+      <last-search>changeForgotPassword</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxVU0VSX1NFU1NJT05fQ0FDSEVfRFVSQVRJT05cPg==</last-pattern>
+      <last-pattern>changeForgotPassword</last-pattern>
       <last-replace>config.okta.APIKey</last-replace>
       <last-substitute>process.env.OKTA_API_KEY</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>WarmupHandler</entry>
         <entry>activateUser</entry>
         <entry>scope =</entry>
         <entry>newPreferences</entry>
@@ -5486,6 +5494,7 @@
         <entry>registerUser</entry>
         <entry>dev</entry>
         <entry encoding="base64">XDxVU0VSX1NFU1NJT05fQ0FDSEVfRFVSQVRJT05cPg==</entry>
+        <entry>changeForgotPassword</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getUserNew/getUser/g</entry>
