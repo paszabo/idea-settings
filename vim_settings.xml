@@ -16,12 +16,12 @@
         <mark key="." line="78" column="28" />
         <mark key="^" line="78" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1553196904268">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1553211235470">
         <mark key="'" line="32" column="49" />
-        <mark key="[" line="731" column="67" />
-        <mark key="]" line="731" column="67" />
-        <mark key="." line="731" column="67" />
-        <mark key="^" line="731" column="67" />
+        <mark key="[" line="397" column="31" />
+        <mark key="]" line="397" column="41" />
+        <mark key="." line="397" column="41" />
+        <mark key="^" line="397" column="41" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/scim/package.json" timestamp="1551280723763">
         <mark key="[" line="2" column="18" />
@@ -892,7 +892,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IFwKICAgIC0tQ0lBX0VYVEVSTkFMX1VTRVJTX1VSTD0iJHtDSUFfRVhURVJOQUxfVVNFUlNfVVJMfSI=</text>
+        <text>p</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5375,7 +5375,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/users/register</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>User is registered as prospect</text>
