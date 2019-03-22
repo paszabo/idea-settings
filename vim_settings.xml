@@ -41,7 +41,7 @@
         <mark key="^" line="41" column="53" />
         <mark key="." line="41" column="53" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/SalesforceRepository.ts" timestamp="1553287298947" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/SalesforceRepository.ts" timestamp="1553296038922" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/README.md" timestamp="1552754981757">
         <mark key="[" line="20" column="59" />
         <mark key="]" line="21" column="21" />
@@ -111,10 +111,10 @@
         <mark key="." line="20" column="21" />
         <mark key="^" line="20" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1553281544135">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1553296049100">
         <mark key="a" line="481" column="44" />
         <mark key="b" line="44" column="4" />
-        <mark key="'" line="438" column="59" />
+        <mark key="'" line="431" column="39" />
         <mark key="[" line="430" column="62" />
         <mark key="]" line="431" column="39" />
         <mark key="." line="431" column="39" />
@@ -355,7 +355,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="33" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/handler-utils.ts" />
       <jump line="85" column="44" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/handler-utils.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/handler-utils.ts" />
       <jump line="313" column="54" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/handler-utils.ts" />
@@ -455,6 +454,7 @@
       <jump line="448" column="59" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="466" column="30" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
       <jump line="36" column="23" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="431" column="39" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4944,7 +4944,7 @@
         <text>post</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx9XD4=</text>
+        <text>activationToken</text>
       </register>
       <register name="0" type="4">
         <text>.commPreference</text>
@@ -4985,17 +4985,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx9XD4=</last-search>
+      <last-search>activationToken</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx9XD4=</last-pattern>
+      <last-pattern>activationToken</last-pattern>
       <last-replace>config.okta.APIKey</last-replace>
       <last-substitute>process.env.OKTA_API_KEY</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>delete</entry>
         <entry>getMe</entry>
         <entry>getUser</entry>
         <entry>getTnCContent</entry>
@@ -5015,6 +5014,7 @@
         <entry>from the ID token</entry>
         <entry>handler</entry>
         <entry encoding="base64">XDx9XD4=</entry>
+        <entry>activationToken</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getUserNew/getUser/g</entry>
