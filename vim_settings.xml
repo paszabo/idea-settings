@@ -28,11 +28,11 @@
         <mark key="^" line="16" column="59" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/helper" timestamp="1552928686038" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" timestamp="1553268994490">
-        <mark key="'" line="25" column="4" />
-        <mark key="[" line="432" column="0" />
-        <mark key="]" line="435" column="14" />
-        <mark key="." line="432" column="0" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" timestamp="1553271018568">
+        <mark key="'" line="274" column="15" />
+        <mark key="[" line="430" column="0" />
+        <mark key="]" line="433" column="14" />
+        <mark key="." line="430" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/preferences/subscription.service.test.ts" timestamp="1552334046542">
         <mark key="'" line="54" column="50" />
@@ -495,8 +495,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="9" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/README.md" />
-      <jump line="0" column="87" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/env/qa.sh" />
       <jump line="124" column="23" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/handler-utils.ts" />
       <jump line="84" column="47" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/handler-utils.ts" />
       <jump line="28" column="21" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
@@ -595,6 +593,8 @@
       <jump line="126" column="49" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="321" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/admin/adminUsersHandler.ts" />
       <jump line="25" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
+      <jump line="269" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
+      <jump line="275" column="15" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -5084,7 +5084,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>request.</text>
+        <text>getOktaGroups</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB7CiAgICAgICAgICAgICAgICAgICAgc3RhdHVzOiAnZm9yYmlkZGVuJywKICAgICAgICAgICAgICAgICAgICB0b2tlbjogdmVyaWZpZWRUb2tlbgogICAgICAgICAgICAgICAgfTsK</text>
@@ -5133,9 +5133,9 @@
       </register>
     </registers>
     <search>
-      <last-search>request.</last-search>
+      <last-search>getOktaGroups</last-search>
       <last-offset />
-      <last-pattern>request.</last-pattern>
+      <last-pattern>getOktaGroups</last-pattern>
       <last-replace>config.okta.APIKey</last-replace>
       <last-substitute>process.env.OKTA_API_KEY</last-substitute>
       <last-dir>1</last-dir>
@@ -5143,7 +5143,6 @@
     </search>
     <history>
       <history-search>
-        <entry>activate</entry>
         <entry>email =</entry>
         <entry>updatePreferences</entry>
         <entry>updateUserPreferences</entry>
@@ -5163,6 +5162,7 @@
         <entry>new Map</entry>
         <entry>register</entry>
         <entry>request.</entry>
+        <entry>getOktaGroups</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getUserNew/getUser/g</entry>
