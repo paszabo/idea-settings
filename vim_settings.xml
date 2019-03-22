@@ -103,12 +103,12 @@
         <mark key="." line="10" column="11" />
         <mark key="^" line="10" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/admin/adminUsersHandler.ts" timestamp="1553275209731">
-        <mark key="'" line="341" column="0" />
-        <mark key="[" line="89" column="58" />
-        <mark key="]" line="89" column="67" />
-        <mark key="." line="89" column="67" />
-        <mark key="^" line="89" column="67" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/admin/adminUsersHandler.ts" timestamp="1553278804696">
+        <mark key="'" line="316" column="0" />
+        <mark key="[" line="58" column="46" />
+        <mark key="]" line="58" column="47" />
+        <mark key="^" line="58" column="45" />
+        <mark key="." line="58" column="47" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/prod/prefs-config-production.sh" timestamp="1552328181461">
         <mark key="'" line="11" column="26" />
@@ -182,11 +182,11 @@
         <mark key="." line="196" column="19" />
         <mark key="^" line="196" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" timestamp="1553274337855">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" timestamp="1553278691180">
         <mark key="'" line="415" column="31" />
-        <mark key="[" line="160" column="21" />
-        <mark key="]" line="160" column="22" />
-        <mark key="." line="160" column="22" />
+        <mark key="[" line="68" column="21" />
+        <mark key="]" line="68" column="22" />
+        <mark key="." line="68" column="22" />
         <mark key="^" line="67" column="2" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/admin-config-paul-dev.sh" timestamp="1553119666326">
@@ -600,7 +600,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>${newUser.getProfile().mobilePhone</text>
+        <text>post</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5083,13 +5083,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>${newUser.getProfile().mobilePhone</text>
+        <text>post</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHVzZXI6IElVc2VyUmVzcG9uc2UgPSBhd2FpdCB1c2VyU2VydmljZS5nZXRVc2VyTGVnYWN5KAo=</text>
+      <register name="0" type="4">
+        <text>.commPreference</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHRyeSB7CiAgICB9IGNhdGNoIChlcnIpIHsKICAgICAgICBsb2dnZXIuZXJyb3IoZXJyLm1lc3NhZ2UpOwogICAgICAgIGNvbnN0IGVycm9yID0gZGV0ZXJtaW5lRXJyb3IoZXJyKTsKICAgICAgICBjYWxsYmFjayhlcnJvci50aHJvd0Vycm9yKCksIG51bGwpOwogICAgfQo=</text>
