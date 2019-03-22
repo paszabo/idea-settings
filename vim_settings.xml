@@ -16,9 +16,9 @@
         <mark key="." line="78" column="28" />
         <mark key="^" line="78" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1553212363937">
-        <mark key="'" line="32" column="49" />
-        <mark key="[" line="397" column="31" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1553213274435">
+        <mark key="'" line="126" column="49" />
+        <mark key="[" line="732" column="14" />
         <mark key="]" line="397" column="41" />
         <mark key="." line="397" column="41" />
         <mark key="^" line="397" column="41" />
@@ -789,14 +789,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="62" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/SMSService.ts" />
-      <jump line="35" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/SMSService.ts" />
-      <jump line="48" column="50" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/SMSService.ts" />
-      <jump line="49" column="48" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/SMSService.ts" />
-      <jump line="50" column="62" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/SMSService.ts" />
-      <jump line="139" column="43" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/TnCService.ts" />
-      <jump line="11" column="23" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" />
-      <jump line="12" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-utils.test.ts" />
       <jump line="96" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-utils.test.ts" />
       <jump line="1312" column="49" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
       <jump line="0" column="9" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/README.md" />
@@ -889,6 +881,14 @@
       <jump line="21" column="25" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="105" column="5" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
       <jump line="32" column="49" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="181" column="44" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="313" column="39" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="498" column="53" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="499" column="53" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="536" column="49" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="537" column="49" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="731" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="126" column="49" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5378,7 +5378,7 @@
         <text>p</text>
       </register>
       <register name="/" type="4">
-        <text>User is registered as prospect</text>
+        <text>new Map</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IFwKICAgIC0tQ0lBX0VYVEVSTkFMX1VTRVJTX1VSTD0iJHtDSUFfRVhURVJOQUxfVVNFUlNfVVJMfSI=</text>
@@ -5427,9 +5427,9 @@
       </register>
     </registers>
     <search>
-      <last-search>User is registered as prospect</last-search>
+      <last-search>new Map</last-search>
       <last-offset />
-      <last-pattern>User is registered as prospect</last-pattern>
+      <last-pattern>new Map</last-pattern>
       <last-replace>config.okta.APIKey</last-replace>
       <last-substitute>process.env.OKTA_API_KEY</last-substitute>
       <last-dir>1</last-dir>
@@ -5437,7 +5437,6 @@
     </search>
     <history>
       <history-search>
-        <entry>newPreferences</entry>
         <entry>isEmpty</entry>
         <entry>Duplicate user</entry>
         <entry>activate</entry>
@@ -5457,6 +5456,7 @@
         <entry>changeForgotPassword</entry>
         <entry>unsubscribe</entry>
         <entry>User is registered as prospect</entry>
+        <entry>new Map</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getUserNew/getUser/g</entry>
