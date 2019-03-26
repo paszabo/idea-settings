@@ -86,7 +86,7 @@
         <mark key="." line="10" column="11" />
         <mark key="^" line="10" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/admin/adminUsersHandler.ts" timestamp="1553529154733">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/admin/adminUsersHandler.ts" timestamp="1553619005081">
         <mark key="'" line="307" column="0" />
         <mark key="[" line="58" column="46" />
         <mark key="]" line="58" column="47" />
@@ -107,14 +107,14 @@
         <mark key="." line="20" column="21" />
         <mark key="^" line="20" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1553532186342">
-        <mark key="a" line="481" column="44" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1553619081946">
+        <mark key="a" line="481" column="45" />
         <mark key="b" line="44" column="4" />
-        <mark key="'" line="1033" column="39" />
+        <mark key="'" line="1223" column="54" />
         <mark key="[" line="1032" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" timestamp="1553192202441">
-        <mark key="'" line="105" column="5" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" timestamp="1553619298810">
+        <mark key="'" line="118" column="2" />
         <mark key="[" line="103" column="0" />
         <mark key="]" line="104" column="67" />
         <mark key="." line="103" column="0" />
@@ -135,12 +135,20 @@
         <mark key="." line="23" column="38" />
         <mark key="^" line="23" column="38" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/cleanup.ts" timestamp="1552652666714">
+        <mark key="[" line="6" column="44" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/deploy-prefs.sh" timestamp="1553184929504">
         <mark key="'" line="30" column="6" />
         <mark key="[" line="30" column="66" />
         <mark key="]" line="30" column="67" />
         <mark key="." line="30" column="67" />
         <mark key="^" line="30" column="67" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Helper.ts" timestamp="1553618961421">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" timestamp="1553533225739">
         <mark key="'" line="415" column="31" />
@@ -275,7 +283,9 @@
         <mark key="." line="30" column="19" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/IntercomMaketingService.ts" timestamp="1553192352360" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/IntercomMaketingService.ts" timestamp="1553619114301">
+        <mark key="[" line="32" column="46" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-utils.test.ts" timestamp="1552654245795">
         <mark key="'" line="96" column="0" />
         <mark key="[" line="128" column="37" />
@@ -327,6 +337,11 @@
         <mark key="." line="4" column="86" />
         <mark key="^" line="4" column="86" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/env/dev.sh" timestamp="1553181416594">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="67" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/test/preferences/unsubscribe.test.ts" timestamp="1553117410758" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/test-harness/cleanup.ts" timestamp="1553018379523">
         <mark key="'" line="18" column="13" />
@@ -337,10 +352,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/preferences/unsubscribe.test.ts" />
-      <jump line="6" column="10" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/preferences/unsubscribe.test.ts" />
-      <jump line="44" column="11" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/preferences/unsubscribe.test.ts" />
-      <jump line="45" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/preferences/unsubscribe.test.ts" />
       <jump line="183" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="736" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
       <jump line="1914" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
@@ -437,6 +448,10 @@
       <jump line="66" column="22" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
       <jump line="68" column="24" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
       <jump line="71" column="21" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
+      <jump line="1257" column="39" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="1223" column="54" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="298" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
+      <jump line="118" column="2" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4926,7 +4941,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>apiOptions</text>
+        <text>get</text>
       </register>
       <register name="0" type="4">
         <text>authStatus.token.uid</text>
@@ -4966,9 +4981,9 @@
       </register>
     </registers>
     <search>
-      <last-search>apiOptions</last-search>
+      <last-search>get</last-search>
       <last-offset />
-      <last-pattern>apiOptions</last-pattern>
+      <last-pattern>get</last-pattern>
       <last-replace>config.okta.APIKey</last-replace>
       <last-substitute>process.env.OKTA_API_KEY</last-substitute>
       <last-dir>1</last-dir>
@@ -4976,7 +4991,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dev</entry>
         <entry encoding="base64">XDxVU0VSX1NFU1NJT05fQ0FDSEVfRFVSQVRJT05cPg==</entry>
         <entry>changeForgotPassword</entry>
         <entry>unsubscribe</entry>
@@ -4996,6 +5010,7 @@
         <entry>enhancedAuthContext</entry>
         <entry>handler</entry>
         <entry>apiOptions</entry>
+        <entry>get</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getUserNew/getUser/g</entry>
