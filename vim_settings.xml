@@ -107,10 +107,10 @@
         <mark key="." line="20" column="21" />
         <mark key="^" line="20" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1553619081946">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1553624682329">
         <mark key="a" line="481" column="45" />
         <mark key="b" line="44" column="4" />
-        <mark key="'" line="1223" column="54" />
+        <mark key="'" line="1232" column="38" />
         <mark key="[" line="1032" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" timestamp="1553619298810">
@@ -204,7 +204,7 @@
         <mark key="." line="44" column="22" />
         <mark key="^" line="44" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/MailService.ts" timestamp="1553531875795">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/MailService.ts" timestamp="1553624700756">
         <mark key="'" line="72" column="44" />
         <mark key="[" line="61" column="42" />
         <mark key="]" line="61" column="49" />
@@ -260,9 +260,9 @@
         <mark key="." line="237" column="36" />
         <mark key="^" line="237" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IAppDetails.ts" timestamp="1553529846077">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IAppDetails.ts" timestamp="1553624904689">
         <mark key="a" line="28" column="34" />
-        <mark key="'" line="84" column="17" />
+        <mark key="'" line="3" column="17" />
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="23" />
         <mark key="^" line="89" column="22" />
@@ -352,8 +352,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
-      <jump line="736" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
       <jump line="1914" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="562" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="581" column="22" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
@@ -452,6 +450,8 @@
       <jump line="1223" column="54" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="298" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
       <jump line="118" column="2" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
+      <jump line="1232" column="38" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="3" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/models/IAppDetails.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4941,7 +4941,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>get</text>
+        <text>mailService</text>
       </register>
       <register name="0" type="4">
         <text>authStatus.token.uid</text>
@@ -4981,9 +4981,9 @@
       </register>
     </registers>
     <search>
-      <last-search>get</last-search>
+      <last-search>mailService</last-search>
       <last-offset />
-      <last-pattern>get</last-pattern>
+      <last-pattern>mailService</last-pattern>
       <last-replace>config.okta.APIKey</last-replace>
       <last-substitute>process.env.OKTA_API_KEY</last-substitute>
       <last-dir>1</last-dir>
@@ -4991,7 +4991,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxVU0VSX1NFU1NJT05fQ0FDSEVfRFVSQVRJT05cPg==</entry>
         <entry>changeForgotPassword</entry>
         <entry>unsubscribe</entry>
         <entry>User is registered as prospect</entry>
@@ -5011,6 +5010,7 @@
         <entry>handler</entry>
         <entry>apiOptions</entry>
         <entry>get</entry>
+        <entry>mailService</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getUserNew/getUser/g</entry>
