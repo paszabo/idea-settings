@@ -18,8 +18,8 @@
         <mark key="^" line="434" column="70" />
         <mark key="." line="460" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1553533276853">
-        <mark key="'" line="1181" column="0" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1553626535857">
+        <mark key="'" line="234" column="61" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" timestamp="1552614575296">
         <mark key="'" line="130" column="14" />
@@ -337,6 +337,7 @@
         <mark key="." line="4" column="86" />
         <mark key="^" line="4" column="86" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/models/UsernameRequest.json" timestamp="1553626545917" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/env/dev.sh" timestamp="1553181416594">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="67" />
@@ -352,7 +353,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1914" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="562" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="581" column="22" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="596" column="54" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
@@ -452,6 +452,7 @@
       <jump line="118" column="2" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
       <jump line="1232" column="38" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="3" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/models/IAppDetails.ts" />
+      <jump line="234" column="61" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4941,7 +4942,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>mailService</text>
+        <text>reset</text>
       </register>
       <register name="0" type="4">
         <text>authStatus.token.uid</text>
@@ -4981,9 +4982,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mailService</last-search>
+      <last-search>reset</last-search>
       <last-offset />
-      <last-pattern>mailService</last-pattern>
+      <last-pattern>reset</last-pattern>
       <last-replace>config.okta.APIKey</last-replace>
       <last-substitute>process.env.OKTA_API_KEY</last-substitute>
       <last-dir>1</last-dir>
@@ -4991,7 +4992,6 @@
     </search>
     <history>
       <history-search>
-        <entry>changeForgotPassword</entry>
         <entry>unsubscribe</entry>
         <entry>User is registered as prospect</entry>
         <entry>new Map</entry>
@@ -5011,6 +5011,7 @@
         <entry>apiOptions</entry>
         <entry>get</entry>
         <entry>mailService</entry>
+        <entry>reset</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getUserNew/getUser/g</entry>
