@@ -16,36 +16,16 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/dist/users/.serverless/cloudformation-template-update-stack.json" timestamp="1553690497744">
         <mark key="'" line="3216" column="637" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1553274917534">
-        <mark key="a" line="468" column="44" />
-        <mark key="'" line="36" column="23" />
-        <mark key="[" line="460" column="12" />
-        <mark key="]" line="460" column="12" />
-        <mark key="^" line="434" column="70" />
-        <mark key="." line="460" column="12" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/services/PreferencesService.test.ts" timestamp="1551461331784">
         <mark key="'" line="136" column="28" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/dist/admin/authorizer.js" timestamp="1553690292531" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1553798604770">
-        <mark key="'" line="234" column="61" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" timestamp="1552614575296">
-        <mark key="'" line="130" column="14" />
-        <mark key="[" line="16" column="33" />
-        <mark key="]" line="16" column="59" />
-        <mark key="." line="16" column="59" />
-        <mark key="^" line="16" column="59" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" timestamp="1553805522244">
+        <mark key="'" line="203" column="17" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/helper" timestamp="1552928686038" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" timestamp="1553798738848">
-        <mark key="a" line="271" column="3" />
         <mark key="'" line="1" column="18" />
-        <mark key="[" line="439" column="90" />
-        <mark key="]" line="444" column="14" />
-        <mark key="." line="444" column="14" />
-        <mark key="^" line="444" column="14" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-ui/src/App.js" timestamp="1552754558963">
         <mark key="[" line="41" column="50" />
@@ -123,14 +103,6 @@
         <mark key="." line="20" column="21" />
         <mark key="^" line="20" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1553629451048">
-        <mark key="a" line="481" column="45" />
-        <mark key="b" line="44" column="4" />
-        <mark key="'" line="1232" column="38" />
-        <mark key="[" line="518" column="0" />
-        <mark key="]" line="518" column="39" />
-        <mark key="." line="518" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/dist/admin/.serverless_plugins/remove-integration-response/index.js" timestamp="1553690140941" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" timestamp="1553619298810">
         <mark key="'" line="118" column="2" />
@@ -163,12 +135,6 @@
         <mark key="]" line="30" column="67" />
         <mark key="." line="30" column="67" />
         <mark key="^" line="30" column="67" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Helper.ts" timestamp="1553629893022">
-        <mark key="[" line="35" column="5" />
-        <mark key="]" line="35" column="5" />
-        <mark key="." line="35" column="5" />
-        <mark key="^" line="35" column="5" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" timestamp="1553533225739">
         <mark key="'" line="415" column="31" />
@@ -231,17 +197,14 @@
         <mark key="." line="44" column="22" />
         <mark key="^" line="44" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/MailService.ts" timestamp="1553781164546">
-        <mark key="[" line="330" column="65" />
-        <mark key="]" line="330" column="66" />
-        <mark key="." line="330" column="66" />
-        <mark key="^" line="330" column="55" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/MailService.ts" timestamp="1553805386273">
+        <mark key="[" line="0" column="65" />
+        <mark key="]" line="0" column="66" />
+        <mark key="." line="0" column="66" />
+        <mark key="^" line="0" column="55" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/env-configs/dev/users-config-dev.sh" timestamp="1553184526520">
         <mark key="'" line="13" column="27" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/env-configs/dev/admin-config-dev.sh" timestamp="1553184907225">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/configurations/AppConfig.ts" timestamp="1552755108060">
         <mark key="[" line="54" column="49" />
@@ -346,8 +309,8 @@
         <mark key="^" line="602" column="28" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-client/src/users/users.client.ts" timestamp="1552928728422" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/users.repository.ts" timestamp="1553196823059">
-        <mark key="'" line="132" column="48" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/users.repository.ts" timestamp="1553805076760">
+        <mark key="'" line="37" column="27" />
         <mark key="[" line="53" column="47" />
         <mark key="]" line="53" column="47" />
         <mark key="." line="53" column="47" />
@@ -373,13 +336,6 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="13" column="54" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1553187027955">
-        <mark key="'" line="21" column="25" />
-        <mark key="[" line="0" column="52" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/env/qa.sh" timestamp="1552999128372">
         <mark key="'" line="3" column="26" />
         <mark key="[" line="3" column="26" />
@@ -398,35 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/env-configs/qa/admin-config-qa.sh" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/env-configs/qa/prefs-config-qa.sh" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/env-configs/qa/tncs-config-qa.sh" />
-      <jump line="68" column="29" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
-      <jump line="342" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
-      <jump line="2" column="43" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
-      <jump line="20" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" />
-      <jump line="205" column="2" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
-      <jump line="413" column="31" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/deploy-local/deploy-tncs.sh" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/deploy-local/deploy-prefs.sh" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/deploy-local/deploy-admin.sh" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/admin-config-paul-dev.sh" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/prefs-config-paul-dev.sh" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/tncs-config-paul-dev.sh" />
-      <jump line="238" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
-      <jump line="236" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
-      <jump line="256" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
-      <jump line="260" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
-      <jump line="1183" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
-      <jump line="109" column="26" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="19" column="40" filename="$USER_HOME$/dev/repos/common-identity-api/src/models/RegisterRequest.ts" />
-      <jump line="43" column="7" filename="$USER_HOME$/dev/repos/common-identity-api/src/webhooks/unbounce.ts" />
-      <jump line="54" column="26" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
-      <jump line="27" column="22" filename="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/env-configs/dev/users-config-dev.sh" />
-      <jump line="13" column="27" filename="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/env-configs/dev/users-config-dev.sh" />
-      <jump line="27" column="7" filename="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/env-configs/dev/admin-config-dev.sh" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/env-configs/dev/admin-config-dev.sh" />
       <jump line="30" column="6" filename="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/deploy-prefs.sh" />
       <jump line="21" column="25" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="105" column="5" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
@@ -498,6 +425,35 @@
       <jump line="261" column="56" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
       <jump line="1" column="18" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
+      <jump line="47" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/users.repository.ts" />
+      <jump line="635" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="180" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/users.repository.ts" />
+      <jump line="37" column="27" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/users.repository.ts" />
+      <jump line="428" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="443" column="37" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="463" column="37" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="583" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="604" column="21" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="609" column="21" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="621" column="21" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="49" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" />
+      <jump line="80" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" />
+      <jump line="97" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" />
+      <jump line="114" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" />
+      <jump line="150" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" />
+      <jump line="157" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" />
+      <jump line="187" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" />
+      <jump line="262" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="1288" column="37" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="79" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" />
+      <jump line="104" column="25" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" />
+      <jump line="107" column="21" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" />
+      <jump line="110" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" />
+      <jump line="117" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" />
+      <jump line="130" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" />
+      <jump line="166" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" />
+      <jump line="173" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" />
+      <jump line="203" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4987,7 +4943,7 @@
         <text>return</text>
       </register>
       <register name="/" type="4">
-        <text>_</text>
+        <text>logger</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0ICogYXMgaGVscGVycyBmcm9tICcuLi9jb3JlL0hlbHBlcic7Cg==</text>
@@ -5027,9 +4983,9 @@
       </register>
     </registers>
     <search>
-      <last-search>_</last-search>
+      <last-search>logger</last-search>
       <last-offset />
-      <last-pattern>_</last-pattern>
+      <last-pattern>logger</last-pattern>
       <last-replace>config.okta.APIKey</last-replace>
       <last-substitute>process.env.OKTA_API_KEY</last-substitute>
       <last-dir>1</last-dir>
@@ -5037,8 +4993,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getOktaGroups</entry>
-        <entry>from the ID token</entry>
         <entry encoding="base64">XDx9XD4=</entry>
         <entry>activationToken</entry>
         <entry>admin</entry>
@@ -5051,12 +5005,14 @@
         <entry>apiOptions</entry>
         <entry>get</entry>
         <entry>mailService</entry>
-        <entry>reset</entry>
         <entry>Salesforce</entry>
         <entry>auth</entry>
         <entry>split</entry>
         <entry>context</entry>
         <entry>_</entry>
+        <entry>this.logger</entry>
+        <entry>reset</entry>
+        <entry>logger</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getUserNew/getUser/g</entry>
