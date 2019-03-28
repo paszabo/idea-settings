@@ -39,13 +39,13 @@
         <mark key="^" line="16" column="59" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/helper" timestamp="1552928686038" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" timestamp="1553781301113">
-        <mark key="a" line="270" column="3" />
-        <mark key="'" line="261" column="56" />
-        <mark key="[" line="261" column="32" />
-        <mark key="]" line="261" column="55" />
-        <mark key="." line="261" column="55" />
-        <mark key="^" line="261" column="55" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" timestamp="1553782451946">
+        <mark key="a" line="271" column="3" />
+        <mark key="'" line="1" column="18" />
+        <mark key="[" line="439" column="90" />
+        <mark key="]" line="444" column="14" />
+        <mark key="." line="444" column="14" />
+        <mark key="^" line="444" column="14" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-ui/src/App.js" timestamp="1552754558963">
         <mark key="[" line="41" column="50" />
@@ -398,8 +398,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/env-configs/dev/prefs-config-dev.sh" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/env-configs/dev/tncs-config-dev.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/env-configs/qa/admin-config-qa.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/env-configs/qa/prefs-config-qa.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/env-configs/qa/tncs-config-qa.sh" />
@@ -498,10 +496,12 @@
       <jump line="265" column="36" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
       <jump line="264" column="32" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
       <jump line="261" column="56" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
+      <jump line="1" column="18" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, &quot;&quot;</text>
+        <text>return</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4984,10 +4984,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, &quot;&quot;</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
-        <text>context</text>
+        <text>_</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0ICogYXMgaGVscGVycyBmcm9tICcuLi9jb3JlL0hlbHBlcic7Cg==</text>
@@ -5027,9 +5027,9 @@
       </register>
     </registers>
     <search>
-      <last-search>context</last-search>
+      <last-search>_</last-search>
       <last-offset />
-      <last-pattern>context</last-pattern>
+      <last-pattern>_</last-pattern>
       <last-replace>config.okta.APIKey</last-replace>
       <last-substitute>process.env.OKTA_API_KEY</last-substitute>
       <last-dir>1</last-dir>
@@ -5037,7 +5037,6 @@
     </search>
     <history>
       <history-search>
-        <entry>request.</entry>
         <entry>getOktaGroups</entry>
         <entry>from the ID token</entry>
         <entry encoding="base64">XDx9XD4=</entry>
@@ -5057,6 +5056,7 @@
         <entry>auth</entry>
         <entry>split</entry>
         <entry>context</entry>
+        <entry>_</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getUserNew/getUser/g</entry>
