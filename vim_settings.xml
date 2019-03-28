@@ -39,9 +39,9 @@
         <mark key="^" line="16" column="59" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/helper" timestamp="1552928686038" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" timestamp="1553615636145">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" timestamp="1553781301113">
         <mark key="a" line="270" column="3" />
-        <mark key="'" line="71" column="21" />
+        <mark key="'" line="261" column="56" />
         <mark key="[" line="261" column="32" />
         <mark key="]" line="261" column="55" />
         <mark key="." line="261" column="55" />
@@ -177,7 +177,7 @@
         <mark key="." line="68" column="22" />
         <mark key="^" line="67" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IAggregatorConfig.ts" timestamp="1553720619948" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IAggregatorConfig.ts" timestamp="1553780344024" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/deploy-admin.sh" timestamp="1553184890781">
         <mark key="[" line="38" column="66" />
         <mark key="]" line="38" column="67" />
@@ -231,7 +231,7 @@
         <mark key="." line="44" column="22" />
         <mark key="^" line="44" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/MailService.ts" timestamp="1553630808261">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/MailService.ts" timestamp="1553781164546">
         <mark key="[" line="330" column="65" />
         <mark key="]" line="330" column="66" />
         <mark key="." line="330" column="66" />
@@ -398,10 +398,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="6" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/TnCService.ts" />
-      <jump line="34" column="48" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/TnCService.ts" />
-      <jump line="47" column="26" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/TnCService.ts" />
-      <jump line="12" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/env-configs/dev/admin-config-dev.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/env-configs/dev/prefs-config-dev.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/env-configs/dev/tncs-config-dev.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/env-configs/qa/admin-config-qa.sh" />
@@ -498,6 +494,10 @@
       <jump line="3009" column="698" filename="$USER_HOME$/dev/repos/common-identity-api/dist/users/.serverless/cloudformation-template-update-stack.json" />
       <jump line="3010" column="1271" filename="$USER_HOME$/dev/repos/common-identity-api/dist/users/.serverless/cloudformation-template-update-stack.json" />
       <jump line="3216" column="637" filename="$USER_HOME$/dev/repos/common-identity-api/dist/users/.serverless/cloudformation-template-update-stack.json" />
+      <jump line="427" column="31" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
+      <jump line="265" column="36" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
+      <jump line="264" column="32" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
+      <jump line="261" column="56" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4987,7 +4987,7 @@
         <text>, &quot;&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>auth</text>
+        <text>context</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0ICogYXMgaGVscGVycyBmcm9tICcuLi9jb3JlL0hlbHBlcic7Cg==</text>
@@ -5027,9 +5027,9 @@
       </register>
     </registers>
     <search>
-      <last-search>auth</last-search>
+      <last-search>context</last-search>
       <last-offset />
-      <last-pattern>auth</last-pattern>
+      <last-pattern>context</last-pattern>
       <last-replace>config.okta.APIKey</last-replace>
       <last-substitute>process.env.OKTA_API_KEY</last-substitute>
       <last-dir>1</last-dir>
@@ -5037,8 +5037,6 @@
     </search>
     <history>
       <history-search>
-        <entry>new Map</entry>
-        <entry>register</entry>
         <entry>request.</entry>
         <entry>getOktaGroups</entry>
         <entry>from the ID token</entry>
@@ -5057,6 +5055,8 @@
         <entry>reset</entry>
         <entry>Salesforce</entry>
         <entry>auth</entry>
+        <entry>split</entry>
+        <entry>context</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getUserNew/getUser/g</entry>
