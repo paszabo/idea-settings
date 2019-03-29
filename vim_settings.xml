@@ -21,7 +21,7 @@
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/dist/admin/authorizer.js" timestamp="1553690292531" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" timestamp="1553805522244">
-        <mark key="'" line="203" column="17" />
+        <mark key="'" line="187" column="17" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/helper" timestamp="1552928686038" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" timestamp="1553798738848">
@@ -82,6 +82,7 @@
         <mark key="." line="10" column="11" />
         <mark key="^" line="10" column="11" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/admin-config-qa.sh" timestamp="1553879200681" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/admin/adminUsersHandler.ts" timestamp="1553619005081">
         <mark key="'" line="307" column="0" />
         <mark key="[" line="58" column="46" />
@@ -89,6 +90,7 @@
         <mark key="^" line="58" column="45" />
         <mark key="." line="58" column="47" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/env-configs/qa/users-config-qa.sh" timestamp="1553879179107" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/config.yml" timestamp="1553090982099">
         <mark key="'" line="108" column="24" />
         <mark key="[" line="74" column="36" />
@@ -125,9 +127,6 @@
         <mark key="]" line="23" column="38" />
         <mark key="." line="23" column="38" />
         <mark key="^" line="23" column="38" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/cleanup.ts" timestamp="1552652666714">
-        <mark key="[" line="6" column="44" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/deploy-prefs.sh" timestamp="1553184929504">
         <mark key="'" line="30" column="6" />
@@ -255,10 +254,10 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IAppDetails.ts" timestamp="1553807707469">
         <mark key="a" line="28" column="34" />
         <mark key="'" line="3" column="17" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="23" />
-        <mark key="^" line="89" column="22" />
-        <mark key="." line="89" column="0" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="23" />
+        <mark key="^" line="91" column="22" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/client/base.client.ts" timestamp="1553182732320" />
       <file name="$USER_HOME$/dev/repos/automp-be/.circleci/config.yml" timestamp="1551369237594">
@@ -281,9 +280,7 @@
         <mark key="." line="30" column="19" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/IntercomMaketingService.ts" timestamp="1553808754121">
-        <mark key="[" line="32" column="46" />
-      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/IntercomMaketingService.ts" timestamp="1553808754121" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Logger.ts" timestamp="1552618139417">
         <mark key="'" line="0" column="13" />
       </file>
@@ -335,6 +332,13 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
         <mark key="^" line="13" column="54" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/deploy-admin.sh" timestamp="1553878990795">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="38" column="66" />
+        <mark key="]" line="38" column="67" />
+        <mark key="^" line="38" column="67" />
+        <mark key="." line="38" column="67" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/env/qa.sh" timestamp="1552999128372">
         <mark key="'" line="3" column="26" />
