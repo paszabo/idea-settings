@@ -464,8 +464,8 @@
         <mark key="." line="117" column="57" />
         <mark key="^" line="117" column="57" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" timestamp="1553891948485">
-        <mark key="'" line="22" column="23" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" timestamp="1554237551097">
+        <mark key="'" line="136" column="32" />
         <mark key="[" line="43" column="21" />
         <mark key="]" line="43" column="34" />
         <mark key="." line="43" column="34" />
@@ -818,9 +818,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="166" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" />
-      <jump line="173" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" />
-      <jump line="203" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" />
       <jump line="243" column="54" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="553" column="39" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="548" column="22" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
@@ -918,6 +915,9 @@
       <jump line="878" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="890" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="74" column="29" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-flow.js" />
+      <jump line="203" column="26" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" />
+      <jump line="137" column="36" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" />
+      <jump line="136" column="32" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5407,7 +5407,7 @@
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>token</text>
+        <text>udience</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
@@ -5447,9 +5447,9 @@
       </register>
     </registers>
     <search>
-      <last-search>token</last-search>
+      <last-search>udience</last-search>
       <last-offset />
-      <last-pattern>token</last-pattern>
+      <last-pattern>udience</last-pattern>
       <last-replace>config.okta.APIKey</last-replace>
       <last-substitute>process.env.OKTA_API_KEY</last-substitute>
       <last-dir>1</last-dir>
@@ -5457,8 +5457,6 @@
     </search>
     <history>
       <history-search>
-        <entry>registerUser</entry>
-        <entry>AuthPolicy</entry>
         <entry>adminMemberId</entry>
         <entry>enhancedAuthContext</entry>
         <entry>handler</entry>
@@ -5477,6 +5475,8 @@
         <entry encoding="base64">XDx0aGlzXD4=</entry>
         <entry>this.logger</entry>
         <entry>token</entry>
+        <entry>audience</entry>
+        <entry>udience</entry>
       </history-search>
       <history-cmd>
         <entry>395</entry>
