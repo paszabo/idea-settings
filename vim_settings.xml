@@ -144,12 +144,12 @@
         <mark key="^" line="32" column="67" />
         <mark key="." line="32" column="67" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/admin/adminUsersHandler.ts" timestamp="1553619005081">
-        <mark key="'" line="307" column="0" />
-        <mark key="[" line="58" column="46" />
-        <mark key="]" line="58" column="47" />
-        <mark key="^" line="58" column="45" />
-        <mark key="." line="58" column="47" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/admin/adminUsersHandler.ts" timestamp="1554745735225">
+        <mark key="'" line="319" column="0" />
+        <mark key="[" line="80" column="13" />
+        <mark key="]" line="81" column="7" />
+        <mark key="^" line="81" column="7" />
+        <mark key="." line="81" column="7" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/aws-models.ts" timestamp="1551845928680">
         <mark key="[" line="168" column="30" />
@@ -196,12 +196,12 @@
         <mark key="." line="57" column="0" />
         <mark key="^" line="43" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1554743704539">
-        <mark key="'" line="890" column="8" />
-        <mark key="[" line="723" column="64" />
-        <mark key="]" line="723" column="64" />
-        <mark key="." line="723" column="64" />
-        <mark key="^" line="723" column="44" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1554746173270">
+        <mark key="'" line="908" column="8" />
+        <mark key="[" line="507" column="55" />
+        <mark key="]" line="507" column="55" />
+        <mark key="^" line="507" column="34" />
+        <mark key="." line="507" column="55" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/deploy-tncs.sh" timestamp="1553184978161">
         <mark key="'" line="1" column="0" />
@@ -229,6 +229,7 @@
         <mark key="." line="19" column="57" />
         <mark key="^" line="19" column="57" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IUser.ts" timestamp="1554746067373" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/GenericException.ts" timestamp="1552618369157">
         <mark key="'" line="5" column="22" />
         <mark key="[" line="23" column="21" />
@@ -921,7 +922,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>6.1</text>
+        <text>.activationMethod</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5404,7 +5405,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>6.1</text>
+        <text>.activationMethod</text>
       </register>
       <register name="/" type="4">
         <text>udience</text>
@@ -5413,34 +5414,34 @@
         <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBhY3RpdmF0aW9uVG9rZW4gPSBhd2FpdCB0aGlzLnRva2VuU2VydmljZS5hY3RpdmF0aW9uVG9rZW4oCiAgICAgICAgICAgIHJlZ2lzdGVyZWRVc2VyLnByb3ZpZGVySWQsCiAgICAgICAgICAgIG5ld1VzZXIuZ2V0UHJvZmlsZSgpLmFjdGl2YXRpb25NZXRob2QsCiAgICAgICAgKTsKICAgICAgICBpZiAobmV3VXNlci5nZXRQcm9maWxlKCkuYWN0aXZhdGlvbk1ldGhvZCA9PT0KICAgICAgICAgICAgY29uc3RhbnRzLkFjdGl2YXRpb25NZXRob2QuU01TKSB7CiAgICAgICAgICAgIGF3YWl0IHRoaXMuc21zU2VydmljZS5hY3RpdmF0aW9uU01TKAogICAgICAgICAgICAgICAgYWN0aXZhdGlvblRva2VuLnRva2VuLAogICAgICAgICAgICAgICAgbmV3VXNlci5nZXRQcm9maWxlKCkubW9iaWxlUGhvbmUsCiAgICAgICAgICAgICAgICBhcHBEZXRhaWxzLAogICAgICAgICAgICApOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGF3YWl0IHRoaXMubWFpbFNlcnZpY2UuYWN0aXZhdGlvbk1haWwoCiAgICAgICAgICAgICAgICBhY3RpdmF0aW9uVG9rZW4udG9rZW4sCiAgICAgICAgICAgICAgICByZWdpc3RlcmVkVXNlciwKICAgICAgICAgICAgICAgIGFwcERldGFpbHMsCiAgICAgICAgICAgICAgICByZWdpc3RyYXRpb25NZXRob2QsCiAgICAgICAgICAgICk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBhY3RpdmF0aW9uVG9rZW4gPSBhd2FpdCB0aGlzLnRva2VuU2VydmljZS5hY3RpdmF0aW9uVG9rZW4oCiAgICAgICAgICAgIHJlZ2lzdGVyZWRVc2VyLnByb3ZpZGVySWQsCiAgICAgICAgICAgIG5ld1VzZXIuZ2V0UHJvZmlsZSgpLmFjdGl2YXRpb25NZXRob2QsCiAgICAgICAgKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">SW4gdGhlIGRldiBlbnZpcm9ubWVudCwgb25jZSBhIHRlc3QgdXNlciBoYXMgYmVlbiBhY3RpdmF0ZWQsIGFuIGF1dGhvcml6YXRpb24gdG9rZW4gY2FuIGJlIHJldHJpZXZlZCBieSBsb2dnaW5nIGluIHdpdGggdGhlIGZvbGxvd2luZyBsaW5rOgoKU2ltcGx5IAo=</text>
+        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">SW4gdGhlIGRldiBlbnZpcm9ubWVudCwgb25jZSBhIHRlc3QgdXNlciBoYXMgYmVlbiBhY3RpdmF0ZWQsIGFuIGF1dGhvcml6YXRpb24gdG9rZW4gY2FuIGJlIHJldHJpZXZlZCBieSBsb2dnaW5nIGluIHdpdGggdGhlIGZvbGxvd2luZyBsaW5rOgoKU2ltcGx5IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ewogICJleHBpcnkiOiAiMjAxOC0wNC0yNFQxNTozNzoyNC40NDFaIiwKICAicHJvdmlkZXJJZCI6ICIwMHVlc3RlaGNlWFV3VnludTBoNyIsCiAgInRva2VuIjogIjRmOTZiZTg3LWZhYTgtNDEzOS04N2NmLTVjYTU0OGU3YmFlYyIKICAibWV0aG9kIjogInNtcyIKfQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ewogICJleHBpcnkiOiAiMjAxOC0wNC0yM1QxNTozNzoyNC40MzhaIiwKICAicHJvdmlkZXJJZCI6ICIwMHVlc3RlaGNlWFV3VnludTBoNyIsCiAgInRva2VuIjogImJjOTg2NGMwLTNiZDMtNDVhZS05YjlmLWMxNTYxNTVhZTFiNiIsCiAgIm1ldGhvZCI6ICJzbXMiCn0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ewogICJleHBpcnkiOiAiMjAxOC0wNC0yNFQxNTozNzoyNC40NDFaIiwKICAicHJvdmlkZXJJZCI6ICIwMHVlc3RlaGNlWFV3VnludTBoNyIsCiAgInRva2VuIjogIjRmOTZiZTg3LWZhYTgtNDEzOS04N2NmLTVjYTU0OGU3YmFlYyIKICAibWV0aG9kIjogInNtcyIKfQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">ewogICJleHBpcnkiOiAiMjAxOC0wNC0yM1QxNTozNzoyNC40MzhaIiwKICAicHJvdmlkZXJJZCI6ICIwMHVlc3RlaGNlWFV3VnludTBoNyIsCiAgInRva2VuIjogImJjOTg2NGMwLTNiZDMtNDVhZS05YjlmLWMxNTYxNTVhZTFiNiIsCiAgIm1ldGhvZCI6ICJzbXMiCn0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
