@@ -28,6 +28,9 @@
         <mark key="^" line="24" column="32" />
         <mark key="." line="24" column="32" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1554824353387">
+        <mark key="'" line="280" column="27" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" timestamp="1554756323800">
         <mark key="'" line="1" column="18" />
         <mark key="[" line="409" column="0" />
@@ -702,8 +705,8 @@
         <mark key="^" line="38" column="67" />
         <mark key="." line="38" column="67" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1553893629208">
-        <mark key="'" line="82" column="54" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1554824367907">
+        <mark key="'" line="89" column="0" />
         <mark key="[" line="0" column="52" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
@@ -763,8 +766,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="548" column="22" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
-      <jump line="82" column="54" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="66" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="248" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="245" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
@@ -863,6 +864,8 @@
       <jump line="136" column="32" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" />
       <jump line="23" column="6" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/handler-utils.ts" />
       <jump line="32" column="52" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/admin/adminUsersHandler.ts" />
+      <jump line="280" column="27" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="89" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5352,7 +5355,7 @@
         <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>udience</text>
+        <text>joinAppUsername</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5sb2dnZXIuaW5mbygnRW1haWwgaGFzIGJlZW4gdmVyaWZpZWQgZXh0ZXJuYWxseSAtIG5vdCB0cmlnZ2VyaW5nIGVtYWlsIHZlcmlmaWNhdGlvbiBmbG93Jyk7Cg==</text>
@@ -5403,9 +5406,9 @@
       </register>
     </registers>
     <search>
-      <last-search>udience</last-search>
+      <last-search>joinAppUsername</last-search>
       <last-offset />
-      <last-pattern>udience</last-pattern>
+      <last-pattern>joinAppUsername</last-pattern>
       <last-replace>config.okta.APIKey</last-replace>
       <last-substitute>process.env.OKTA_API_KEY</last-substitute>
       <last-dir>1</last-dir>
@@ -5413,8 +5416,6 @@
     </search>
     <history>
       <history-search>
-        <entry>adminMemberId</entry>
-        <entry>enhancedAuthContext</entry>
         <entry>handler</entry>
         <entry>apiOptions</entry>
         <entry>get</entry>
@@ -5433,6 +5434,8 @@
         <entry>token</entry>
         <entry>audience</entry>
         <entry>udience</entry>
+        <entry>apps</entry>
+        <entry>joinAppUsername</entry>
       </history-search>
       <history-cmd>
         <entry>1276</entry>
