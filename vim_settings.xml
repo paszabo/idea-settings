@@ -25,6 +25,7 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/services/PreferencesService.test.ts" timestamp="1551461331784">
         <mark key="'" line="136" column="28" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1554831693571" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/scim/package.json" timestamp="1551280723763">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="18" />
@@ -199,12 +200,8 @@
         <mark key="." line="57" column="0" />
         <mark key="^" line="43" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1554759216902">
-        <mark key="'" line="908" column="8" />
-        <mark key="[" line="520" column="29" />
-        <mark key="]" line="520" column="29" />
-        <mark key="^" line="520" column="29" />
-        <mark key="." line="520" column="29" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1554831686864">
+        <mark key="'" line="934" column="8" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/deploy-tncs.sh" timestamp="1553184978161">
         <mark key="'" line="1" column="0" />
@@ -219,8 +216,8 @@
         <mark key="^" line="8" column="88" />
         <mark key="." line="8" column="88" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" timestamp="1553619298810">
-        <mark key="'" line="118" column="2" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" timestamp="1554832056995">
+        <mark key="'" line="12" column="33" />
         <mark key="[" line="103" column="0" />
         <mark key="]" line="104" column="67" />
         <mark key="." line="103" column="0" />
@@ -807,7 +804,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="248" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="245" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="108" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/applications.service.ts" />
       <jump line="115" column="48" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/applications.service.ts" />
@@ -907,6 +903,7 @@
       <jump line="280" column="27" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="89" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/prefs-config-paul-dev.sh" />
+      <jump line="12" column="33" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -5396,7 +5393,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>joinAppUsername</text>
+        <text>unsubscribe</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IC0gc3RyaW5n</text>
@@ -5440,9 +5437,9 @@
       </register>
     </registers>
     <search>
-      <last-search>joinAppUsername</last-search>
+      <last-search>unsubscribe</last-search>
       <last-offset />
-      <last-pattern>joinAppUsername</last-pattern>
+      <last-pattern>unsubscribe</last-pattern>
       <last-replace>config.okta.APIKey</last-replace>
       <last-substitute>process.env.OKTA_API_KEY</last-substitute>
       <last-dir>1</last-dir>
@@ -5450,7 +5447,6 @@
     </search>
     <history>
       <history-search>
-        <entry>handler</entry>
         <entry>apiOptions</entry>
         <entry>get</entry>
         <entry>mailService</entry>
@@ -5470,6 +5466,7 @@
         <entry>udience</entry>
         <entry>apps</entry>
         <entry>joinAppUsername</entry>
+        <entry>unsubscribe</entry>
       </history-search>
       <history-cmd>
         <entry>99</entry>
