@@ -203,6 +203,12 @@
         <mark key="." line="57" column="0" />
         <mark key="^" line="43" column="43" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/jest.api.setup.js" timestamp="1554917687266">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1554846195498">
         <mark key="'" line="946" column="8" />
         <mark key="[" line="562" column="77" />
@@ -740,6 +746,12 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/env-configs/dev/prefs-config-dev.sh" timestamp="1553184529342">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/jest.api.config.js" timestamp="1554917664571">
+        <mark key="[" line="6" column="42" />
+        <mark key="]" line="6" column="45" />
+        <mark key="^" line="6" column="45" />
+        <mark key="." line="6" column="45" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/README.md" timestamp="1551381271744">
         <mark key="[" line="36" column="75" />
         <mark key="]" line="36" column="75" />
@@ -922,8 +934,8 @@
       <jump line="12" column="9" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-utils.test.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KDEpLnRvRXF1YWwoMik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>3</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5406,7 +5418,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>SMS</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>unsubscribe</text>
