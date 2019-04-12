@@ -18,7 +18,6 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/services/PreferencesService.test.ts" timestamp="1551461331784">
         <mark key="'" line="136" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1554831693571" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/scim/package.json" timestamp="1551280723763">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="18" />
@@ -66,8 +65,8 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="31" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/tncs/tncHandler.ts" timestamp="1553114071464">
-        <mark key="'" line="60" column="63" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/tncs/tncHandler.ts" timestamp="1555100935358">
+        <mark key="'" line="14" column="18" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/package.json" timestamp="1552486893482">
         <mark key="[" line="13" column="0" />
@@ -93,7 +92,7 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="23" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/config.ts" timestamp="1555007407976">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/config.ts" timestamp="1555100967581">
         <mark key="'" line="69" column="5" />
         <mark key="[" line="12" column="34" />
         <mark key="]" line="12" column="55" />
@@ -115,7 +114,6 @@
         <mark key="." line="17" column="62" />
         <mark key="^" line="17" column="62" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/.editorconfig" timestamp="1555007382123" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/scripts/version-bump.sh" timestamp="1555007758772">
         <mark key="[" line="2" column="9" />
         <mark key="]" line="2" column="16" />
@@ -196,8 +194,6 @@
         <mark key="." line="19" column="57" />
         <mark key="^" line="19" column="57" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/users-config-qa.sh" timestamp="1555007980404" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IUser.ts" timestamp="1554837363311" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Helper.ts" timestamp="1554747330198">
         <mark key="[" line="37" column="33" />
         <mark key="]" line="38" column="28" />
@@ -279,14 +275,12 @@
         <mark key="^" line="38" column="67" />
         <mark key="." line="38" column="67" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/users-config-dev.sh" timestamp="1555008003311" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/test-spyon.test.ts" timestamp="1551804084754">
         <mark key="[" line="18" column="26" />
         <mark key="]" line="18" column="35" />
         <mark key="^" line="18" column="35" />
         <mark key="." line="18" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/jsonwebtoken/index.d.ts" timestamp="1554491673283" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/users/register-user.test.ts" timestamp="1553016440634">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="65" />
@@ -456,11 +450,14 @@
         <mark key="." line="30" column="19" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/tncs-config-production.sh" timestamp="1555008123321">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="26" column="93" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="11" column="26" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/tncs-config-dev.sh" timestamp="1555100993477">
+        <mark key="'" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/tncs-config-production.sh" timestamp="1555101040153">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="77" />
+        <mark key="." line="27" column="77" />
+        <mark key="^" line="27" column="77" />
       </file>
       <file name="$USER_HOME$/dev/repos/code-coverage-example/myapp.js" timestamp="1551972797104">
         <mark key="[" line="14" column="36" />
@@ -508,6 +505,7 @@
         <mark key="." line="9" column="19" />
         <mark key="^" line="6" column="62" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" timestamp="1555100922256" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/env-configs/qa/admin-config-qa.sh" timestamp="1553184516518">
         <mark key="'" line="0" column="0" />
       </file>
@@ -611,8 +609,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1310" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="1318" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="1330" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="1380" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="59" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
@@ -711,6 +707,8 @@
       <jump line="195" column="11" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer-memberid.js" />
       <jump line="196" column="10" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer-memberid.js" />
       <jump line="198" column="6" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer-memberid.js" />
+      <jump line="14" column="18" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/tncs/tncHandler.ts" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/tncs-config-dev.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5200,7 +5198,7 @@
         <text>005500504518</text>
       </register>
       <register name="/" type="4">
-        <text>policy</text>
+        <text>ENDPOINT</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Q09CUkFORF9DQUNIRV9EVVJBVElPTj0iMzYwMCIKVVNFUl9TRVNTSU9OX0NBQ0hFX0RVUkFUSU9OPSIxNTAwIgpDSUFfRVhURVJOQUxfVVNFUlNfVVJMPSJodHRwczovLzEwMmh0bjFlZTkuZXhlY3V0ZS1hcGkuY2EtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vcHJvZHVjdGlvbiIKQ0lBX0VYVEVSTkFMX1BSRUZTX1VSTD0iaHR0cHM6Ly92am4wcHF1YmpsLmV4ZWN1dGUtYXBpLmNhLWNlbnRyYWwtMS5hbWF6b25hd3MuY29tL3Byb2R1Y3Rpb24iCg==</text>
@@ -5240,9 +5238,9 @@
       </register>
     </registers>
     <search>
-      <last-search>policy</last-search>
+      <last-search>ENDPOINT</last-search>
       <last-offset />
-      <last-pattern>policy</last-pattern>
+      <last-pattern>ENDPOINT</last-pattern>
       <last-replace>config.okta.APIKey</last-replace>
       <last-substitute>process.env.OKTA_API_KEY</last-substitute>
       <last-dir>1</last-dir>
@@ -5250,8 +5248,6 @@
     </search>
     <history>
       <history-search>
-        <entry>token</entry>
-        <entry>audience</entry>
         <entry>udience</entry>
         <entry>apps</entry>
         <entry>joinAppUsername</entry>
@@ -5270,6 +5266,8 @@
         <entry>Prospect</entry>
         <entry>0055</entry>
         <entry>policy</entry>
+        <entry>getCurrentTnC</entry>
+        <entry>ENDPOINT</entry>
       </history-search>
       <history-cmd>
         <entry>34</entry>
