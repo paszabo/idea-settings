@@ -22,12 +22,12 @@
         <mark key="^" line="24" column="32" />
         <mark key="." line="24" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1555082571355">
-        <mark key="'" line="173" column="60" />
-        <mark key="[" line="2152" column="18" />
-        <mark key="]" line="2152" column="18" />
-        <mark key="." line="2152" column="18" />
-        <mark key="^" line="173" column="42" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1555087586891">
+        <mark key="'" line="2150" column="54" />
+        <mark key="[" line="173" column="43" />
+        <mark key="]" line="173" column="62" />
+        <mark key="." line="173" column="62" />
+        <mark key="^" line="173" column="62" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" timestamp="1554756323800">
         <mark key="'" line="1" column="18" />
@@ -560,7 +560,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1232" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="1234" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="1238" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="1242" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
@@ -660,10 +659,11 @@
       <jump line="53" column="46" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="216" column="25" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="173" column="60" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="2150" column="54" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>scribe</text>
+        <text>005500504518</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5146,10 +5146,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>scribe</text>
+        <text>005500504518</text>
       </register>
       <register name="/" type="4">
-        <text>Prospect</text>
+        <text>0055</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Q09CUkFORF9DQUNIRV9EVVJBVElPTj0iMzYwMCIKVVNFUl9TRVNTSU9OX0NBQ0hFX0RVUkFUSU9OPSIxNTAwIgpDSUFfRVhURVJOQUxfVVNFUlNfVVJMPSJodHRwczovLzEwMmh0bjFlZTkuZXhlY3V0ZS1hcGkuY2EtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vcHJvZHVjdGlvbiIKQ0lBX0VYVEVSTkFMX1BSRUZTX1VSTD0iaHR0cHM6Ly92am4wcHF1YmpsLmV4ZWN1dGUtYXBpLmNhLWNlbnRyYWwtMS5hbWF6b25hd3MuY29tL3Byb2R1Y3Rpb24iCg==</text>
@@ -5189,9 +5189,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Prospect</last-search>
+      <last-search>0055</last-search>
       <last-offset />
-      <last-pattern>Prospect</last-pattern>
+      <last-pattern>0055</last-pattern>
       <last-replace>config.okta.APIKey</last-replace>
       <last-substitute>process.env.OKTA_API_KEY</last-substitute>
       <last-dir>1</last-dir>
@@ -5199,7 +5199,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0aGlzXD4=</entry>
         <entry>this.logger</entry>
         <entry>token</entry>
         <entry>audience</entry>
@@ -5219,6 +5218,7 @@
         <entry>constructor</entry>
         <entry>AWS_ACCOUNT_ID</entry>
         <entry>Prospect</entry>
+        <entry>0055</entry>
       </history-search>
       <history-cmd>
         <entry>34</entry>
