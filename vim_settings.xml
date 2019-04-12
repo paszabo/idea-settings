@@ -22,6 +22,13 @@
         <mark key="^" line="24" column="32" />
         <mark key="." line="24" column="32" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1555082571355">
+        <mark key="'" line="173" column="60" />
+        <mark key="[" line="2152" column="18" />
+        <mark key="]" line="2152" column="18" />
+        <mark key="." line="2152" column="18" />
+        <mark key="^" line="173" column="42" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" timestamp="1554756323800">
         <mark key="'" line="1" column="18" />
         <mark key="[" line="409" column="0" />
@@ -241,7 +248,7 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/deploy-users.sh" timestamp="1553890671126">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/deploy-users.sh" timestamp="1555082331896">
         <mark key="[" line="38" column="66" />
         <mark key="]" line="38" column="67" />
         <mark key="^" line="38" column="67" />
@@ -546,8 +553,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1163" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="1184" column="30" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="1232" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="1234" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="1238" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
@@ -646,10 +651,12 @@
       <jump line="152" column="59" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="582" column="15" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="53" column="46" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="216" column="25" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="173" column="60" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Q09CUkFORF9DQUNIRV9EVVJBVElPTj0iMzYwMCIKVVNFUl9TRVNTSU9OX0NBQ0hFX0RVUkFUSU9OPSIxNTAwIgpDSUFfRVhURVJOQUxfVVNFUlNfVVJMPSJodHRwczovLzEwMmh0bjFlZTkuZXhlY3V0ZS1hcGkuY2EtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vcHJvZHVjdGlvbiIKQ0lBX0VYVEVSTkFMX1BSRUZTX1VSTD0iaHR0cHM6Ly92am4wcHF1YmpsLmV4ZWN1dGUtYXBpLmNhLWNlbnRyYWwtMS5hbWF6b25hd3MuY29tL3Byb2R1Y3Rpb24iCg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5132,10 +5139,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>constructor</text>
+        <text>Prospect</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Q09CUkFORF9DQUNIRV9EVVJBVElPTj0iMzYwMCIKVVNFUl9TRVNTSU9OX0NBQ0hFX0RVUkFUSU9OPSIxNTAwIgpDSUFfRVhURVJOQUxfVVNFUlNfVVJMPSJodHRwczovLzEwMmh0bjFlZTkuZXhlY3V0ZS1hcGkuY2EtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vcHJvZHVjdGlvbiIKQ0lBX0VYVEVSTkFMX1BSRUZTX1VSTD0iaHR0cHM6Ly92am4wcHF1YmpsLmV4ZWN1dGUtYXBpLmNhLWNlbnRyYWwtMS5hbWF6b25hd3MuY29tL3Byb2R1Y3Rpb24iCg==</text>
@@ -5175,9 +5182,9 @@
       </register>
     </registers>
     <search>
-      <last-search>constructor</last-search>
+      <last-search>Prospect</last-search>
       <last-offset />
-      <last-pattern>constructor</last-pattern>
+      <last-pattern>Prospect</last-pattern>
       <last-replace>config.okta.APIKey</last-replace>
       <last-substitute>process.env.OKTA_API_KEY</last-substitute>
       <last-dir>1</last-dir>
@@ -5185,8 +5192,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getUser</entry>
-        <entry>logger</entry>
         <entry encoding="base64">XDx0aGlzXD4=</entry>
         <entry>this.logger</entry>
         <entry>token</entry>
@@ -5205,6 +5210,8 @@
         <entry>emailVerified:</entry>
         <entry>verifyEmail</entry>
         <entry>constructor</entry>
+        <entry>AWS_ACCOUNT_ID</entry>
+        <entry>Prospect</entry>
       </history-search>
       <history-cmd>
         <entry>34</entry>
