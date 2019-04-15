@@ -136,10 +136,6 @@
         <mark key="^" line="51" column="30" />
         <mark key="." line="51" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/env-configs/qa/users-config-qa.sh" timestamp="1555008059461">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="30" column="85" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/users.api.test.ts" timestamp="1551898271594">
         <mark key="[" line="5" column="41" />
         <mark key="]" line="5" column="42" />
@@ -170,6 +166,14 @@
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1555354432756">
+        <mark key="a" line="566" column="19" />
+        <mark key="'" line="53" column="46" />
+        <mark key="[" line="447" column="55" />
+        <mark key="]" line="447" column="74" />
+        <mark key="^" line="563" column="6" />
+        <mark key="." line="563" column="6" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-tutorials/register-prospect-user/README.md" timestamp="1551189707352">
         <mark key="[" line="9" column="0" />
@@ -560,8 +564,8 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="13" column="54" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1554999617741">
-        <mark key="'" line="89" column="0" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1555354411612">
+        <mark key="'" line="95" column="12" />
         <mark key="[" line="0" column="52" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
@@ -609,14 +613,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1330" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="1380" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="59" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="62" column="60" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="63" column="53" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="65" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="72" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="76" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="128" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="133" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="224" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
@@ -709,6 +705,14 @@
       <jump line="198" column="6" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer-memberid.js" />
       <jump line="14" column="18" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/tncs/tncHandler.ts" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/tncs-config-dev.sh" />
+      <jump line="455" column="5" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="634" column="33" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="28" column="5" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="40" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="49" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="92" column="3" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="94" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="95" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5198,7 +5202,7 @@
         <text>app_</text>
       </register>
       <register name="/" type="4">
-        <text>ENDPOINT</text>
+        <text>Register</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Q09CUkFORF9DQUNIRV9EVVJBVElPTj0iMzYwMCIKVVNFUl9TRVNTSU9OX0NBQ0hFX0RVUkFUSU9OPSIxNTAwIgpDSUFfRVhURVJOQUxfVVNFUlNfVVJMPSJodHRwczovLzEwMmh0bjFlZTkuZXhlY3V0ZS1hcGkuY2EtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vcHJvZHVjdGlvbiIKQ0lBX0VYVEVSTkFMX1BSRUZTX1VSTD0iaHR0cHM6Ly92am4wcHF1YmpsLmV4ZWN1dGUtYXBpLmNhLWNlbnRyYWwtMS5hbWF6b25hd3MuY29tL3Byb2R1Y3Rpb24iCg==</text>
@@ -5238,9 +5242,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ENDPOINT</last-search>
+      <last-search>Register</last-search>
       <last-offset />
-      <last-pattern>ENDPOINT</last-pattern>
+      <last-pattern>Register</last-pattern>
       <last-replace>config.okta.APIKey</last-replace>
       <last-substitute>process.env.OKTA_API_KEY</last-substitute>
       <last-dir>1</last-dir>
@@ -5248,7 +5252,6 @@
     </search>
     <history>
       <history-search>
-        <entry>udience</entry>
         <entry>apps</entry>
         <entry>joinAppUsername</entry>
         <entry>unsubscribe</entry>
@@ -5268,6 +5271,7 @@
         <entry>policy</entry>
         <entry>getCurrentTnC</entry>
         <entry>ENDPOINT</entry>
+        <entry>Register</entry>
       </history-search>
       <history-cmd>
         <entry>34</entry>
