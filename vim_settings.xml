@@ -56,12 +56,10 @@
         <mark key="." line="53" column="39" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1555354432756">
-        <mark key="a" line="566" column="19" />
+        <mark key="a" line="604" column="19" />
         <mark key="'" line="53" column="46" />
-        <mark key="[" line="447" column="55" />
-        <mark key="]" line="447" column="74" />
-        <mark key="^" line="563" column="6" />
-        <mark key="." line="563" column="6" />
+        <mark key="^" line="601" column="6" />
+        <mark key="." line="601" column="6" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" timestamp="1555083831650">
         <mark key="'" line="12" column="33" />
@@ -100,13 +98,12 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/env-configs/dev/users-config-dev.sh" timestamp="1553184526520">
         <mark key="'" line="13" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IAppDetails.ts" timestamp="1555350346927">
-        <mark key="a" line="128" column="34" />
-        <mark key="'" line="13" column="27" />
-        <mark key="[" line="13" column="27" />
-        <mark key="]" line="13" column="27" />
-        <mark key="^" line="13" column="28" />
-        <mark key="." line="13" column="27" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IAppDetails.ts" timestamp="1555432396599">
+        <mark key="a" line="318" column="34" />
+        <mark key="[" line="63" column="68" />
+        <mark key="]" line="63" column="78" />
+        <mark key="^" line="63" column="78" />
+        <mark key="." line="63" column="78" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/scripts/app-config-ls.js" timestamp="1555343889527">
         <mark key="[" line="16" column="117" />
@@ -287,7 +284,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>app_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4770,7 +4767,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>app_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Register</text>
@@ -4809,7 +4806,7 @@
         <text encoding="base64">ICAgICAgICBjb25zdCB1c2VyOiBhbnkgPSB7CiAgICAgICAgICAgIHByb3ZpZGVySWQ6ICdmb29iYXInLAogICAgICAgICAgICBtb2JpbGVQaG9uZTogJzQxNiA1NTUgMTIzNCcsCiAgICAgICAgfTsK</text>
       </register>
       <register name=":" type="4">
-        <text>469</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -4863,8 +4860,8 @@
         <entry>we</entry>
         <entry>wq</entry>
         <entry>0</entry>
-        <entry>w</entry>
         <entry>469</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
