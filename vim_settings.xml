@@ -10,6 +10,9 @@
         <mark key="." line="12" column="16" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1555426448507" />
+      <file name="/a.dummy" timestamp="1555956712531">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/scim/package.json" timestamp="1551280723763">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="18" />
@@ -159,13 +162,13 @@
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1555951274007">
-        <mark key="a" line="1023" column="6" />
-        <mark key="'" line="123" column="64" />
-        <mark key="[" line="1034" column="16" />
-        <mark key="]" line="1034" column="16" />
-        <mark key="." line="1034" column="16" />
-        <mark key="^" line="1035" column="32" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1555955454578">
+        <mark key="a" line="1035" column="32" />
+        <mark key="'" line="48" column="4" />
+        <mark key="[" line="1067" column="41" />
+        <mark key="]" line="1067" column="61" />
+        <mark key="." line="1070" column="12" />
+        <mark key="^" line="1071" column="12" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-tutorials/register-prospect-user/README.md" timestamp="1551189707352">
         <mark key="[" line="9" column="0" />
@@ -192,7 +195,7 @@
         <mark key="." line="19" column="57" />
         <mark key="^" line="19" column="57" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Helper.ts" timestamp="1555527608554">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Helper.ts" timestamp="1555957554191">
         <mark key="[" line="37" column="33" />
         <mark key="]" line="38" column="28" />
         <mark key="^" line="38" column="28" />
@@ -291,6 +294,13 @@
         <mark key="^" line="18" column="35" />
         <mark key="." line="18" column="35" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/data/MockData.ts" timestamp="1555956415469">
+        <mark key="'" line="28" column="37" />
+        <mark key="[" line="28" column="24" />
+        <mark key="]" line="28" column="28" />
+        <mark key="." line="28" column="28" />
+        <mark key="^" line="28" column="28" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/repositories/users.repository.test.ts" timestamp="1555539318200">
         <mark key="'" line="208" column="44" />
         <mark key="[" line="208" column="37" />
@@ -346,10 +356,10 @@
         <mark key="^" line="3" column="128" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/token.service.ts" timestamp="1555949967806">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/token.service.ts" timestamp="1555958027128">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="165" column="9" />
-        <mark key="]" line="166" column="7" />
+        <mark key="[" line="118" column="17" />
+        <mark key="]" line="118" column="28" />
         <mark key="." line="166" column="7" />
         <mark key="^" line="166" column="7" />
       </file>
@@ -385,12 +395,12 @@
         <mark key="^" line="16" column="117" />
         <mark key="." line="16" column="117" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" timestamp="1555952085983">
-        <mark key="'" line="1260" column="61" />
-        <mark key="[" line="1230" column="112" />
-        <mark key="]" line="1231" column="98" />
-        <mark key="^" line="1231" column="98" />
-        <mark key="." line="1231" column="98" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" timestamp="1555957700519">
+        <mark key="'" line="1234" column="57" />
+        <mark key="[" line="1435" column="111" />
+        <mark key="]" line="1435" column="121" />
+        <mark key="^" line="1435" column="121" />
+        <mark key="." line="1435" column="121" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/BadRequestException.ts" timestamp="1551765925739">
         <mark key="[" line="7" column="27" />
@@ -539,6 +549,12 @@
         <mark key="^" line="5" column="23" />
         <mark key="." line="5" column="23" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/token.service.test.ts" timestamp="1555958097240">
+        <mark key="[" line="30" column="14" />
+        <mark key="]" line="30" column="20" />
+        <mark key="^" line="30" column="20" />
+        <mark key="." line="30" column="20" />
+      </file>
       <file name="$USER_HOME$/dev/repos/code-coverage-example/index.js" timestamp="1551971743643">
         <mark key="[" line="0" column="19" />
         <mark key="]" line="0" column="26" />
@@ -627,10 +643,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="759" column="24" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="761" column="24" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="764" column="32" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="766" column="32" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="768" column="32" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="780" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="787" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
@@ -727,10 +739,17 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/token.service.ts" />
       <jump line="1099" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="123" column="64" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="1035" column="32" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="48" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="28" column="37" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/data/MockData.ts" />
+      <jump line="1233" column="57" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgdXNlcm5hbWUgPSBNb2NrRGF0YS51c2VybmFtZTsK</text>
+      <register name="&quot;" type="8">
+        <text>happy
+happy
+happy
+happy</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5213,52 +5232,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>happy</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1c2VyRW50cnlcPg==</text>
+        <text>process.env.OKTA_API_KEY</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0KCd3aXRoIHVzZXJuYW1lJywgYXN5bmMgKCkgPT4ge30pOwogICAgICAgIHRlc3QoJ3dpdGggdG9rZW4gY29kZScsIGFzeW5jICgpID0+IHt9KTsK</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0KCdoYXBweScsIGFzeW5jICgpID0+IHt9KTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgdXNlcm5hbWUgPSBNb2NrRGF0YS51c2VybmFtZTsK</text>
+      <register name="1" type="8">
+        <text>happy
+happy
+happy
+happy</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKSwKICAgICAgICB9IDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgbmV3VG9rZW4gPSAnbmV3LXRlc3RpbmctdG9rZW4tMTIzJzsKICAgICAgICAgICAgY29uc3QgbmV3VG9rZW5FbnRyeSA9IHt0b2tlbjogbmV3VG9rZW4sIHByb3ZpZGVySWQ6IG9rdGFJZH07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBjbGVhbk1vYmlsZVBob25lID0gYXdhaXQgaGVscGVycy52YWxpZGF0ZU1vYmlsZVBob25lKHVzZXIubW9iaWxlUGhvbmUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgdG9rZW4gPSAndGVzdGluZy10b2tlbi0xMjMnOwogICAgICAgICAgICBjb25zdCBleGlzdGluZ1Rva2VuID0ge3Rva2VuLCBwcm92aWRlcklkOiBva3RhSWR9Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW50cnkuZXhwaXJ5ID0gbm93SVNPOwogICAgICAgICAgICBlbnRyeS51cGRhdGVkQXQgPSBuZXcgRGF0ZSgpOwogICAgICAgICAgICBhd2FpdCB0aGlzLnRva2VuZGIuc3RvcmVBY3RpdmF0aW9uRW50cnkoZW50cnkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgaWRwVXNlciA9IHtwcm9maWxlOiB7fSwgdXNlcm5hbWV9Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcmVzdWx0ID0gYXdhaXQgdXNlclNlcnZpY2UucmVzZW5kQWN0aXZhdGlvbkNvZGUoCiAgICAgICAgICAgICAgICB1c2VybmFtZSwKICAgICAgICAgICAgICAgIG51bGwsCiAgICAgICAgICAgICAgICBjb25zdGFudHMuQWN0aXZhdGlvbk1ldGhvZC5TTVMsCiAgICAgICAgICAgICAgICBhcHBDb2RlLAogICAgICAgICAgICApOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgXyBmcm9tICdsb2Rhc2gnOwppbXBvcnQgdXVpZCA9IHJlcXVpcmUoJ3V1aWQnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgdXNlckVudHJ5ID0ge29rdGFJZH07Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBhcHBEZXRhaWxzOiBJQXBwRGV0YWlscyA9IGF3YWl0IHRoaXMuYXBwU2VydmljZS5nZXQoYXBwQ29kZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgYWN0aXZhdGlvbk1ldGhvZCA9IGNvbnN0YW50cy5BY3RpdmF0aW9uTWV0aG9kLkVtYWlsOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodG9rZW5FbnRyeS5jb25zdW1lZERhdGUpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IEJhZFJlcXVlc3RFeGNlcHRpb24oCiAgICAgICAgICAgICAgICAnQWN0aXZhdGlvbiBoYXMgYWxyZWFkeSBiZWVuIGNvbXBsZXRlZC4nLAogICAgICAgICAgICAgICAgRXhjZXB0aW9uQ29kZXMuVE9LRU5fQUxSRUFEWV9DT05TVU1FRCwKICAgICAgICAgICAgKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBva3RhSWQgPSAndGVzdGluZy0xMjMtb2t0YS1pZCc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAgICAgICAgc3RlcHM6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgbmV3VG9rZW4gPSAnbmV3LXRlc3RpbmctdG9rZW4tMTIzJzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1c2VyRW50cnlcPg==</last-search>
+      <last-search>process.env.OKTA_API_KEY</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1c2VyRW50cnlcPg==</last-pattern>
+      <last-pattern>process.env.OKTA_API_KEY</last-pattern>
       <last-replace>config.okta.APIKey</last-replace>
       <last-substitute>process.env.OKTA_API_KEY</last-substitute>
       <last-dir>-1</last-dir>
@@ -5266,8 +5288,6 @@
     </search>
     <history>
       <history-search>
-        <entry>verifyEmail</entry>
-        <entry>constructor</entry>
         <entry>AWS_ACCOUNT_ID</entry>
         <entry>Prospect</entry>
         <entry>0055</entry>
@@ -5286,11 +5306,10 @@
         <entry>User not found</entry>
         <entry>resend</entry>
         <entry encoding="base64">XDx1c2VyRW50cnlcPg==</entry>
+        <entry>constructor</entry>
+        <entry>process.env.OKTA_API_KEY</entry>
       </history-search>
       <history-cmd>
-        <entry>46</entry>
-        <entry encoding="base64">JzwsJz4w</entry>
-        <entry>7</entry>
         <entry>15</entry>
         <entry>%s/process.env.OKTA_URL/config.okta.url</entry>
         <entry>%s/process.env.OKTA_API_KEY/config.okta.APIKey</entry>
@@ -5307,6 +5326,9 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>1100</entry>
         <entry>0</entry>
+        <entry>1107</entry>
+        <entry>W</entry>
+        <entry>s</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
