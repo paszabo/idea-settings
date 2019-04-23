@@ -49,7 +49,7 @@
         <mark key="." line="83" column="18" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/preferences.service.ts" timestamp="1555518617703" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1555955454578">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1556041366248">
         <mark key="a" line="1035" column="32" />
         <mark key="'" line="48" column="4" />
         <mark key="[" line="1067" column="41" />
@@ -188,8 +188,8 @@
         <mark key="." line="25" column="71" />
         <mark key="^" line="25" column="71" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1555539482003">
-        <mark key="'" line="545" column="0" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1556041352887">
+        <mark key="'" line="43" column="51" />
         <mark key="[" line="51" column="63" />
         <mark key="]" line="51" column="63" />
         <mark key="^" line="387" column="0" />
@@ -198,7 +198,6 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/test/preferences/unsubscribe.test.ts" timestamp="1556036027745" />
     </filemarks>
     <jumps>
-      <jump line="768" column="32" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="780" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="787" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="795" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
@@ -298,6 +297,7 @@
       <jump line="48" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="28" column="37" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/data/MockData.ts" />
       <jump line="1233" column="57" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
+      <jump line="43" column="51" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4787,7 +4787,7 @@
         <text>new Date()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx9XD4=</text>
+        <text>delete</text>
       </register>
       <register name="0" type="4">
         <text>OKTA_AUTH_SERVER_ID</text>
@@ -4830,17 +4830,16 @@ happy</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx9XD4=</last-search>
+      <last-search>delete</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx9XD4=</last-pattern>
+      <last-pattern>delete</last-pattern>
       <last-replace>config.okta.APIKey</last-replace>
       <last-substitute>process.env.OKTA_API_KEY</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Prospect</entry>
         <entry>0055</entry>
         <entry>policy</entry>
         <entry>getCurrentTnC</entry>
@@ -4860,6 +4859,7 @@ happy</text>
         <entry>constructor</entry>
         <entry>process.env.OKTA_API_KEY</entry>
         <entry encoding="base64">XDx9XD4=</entry>
+        <entry>delete</entry>
       </history-search>
       <history-cmd>
         <entry>%s/process.env.OKTA_URL/config.okta.url</entry>
