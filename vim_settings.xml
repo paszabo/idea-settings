@@ -3,9 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1555426448507" />
-      <file name="/a.dummy" timestamp="1555956712531">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1556143280602">
+        <mark key="'" line="17" column="25" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" timestamp="1555963365302">
         <mark key="'" line="187" column="17" />
@@ -41,6 +40,12 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/test/users/register-user.test.ts" timestamp="1556035999357" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/package.json" timestamp="1556048264400" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/admin-config-qa.sh" timestamp="1555343776146" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/aws-models.ts" timestamp="1556143368763">
+        <mark key="[" line="50" column="25" />
+        <mark key="]" line="51" column="30" />
+        <mark key="^" line="51" column="30" />
+        <mark key="." line="51" column="30" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/config.yml" timestamp="1555619676494">
         <mark key="'" line="177" column="24" />
         <mark key="[" line="83" column="18" />
@@ -49,9 +54,9 @@
         <mark key="." line="83" column="18" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/preferences.service.ts" timestamp="1555518617703" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1556137420778">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1556143665733">
         <mark key="a" line="1035" column="32" />
-        <mark key="'" line="48" column="4" />
+        <mark key="'" line="1310" column="95" />
         <mark key="[" line="1067" column="41" />
         <mark key="]" line="1067" column="61" />
         <mark key="." line="1070" column="12" />
@@ -70,6 +75,7 @@
         <mark key="^" line="12" column="88" />
         <mark key="." line="12" column="88" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IUser.ts" timestamp="1556142674147" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Helper.ts" timestamp="1556050353069">
         <mark key="[" line="37" column="33" />
         <mark key="]" line="38" column="28" />
@@ -192,19 +198,17 @@
         <mark key="." line="25" column="71" />
         <mark key="^" line="25" column="71" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1556136932354">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1556143024560">
         <mark key="'" line="43" column="51" />
         <mark key="[" line="51" column="63" />
         <mark key="]" line="51" column="63" />
         <mark key="^" line="387" column="0" />
         <mark key="." line="51" column="63" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/RegisterRequest.ts" timestamp="1556142531106" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/test/preferences/unsubscribe.test.ts" timestamp="1556036027745" />
     </filemarks>
     <jumps>
-      <jump line="780" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="787" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="795" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="801" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="809" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="821" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
@@ -302,6 +306,9 @@
       <jump line="28" column="37" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/data/MockData.ts" />
       <jump line="1233" column="57" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
       <jump line="43" column="51" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="487" column="73" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="17" column="25" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="1310" column="95" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4791,7 +4798,7 @@
         <text>new Date()</text>
       </register>
       <register name="/" type="4">
-        <text>delete</text>
+        <text>idpUser</text>
       </register>
       <register name="0" type="4">
         <text>OKTA_AUTH_SERVER_ID</text>
@@ -4834,9 +4841,9 @@ happy</text>
       </register>
     </registers>
     <search>
-      <last-search>delete</last-search>
+      <last-search>idpUser</last-search>
       <last-offset />
-      <last-pattern>delete</last-pattern>
+      <last-pattern>idpUser</last-pattern>
       <last-replace>config.okta.APIKey</last-replace>
       <last-substitute>process.env.OKTA_API_KEY</last-substitute>
       <last-dir>1</last-dir>
@@ -4844,10 +4851,6 @@ happy</text>
     </search>
     <history>
       <history-search>
-        <entry>0055</entry>
-        <entry>policy</entry>
-        <entry>getCurrentTnC</entry>
-        <entry>ENDPOINT</entry>
         <entry>Register</entry>
         <entry>implented</entry>
         <entry>admin</entry>
@@ -4864,6 +4867,10 @@ happy</text>
         <entry>process.env.OKTA_API_KEY</entry>
         <entry encoding="base64">XDx9XD4=</entry>
         <entry>delete</entry>
+        <entry>updateUser</entry>
+        <entry>registerUser</entry>
+        <entry>activate</entry>
+        <entry>idpUser</entry>
       </history-search>
       <history-cmd>
         <entry>%s/process.env.OKTA_URL/config.okta.url</entry>
