@@ -30,12 +30,12 @@
         <mark key="." line="444" column="54" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/SalesforceRepository.ts" timestamp="1555430522046" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/config.ts" timestamp="1555511458866">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/config.ts" timestamp="1556568402754">
         <mark key="'" line="70" column="5" />
-        <mark key="[" line="64" column="45" />
-        <mark key="]" line="64" column="57" />
+        <mark key="[" line="65" column="47" />
+        <mark key="]" line="65" column="47" />
         <mark key="^" line="64" column="57" />
-        <mark key="." line="64" column="57" />
+        <mark key="." line="65" column="47" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/test/users/register-user.test.ts" timestamp="1556035999357" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/package.json" timestamp="1556048264400" />
@@ -357,7 +357,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>new Date()</text>
+        <text encoding="base64">IHx8ICcn</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4840,7 +4840,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>new Date()</text>
+        <text encoding="base64">IHx8ICcn</text>
       </register>
       <register name="/" type="4">
         <text>idpUser</text>
