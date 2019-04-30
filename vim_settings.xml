@@ -19,12 +19,8 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" timestamp="1555963365302">
         <mark key="'" line="187" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1556222209947">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1556647420369">
         <mark key="'" line="190" column="34" />
-        <mark key="[" line="341" column="2" />
-        <mark key="]" line="341" column="3" />
-        <mark key="." line="341" column="3" />
-        <mark key="^" line="173" column="62" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" timestamp="1555446247592">
         <mark key="'" line="1" column="18" />
@@ -44,7 +40,7 @@
         <mark key="^" line="64" column="57" />
         <mark key="." line="65" column="47" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/env-configs/qa/tncs-config-qa.sh" timestamp="1555442360679">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/env-configs/qa/tncs-config-qa.sh" timestamp="1556647317402">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/test/users/register-user.test.ts" timestamp="1556035999357" />
@@ -57,6 +53,10 @@
         <mark key="]" line="51" column="30" />
         <mark key="^" line="51" column="30" />
         <mark key="." line="51" column="30" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/env-configs/qa/users-config-qa.sh" timestamp="1556647213519">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="30" column="85" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/config.yml" timestamp="1555619676494">
         <mark key="'" line="177" column="24" />
@@ -114,6 +114,12 @@
         <mark key="^" line="18" column="54" />
         <mark key="." line="18" column="54" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/deploy-users.sh" timestamp="1556647136540">
+        <mark key="[" line="38" column="66" />
+        <mark key="]" line="38" column="67" />
+        <mark key="^" line="38" column="67" />
+        <mark key="." line="38" column="67" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/data/MockData.ts" timestamp="1555956415469">
         <mark key="'" line="28" column="37" />
         <mark key="[" line="28" column="24" />
@@ -135,6 +141,7 @@
         <mark key="." line="0" column="66" />
         <mark key="^" line="0" column="55" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/deploy-users.sh" timestamp="1556647373247" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/configurations/AppConfig.ts" timestamp="1556575829282">
         <mark key="[" line="54" column="49" />
         <mark key="]" line="54" column="49" />
@@ -341,7 +348,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'Intercom'</text>
+        <text>opt</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4824,13 +4831,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'Intercom'</text>
+        <text>opt</text>
       </register>
       <register name="/" type="4">
         <text>Salesforce</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KG1vY2tHZXRBcHBEYXRhKS50b0JlQ2FsbGVkV2l0aChhcHBDb2RlKTsKICAgICAgICAgICAgZXhwZWN0KG1vY2tHZXRBcHBEYXRhKS50b0JlQ2FsbGVkVGltZXMoMSk7Cg==</text>
+        <text encoding="base64">ICAgIEFQSV9FTlZJUk9OTUVOVDogJHtvcHQ6QVBJX0VOVklST05NRU5UfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICAgICAgdGVzdCgnYXBwIG5vdCBkZWZpbmVkJywgYXN5bmMgKCkgPT4gewogICAgICAgICAgICBleHBlY3QoMikudG9FcXVhbCgxKTsKICAgICAgICB9KTsKCiAgICAgICAgdGVzdCgnYXBwIGRldGFpbHMgd2l0aG91dCBtYXJrZXRpbmdTZXJ2aWNlJywgYXN5bmMgKCkgPT4gewogICAgICAgICAgICBleHBlY3QoMikudG9FcXVhbCgxKTsKICAgICAgICB9KTsK</text>
