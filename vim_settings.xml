@@ -18,12 +18,12 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1556212806698">
         <mark key="'" line="17" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/Helper.test.ts" timestamp="1556576690904">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="187" column="16" />
-        <mark key="]" line="187" column="22" />
-        <mark key="." line="187" column="22" />
-        <mark key="^" line="187" column="22" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/Helper.test.ts" timestamp="1556639827444">
+        <mark key="'" line="77" column="42" />
+        <mark key="[" line="178" column="29" />
+        <mark key="]" line="178" column="72" />
+        <mark key="." line="178" column="72" />
+        <mark key="^" line="178" column="72" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1556222209947">
         <mark key="'" line="190" column="34" />
@@ -88,7 +88,7 @@
         <mark key="." line="12" column="88" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IUser.ts" timestamp="1556142674147" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Helper.ts" timestamp="1556576496525">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Helper.ts" timestamp="1556639517496">
         <mark key="[" line="86" column="48" />
         <mark key="]" line="86" column="52" />
         <mark key="^" line="86" column="52" />
@@ -266,17 +266,6 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/test/preferences/unsubscribe.test.ts" timestamp="1556222002838" />
     </filemarks>
     <jumps>
-      <jump line="809" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="821" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="831" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="856" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="878" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="890" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="74" column="29" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/auth-code-flow.js" />
-      <jump line="203" column="26" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" />
-      <jump line="137" column="36" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" />
-      <jump line="136" column="32" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" />
-      <jump line="23" column="6" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/handler-utils.ts" />
       <jump line="32" column="52" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/admin/adminUsersHandler.ts" />
       <jump line="280" column="27" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="89" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
@@ -366,10 +355,21 @@
       <jump line="17" column="25" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="1310" column="95" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="7" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/Helper.test.ts" />
+      <jump line="197" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/Helper.test.ts" />
+      <jump line="82" column="14" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/Helper.test.ts" />
+      <jump line="4" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/Helper.test.ts" />
+      <jump line="178" column="65" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/Helper.test.ts" />
+      <jump line="158" column="80" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/Helper.test.ts" />
+      <jump line="103" column="42" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/Helper.test.ts" />
+      <jump line="85" column="65" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/Helper.test.ts" />
+      <jump line="5" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/Helper.test.ts" />
+      <jump line="50" column="14" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/Helper.test.ts" />
+      <jump line="53" column="65" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/Helper.test.ts" />
+      <jump line="77" column="42" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/Helper.test.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'foo'</text>
+        <text>'Intercom'</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4852,10 +4852,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'foo'</text>
+        <text>'Intercom'</text>
       </register>
       <register name="/" type="4">
-        <text>idpUser</text>
+        <text>Salesforce</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KG1vY2tHZXRBcHBEYXRhKS50b0JlQ2FsbGVkV2l0aChhcHBDb2RlKTsKICAgICAgICAgICAgZXhwZWN0KG1vY2tHZXRBcHBEYXRhKS50b0JlQ2FsbGVkVGltZXMoMSk7Cg==</text>
@@ -4891,13 +4891,13 @@
         <text encoding="base64">ICAgICAgICBjb25zdCBsb2cgPSBuZXcgTG9nZ2VyKCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>idpUser</last-search>
+      <last-search>Salesforce</last-search>
       <last-offset />
-      <last-pattern>idpUser</last-pattern>
+      <last-pattern>Salesforce</last-pattern>
       <last-replace>config.okta.APIKey</last-replace>
       <last-substitute>process.env.OKTA_API_KEY</last-substitute>
       <last-dir>1</last-dir>
@@ -4905,8 +4905,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Register</entry>
-        <entry>implented</entry>
         <entry>admin</entry>
         <entry>throw</entry>
         <entry>thorw</entry>
@@ -4925,9 +4923,10 @@
         <entry>registerUser</entry>
         <entry>activate</entry>
         <entry>idpUser</entry>
+        <entry>Intercom</entry>
+        <entry>Salesforce</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/process.env.OKTA_URL/config.okta.url</entry>
         <entry>%s/process.env.OKTA_API_KEY/config.okta.APIKey</entry>
         <entry>63</entry>
         <entry>42</entry>
@@ -4947,6 +4946,7 @@
         <entry>118</entry>
         <entry>0</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
