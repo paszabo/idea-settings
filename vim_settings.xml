@@ -16,8 +16,8 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" timestamp="1555963365302">
         <mark key="'" line="187" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1556721548628">
-        <mark key="'" line="190" column="34" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1556730665821">
+        <mark key="'" line="453" column="22" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" timestamp="1555446247592">
         <mark key="'" line="1" column="18" />
@@ -30,6 +30,7 @@
         <mark key="'" line="14" column="18" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/SalesforceRepository.ts" timestamp="1555430522046" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/authorizer.js" timestamp="1556731306408" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/config.ts" timestamp="1556568402754">
         <mark key="'" line="70" column="5" />
         <mark key="[" line="65" column="47" />
@@ -45,7 +46,7 @@
         <mark key="[" line="6" column="50" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/admin-config-qa.sh" timestamp="1555343776146" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/aws-models.ts" timestamp="1556212625370">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/aws-models.ts" timestamp="1556730696166">
         <mark key="[" line="50" column="25" />
         <mark key="]" line="51" column="30" />
         <mark key="^" line="51" column="30" />
@@ -71,6 +72,7 @@
         <mark key="." line="1070" column="12" />
         <mark key="^" line="1071" column="12" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer.js" timestamp="1556730515714" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" timestamp="1556056396224">
         <mark key="'" line="12" column="33" />
         <mark key="[" line="388" column="15" />
@@ -233,23 +235,21 @@
         <mark key="." line="25" column="71" />
         <mark key="^" line="25" column="71" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1556729390284">
-        <mark key="'" line="197" column="30" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1556731810631">
+        <mark key="'" line="410" column="22" />
         <mark key="[" line="289" column="64" />
         <mark key="]" line="289" column="65" />
         <mark key="^" line="289" column="65" />
         <mark key="." line="289" column="65" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer-memberid.js" timestamp="1556730599685">
+        <mark key="'" line="198" column="6" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/RegisterRequest.ts" timestamp="1556142531106" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/aws-lambda/index.d.ts" timestamp="1556218539485" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/test/preferences/unsubscribe.test.ts" timestamp="1556222002838" />
     </filemarks>
     <jumps>
-      <jump line="89" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/prefs-config-paul-dev.sh" />
-      <jump line="12" column="33" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
-      <jump line="12" column="9" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-utils.test.ts" />
-      <jump line="22" column="47" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/env/dev.sh" />
       <jump line="1421" column="6" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
       <jump line="26" column="11" filename="$USER_HOME$/dev/repos/common-identity-api/src/models/IAppDetails.ts" />
       <jump line="39" column="6" filename="$USER_HOME$/dev/repos/common-identity-api/src/models/IAppDetails.ts" />
@@ -345,6 +345,11 @@
       <jump line="77" column="42" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/Helper.test.ts" />
       <jump line="197" column="30" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="1292" column="25" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="265" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="544" column="22" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="453" column="22" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="607" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="410" column="22" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4834,7 +4839,7 @@
         <text encoding="base64">bmV3IEFycmF5PFtzdHJpbmcsIHN0cmluZ10+KCk=</text>
       </register>
       <register name="/" type="4">
-        <text>updateEmailVerify</text>
+        <text>joinApp</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEFQSV9FTlZJUk9OTUVOVDogJHtvcHQ6QVBJX0VOVklST05NRU5UfQo=</text>
@@ -4874,9 +4879,9 @@
       </register>
     </registers>
     <search>
-      <last-search>updateEmailVerify</last-search>
+      <last-search>joinApp</last-search>
       <last-offset />
-      <last-pattern>updateEmailVerify</last-pattern>
+      <last-pattern>joinApp</last-pattern>
       <last-replace>config.okta.APIKey</last-replace>
       <last-substitute>process.env.OKTA_API_KEY</last-substitute>
       <last-dir>1</last-dir>
@@ -4884,9 +4889,6 @@
     </search>
     <history>
       <history-search>
-        <entry>throw</entry>
-        <entry>thorw</entry>
-        <entry>throws</entry>
         <entry>User with</entry>
         <entry>logger</entry>
         <entry>204</entry>
@@ -4904,6 +4906,9 @@
         <entry>Intercom</entry>
         <entry>Salesforce</entry>
         <entry>updateEmailVerify</entry>
+        <entry>memberId</entry>
+        <entry>authorizerMemberId</entry>
+        <entry>joinApp</entry>
       </history-search>
       <history-cmd>
         <entry>63</entry>
