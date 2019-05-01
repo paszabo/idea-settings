@@ -13,13 +13,6 @@
         <mark key="^" line="52" column="31" />
         <mark key="." line="52" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/Helper.test.ts" timestamp="1556639827444">
-        <mark key="'" line="77" column="42" />
-        <mark key="[" line="178" column="29" />
-        <mark key="]" line="178" column="72" />
-        <mark key="." line="178" column="72" />
-        <mark key="^" line="178" column="72" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" timestamp="1555963365302">
         <mark key="'" line="187" column="17" />
       </file>
@@ -240,12 +233,12 @@
         <mark key="." line="25" column="71" />
         <mark key="^" line="25" column="71" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1556719304496">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1556729390284">
         <mark key="'" line="197" column="30" />
-        <mark key="[" line="51" column="63" />
-        <mark key="]" line="51" column="63" />
-        <mark key="^" line="387" column="0" />
-        <mark key="." line="51" column="63" />
+        <mark key="[" line="289" column="64" />
+        <mark key="]" line="289" column="65" />
+        <mark key="^" line="289" column="65" />
+        <mark key="." line="289" column="65" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/RegisterRequest.ts" timestamp="1556142531106" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/aws-lambda/index.d.ts" timestamp="1556218539485" />
@@ -355,7 +348,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>in</text>
+        <text encoding="base64">bmV3IEFycmF5PFtzdHJpbmcsIHN0cmluZ10+KCk=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4838,7 +4831,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>in</text>
+        <text encoding="base64">bmV3IEFycmF5PFtzdHJpbmcsIHN0cmluZ10+KCk=</text>
       </register>
       <register name="/" type="4">
         <text>updateEmailVerify</text>
