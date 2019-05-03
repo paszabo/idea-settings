@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/applications.service.ts" timestamp="1555345812225">
         <mark key="[" line="18" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1556719349632">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1556896418680">
         <mark key="'" line="17" column="25" />
         <mark key="[" line="52" column="31" />
         <mark key="]" line="52" column="31" />
@@ -46,15 +46,11 @@
         <mark key="[" line="6" column="50" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/admin-config-qa.sh" timestamp="1555343776146" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/aws-models.ts" timestamp="1556730696166">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/aws-models.ts" timestamp="1556896513974">
         <mark key="[" line="50" column="25" />
         <mark key="]" line="51" column="30" />
         <mark key="^" line="51" column="30" />
         <mark key="." line="51" column="30" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/env-configs/qa/users-config-qa.sh" timestamp="1556647213519">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="30" column="85" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/config.yml" timestamp="1556651917644">
         <mark key="'" line="177" column="24" />
@@ -64,6 +60,7 @@
         <mark key="." line="131" column="85" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/preferences.service.ts" timestamp="1556733725853" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IUserRegInfo.ts" timestamp="1556896452060" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1556821003449">
         <mark key="a" line="259" column="8" />
         <mark key="'" line="1292" column="25" />
@@ -247,7 +244,12 @@
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/RegisterRequest.ts" timestamp="1556142531106" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/aws-lambda/index.d.ts" timestamp="1556218539485" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/test/preferences/unsubscribe.test.ts" timestamp="1556222002838" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/test/preferences/unsubscribe.test.ts" timestamp="1556896980879">
+        <mark key="[" line="70" column="13" />
+        <mark key="]" line="70" column="17" />
+        <mark key="." line="70" column="13" />
+        <mark key="^" line="70" column="12" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="39" column="6" filename="$USER_HOME$/dev/repos/common-identity-api/src/models/IAppDetails.ts" />
@@ -352,8 +354,8 @@
       <jump line="538" column="32" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5sb2dnZXIuaW5mbygnU3VjY2Vzc2Z1bGx5ICcpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>test</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4836,7 +4838,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Getting user session from Yodlee</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text>activate</text>
