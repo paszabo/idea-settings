@@ -25,8 +25,8 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" timestamp="1555963365302">
         <mark key="'" line="187" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1556828501434">
-        <mark key="'" line="453" column="22" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1557260093569">
+        <mark key="'" line="1266" column="2" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" timestamp="1555446247592">
         <mark key="'" line="1" column="18" />
@@ -164,7 +164,7 @@
         <mark key="." line="0" column="16" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IUserRegInfo.ts" timestamp="1556896452060" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1556821003449">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1557260303984">
         <mark key="a" line="259" column="8" />
         <mark key="'" line="1292" column="25" />
         <mark key="[" line="1067" column="41" />
@@ -344,7 +344,7 @@
         <mark key="^" line="44" column="22" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/mail/SESMailer.ts" timestamp="1556565943373" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/MailService.ts" timestamp="1556656723863">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/MailService.ts" timestamp="1557260326866">
         <mark key="[" line="0" column="65" />
         <mark key="]" line="0" column="66" />
         <mark key="." line="0" column="66" />
@@ -622,8 +622,8 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="13" column="54" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1556820594777">
-        <mark key="'" line="538" column="32" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1557260237937">
+        <mark key="'" line="249" column="35" />
         <mark key="[" line="289" column="64" />
         <mark key="]" line="289" column="65" />
         <mark key="^" line="289" column="65" />
@@ -666,13 +666,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="611" column="27" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
-      <jump line="0" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/cache-client.test.ts" />
-      <jump line="446" column="54" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="152" column="59" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="582" column="15" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="53" column="46" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="216" column="25" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="173" column="60" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="2150" column="54" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="27" column="42" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer-memberid.js" />
@@ -766,6 +759,13 @@
       <jump line="21" column="21" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/config.ts" />
       <jump line="47" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/config.ts" />
       <jump line="12" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/config.manager.ts" />
+      <jump line="2017" column="22" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="2090" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="2191" column="53" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="65" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="1266" column="2" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="203" column="1" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="249" column="35" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -5255,7 +5255,7 @@
         <text encoding="base64">YXN5bmMg</text>
       </register>
       <register name="/" type="4">
-        <text>Namespace</text>
+        <text>ForgotPassword</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">cHVibGljIA==</text>
@@ -5295,9 +5295,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Namespace</last-search>
+      <last-search>ForgotPassword</last-search>
       <last-offset />
-      <last-pattern>Namespace</last-pattern>
+      <last-pattern>ForgotPassword</last-pattern>
       <last-replace>new EnvironmentVariableConfigurationItem</last-replace>
       <last-substitute>configs.EnvVar</last-substitute>
       <last-dir>1</last-dir>
@@ -5305,11 +5305,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx9XD4=</entry>
-        <entry>delete</entry>
-        <entry>updateUser</entry>
-        <entry>registerUser</entry>
-        <entry>idpUser</entry>
         <entry>Intercom</entry>
         <entry>Salesforce</entry>
         <entry>updateEmailVerify</entry>
@@ -5325,6 +5320,11 @@
         <entry>process.env.</entry>
         <entry>configs.EnvVar</entry>
         <entry>Namespace</entry>
+        <entry>users</entry>
+        <entry>user\/forgot</entry>
+        <entry>forgot</entry>
+        <entry>users.forgot</entry>
+        <entry>ForgotPassword</entry>
       </history-search>
       <history-cmd>
         <entry>235</entry>
