@@ -119,11 +119,11 @@
         <mark key="." line="17" column="62" />
         <mark key="^" line="17" column="62" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/package.json" timestamp="1557517036478">
-        <mark key="[" line="57" column="21" />
-        <mark key="]" line="57" column="26" />
-        <mark key="." line="57" column="26" />
-        <mark key="^" line="57" column="26" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/package.json" timestamp="1557519785298">
+        <mark key="[" line="73" column="26" />
+        <mark key="]" line="73" column="26" />
+        <mark key="." line="73" column="26" />
+        <mark key="^" line="73" column="26" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/scripts/version-bump.sh" timestamp="1555007758772">
         <mark key="[" line="2" column="9" />
@@ -758,7 +758,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.toISOString()</text>
+        <text>0</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5241,10 +5241,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.toISOString()</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>describe.*async</text>
+        <text>yaml</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpbWFnZTogY2lhLWRldi1sb2NhbAogICAgICAgIGVudl9maWxlOiAuZW52LmNpYQogICAgICAgIG5ldHdvcmtzOgogICAgICAgICAgICAtIGNpYS1sb2NhbAogICAgICAgIGVudHJ5cG9pbnQ6IGRlcGxveS1sb2NhbC9zY2hlbWFfcmVhZHkK</text>
@@ -5284,9 +5284,9 @@
       </register>
     </registers>
     <search>
-      <last-search>describe.*async</last-search>
+      <last-search>yaml</last-search>
       <last-offset />
-      <last-pattern>describe.*async</last-pattern>
+      <last-pattern>yaml</last-pattern>
       <last-replace>new EnvironmentVariableConfigurationItem</last-replace>
       <last-substitute>configs.EnvVar</last-substitute>
       <last-dir>1</last-dir>
@@ -5294,7 +5294,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Namespace</entry>
         <entry>users</entry>
         <entry>user\/forgot</entry>
         <entry>forgot</entry>
@@ -5314,6 +5313,7 @@
         <entry>async</entry>
         <entry>describe</entry>
         <entry>describe.*async</entry>
+        <entry>yaml</entry>
       </history-search>
       <history-cmd>
         <entry>260</entry>
