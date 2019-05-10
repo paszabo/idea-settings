@@ -3,34 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/env-configs/qa/prefs-config-qa.sh" timestamp="1554826706947">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/index.ts" timestamp="1551735388768">
         <mark key="[" line="12" column="15" />
         <mark key="]" line="12" column="16" />
         <mark key="^" line="12" column="16" />
         <mark key="." line="12" column="16" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/dist/users/.serverless/cloudformation-template-update-stack.json" timestamp="1553690497744">
-        <mark key="'" line="3216" column="637" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/applications.service.ts" timestamp="1557337357206">
-        <mark key="'" line="22" column="27" />
-        <mark key="[" line="47" column="16" />
-        <mark key="]" line="47" column="16" />
-        <mark key="." line="47" column="16" />
-        <mark key="^" line="47" column="16" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/test/services/PreferencesService.test.ts" timestamp="1551461331784">
-        <mark key="'" line="136" column="28" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1557327436513">
-        <mark key="'" line="1182" column="17" />
-        <mark key="[" line="978" column="19" />
-        <mark key="]" line="978" column="23" />
-        <mark key="^" line="978" column="23" />
-        <mark key="." line="978" column="23" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/scim/package.json" timestamp="1551280723763">
         <mark key="[" line="2" column="18" />
@@ -44,22 +21,31 @@
         <mark key="^" line="36" column="22" />
         <mark key="." line="36" column="74" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" timestamp="1557348170901" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1557431503752">
-        <mark key="'" line="17" column="31" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/Helper.test.ts" timestamp="1557517434459">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="184" column="61" />
+        <mark key="]" line="184" column="67" />
+        <mark key="." line="184" column="67" />
+        <mark key="^" line="184" column="67" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" timestamp="1555446247592">
-        <mark key="'" line="1" column="18" />
-        <mark key="[" line="444" column="54" />
-        <mark key="]" line="444" column="54" />
-        <mark key="^" line="411" column="97" />
-        <mark key="." line="444" column="54" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/preferences/subscription.service.test.ts" timestamp="1557517677014">
+        <mark key="'" line="248" column="34" />
+        <mark key="[" line="106" column="52" />
+        <mark key="]" line="106" column="58" />
+        <mark key="." line="106" column="58" />
+        <mark key="^" line="106" column="58" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-ui/src/App.js" timestamp="1552754558963">
         <mark key="[" line="41" column="50" />
         <mark key="]" line="41" column="53" />
         <mark key="^" line="41" column="53" />
         <mark key="." line="41" column="53" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/tsconfig.json" timestamp="1557517106337">
+        <mark key="[" line="20" column="26" />
+        <mark key="]" line="21" column="31" />
+        <mark key="^" line="21" column="31" />
+        <mark key="." line="21" column="31" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-tutorials/register-prospect-user/lambda_unbounce_webhook.js" timestamp="1551197329144">
         <mark key="[" line="4" column="0" />
@@ -73,17 +59,6 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="31" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/tncs/tncHandler.ts" timestamp="1557337085867">
-        <mark key="'" line="160" column="4" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/SalesforceRepository.ts" timestamp="1557328534465">
-        <mark key="'" line="159" column="34" />
-        <mark key="[" line="165" column="75" />
-        <mark key="]" line="165" column="75" />
-        <mark key="." line="165" column="75" />
-        <mark key="^" line="166" column="41" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/authorizer.js" timestamp="1556734293963" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/package.json" timestamp="1557435521907">
         <mark key="[" line="28" column="23" />
         <mark key="]" line="28" column="23" />
@@ -102,6 +77,12 @@
         <mark key="^" line="7" column="54" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/test/admin/preferences.test.ts" timestamp="1557518022277">
+        <mark key="'" line="11" column="25" />
+        <mark key="[" line="40" column="52" />
+        <mark key="]" line="40" column="52" />
+        <mark key="." line="40" column="52" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/admin-config-production.sh" timestamp="1555008129370">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="43" column="93" />
@@ -114,10 +95,18 @@
         <mark key="^" line="46" column="25" />
         <mark key="." line="46" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/env-configs/qa/tncs-config-qa.sh" timestamp="1556647317402">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/client/identity.client.test.ts" timestamp="1557517466667">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="3" column="34" />
+        <mark key="]" line="3" column="34" />
+        <mark key="^" line="3" column="33" />
+        <mark key="." line="3" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/test/users/register-user.test.ts" timestamp="1556035999357" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/test/users/register-user.test.ts" timestamp="1557518033525">
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="9" column="26" />
+        <mark key="." line="9" column="26" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/prod/users-config-production.sh" timestamp="1552328245192">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="47" />
@@ -130,11 +119,11 @@
         <mark key="." line="17" column="62" />
         <mark key="^" line="17" column="62" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/package.json" timestamp="1557511637089">
-        <mark key="[" line="19" column="16" />
-        <mark key="]" line="19" column="68" />
-        <mark key="." line="19" column="68" />
-        <mark key="^" line="19" column="68" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/package.json" timestamp="1557517036478">
+        <mark key="[" line="57" column="21" />
+        <mark key="]" line="57" column="26" />
+        <mark key="." line="57" column="26" />
+        <mark key="^" line="57" column="26" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/scripts/version-bump.sh" timestamp="1555007758772">
         <mark key="[" line="2" column="9" />
@@ -142,20 +131,24 @@
         <mark key="." line="2" column="16" />
         <mark key="^" line="2" column="16" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/webhooks/unbounce.test.ts" timestamp="1557518920454">
+        <mark key="[" line="23" column="40" />
+        <mark key="]" line="23" column="40" />
+        <mark key="." line="23" column="40" />
+        <mark key="^" line="23" column="40" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/deploy-tncs.sh" timestamp="1553184936697">
         <mark key="[" line="32" column="66" />
         <mark key="]" line="32" column="67" />
         <mark key="^" line="32" column="67" />
         <mark key="." line="32" column="67" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/admin-config-qa.sh" timestamp="1555343776146" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/aws-models.ts" timestamp="1556896513974">
         <mark key="[" line="50" column="25" />
         <mark key="]" line="51" column="30" />
         <mark key="^" line="51" column="30" />
         <mark key="." line="51" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/models/ProfileResponse.json" timestamp="1556900521577" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/users.api.test.ts" timestamp="1551898271594">
         <mark key="[" line="5" column="41" />
         <mark key="]" line="5" column="42" />
@@ -168,21 +161,11 @@
         <mark key="^" line="26" column="36" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/config.yml" timestamp="1557435599944">
-        <mark key="'" line="130" column="64" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-tutorials/register-prospect-user/register-prospect-user.js" timestamp="1551373769035">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
         <mark key="^" line="43" column="43" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/preferences.service.ts" timestamp="1557331601164">
-        <mark key="'" line="345" column="17" />
-        <mark key="[" line="345" column="31" />
-        <mark key="]" line="345" column="32" />
-        <mark key="." line="345" column="32" />
-        <mark key="^" line="341" column="75" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/jest.api.setup.js" timestamp="1556919214410">
         <mark key="[" line="0" column="16" />
@@ -190,16 +173,13 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IUserRegInfo.ts" timestamp="1556896452060" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1557412695110">
-        <mark key="a" line="275" column="8" />
-        <mark key="'" line="1716" column="31" />
-        <mark key="[" line="1716" column="28" />
-        <mark key="]" line="1716" column="31" />
-        <mark key="^" line="1716" column="31" />
-        <mark key="." line="1716" column="31" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-preferences.test.ts" timestamp="1557517614965">
+        <mark key="'" line="15" column="4" />
+        <mark key="[" line="20" column="17" />
+        <mark key="]" line="20" column="30" />
+        <mark key="." line="20" column="30" />
+        <mark key="^" line="20" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer.js" timestamp="1556730515714" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/deploy-tncs.sh" timestamp="1557354273760">
         <mark key="[" line="2" column="33" />
         <mark key="]" line="4" column="10" />
@@ -212,55 +192,24 @@
         <mark key="^" line="8" column="88" />
         <mark key="." line="8" column="88" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" timestamp="1556056396224">
-        <mark key="'" line="12" column="33" />
-        <mark key="[" line="388" column="15" />
-        <mark key="]" line="388" column="15" />
-        <mark key="." line="388" column="15" />
-        <mark key="^" line="393" column="18" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serializers/users/resend-activation-code.serialize.ts" timestamp="1555538865001">
         <mark key="[" line="10" column="26" />
         <mark key="]" line="12" column="88" />
         <mark key="^" line="12" column="88" />
         <mark key="." line="12" column="88" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/mail/SalesforceMailer.ts" timestamp="1557331910614">
-        <mark key="'" line="13" column="16" />
-        <mark key="[" line="43" column="37" />
-        <mark key="]" line="43" column="49" />
-        <mark key="^" line="43" column="49" />
-        <mark key="." line="43" column="49" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/TnCService.test.ts" timestamp="1557517936162">
+        <mark key="'" line="49" column="4" />
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="142" column="42" />
+        <mark key="." line="142" column="42" />
+        <mark key="^" line="142" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/TnCService.test.ts" timestamp="1552654496200">
-        <mark key="[" line="19" column="57" />
-        <mark key="]" line="19" column="57" />
-        <mark key="." line="19" column="57" />
-        <mark key="^" line="19" column="57" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/scim/scimHandler.ts" timestamp="1557337070210">
-        <mark key="'" line="23" column="20" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/src/core/manager/base.manager.ts" timestamp="1557346287627" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IUser.ts" timestamp="1556142674147" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/package.json" timestamp="1557435526709">
-        <mark key="[" line="27" column="23" />
-        <mark key="]" line="27" column="23" />
-        <mark key="." line="27" column="23" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Helper.ts" timestamp="1557336861244">
-        <mark key="'" line="86" column="8" />
-        <mark key="[" line="86" column="48" />
-        <mark key="]" line="86" column="52" />
-        <mark key="^" line="86" column="52" />
-        <mark key="." line="86" column="52" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" timestamp="1555616394843">
-        <mark key="'" line="415" column="31" />
-        <mark key="[" line="68" column="21" />
-        <mark key="]" line="68" column="22" />
-        <mark key="." line="68" column="22" />
-        <mark key="^" line="68" column="36" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/preferences/preferences.service.test.ts" timestamp="1557518731464">
+        <mark key="[" line="119" column="13" />
+        <mark key="]" line="119" column="48" />
+        <mark key="^" line="119" column="48" />
+        <mark key="." line="119" column="48" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/deploy-admin.sh" timestamp="1553184890781">
         <mark key="[" line="38" column="66" />
@@ -273,26 +222,6 @@
         <mark key="]" line="5" column="13" />
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="13" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/prefs-config-paul-dev.sh" timestamp="1555102031615">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="29" column="90" />
-        <mark key="]" line="29" column="90" />
-        <mark key="." line="29" column="90" />
-        <mark key="^" line="29" column="90" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/handler-utils.ts" timestamp="1557337141090">
-        <mark key="'" line="217" column="8" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Cache.ts" timestamp="1557357779260">
-        <mark key="'" line="89" column="17" />
-        <mark key="[" line="21" column="7" />
-        <mark key="]" line="21" column="6" />
-        <mark key="." line="21" column="6" />
-        <mark key="^" line="21" column="6" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/webhooks/unbounce.ts" timestamp="1557337440442">
-        <mark key="'" line="150" column="4" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/unsubscribe-requests-old.ts" timestamp="1550082686571">
         <mark key="[" line="2" column="0" />
@@ -348,7 +277,6 @@
         <mark key="^" line="0" column="51" />
         <mark key="." line="0" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/jest/index.d.ts" timestamp="1556914236771" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/ApplicationMisconfiguredException.ts" timestamp="1551763299626">
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="13" />
@@ -361,18 +289,17 @@
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/IntercomMarketingService.test.ts" timestamp="1557518093868">
+        <mark key="[" line="26" column="57" />
+        <mark key="]" line="26" column="57" />
+        <mark key="." line="26" column="57" />
+        <mark key="^" line="26" column="30" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/util/test-harness/client/base-client.ts" timestamp="1557268658323">
         <mark key="[" line="26" column="38" />
         <mark key="]" line="11" column="0" />
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Utilities.ts" timestamp="1557326398931">
-        <mark key="'" line="46" column="29" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="27" column="10" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="46" column="62" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/test-spyon.test.ts" timestamp="1551804084754">
         <mark key="[" line="18" column="26" />
@@ -380,18 +307,11 @@
         <mark key="^" line="18" column="35" />
         <mark key="." line="18" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/data/MockData.ts" timestamp="1555956415469">
-        <mark key="'" line="28" column="37" />
-        <mark key="[" line="28" column="24" />
-        <mark key="]" line="28" column="28" />
-        <mark key="." line="28" column="28" />
-        <mark key="^" line="28" column="28" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/repositories/users.repository.test.ts" timestamp="1555539318200">
-        <mark key="'" line="208" column="44" />
-        <mark key="[" line="208" column="37" />
-        <mark key="]" line="208" column="36" />
-        <mark key="." line="208" column="36" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/repositories/users.repository.test.ts" timestamp="1557517361257">
+        <mark key="'" line="273" column="27" />
+        <mark key="[" line="270" column="28" />
+        <mark key="]" line="270" column="28" />
+        <mark key="." line="270" column="28" />
         <mark key="^" line="208" column="36" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/users/register-user.test.ts" timestamp="1553016440634">
@@ -406,14 +326,12 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/admin-config-dev.sh" timestamp="1557510897731" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/PreferencesService.ts" timestamp="1551211564346">
-        <mark key="'" line="32" column="0" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/repositories/IdentityRepository.test.ts" timestamp="1557518242290">
+        <mark key="[" line="24" column="12" />
+        <mark key="]" line="24" column="12" />
+        <mark key="." line="24" column="12" />
+        <mark key="^" line="27" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/constants.ts" timestamp="1552334225195">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IUserTncInfo.ts" timestamp="1557265288910" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/app-config.service.ts" timestamp="1551217260609">
         <mark key="[" line="17" column="63" />
         <mark key="]" line="17" column="73" />
@@ -426,20 +344,11 @@
         <mark key="." line="44" column="22" />
         <mark key="^" line="44" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/mail/SESMailer.ts" timestamp="1557332292049">
-        <mark key="'" line="9" column="24" />
-        <mark key="[" line="63" column="17" />
-        <mark key="]" line="64" column="15" />
-        <mark key="." line="64" column="15" />
-        <mark key="^" line="64" column="15" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/MailService.ts" timestamp="1557335072426">
-        <mark key="a" line="286" column="11" />
-        <mark key="'" line="387" column="13" />
-        <mark key="[" line="244" column="67" />
-        <mark key="]" line="245" column="11" />
-        <mark key="." line="245" column="11" />
-        <mark key="^" line="245" column="11" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/MailService.test.ts" timestamp="1557518849340">
+        <mark key="[" line="21" column="36" />
+        <mark key="]" line="22" column="11" />
+        <mark key="." line="22" column="11" />
+        <mark key="^" line="22" column="11" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/applications.service.test.ts" timestamp="1551894297607">
         <mark key="[" line="9" column="14" />
@@ -447,36 +356,23 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/deploy-users.sh" timestamp="1556647373247" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/env-configs/dev/users-config-dev.sh" timestamp="1553184526520">
-        <mark key="'" line="13" column="27" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/cache-client.test.ts" timestamp="1557517331972">
+        <mark key="'" line="201" column="20" />
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="3" column="30" />
+        <mark key="." line="3" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/configurations/AppConfig.ts" timestamp="1557357302666">
-        <mark key="'" line="97" column="17" />
-        <mark key="[" line="54" column="49" />
-        <mark key="]" line="54" column="49" />
-        <mark key="^" line="54" column="24" />
-        <mark key="." line="54" column="49" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" timestamp="1557332917935">
-        <mark key="'" line="350" column="33" />
-        <mark key="[" line="198" column="8" />
-        <mark key="]" line="198" column="13" />
-        <mark key="^" line="198" column="13" />
-        <mark key="." line="198" column="13" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/SalesforceService.test.ts" timestamp="1557518993026">
+        <mark key="[" line="31" column="36" />
+        <mark key="]" line="31" column="36" />
+        <mark key="^" line="26" column="55" />
+        <mark key="." line="31" column="36" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/users-config-paul-dev.sh" timestamp="1553880455083">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="^" line="3" column="128" />
         <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/token.service.ts" timestamp="1557337420231">
-        <mark key="'" line="164" column="12" />
-        <mark key="[" line="125" column="42" />
-        <mark key="]" line="125" column="42" />
-        <mark key="." line="125" column="42" />
-        <mark key="^" line="125" column="61" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/package.json" timestamp="1557511629778">
         <mark key="[" line="29" column="25" />
@@ -490,26 +386,11 @@
         <mark key="^" line="17" column="25" />
         <mark key="." line="17" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IAppDetails.ts" timestamp="1556921171331">
-        <mark key="a" line="324" column="34" />
-        <mark key="'" line="216" column="4" />
-        <mark key="[" line="150" column="76" />
-        <mark key="]" line="151" column="6" />
-        <mark key="." line="151" column="6" />
-        <mark key="^" line="151" column="6" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/README.md" timestamp="1554132943170">
         <mark key="[" line="355" column="15" />
         <mark key="]" line="356" column="0" />
         <mark key="." line="356" column="0" />
         <mark key="^" line="356" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TncRepository.ts" timestamp="1557330262781">
-        <mark key="'" line="259" column="17" />
-        <mark key="[" line="207" column="75" />
-        <mark key="]" line="207" column="75" />
-        <mark key="^" line="207" column="75" />
-        <mark key="." line="207" column="75" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/scripts/app-config-ls.js" timestamp="1555343889527">
         <mark key="[" line="16" column="117" />
@@ -517,8 +398,12 @@
         <mark key="^" line="16" column="117" />
         <mark key="." line="16" column="117" />
       </file>
-      <file name="$USER_HOME$/dev/repos/automp-be/.circleci/config.yml" timestamp="1551369237594">
-        <mark key="'" line="106" column="12" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" timestamp="1557517948876">
+        <mark key="'" line="37" column="36" />
+        <mark key="[" line="1701" column="28" />
+        <mark key="]" line="1701" column="28" />
+        <mark key="." line="1701" column="28" />
+        <mark key="^" line="37" column="36" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/BadRequestException.ts" timestamp="1551765925739">
         <mark key="[" line="7" column="27" />
@@ -538,9 +423,6 @@
         <mark key="^" line="3" column="61" />
         <mark key="." line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/joi/index.d.ts" timestamp="1552331465876">
-        <mark key="'" line="411" column="91" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/schema_ready" timestamp="1557353099344">
         <mark key="[" line="2" column="5" />
         <mark key="]" line="2" column="28" />
@@ -559,25 +441,11 @@
         <mark key="^" line="30" column="36" />
         <mark key="." line="30" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/mail/GoogleMailer.ts" timestamp="1557332009974">
-        <mark key="'" line="49" column="25" />
-        <mark key="[" line="33" column="29" />
-        <mark key="]" line="34" column="78" />
-        <mark key="." line="34" column="78" />
-        <mark key="^" line="34" column="78" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/client/client-config.ts" timestamp="1553136099381">
         <mark key="[" line="3" column="1" />
         <mark key="]" line="3" column="1" />
         <mark key="^" line="3" column="1" />
         <mark key="." line="3" column="1" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/subscription.service.ts" timestamp="1557337284259">
-        <mark key="'" line="93" column="13" />
-        <mark key="[" line="93" column="60" />
-        <mark key="]" line="93" column="60" />
-        <mark key="^" line="93" column="60" />
-        <mark key="." line="93" column="60" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/harness/index.ts" timestamp="1552655075871">
         <mark key="[" line="0" column="0" />
@@ -591,13 +459,6 @@
         <mark key="^" line="72" column="57" />
         <mark key="." line="72" column="57" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/Dockerfile" timestamp="1557358193679">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="1" column="1" />
-        <mark key="]" line="1" column="38" />
-        <mark key="^" line="1" column="38" />
-        <mark key="." line="1" column="38" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/NotFoundException.ts" timestamp="1555537953976">
         <mark key="[" line="3" column="31" />
         <mark key="]" line="7" column="0" />
@@ -610,13 +471,11 @@
         <mark key="^" line="16" column="1" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/webpack.config.js" timestamp="1557512148841" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/SalesforceService.ts" timestamp="1557331770685">
-        <mark key="'" line="106" column="17" />
-        <mark key="[" line="80" column="29" />
-        <mark key="]" line="80" column="39" />
-        <mark key="." line="80" column="39" />
-        <mark key="^" line="80" column="39" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/webpack.config.js" timestamp="1557516131781">
+        <mark key="[" line="18" column="8" />
+        <mark key="]" line="18" column="12" />
+        <mark key="." line="18" column="12" />
+        <mark key="^" line="18" column="12" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/client/users.client.ts" timestamp="1553616469162">
         <mark key="[" line="3" column="36" />
@@ -636,23 +495,12 @@
         <mark key="." line="31" column="23" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/tncs-config-dev.sh" timestamp="1555100993477">
-        <mark key="'" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/config.manager.ts" timestamp="1556939392165">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="27" />
-        <mark key="." line="1" column="27" />
-        <mark key="^" line="1" column="27" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/tncs-config-production.sh" timestamp="1555102016790">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="77" />
         <mark key="." line="27" column="77" />
         <mark key="^" line="27" column="77" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/ITokenEntry.ts" timestamp="1555949628188" />
       <file name="$USER_HOME$/dev/repos/code-coverage-example/myapp.js" timestamp="1551972797104">
         <mark key="[" line="14" column="36" />
         <mark key="]" line="16" column="32" />
@@ -665,28 +513,11 @@
         <mark key="^" line="17" column="24" />
         <mark key="." line="17" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Logger.ts" timestamp="1552618139417">
-        <mark key="'" line="0" column="13" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/IntercomMaketingService.ts" timestamp="1557334009864">
-        <mark key="'" line="55" column="17" />
-        <mark key="[" line="84" column="57" />
-        <mark key="]" line="84" column="61" />
-        <mark key="^" line="84" column="61" />
-        <mark key="." line="84" column="61" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/mail/SendGridMailer.ts" timestamp="1557332537479">
-        <mark key="'" line="39" column="17" />
-        <mark key="[" line="38" column="62" />
-        <mark key="]" line="38" column="62" />
-        <mark key="^" line="38" column="62" />
-        <mark key="." line="38" column="62" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/test/services/MailService.test.ts" timestamp="1551462489817">
-        <mark key="'" line="207" column="25" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/test/services/IntercomMarketingService.test.ts" timestamp="1551461338945">
-        <mark key="'" line="24" column="24" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-utils.test.ts" timestamp="1557517568859">
+        <mark key="'" line="230" column="29" />
+        <mark key="[" line="230" column="29" />
+        <mark key="]" line="230" column="29" />
+        <mark key="." line="230" column="29" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/data/MockAppDetails.ts" timestamp="1551845833951">
         <mark key="[" line="47" column="18" />
@@ -700,29 +531,11 @@
         <mark key="." line="9" column="19" />
         <mark key="^" line="6" column="62" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" timestamp="1557264576077">
-        <mark key="'" line="266" column="14" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/docker-compose.yml" timestamp="1557358071151">
-        <mark key="]" line="45" column="7" />
-        <mark key="^" line="45" column="7" />
-        <mark key="." line="45" column="7" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/users.repository.ts" timestamp="1557336832562">
-        <mark key="'" line="193" column="17" />
-        <mark key="[" line="38" column="67" />
-        <mark key="]" line="38" column="67" />
-        <mark key="^" line="102" column="69" />
-        <mark key="." line="38" column="67" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/test/admin/users.test.ts" timestamp="1556916642976">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="^" line="103" column="56" />
         <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/env-configs/qa/admin-config-qa.sh" timestamp="1553184516518">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/webhooks/index.ts" timestamp="1553177579655">
         <mark key="[" line="0" column="0" />
@@ -730,11 +543,11 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/token.service.test.ts" timestamp="1555964255177">
-        <mark key="[" line="239" column="99" />
-        <mark key="]" line="239" column="121" />
-        <mark key="." line="239" column="121" />
-        <mark key="^" line="239" column="121" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/token.service.test.ts" timestamp="1557518770615">
+        <mark key="[" line="97" column="26" />
+        <mark key="]" line="97" column="30" />
+        <mark key="." line="97" column="30" />
+        <mark key="^" line="97" column="30" />
       </file>
       <file name="$USER_HOME$/dev/repos/code-coverage-example/index.js" timestamp="1551971743643">
         <mark key="[" line="0" column="19" />
@@ -742,7 +555,6 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/util/test-harness/test-client.ts" timestamp="1555964605890" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serializers/preferences/unsubscribe.serializer.ts" timestamp="1552332137495">
         <mark key="[" line="17" column="28" />
         <mark key="]" line="16" column="84" />
@@ -773,9 +585,6 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/env-configs/dev/prefs-config-dev.sh" timestamp="1553184529342">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/README.md" timestamp="1551381271744">
         <mark key="[" line="36" column="75" />
         <mark key="]" line="36" column="75" />
@@ -794,15 +603,12 @@
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1557412642487">
-        <mark key="'" line="249" column="35" />
-        <mark key="[" line="523" column="52" />
-        <mark key="]" line="524" column="0" />
-        <mark key="^" line="524" column="0" />
-        <mark key="." line="524" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer-memberid.js" timestamp="1556730599685">
-        <mark key="'" line="198" column="6" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-admin.test.ts" timestamp="1557517519276">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="16" column="17" />
+        <mark key="]" line="16" column="24" />
+        <mark key="." line="16" column="24" />
+        <mark key="^" line="16" column="24" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serializers/serializer.ts" timestamp="1552493370738">
         <mark key="[" line="16" column="86" />
@@ -810,7 +616,6 @@
         <mark key="." line="16" column="86" />
         <mark key="^" line="16" column="86" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/.env.cia" timestamp="1557350364335" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/prefs-config-production.sh" timestamp="1555008125888">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="29" column="93" />
@@ -835,82 +640,21 @@
         <mark key="^" line="0" column="39" />
         <mark key="." line="0" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/RegisterRequest.ts" timestamp="1556142531106" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/aws-lambda/index.d.ts" timestamp="1556218539485" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/jwt.txt" timestamp="1551888135523">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="66" column="5" />
         <mark key="^" line="7" column="0" />
         <mark key="." line="48" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/test/preferences/unsubscribe.test.ts" timestamp="1557517992165">
+        <mark key="'" line="16" column="20" />
+        <mark key="[" line="16" column="29" />
+        <mark key="]" line="16" column="31" />
+        <mark key="." line="16" column="31" />
+        <mark key="^" line="16" column="31" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/configurations/AppConfig.ts" />
-      <jump line="27" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/configurations/AppConfig.ts" />
-      <jump line="29" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/configurations/AppConfig.ts" />
-      <jump line="42" column="21" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/configurations/AppConfig.ts" />
-      <jump line="47" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/configurations/AppConfig.ts" />
-      <jump line="63" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/configurations/AppConfig.ts" />
-      <jump line="66" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/configurations/AppConfig.ts" />
-      <jump line="74" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/configurations/AppConfig.ts" />
-      <jump line="81" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/configurations/AppConfig.ts" />
-      <jump line="93" column="21" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/configurations/AppConfig.ts" />
-      <jump line="97" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/configurations/AppConfig.ts" />
-      <jump line="17" column="19" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/admin/adminUsersHandler.ts" />
-      <jump line="34" column="48" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/admin/adminUsersHandler.ts" />
-      <jump line="37" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/admin/adminUsersHandler.ts" />
-      <jump line="44" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/admin/adminUsersHandler.ts" />
-      <jump line="49" column="52" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/admin/adminUsersHandler.ts" />
-      <jump line="150" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/admin/adminUsersHandler.ts" />
-      <jump line="441" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/admin/adminUsersHandler.ts" />
-      <jump line="471" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/admin/adminUsersHandler.ts" />
-      <jump line="30" column="6" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/admin/adminUsersHandler.ts" />
-      <jump line="31" column="36" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/admin/adminUsersHandler.ts" />
-      <jump line="32" column="34" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/admin/adminUsersHandler.ts" />
-      <jump line="33" column="42" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/admin/adminUsersHandler.ts" />
-      <jump line="37" column="63" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
-      <jump line="32" column="6" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
-      <jump line="33" column="36" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
-      <jump line="34" column="34" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
-      <jump line="35" column="42" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
-      <jump line="36" column="48" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
-      <jump line="39" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
-      <jump line="43" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
-      <jump line="51" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
-      <jump line="60" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
-      <jump line="89" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
-      <jump line="182" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/preferences/preferencesHandler.ts" />
-      <jump line="23" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/scim/scimHandler.ts" />
-      <jump line="147" column="34" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/tncs/tncHandler.ts" />
-      <jump line="26" column="6" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/tncs/tncHandler.ts" />
-      <jump line="27" column="32" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/tncs/tncHandler.ts" />
-      <jump line="28" column="34" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/tncs/tncHandler.ts" />
-      <jump line="30" column="42" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/tncs/tncHandler.ts" />
-      <jump line="33" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/tncs/tncHandler.ts" />
-      <jump line="107" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/tncs/tncHandler.ts" />
-      <jump line="130" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/tncs/tncHandler.ts" />
-      <jump line="160" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/tncs/tncHandler.ts" />
-      <jump line="279" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
-      <jump line="282" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
-      <jump line="283" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
-      <jump line="311" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
-      <jump line="375" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
-      <jump line="406" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
-      <jump line="432" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
-      <jump line="457" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
-      <jump line="479" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
-      <jump line="487" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
-      <jump line="489" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
-      <jump line="490" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
-      <jump line="17" column="6" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/handler-utils.ts" />
-      <jump line="350" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/handler-utils.ts" />
-      <jump line="9" column="6" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/handler-utils.ts" />
-      <jump line="180" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/handler-utils.ts" />
-      <jump line="181" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/handler-utils.ts" />
-      <jump line="217" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/handler-utils.ts" />
-      <jump line="9" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/subscription.service.ts" />
-      <jump line="99" column="60" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/subscription.service.ts" />
-      <jump line="20" column="18" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/subscription.service.ts" />
       <jump line="30" column="19" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/subscription.service.ts" />
       <jump line="66" column="25" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/subscription.service.ts" />
       <jump line="70" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/subscription.service.ts" />
@@ -945,10 +689,76 @@
       <jump line="17" column="5" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="18" column="5" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="249" column="35" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="10" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/cache-client.test.ts" />
+      <jump line="133" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/cache-client.test.ts" />
+      <jump line="201" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/cache-client.test.ts" />
+      <jump line="9" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/repositories/users.repository.test.ts" />
+      <jump line="29" column="27" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/repositories/users.repository.test.ts" />
+      <jump line="32" column="27" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/repositories/users.repository.test.ts" />
+      <jump line="59" column="47" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/repositories/users.repository.test.ts" />
+      <jump line="95" column="37" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/repositories/users.repository.test.ts" />
+      <jump line="98" column="27" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/repositories/users.repository.test.ts" />
+      <jump line="120" column="36" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/repositories/users.repository.test.ts" />
+      <jump line="146" column="34" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/repositories/users.repository.test.ts" />
+      <jump line="149" column="27" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/repositories/users.repository.test.ts" />
+      <jump line="174" column="25" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/repositories/users.repository.test.ts" />
+      <jump line="177" column="27" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/repositories/users.repository.test.ts" />
+      <jump line="196" column="36" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/repositories/users.repository.test.ts" />
+      <jump line="218" column="36" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/repositories/users.repository.test.ts" />
+      <jump line="221" column="27" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/repositories/users.repository.test.ts" />
+      <jump line="244" column="36" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/repositories/users.repository.test.ts" />
+      <jump line="270" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/repositories/users.repository.test.ts" />
+      <jump line="273" column="27" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/repositories/users.repository.test.ts" />
+      <jump line="184" column="67" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/Helper.test.ts" />
+      <jump line="13" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/Helper.test.ts" />
+      <jump line="45" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/Helper.test.ts" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/Helper.test.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/client/identity.client.test.ts" />
+      <jump line="3" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/client/identity.client.test.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-admin.test.ts" />
+      <jump line="14" column="38" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-admin.test.ts" />
+      <jump line="16" column="24" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-admin.test.ts" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-admin.test.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-utils.test.ts" />
+      <jump line="106" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-utils.test.ts" />
+      <jump line="139" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-utils.test.ts" />
+      <jump line="157" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-utils.test.ts" />
+      <jump line="190" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-utils.test.ts" />
+      <jump line="214" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-utils.test.ts" />
+      <jump line="229" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-utils.test.ts" />
+      <jump line="22" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-utils.test.ts" />
+      <jump line="19" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-utils.test.ts" />
+      <jump line="230" column="29" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-utils.test.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-preferences.test.ts" />
+      <jump line="20" column="30" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-preferences.test.ts" />
+      <jump line="11" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-preferences.test.ts" />
+      <jump line="15" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-preferences.test.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/preferences/subscription.service.test.ts" />
+      <jump line="10" column="31" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/preferences/subscription.service.test.ts" />
+      <jump line="17" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/preferences/subscription.service.test.ts" />
+      <jump line="141" column="33" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/preferences/subscription.service.test.ts" />
+      <jump line="248" column="34" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/preferences/subscription.service.test.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
+      <jump line="49" column="23" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
+      <jump line="107" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
+      <jump line="139" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
+      <jump line="297" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
+      <jump line="210" column="31" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
+      <jump line="878" column="66" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/TnCService.test.ts" />
+      <jump line="6" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/TnCService.test.ts" />
+      <jump line="33" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/TnCService.test.ts" />
+      <jump line="46" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/TnCService.test.ts" />
+      <jump line="37" column="36" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/test/preferences/unsubscribe.test.ts" />
+      <jump line="16" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/test/preferences/unsubscribe.test.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/test/admin/preferences.test.ts" />
+      <jump line="11" column="25" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/test/admin/preferences.test.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>.toISOString()</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5431,54 +5241,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>.toISOString()</text>
       </register>
       <register name="/" type="4">
-        <text>ForgotPassword</text>
+        <text>describe.*async</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpbWFnZTogY2lhLWRldi1sb2NhbAogICAgICAgIGVudl9maWxlOiAuZW52LmNpYQogICAgICAgIG5ldHdvcmtzOgogICAgICAgICAgICAtIGNpYS1sb2NhbAogICAgICAgIGVudHJ5cG9pbnQ6IGRlcGxveS1sb2NhbC9zY2hlbWFfcmVhZHkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuZXR3b3JrczoKICAgICAgICAgICAgLSBjaWEtbG9jYWwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1vY2tBcHBEZXRhaWwsCiAgICAgICAgICAgICAgICBva3RhSWQ6IE1vY2tEYXRhLm9rdGFJZAogICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UlVOIGNobW9kIGEreCAvY29tbW9uLWlkZW50aXR5LWFwaS9kZXBsb3ktbG9jYWwvc2NoZW1hX3JlYWR5Cg==</text>
+        <text encoding="base64">ICAgICAgICAiQHR5cGVzL2plc3QiOiAiXjI0LjAuMTIiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q09QWSAuL2Rpc3QgL2NvbW1vbi1pZGVudGl0eS1hcGkvZGlzdAoKUlVOIChcCiAgY2QgL2NvbW1vbi1pZGVudGl0eS1hcGkvZGlzdC91c2VycyAmJiBcCiAgcm0gLXJmIG5vZGVfbW9kdWxlcyAmJiBcCiAgbnBtIGkgJiYgXAogIGNkIC9jb21tb24taWRlbnRpdHktYXBpL2Rpc3QvYWRtaW4gJiYgXAogIHJtIC1yZiBub2RlX21vZHVsZXMgJiYgXAogIG5wbSBpICYmIFwKICBjZCAvY29tbW9uLWlkZW50aXR5LWFwaS9kaXN0L3ByZWZlcmVuY2VzICYmIFwKICBybSAtcmYgbm9kZV9tb2R1bGVzICYmIFwKICBucG0gaSAmJiBcCiAgY2QgL2NvbW1vbi1pZGVudGl0eS1hcGkvZGlzdC90bmNzICYmIFwKICBybSAtcmYgbm9kZV9tb2R1bGVzICYmIFwKICBucG0gaSAmJiBcCiAgY3AgL2NvbW1vbi1pZGVudGl0eS1hcGkvZGVwbG95LWxvY2FsL2F3cy1mYWtlLWNyZWQudHh0IC9yb290Ly5hd3MvY3JlZGVudGlhbHMgJiYgXAogIGNwIC9jb21tb24taWRlbnRpdHktYXBpL2RlcGxveS1sb2NhbC9hd3MtZmFrZS1jb25maWcudHh0IC9yb290Ly5hd3MvY29uZmlnIFwKKQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Q09QWSAuL2RlcGxveS1sb2NhbCAvY29tbW9uLWlkZW50aXR5LWFwaS9kZXBsb3ktbG9jYWwK</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">LmNhdGNoKChlKSA9PiB7CiAgICBjb25zb2xlLmxvZyhlKTsKICAgIHByb2Nlc3MuZXhpdCgxKTsKICB9KQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBuZXR3b3JrczoKICAgICAgICAgICAgLSBjaWEtbG9jYWwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAgICBjb250YWluZXJfbmFtZTogdXNlcgo=</text>
+        <text encoding="base64">UlVOIGNobW9kIGEreCAvY29tbW9uLWlkZW50aXR5LWFwaS9kZXBsb3ktbG9jYWwvc2NoZW1hX3JlYWR5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVudl9maWxlOiAuZW52LmNpYQo=</text>
+        <text encoding="base64">Q09QWSAuL2Rpc3QgL2NvbW1vbi1pZGVudGl0eS1hcGkvZGlzdAoKUlVOIChcCiAgY2QgL2NvbW1vbi1pZGVudGl0eS1hcGkvZGlzdC91c2VycyAmJiBcCiAgcm0gLXJmIG5vZGVfbW9kdWxlcyAmJiBcCiAgbnBtIGkgJiYgXAogIGNkIC9jb21tb24taWRlbnRpdHktYXBpL2Rpc3QvYWRtaW4gJiYgXAogIHJtIC1yZiBub2RlX21vZHVsZXMgJiYgXAogIG5wbSBpICYmIFwKICBjZCAvY29tbW9uLWlkZW50aXR5LWFwaS9kaXN0L3ByZWZlcmVuY2VzICYmIFwKICBybSAtcmYgbm9kZV9tb2R1bGVzICYmIFwKICBucG0gaSAmJiBcCiAgY2QgL2NvbW1vbi1pZGVudGl0eS1hcGkvZGlzdC90bmNzICYmIFwKICBybSAtcmYgbm9kZV9tb2R1bGVzICYmIFwKICBucG0gaSAmJiBcCiAgY3AgL2NvbW1vbi1pZGVudGl0eS1hcGkvZGVwbG95LWxvY2FsL2F3cy1mYWtlLWNyZWQudHh0IC9yb290Ly5hd3MvY3JlZGVudGlhbHMgJiYgXAogIGNwIC9jb21tb24taWRlbnRpdHktYXBpL2RlcGxveS1sb2NhbC9hd3MtZmFrZS1jb25maWcudHh0IC9yb290Ly5hd3MvY29uZmlnIFwKKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgS2V5Q29uZGl0aW9uRXhwcmVzc2lvbiA9ICdwcm92aWRlcklkID0gOnByb3ZpZGVySWQnOwogICAgICAgIGNvbnN0IEV4cHJlc3Npb25BdHRyaWJ1dGVWYWx1ZXM6IGFueSA9IHsKICAgICAgICAgICAgJzpwcm92aWRlcklkJzogcHJvdmlkZXJJZCwKICAgICAgICB9OwoKICAgICAgICBmb3IgKGNvbnN0IFtrLCB2XSBvZiBPYmplY3QuZW50cmllcyhmaWx0ZXJzKSkgewogICAgICAgICAgICBLZXlDb25kaXRpb25FeHByZXNzaW9uICs9IGAke2t9ID0gOiR7a31gOwogICAgICAgICAgICBFeHByZXNzaW9uQXR0cmlidXRlVmFsdWVzW2A6JHtrfWBdID0gdjsKICAgICAgICB9Cgo=</text>
+        <text encoding="base64">Q09QWSAuL2RlcGxveS1sb2NhbCAvY29tbW9uLWlkZW50aXR5LWFwaS9kZXBsb3ktbG9jYWwK</text>
       </register>
       <register name="9" type="4">
-        <text>: {
-                ':providerId': providerId,
-            }</text>
+        <text encoding="base64">LmNhdGNoKChlKSA9PiB7CiAgICBjb25zb2xlLmxvZyhlKTsKICAgIHByb2Nlc3MuZXhpdCgxKTsKICB9KQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ForgotPassword</last-search>
+      <last-search>describe.*async</last-search>
       <last-offset />
-      <last-pattern>ForgotPassword</last-pattern>
+      <last-pattern>describe.*async</last-pattern>
       <last-replace>new EnvironmentVariableConfigurationItem</last-replace>
       <last-substitute>configs.EnvVar</last-substitute>
       <last-dir>1</last-dir>
@@ -5486,9 +5294,6 @@
     </search>
     <history>
       <history-search>
-        <entry>api_tests</entry>
-        <entry>process.env.</entry>
-        <entry>configs.EnvVar</entry>
         <entry>Namespace</entry>
         <entry>users</entry>
         <entry>user\/forgot</entry>
@@ -5506,13 +5311,11 @@
         <entry>Resend</entry>
         <entry>Forgot</entry>
         <entry>ForgotPassword</entry>
+        <entry>async</entry>
+        <entry>describe</entry>
+        <entry>describe.*async</entry>
       </history-search>
       <history-cmd>
-        <entry>1100</entry>
-        <entry>1107</entry>
-        <entry>s</entry>
-        <entry>118</entry>
-        <entry>q</entry>
         <entry>260</entry>
         <entry>163</entry>
         <entry>%s/api_tests/test_api/g</entry>
@@ -5525,8 +5328,13 @@
         <entry>128</entry>
         <entry>174</entry>
         <entry>259</entry>
-        <entry>0</entry>
         <entry>1</entry>
+        <entry>112</entry>
+        <entry>144</entry>
+        <entry>10</entry>
+        <entry>30</entry>
+        <entry>0</entry>
+        <entry>59</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

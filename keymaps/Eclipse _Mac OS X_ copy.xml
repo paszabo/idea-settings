@@ -7,6 +7,12 @@
     <keyboard-shortcut first-keystroke="shift meta v" />
   </action>
   <action id="EditorPasteSimple" />
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="shift meta y" />
+  </action>
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="shift meta x" second-keystroke="a" />
+  </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
   <action id="GotoFile" />
