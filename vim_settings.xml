@@ -225,6 +225,14 @@
         <mark key="." line="20" column="30" />
         <mark key="^" line="20" column="30" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1557782335533">
+        <mark key="a" line="275" column="8" />
+        <mark key="'" line="123" column="17" />
+        <mark key="[" line="1716" column="28" />
+        <mark key="]" line="1716" column="31" />
+        <mark key="^" line="1716" column="31" />
+        <mark key="." line="1716" column="31" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/deploy-tncs.sh" timestamp="1557354273760">
         <mark key="[" line="2" column="33" />
         <mark key="]" line="4" column="10" />
@@ -359,6 +367,7 @@
         <mark key="^" line="18" column="54" />
         <mark key="." line="18" column="54" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/newrelic/index.d.ts" timestamp="1557782438669" />
       <file name="$USER_HOME$/dev/repos/common-identity-tutorials/register-prospect-user/package.json" timestamp="1551188218566">
         <mark key="[" line="7" column="43" />
         <mark key="]" line="7" column="43" />
@@ -909,7 +918,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="29" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/token.service.ts" />
       <jump line="156" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/token.service.ts" />
       <jump line="125" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/token.service.ts" />
       <jump line="128" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/token.service.ts" />
@@ -1009,6 +1017,7 @@
       <jump line="674" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="673" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="92" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="123" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5498,7 +5507,7 @@
         <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>GetUser</text>
+        <text>oh well</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAic2VydmVybGVzcyI6ICIxLjQxLjIiLAo=</text>
@@ -5538,9 +5547,9 @@
       </register>
     </registers>
     <search>
-      <last-search>GetUser</last-search>
+      <last-search>oh well</last-search>
       <last-offset />
-      <last-pattern>GetUser</last-pattern>
+      <last-pattern>oh well</last-pattern>
       <last-replace>new EnvironmentVariableConfigurationItem</last-replace>
       <last-substitute>configs.EnvVar</last-substitute>
       <last-dir>1</last-dir>
@@ -5548,7 +5557,6 @@
     </search>
     <history>
       <history-search>
-        <entry>users.forgot</entry>
         <entry>path</entry>
         <entry>ENDPOINT</entry>
         <entry>app</entry>
@@ -5568,6 +5576,7 @@
         <entry>restApiId</entry>
         <entry>users</entry>
         <entry>GetUser</entry>
+        <entry>oh well</entry>
       </history-search>
       <history-cmd>
         <entry>%s/configs.EnvVar/new EnvironmentVariableConfigurationItem/g</entry>
