@@ -258,8 +258,8 @@
         <mark key="^" line="119" column="48" />
         <mark key="." line="119" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" timestamp="1557528475544">
-        <mark key="'" line="414" column="31" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" timestamp="1557867794223">
+        <mark key="'" line="335" column="37" />
         <mark key="[" line="9" column="43" />
         <mark key="]" line="9" column="43" />
         <mark key="." line="9" column="43" />
@@ -776,7 +776,6 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/models/RegisterUserRequest.json" timestamp="1557867113862" />
     </filemarks>
     <jumps>
-      <jump line="125" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/token.service.ts" />
       <jump line="128" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/token.service.ts" />
       <jump line="133" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/token.service.ts" />
       <jump line="153" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/token.service.ts" />
@@ -876,6 +875,7 @@
       <jump line="92" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="123" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="37" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" />
+      <jump line="335" column="37" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -5365,7 +5365,7 @@
         <text>7.4.1</text>
       </register>
       <register name="/" type="4">
-        <text>oh well</text>
+        <text>delete</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAic2VydmVybGVzcyI6ICIxLjQxLjEiLAogICAgICAgICJzZXJ2ZXJsZXNzLWF3cy1kb2N1bWVudGF0aW9uIjogIl4xLjEuMCIsCiAgICAgICAgInNlcnZlcmxlc3Mtb2ZmbGluZSI6ICJeNC4xMC4wIiwKICAgICAgICAic2VydmVybGVzcy1wbHVnaW4taW5jbHVkZS1kZXBlbmRlbmNpZXMiOiAiXjMuMS4xIiwKICAgICAgICAic2VydmVybGVzcy1wbHVnaW4td2FybXVwIjogIl4zLjIuMC1yYy4xIgo=</text>
@@ -5405,9 +5405,9 @@
       </register>
     </registers>
     <search>
-      <last-search>oh well</last-search>
+      <last-search>delete</last-search>
       <last-offset />
-      <last-pattern>oh well</last-pattern>
+      <last-pattern>delete</last-pattern>
       <last-replace>new EnvironmentVariableConfigurationItem</last-replace>
       <last-substitute>configs.EnvVar</last-substitute>
       <last-dir>1</last-dir>
@@ -5415,7 +5415,6 @@
     </search>
     <history>
       <history-search>
-        <entry>path</entry>
         <entry>ENDPOINT</entry>
         <entry>app</entry>
         <entry>provideRId</entry>
@@ -5435,6 +5434,7 @@
         <entry>users</entry>
         <entry>GetUser</entry>
         <entry>oh well</entry>
+        <entry>delete</entry>
       </history-search>
       <history-cmd>
         <entry>%s/configs.EnvVar/new EnvironmentVariableConfigurationItem/g</entry>
