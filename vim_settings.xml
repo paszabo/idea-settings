@@ -275,6 +275,12 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/scim/scimHandler.ts" timestamp="1557337070210">
         <mark key="'" line="23" column="20" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/package.json" timestamp="1557784944350">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="31" column="49" />
+        <mark key="^" line="14" column="25" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/deploy-prefs.sh" timestamp="1557530642852">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="8" column="18" />
@@ -540,9 +546,9 @@
         <mark key="." line="125" column="42" />
         <mark key="^" line="125" column="61" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/package.json" timestamp="1557530534831">
-        <mark key="[" line="29" column="28" />
-        <mark key="]" line="29" column="28" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/package.json" timestamp="1557784942994">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="33" column="49" />
         <mark key="^" line="29" column="28" />
         <mark key="." line="29" column="28" />
       </file>
@@ -765,8 +771,8 @@
         <mark key="." line="9" column="19" />
         <mark key="^" line="6" column="62" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" timestamp="1557264576077">
-        <mark key="'" line="266" column="14" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" timestamp="1557784897427">
+        <mark key="'" line="37" column="12" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/users.repository.ts" timestamp="1557336832562">
         <mark key="'" line="193" column="17" />
@@ -918,7 +924,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/token.service.ts" />
       <jump line="125" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/token.service.ts" />
       <jump line="128" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/token.service.ts" />
       <jump line="133" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/token.service.ts" />
@@ -1018,10 +1023,11 @@
       <jump line="673" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="92" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="123" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="37" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAic2VydmVybGVzcyI6ICIxLjQxLjEiLAogICAgICAgICJzZXJ2ZXJsZXNzLWF3cy1kb2N1bWVudGF0aW9uIjogIl4xLjEuMCIsCiAgICAgICAgInNlcnZlcmxlc3Mtb2ZmbGluZSI6ICJeNC4xMC4wIiwKICAgICAgICAic2VydmVybGVzcy1wbHVnaW4taW5jbHVkZS1kZXBlbmRlbmNpZXMiOiAiXjMuMS4xIiwKICAgICAgICAic2VydmVybGVzcy1wbHVnaW4td2FybXVwIjogIl4zLjIuMC1yYy4xIgo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5504,13 +5510,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>7.4.1</text>
       </register>
       <register name="/" type="4">
         <text>oh well</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAic2VydmVybGVzcyI6ICIxLjQxLjIiLAo=</text>
+        <text encoding="base64">ICAgICAgICAic2VydmVybGVzcyI6ICIxLjQxLjEiLAogICAgICAgICJzZXJ2ZXJsZXNzLWF3cy1kb2N1bWVudGF0aW9uIjogIl4xLjEuMCIsCiAgICAgICAgInNlcnZlcmxlc3Mtb2ZmbGluZSI6ICJeNC4xMC4wIiwKICAgICAgICAic2VydmVybGVzcy1wbHVnaW4taW5jbHVkZS1kZXBlbmRlbmNpZXMiOiAiXjMuMS4xIiwKICAgICAgICAic2VydmVybGVzcy1wbHVnaW4td2FybXVwIjogIl4zLjIuMC1yYy4xIgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
