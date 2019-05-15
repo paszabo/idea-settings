@@ -248,8 +248,8 @@
         <mark key="^" line="119" column="48" />
         <mark key="." line="119" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" timestamp="1557867794223">
-        <mark key="'" line="335" column="37" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" timestamp="1557943862716">
+        <mark key="'" line="418" column="15" />
         <mark key="[" line="9" column="43" />
         <mark key="]" line="9" column="43" />
         <mark key="." line="9" column="43" />
@@ -734,7 +734,6 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/models/RegisterUserRequest.json" timestamp="1557867113862" />
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/webhooks/unbounce.ts" />
       <jump line="56" column="19" filename="$USER_HOME$/dev/repos/common-identity-api/src/webhooks/unbounce.ts" />
       <jump line="77" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/webhooks/unbounce.ts" />
       <jump line="111" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/webhooks/unbounce.ts" />
@@ -834,6 +833,7 @@
       <jump line="38" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/test/users/me.test.ts" />
       <jump line="15" column="45" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/test/users/me.test.ts" />
       <jump line="16" column="10" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/test/users/me.test.ts" />
+      <jump line="418" column="15" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5323,7 +5323,7 @@
         <text>$USERS_API_GATEWAY_ROOT_ID_DEV</text>
       </register>
       <register name="/" type="4">
-        <text>without</text>
+        <text>preferences</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Y29uc3QgdXNlck9rdGFSZXNwb25zZSA=</text>
@@ -5368,9 +5368,9 @@
       </register>
     </registers>
     <search>
-      <last-search>without</last-search>
+      <last-search>preferences</last-search>
       <last-offset />
-      <last-pattern>without</last-pattern>
+      <last-pattern>preferences</last-pattern>
       <last-replace>new EnvironmentVariableConfigurationItem</last-replace>
       <last-substitute>configs.EnvVar</last-substitute>
       <last-dir>1</last-dir>
@@ -5378,7 +5378,6 @@
     </search>
     <history>
       <history-search>
-        <entry>provideRId</entry>
         <entry>throw</entry>
         <entry>log</entry>
         <entry>this.log</entry>
@@ -5398,6 +5397,7 @@
         <entry>delete</entry>
         <entry>be</entry>
         <entry>without</entry>
+        <entry>preferences</entry>
       </history-search>
       <history-cmd>
         <entry>%s/configs.EnvVar/new EnvironmentVariableConfigurationItem/g</entry>
