@@ -39,6 +39,9 @@
         <mark key="[" line="22" column="0" />
         <mark key="]" line="27" column="10" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1557949441181">
+        <mark key="'" line="285" column="39" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/preferences/subscription.service.test.ts" timestamp="1557517677014">
         <mark key="'" line="248" column="34" />
         <mark key="[" line="106" column="52" />
@@ -161,6 +164,9 @@
         <mark key="^" line="26" column="36" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/config.yml" timestamp="1557521208903">
+        <mark key="'" line="130" column="64" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-tutorials/register-prospect-user/register-prospect-user.js" timestamp="1551373769035">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
@@ -229,6 +235,9 @@
         <mark key="]" line="142" column="42" />
         <mark key="." line="142" column="42" />
         <mark key="^" line="142" column="42" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/scim/scimHandler.ts" timestamp="1557853796033">
+        <mark key="'" line="23" column="20" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/package.json" timestamp="1557784944350">
         <mark key="[" line="27" column="0" />
@@ -734,7 +743,6 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/models/RegisterUserRequest.json" timestamp="1557867113862" />
     </filemarks>
     <jumps>
-      <jump line="56" column="19" filename="$USER_HOME$/dev/repos/common-identity-api/src/webhooks/unbounce.ts" />
       <jump line="77" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/webhooks/unbounce.ts" />
       <jump line="111" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/webhooks/unbounce.ts" />
       <jump line="113" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/webhooks/unbounce.ts" />
@@ -834,6 +842,7 @@
       <jump line="15" column="45" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/test/users/me.test.ts" />
       <jump line="16" column="10" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/test/users/me.test.ts" />
       <jump line="418" column="15" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
+      <jump line="285" column="39" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5323,7 +5332,7 @@
         <text>$USERS_API_GATEWAY_ROOT_ID_DEV</text>
       </register>
       <register name="/" type="4">
-        <text>preferences</text>
+        <text>yodlee</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Y29uc3QgdXNlck9rdGFSZXNwb25zZSA=</text>
@@ -5368,9 +5377,9 @@
       </register>
     </registers>
     <search>
-      <last-search>preferences</last-search>
+      <last-search>yodlee</last-search>
       <last-offset />
-      <last-pattern>preferences</last-pattern>
+      <last-pattern>yodlee</last-pattern>
       <last-replace>new EnvironmentVariableConfigurationItem</last-replace>
       <last-substitute>configs.EnvVar</last-substitute>
       <last-dir>1</last-dir>
@@ -5378,7 +5387,6 @@
     </search>
     <history>
       <history-search>
-        <entry>throw</entry>
         <entry>log</entry>
         <entry>this.log</entry>
         <entry>Logger</entry>
@@ -5398,6 +5406,7 @@
         <entry>be</entry>
         <entry>without</entry>
         <entry>preferences</entry>
+        <entry>yodlee</entry>
       </history-search>
       <history-cmd>
         <entry>%s/configs.EnvVar/new EnvironmentVariableConfigurationItem/g</entry>
