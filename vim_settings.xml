@@ -209,8 +209,8 @@
         <mark key="^" line="8" column="88" />
         <mark key="." line="8" column="88" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" timestamp="1557955562023">
-        <mark key="'" line="28" column="28" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" timestamp="1558010794307">
+        <mark key="'" line="423" column="44" />
         <mark key="[" line="388" column="15" />
         <mark key="]" line="388" column="15" />
         <mark key="." line="388" column="15" />
@@ -750,12 +750,6 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/models/RegisterUserRequest.json" timestamp="1557867113862" />
     </filemarks>
     <jumps>
-      <jump line="77" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/webhooks/unbounce.ts" />
-      <jump line="111" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/webhooks/unbounce.ts" />
-      <jump line="113" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/webhooks/unbounce.ts" />
-      <jump line="130" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/webhooks/unbounce.ts" />
-      <jump line="150" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/webhooks/unbounce.ts" />
-      <jump line="10" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/Dockerfile" />
       <jump line="524" column="24" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="22" column="5" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="36" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
@@ -850,6 +844,12 @@
       <jump line="16" column="10" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/test/users/me.test.ts" />
       <jump line="418" column="15" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
       <jump line="285" column="39" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="217" column="15" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
+      <jump line="334" column="31" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
+      <jump line="311" column="48" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
+      <jump line="306" column="2" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
+      <jump line="422" column="39" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
+      <jump line="423" column="44" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5339,7 +5339,7 @@
         <text>$USERS_API_GATEWAY_ROOT_ID_DEV</text>
       </register>
       <register name="/" type="4">
-        <text>yodlee</text>
+        <text>unsubscribe</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Y29uc3QgdXNlck9rdGFSZXNwb25zZSA=</text>
@@ -5384,9 +5384,9 @@
       </register>
     </registers>
     <search>
-      <last-search>yodlee</last-search>
+      <last-search>unsubscribe</last-search>
       <last-offset />
-      <last-pattern>yodlee</last-pattern>
+      <last-pattern>unsubscribe</last-pattern>
       <last-replace>new EnvironmentVariableConfigurationItem</last-replace>
       <last-substitute>configs.EnvVar</last-substitute>
       <last-dir>1</last-dir>
@@ -5394,7 +5394,6 @@
     </search>
     <history>
       <history-search>
-        <entry>log</entry>
         <entry>this.log</entry>
         <entry>Logger</entry>
         <entry>logger</entry>
@@ -5414,6 +5413,7 @@
         <entry>without</entry>
         <entry>preferences</entry>
         <entry>yodlee</entry>
+        <entry>unsubscribe</entry>
       </history-search>
       <history-cmd>
         <entry>%s/configs.EnvVar/new EnvironmentVariableConfigurationItem/g</entry>
