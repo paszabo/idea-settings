@@ -38,8 +38,8 @@
         <mark key="." line="184" column="67" />
         <mark key="^" line="184" column="67" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1558027267933">
-        <mark key="'" line="798" column="2" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1558104848250">
+        <mark key="'" line="2277" column="2" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/preferences/subscription.service.test.ts" timestamp="1557517677014">
         <mark key="'" line="248" column="34" />
@@ -211,8 +211,8 @@
         <mark key="^" line="8" column="88" />
         <mark key="." line="8" column="88" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" timestamp="1558026312256">
-        <mark key="'" line="423" column="44" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" timestamp="1558105146372">
+        <mark key="'" line="156" column="51" />
         <mark key="[" line="388" column="15" />
         <mark key="]" line="388" column="15" />
         <mark key="." line="388" column="15" />
@@ -742,9 +742,6 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/models/RegisterUserRequest.json" timestamp="1557867113862" />
     </filemarks>
     <jumps>
-      <jump line="18" column="5" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
-      <jump line="249" column="35" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
-      <jump line="10" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/cache-client.test.ts" />
       <jump line="133" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/cache-client.test.ts" />
       <jump line="201" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/cache-client.test.ts" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/repositories/users.repository.test.ts" />
@@ -842,6 +839,9 @@
       <jump line="72" column="39" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/test/users/me.test.ts" />
       <jump line="76" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/test/users/me.test.ts" />
       <jump line="110" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/test/users/me.test.ts" />
+      <jump line="1175" column="21" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="2277" column="2" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="156" column="51" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5331,7 +5331,7 @@
         <text encoding="base64">YXN5bmMg</text>
       </register>
       <register name="/" type="4">
-        <text>describe</text>
+        <text>Webhook</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5sb2dnZXIuZXJyb3IoZXJyKTsK</text>
@@ -5374,9 +5374,9 @@
       </register>
     </registers>
     <search>
-      <last-search>describe</last-search>
+      <last-search>Webhook</last-search>
       <last-offset />
-      <last-pattern>describe</last-pattern>
+      <last-pattern>Webhook</last-pattern>
       <last-replace>new EnvironmentVariableConfigurationItem</last-replace>
       <last-substitute>configs.EnvVar</last-substitute>
       <last-dir>1</last-dir>
@@ -5384,7 +5384,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Logger</entry>
         <entry>logger</entry>
         <entry>Resend</entry>
         <entry>Forgot</entry>
@@ -5404,6 +5403,7 @@
         <entry>unsubscribe</entry>
         <entry>register</entry>
         <entry>describe</entry>
+        <entry>Webhook</entry>
       </history-search>
       <history-cmd>
         <entry>%s/configs.EnvVar/new EnvironmentVariableConfigurationItem/g</entry>
