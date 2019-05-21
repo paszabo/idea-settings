@@ -13,6 +13,9 @@
   <action id="ExpandAllRegions">
     <keyboard-shortcut first-keystroke="shift meta x" second-keystroke="a" />
   </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="shift meta x" second-keystroke="s" />
+  </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
   <action id="GotoFile" />
