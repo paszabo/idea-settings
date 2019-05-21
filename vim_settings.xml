@@ -160,8 +160,8 @@
         <mark key="^" line="119" column="48" />
         <mark key="." line="119" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" timestamp="1557943862716">
-        <mark key="'" line="418" column="15" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" timestamp="1558454830015">
+        <mark key="'" line="659" column="4" />
         <mark key="[" line="9" column="43" />
         <mark key="]" line="9" column="43" />
         <mark key="." line="9" column="43" />
@@ -744,15 +744,6 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/models/RegisterUserRequest.json" timestamp="1557867113862" />
     </filemarks>
     <jumps>
-      <jump line="244" column="36" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/repositories/users.repository.test.ts" />
-      <jump line="270" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/repositories/users.repository.test.ts" />
-      <jump line="273" column="27" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/repositories/users.repository.test.ts" />
-      <jump line="184" column="67" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/Helper.test.ts" />
-      <jump line="13" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/Helper.test.ts" />
-      <jump line="45" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/Helper.test.ts" />
-      <jump line="10" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/Helper.test.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/client/identity.client.test.ts" />
-      <jump line="3" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/client/identity.client.test.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-admin.test.ts" />
       <jump line="14" column="38" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-admin.test.ts" />
       <jump line="16" column="24" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-admin.test.ts" />
@@ -844,6 +835,15 @@
       <jump line="186" column="2" filename="$USER_HOME$/dev/repos/common-identity-api/node_modules/aws-sdk/clients/dynamodb.d.ts" />
       <jump line="1331" column="56" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="1166" column="36" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="259" column="70" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
+      <jump line="660" column="23" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
+      <jump line="664" column="41" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
+      <jump line="684" column="26" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
+      <jump line="685" column="30" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
+      <jump line="88" column="18" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
+      <jump line="99" column="79" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
+      <jump line="100" column="82" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
+      <jump line="659" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5333,7 +5333,7 @@
         <text encoding="base64">YXN5bmMg</text>
       </register>
       <register name="/" type="4">
-        <text>activateUser</text>
+        <text>activate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5sb2dnZXIuZXJyb3IoZXJyKTsK</text>
@@ -5376,17 +5376,16 @@
       </register>
     </registers>
     <search>
-      <last-search>activateUser</last-search>
+      <last-search>activate</last-search>
       <last-offset />
-      <last-pattern>activateUser</last-pattern>
+      <last-pattern>activate</last-pattern>
       <last-replace>new EnvironmentVariableConfigurationItem</last-replace>
       <last-substitute>configs.EnvVar</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>async</entry>
         <entry>describe.*async</entry>
         <entry>yaml</entry>
         <entry>restApiId</entry>
@@ -5406,6 +5405,7 @@
         <entry>query</entry>
         <entry>query(</entry>
         <entry>activateUser</entry>
+        <entry>activate</entry>
       </history-search>
       <history-cmd>
         <entry>%s/configs.EnvVar/new EnvironmentVariableConfigurationItem/g</entry>
