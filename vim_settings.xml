@@ -45,6 +45,12 @@
         <mark key="^" line="196" column="142" />
         <mark key="." line="196" column="143" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" timestamp="1558479485989">
+        <mark key="[" line="26" column="46" />
+        <mark key="]" line="26" column="70" />
+        <mark key="^" line="26" column="70" />
+        <mark key="." line="26" column="70" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/preferences/subscription.service.test.ts" timestamp="1557517677014">
         <mark key="'" line="248" column="34" />
         <mark key="[" line="106" column="52" />
@@ -425,7 +431,7 @@
         <mark key="." line="32" column="23" />
         <mark key="^" line="32" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/configurations/AppConfig.ts" timestamp="1558477640943">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/configurations/AppConfig.ts" timestamp="1558479405757">
         <mark key="[" line="36" column="46" />
         <mark key="]" line="36" column="70" />
         <mark key="." line="36" column="70" />
@@ -436,6 +442,12 @@
         <mark key="]" line="31" column="36" />
         <mark key="^" line="26" column="55" />
         <mark key="." line="31" column="36" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/PreferencesRepository.ts" timestamp="1558479446133">
+        <mark key="[" line="21" column="46" />
+        <mark key="]" line="21" column="70" />
+        <mark key="." line="21" column="70" />
+        <mark key="^" line="21" column="70" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/users-config-paul-dev.sh" timestamp="1553880455083">
         <mark key="[" line="26" column="0" />
@@ -460,6 +472,9 @@
         <mark key="]" line="356" column="0" />
         <mark key="." line="356" column="0" />
         <mark key="^" line="356" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TncRepository.ts" timestamp="1558479456991">
+        <mark key="[" line="27" column="46" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/scripts/app-config-ls.js" timestamp="1555343889527">
         <mark key="[" line="16" column="117" />
@@ -858,7 +873,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5kYiA9IG5ldyBEeW5hbW9EQi5Eb2N1bWVudENsaWVudCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgdGhpcy5kYiA9IG5ldyBEeW5hbW9EQi5Eb2N1bWVudENsaWVudCgpOwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5347,7 +5362,7 @@
         <text>environment:</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5kYiA9IG5ldyBEeW5hbW9EQi5Eb2N1bWVudENsaWVudCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgdGhpcy5kYiA9IG5ldyBEeW5hbW9EQi5Eb2N1bWVudENsaWVudCgpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5sb2dnZXIuZXJyb3IoZXJyKTsK</text>
@@ -5437,8 +5452,8 @@
         <entry>32</entry>
         <entry>W</entry>
         <entry>1,45d</entry>
-        <entry>0</entry>
         <entry>w</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
