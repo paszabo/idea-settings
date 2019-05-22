@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/env-configs/qa/prefs-config-qa.sh" timestamp="1558028804737">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1558463263592">
         <mark key="'" line="1001" column="26" />
         <mark key="[" line="581" column="48" />
@@ -90,9 +87,6 @@
         <mark key="." line="142" column="42" />
         <mark key="^" line="142" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/scim/scimHandler.ts" timestamp="1557853796033">
-        <mark key="'" line="23" column="20" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" timestamp="1558470856576">
         <mark key="'" line="663" column="15" />
         <mark key="[" line="74" column="0" />
@@ -145,6 +139,9 @@
         <mark key="." line="93" column="60" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/IntercomMaketingService.ts" timestamp="1558470706693" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/mail/SendGridMailer.ts" timestamp="1558553352850">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" timestamp="1558470883464">
         <mark key="'" line="185" column="4" />
         <mark key="[" line="165" column="0" />
@@ -157,9 +154,6 @@
         <mark key="]" line="38" column="67" />
         <mark key="^" line="102" column="69" />
         <mark key="." line="38" column="67" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/aws-sdk/clients/dynamodb.d.ts" timestamp="1558127438864">
-        <mark key="'" line="186" column="2" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1558490507983">
         <mark key="'" line="140" column="56" />
@@ -189,7 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-utils.test.ts" />
       <jump line="19" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-utils.test.ts" />
       <jump line="230" column="29" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-utils.test.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-preferences.test.ts" />
@@ -289,6 +282,7 @@
       <jump line="201" column="6" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer-memberid.js" />
       <jump line="221" column="6" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer-memberid.js" />
       <jump line="1951" column="39" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/mail/SendGridMailer.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
