@@ -38,8 +38,8 @@
         <mark key="." line="184" column="67" />
         <mark key="^" line="184" column="67" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1558470844248">
-        <mark key="'" line="2279" column="2" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1558490036662">
+        <mark key="'" line="201" column="0" />
         <mark key="[" line="195" column="0" />
         <mark key="]" line="196" column="177" />
         <mark key="^" line="196" column="142" />
@@ -285,7 +285,7 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Cache.ts" timestamp="1558026355847">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Cache.ts" timestamp="1558490662633">
         <mark key="'" line="89" column="17" />
         <mark key="[" line="21" column="7" />
         <mark key="]" line="21" column="6" />
@@ -711,8 +711,8 @@
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1558453792545">
-        <mark key="'" line="92" column="12" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1558490507983">
+        <mark key="'" line="140" column="56" />
         <mark key="[" line="523" column="52" />
         <mark key="]" line="524" column="0" />
         <mark key="^" line="524" column="0" />
@@ -770,8 +770,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-utils.test.ts" />
-      <jump line="139" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-utils.test.ts" />
       <jump line="157" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-utils.test.ts" />
       <jump line="190" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-utils.test.ts" />
       <jump line="214" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-utils.test.ts" />
@@ -870,6 +868,8 @@
       <jump line="379" column="14" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
       <jump line="552" column="30" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" />
       <jump line="183" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" />
+      <jump line="201" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="140" column="56" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -5359,7 +5359,7 @@
         <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>environment:</text>
+        <text>Yodlee</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLyAgICAgdGhpcy5kYiA9IG5ldyBEeW5hbW9EQi5Eb2N1bWVudENsaWVudCgpOwo=</text>
@@ -5402,17 +5402,16 @@
       </register>
     </registers>
     <search>
-      <last-search>environment:</last-search>
+      <last-search>Yodlee</last-search>
       <last-offset />
-      <last-pattern>environment:</last-pattern>
+      <last-pattern>Yodlee</last-pattern>
       <last-replace>new EnvironmentVariableConfigurationItem</last-replace>
       <last-substitute>configs.EnvVar</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>restApiId</entry>
         <entry>users</entry>
         <entry>GetUser</entry>
         <entry>oh well</entry>
@@ -5420,7 +5419,6 @@
         <entry>be</entry>
         <entry>without</entry>
         <entry>preferences</entry>
-        <entry>yodlee</entry>
         <entry>unsubscribe</entry>
         <entry>register</entry>
         <entry>describe</entry>
@@ -5432,6 +5430,8 @@
         <entry>activate</entry>
         <entry>getUserByProviderId</entry>
         <entry>environment:</entry>
+        <entry>yodlee</entry>
+        <entry>Yodlee</entry>
       </history-search>
       <history-cmd>
         <entry>%s/configs.EnvVar/new EnvironmentVariableConfigurationItem/g</entry>
