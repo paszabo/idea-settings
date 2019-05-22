@@ -172,7 +172,8 @@
         <mark key="^" line="26" column="36" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/config.yml" timestamp="1558551609080">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/config.yml" timestamp="1558560742992">
+        <mark key="'" line="157" column="20" />
         <mark key="[" line="81" column="6" />
         <mark key="]" line="81" column="6" />
         <mark key="." line="81" column="6" />
@@ -215,7 +216,7 @@
         <mark key="^" line="8" column="88" />
         <mark key="." line="8" column="88" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" timestamp="1558470864060">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" timestamp="1558561238550">
         <mark key="'" line="381" column="14" />
         <mark key="[" line="133" column="0" />
         <mark key="]" line="134" column="177" />
@@ -778,9 +779,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="230" column="29" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-utils.test.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-preferences.test.ts" />
-      <jump line="20" column="30" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-preferences.test.ts" />
       <jump line="11" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-preferences.test.ts" />
       <jump line="15" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-preferences.test.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/preferences/subscription.service.test.ts" />
@@ -878,6 +876,9 @@
       <jump line="1951" column="39" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/mail/SendGridMailer.ts" />
       <jump line="58" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/config.ts" />
+      <jump line="37" column="23" filename="$USER_HOME$/dev/repos/common-identity-api/.circleci/config.yml" />
+      <jump line="167" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/.circleci/config.yml" />
+      <jump line="157" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/.circleci/config.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5367,7 +5368,7 @@
         <text>const jwks =</text>
       </register>
       <register name="/" type="4">
-        <text>OKTA_AUTH</text>
+        <text>aws-migration</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVnaW9uOiBBV1NSZWdpb24sCg==</text>
@@ -5410,9 +5411,9 @@
       </register>
     </registers>
     <search>
-      <last-search>OKTA_AUTH</last-search>
+      <last-search>aws-migration</last-search>
       <last-offset />
-      <last-pattern>OKTA_AUTH</last-pattern>
+      <last-pattern>aws-migration</last-pattern>
       <last-replace>new EnvironmentVariableConfigurationItem</last-replace>
       <last-substitute>configs.EnvVar</last-substitute>
       <last-dir>1</last-dir>
@@ -5420,7 +5421,6 @@
     </search>
     <history>
       <history-search>
-        <entry>delete</entry>
         <entry>be</entry>
         <entry>without</entry>
         <entry>preferences</entry>
@@ -5440,6 +5440,7 @@
         <entry>warn</entry>
         <entry>console</entry>
         <entry>OKTA_AUTH</entry>
+        <entry>aws-migration</entry>
       </history-search>
       <history-cmd>
         <entry>%s/configs.EnvVar/new EnvironmentVariableConfigurationItem/g</entry>
