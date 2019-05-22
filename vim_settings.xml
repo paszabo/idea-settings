@@ -20,18 +20,11 @@
         <mark key="." line="184" column="67" />
         <mark key="^" line="184" column="67" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1558490036662">
-        <mark key="'" line="201" column="0" />
-        <mark key="[" line="195" column="0" />
-        <mark key="]" line="196" column="177" />
-        <mark key="^" line="196" column="142" />
-        <mark key="." line="196" column="143" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" timestamp="1558479485989">
-        <mark key="[" line="26" column="46" />
-        <mark key="]" line="26" column="70" />
-        <mark key="^" line="26" column="70" />
-        <mark key="." line="26" column="70" />
+        <mark key="[" line="20" column="46" />
+        <mark key="]" line="20" column="70" />
+        <mark key="^" line="20" column="70" />
+        <mark key="." line="20" column="70" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/preferences/subscription.service.test.ts" timestamp="1557517677014">
         <mark key="'" line="248" column="34" />
@@ -47,14 +40,18 @@
         <mark key="^" line="3" column="33" />
         <mark key="." line="3" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/config.ts" timestamp="1558539167308">
-        <mark key="[" line="46" column="14" />
-        <mark key="]" line="46" column="25" />
-        <mark key="^" line="46" column="25" />
-        <mark key="." line="46" column="25" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/package.json" timestamp="1558547435280">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+        <mark key="^" line="9" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/config.yml" timestamp="1558045714810">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/config.yml" timestamp="1558547540640">
         <mark key="'" line="130" column="64" />
+        <mark key="[" line="83" column="20" />
+        <mark key="]" line="83" column="23" />
+        <mark key="^" line="83" column="23" />
+        <mark key="." line="83" column="23" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/preferences.service.ts" timestamp="1558038132250">
         <mark key="'" line="345" column="17" />
@@ -172,6 +169,11 @@
         <mark key="^" line="524" column="0" />
         <mark key="." line="524" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer-memberid.js" timestamp="1558546469253">
+        <mark key="'" line="221" column="6" />
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="10" column="51" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-admin.test.ts" timestamp="1557517519276">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="16" column="17" />
@@ -188,10 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-utils.test.ts" />
-      <jump line="190" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-utils.test.ts" />
-      <jump line="214" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-utils.test.ts" />
-      <jump line="229" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-utils.test.ts" />
       <jump line="22" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-utils.test.ts" />
       <jump line="19" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-utils.test.ts" />
       <jump line="230" column="29" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-utils.test.ts" />
@@ -288,10 +286,14 @@
       <jump line="183" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" />
       <jump line="201" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="140" column="56" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="123" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer-memberid.js" />
+      <jump line="201" column="6" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer-memberid.js" />
+      <jump line="221" column="6" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer-memberid.js" />
+      <jump line="1951" column="39" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgdGhpcy5kYiA9IG5ldyBEeW5hbW9EQi5Eb2N1bWVudENsaWVudCgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>de_modules/.bin/</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4774,13 +4776,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>de_modules/.bin/</text>
       </register>
       <register name="/" type="4">
-        <text>Yodlee</text>
+        <text>OKTA_AUTH</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgdGhpcy5kYiA9IG5ldyBEeW5hbW9EQi5Eb2N1bWVudENsaWVudCgpOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">IC0tbWF4V29ya2Vycz00</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5sb2dnZXIuZXJyb3IoZXJyKTsK</text>
@@ -4820,9 +4822,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Yodlee</last-search>
+      <last-search>OKTA_AUTH</last-search>
       <last-offset />
-      <last-pattern>Yodlee</last-pattern>
+      <last-pattern>OKTA_AUTH</last-pattern>
       <last-replace>new EnvironmentVariableConfigurationItem</last-replace>
       <last-substitute>configs.EnvVar</last-substitute>
       <last-dir>1</last-dir>
@@ -4830,9 +4832,6 @@
     </search>
     <history>
       <history-search>
-        <entry>users</entry>
-        <entry>GetUser</entry>
-        <entry>oh well</entry>
         <entry>delete</entry>
         <entry>be</entry>
         <entry>without</entry>
@@ -4850,6 +4849,9 @@
         <entry>environment:</entry>
         <entry>yodlee</entry>
         <entry>Yodlee</entry>
+        <entry>warn</entry>
+        <entry>console</entry>
+        <entry>OKTA_AUTH</entry>
       </history-search>
       <history-cmd>
         <entry>%s/configs.EnvVar/new EnvironmentVariableConfigurationItem/g</entry>
@@ -4870,8 +4872,8 @@
         <entry>32</entry>
         <entry>W</entry>
         <entry>1,45d</entry>
-        <entry>w</entry>
         <entry>0</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
