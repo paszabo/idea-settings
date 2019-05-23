@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/env-configs/qa/prefs-config-qa.sh" timestamp="1558028804737">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/index.ts" timestamp="1551735388768">
         <mark key="[" line="12" column="15" />
         <mark key="]" line="12" column="16" />
@@ -27,6 +30,9 @@
         <mark key="]" line="2" column="18" />
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1558648198300">
+        <mark key="'" line="80" column="24" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" timestamp="1558479485989">
         <mark key="[" line="20" column="46" />
@@ -200,6 +206,9 @@
         <mark key="]" line="12" column="88" />
         <mark key="^" line="12" column="88" />
         <mark key="." line="12" column="88" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/scim/scimHandler.ts" timestamp="1557853796033">
+        <mark key="'" line="23" column="20" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/package.json" timestamp="1557784944350">
         <mark key="[" line="27" column="0" />
@@ -557,7 +566,7 @@
         <mark key="." line="9" column="19" />
         <mark key="^" line="6" column="62" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" timestamp="1558645625079">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" timestamp="1558648189281">
         <mark key="'" line="147" column="26" />
         <mark key="[" line="636" column="69" />
         <mark key="]" line="636" column="77" />
@@ -593,6 +602,9 @@
         <mark key="]" line="16" column="84" />
         <mark key="^" line="16" column="84" />
         <mark key="." line="16" column="84" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/aws-sdk/clients/dynamodb.d.ts" timestamp="1558127438864">
+        <mark key="'" line="186" column="2" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/test-client.ts" timestamp="1552511564354">
         <mark key="[" line="7" column="78" />
@@ -693,7 +705,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/preferences/subscription.service.test.ts" />
       <jump line="10" column="31" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/preferences/subscription.service.test.ts" />
       <jump line="17" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/preferences/subscription.service.test.ts" />
       <jump line="141" column="33" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/preferences/subscription.service.test.ts" />
@@ -793,6 +804,7 @@
       <jump line="157" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/.circleci/config.yml" />
       <jump line="147" column="26" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" />
       <jump line="40" column="31" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/MailService.ts" />
+      <jump line="80" column="24" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5282,7 +5294,7 @@
         <text>err</text>
       </register>
       <register name="/" type="4">
-        <text>endpoint</text>
+        <text>yodlee</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYWNjZXNzS2V5SWQ6IHByb2Nlc3MuZW52LkRZTkFNT19YQUNDVF9VU0VSX0FXU19BQ0NFU1NfS0VZX0lELCAvLyBJQU0gdXNlciBpbiBvbGQgZGV2IGFjY291bnQKICAgICAgICAgICAgc2VjcmV0QWNjZXNzS2V5OiBwcm9jZXNzLmVudi5EWU5BTU9fWEFDQ1RfVVNFUl9BV1NfU0VDUkVUX0FDQ0VTU19LRVksIC8vIElBTSB1c2VyIGluIG9sZCBkZXYgYWNjb3VudAo=</text>
@@ -5325,12 +5337,12 @@
       </register>
     </registers>
     <search>
-      <last-search>endpoint</last-search>
+      <last-search>yodlee</last-search>
       <last-offset />
-      <last-pattern>endpoint</last-pattern>
+      <last-pattern>yodlee</last-pattern>
       <last-replace>new EnvironmentVariableConfigurationItem</last-replace>
       <last-substitute>configs.EnvVar</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -5348,13 +5360,13 @@
         <entry>activate</entry>
         <entry>getUserByProviderId</entry>
         <entry>environment:</entry>
-        <entry>yodlee</entry>
         <entry>Yodlee</entry>
         <entry>warn</entry>
         <entry>console</entry>
         <entry>OKTA_AUTH</entry>
         <entry>aws-migration</entry>
         <entry>endpoint</entry>
+        <entry>yodlee</entry>
       </history-search>
       <history-cmd>
         <entry>%s/configs.EnvVar/new EnvironmentVariableConfigurationItem/g</entry>
