@@ -78,12 +78,6 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="31" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/authorizer.js" timestamp="1558559410905">
-        <mark key="[" line="93" column="55" />
-        <mark key="]" line="97" column="64" />
-        <mark key="^" line="97" column="64" />
-        <mark key="." line="97" column="64" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/package.json" timestamp="1557938688239">
         <mark key="[" line="28" column="23" />
         <mark key="]" line="28" column="28" />
@@ -622,11 +616,12 @@
         <mark key="." line="9" column="19" />
         <mark key="^" line="6" column="62" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" timestamp="1558470883464">
-        <mark key="'" line="185" column="4" />
-        <mark key="[" line="165" column="0" />
-        <mark key="]" line="166" column="177" />
-        <mark key="." line="165" column="0" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" timestamp="1558587584966">
+        <mark key="'" line="147" column="26" />
+        <mark key="[" line="636" column="69" />
+        <mark key="]" line="636" column="77" />
+        <mark key="." line="636" column="77" />
+        <mark key="^" line="636" column="77" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/test/admin/users.test.ts" timestamp="1556916642976">
         <mark key="[" line="15" column="0" />
@@ -720,13 +715,7 @@
         <mark key="^" line="524" column="0" />
         <mark key="." line="524" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer-memberid.js" timestamp="1558559187096">
-        <mark key="'" line="222" column="6" />
-        <mark key="[" line="193" column="32" />
-        <mark key="]" line="194" column="11" />
-        <mark key="." line="194" column="11" />
-        <mark key="^" line="194" column="11" />
-      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer-memberid.js" timestamp="1558559187096" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-admin.test.ts" timestamp="1557517519276">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="16" column="17" />
@@ -779,7 +768,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-preferences.test.ts" />
       <jump line="15" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-preferences.test.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/preferences/subscription.service.test.ts" />
       <jump line="10" column="31" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/preferences/subscription.service.test.ts" />
@@ -879,6 +867,7 @@
       <jump line="37" column="23" filename="$USER_HOME$/dev/repos/common-identity-api/.circleci/config.yml" />
       <jump line="167" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/.circleci/config.yml" />
       <jump line="157" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/.circleci/config.yml" />
+      <jump line="147" column="26" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5368,7 +5357,7 @@
         <text>const jwks =</text>
       </register>
       <register name="/" type="4">
-        <text>aws-migration</text>
+        <text>endpoint</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVnaW9uOiBBV1NSZWdpb24sCg==</text>
@@ -5411,17 +5400,16 @@
       </register>
     </registers>
     <search>
-      <last-search>aws-migration</last-search>
+      <last-search>endpoint</last-search>
       <last-offset />
-      <last-pattern>aws-migration</last-pattern>
+      <last-pattern>endpoint</last-pattern>
       <last-replace>new EnvironmentVariableConfigurationItem</last-replace>
       <last-substitute>configs.EnvVar</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>be</entry>
         <entry>without</entry>
         <entry>preferences</entry>
         <entry>unsubscribe</entry>
@@ -5441,6 +5429,7 @@
         <entry>console</entry>
         <entry>OKTA_AUTH</entry>
         <entry>aws-migration</entry>
+        <entry>endpoint</entry>
       </history-search>
       <history-cmd>
         <entry>%s/configs.EnvVar/new EnvironmentVariableConfigurationItem/g</entry>
