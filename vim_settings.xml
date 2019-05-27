@@ -193,7 +193,7 @@
         <mark key="^" line="8" column="88" />
         <mark key="." line="8" column="88" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" timestamp="1558978639778">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" timestamp="1558981068807">
         <mark key="'" line="504" column="0" />
         <mark key="[" line="497" column="32" />
         <mark key="]" line="498" column="7" />
@@ -430,6 +430,9 @@
         <mark key="." line="356" column="0" />
         <mark key="^" line="356" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IAppDetails.ts" timestamp="1558980448585">
+        <mark key="'" line="276" column="17" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/scripts/app-config-ls.js" timestamp="1555343889527">
         <mark key="[" line="16" column="117" />
         <mark key="]" line="16" column="117" />
@@ -565,7 +568,7 @@
         <mark key="." line="9" column="19" />
         <mark key="^" line="6" column="62" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" timestamp="1558978764433">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" timestamp="1558980436374">
         <mark key="'" line="485" column="0" />
         <mark key="[" line="606" column="32" />
         <mark key="]" line="607" column="7" />
@@ -709,7 +712,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="25" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/test/admin/preferences.test.ts" />
       <jump line="28" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
       <jump line="44" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/env-configs/dev/prefs-config-dev.sh" />
       <jump line="2272" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
@@ -809,6 +811,7 @@
       <jump line="500" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
       <jump line="916" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
       <jump line="1973" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="276" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/models/IAppDetails.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -5298,7 +5301,7 @@
         <text encoding="base64">LSAgIC0g</text>
       </register>
       <register name="/" type="4">
-        <text>custom:</text>
+        <text>IAppDetails</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNoaXBMb2dzOgogICAgICAgIGNvbGxlY3RvclVybDogXyR7ZW52OlNVTU9MT0dJQ19DT0xMRUNUT1JfVVJMLCBvcHQ6c3Vtb0NvbGxlY3RvclVybH0KICAgICAgICBzb3VyY2VDYXRlZ29yeU92ZXJyaWRlOiBfJHtlbnY6U1VNT0xPR0lDX1NPVVJDRV9DQVRFR09SWV9PVkVSUklERSwgb3B0OnN1bW9Tb3VyY2VDYXRlZ29yeSwgc2VsZjpjdXN0b20uc291cmNlQ2F0ZWdvcnkuXyR7c2VsZjpwcm92aWRlci5zdGFnZX19CiAgICAgICAgcm9sZTogXyR7ZW52OkxBTUJEQV9JQU1fUk9MRV9BUk4sIG9wdDpsYW1iZGFJQU1Sb2xlQXJufQo=</text>
@@ -5341,9 +5344,9 @@
       </register>
     </registers>
     <search>
-      <last-search>custom:</last-search>
+      <last-search>IAppDetails</last-search>
       <last-offset />
-      <last-pattern>custom:</last-pattern>
+      <last-pattern>IAppDetails</last-pattern>
       <last-replace>yr10</last-replace>
       <last-substitute>wr00</last-substitute>
       <last-dir>1</last-dir>
@@ -5351,8 +5354,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Webhook</entry>
-        <entry>TableArn</entry>
         <entry>query</entry>
         <entry>query(</entry>
         <entry>activateUser</entry>
@@ -5371,6 +5372,8 @@
         <entry>yr10</entry>
         <entry>custom</entry>
         <entry>custom:</entry>
+        <entry>iapp</entry>
+        <entry>IAppDetails</entry>
       </history-search>
       <history-cmd>
         <entry>5</entry>
