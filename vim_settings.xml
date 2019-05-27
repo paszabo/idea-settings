@@ -91,6 +91,7 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="23" column="26" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/config.ts" timestamp="1558990316442" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/package-lock.json" timestamp="1558974608040">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -168,6 +169,7 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1558990501184" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer.js" timestamp="1558590150097">
         <mark key="[" line="235" column="5" />
         <mark key="]" line="236" column="3" />
@@ -359,8 +361,8 @@
         <mark key="." line="22" column="11" />
         <mark key="^" line="22" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/MailService.ts" timestamp="1558638137788">
-        <mark key="'" line="40" column="31" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/MailService.ts" timestamp="1558990366843">
+        <mark key="'" line="249" column="59" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/applications.service.test.ts" timestamp="1551894297607">
         <mark key="[" line="9" column="14" />
@@ -692,7 +694,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="277" column="31" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="729" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="728" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
@@ -792,6 +793,7 @@
       <jump line="611" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" />
       <jump line="106" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" />
       <jump line="584" column="91" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" />
+      <jump line="249" column="59" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/MailService.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5281,7 +5283,7 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>_$</text>
+        <text>welcome</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByb2xlOiAke2VudjpMQU1CREFfSUFNX1JPTEVfQVJOLCBvcHQ6bGFtYmRhSUFNUm9sZUFybiwgc2VsZjpjdXN0b20ubGFtYmRhSUFNUm9sZUFybn0K</text>
@@ -5324,9 +5326,9 @@
       </register>
     </registers>
     <search>
-      <last-search>_$</last-search>
+      <last-search>welcome</last-search>
       <last-offset />
-      <last-pattern>_$</last-pattern>
+      <last-pattern>welcome</last-pattern>
       <last-replace>yr10</last-replace>
       <last-substitute>wr00</last-substitute>
       <last-dir>-1</last-dir>
@@ -5334,7 +5336,6 @@
     </search>
     <history>
       <history-search>
-        <entry>activate</entry>
         <entry>getUserByProviderId</entry>
         <entry>environment:</entry>
         <entry>Yodlee</entry>
@@ -5354,6 +5355,7 @@
         <entry>lambdaIAMRoleArn</entry>
         <entry>role</entry>
         <entry>_$</entry>
+        <entry>welcome</entry>
       </history-search>
       <history-cmd>
         <entry>5</entry>
