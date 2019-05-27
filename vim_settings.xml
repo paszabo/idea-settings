@@ -31,8 +31,12 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1558648198300">
-        <mark key="'" line="80" column="24" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1558978645803">
+        <mark key="'" line="1973" column="0" />
+        <mark key="[" line="1971" column="32" />
+        <mark key="]" line="1972" column="7" />
+        <mark key="." line="1972" column="7" />
+        <mark key="^" line="1972" column="7" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" timestamp="1558590023099">
         <mark key="[" line="223" column="5" />
@@ -97,7 +101,6 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/package-lock.json" timestamp="1558974608040">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="10814" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/prod/users-config-production.sh" timestamp="1552328245192">
@@ -190,12 +193,12 @@
         <mark key="^" line="8" column="88" />
         <mark key="." line="8" column="88" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" timestamp="1558561238550">
-        <mark key="'" line="381" column="14" />
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="134" column="177" />
-        <mark key="." line="133" column="0" />
-        <mark key="^" line="395" column="18" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" timestamp="1558978639778">
+        <mark key="'" line="504" column="0" />
+        <mark key="[" line="497" column="32" />
+        <mark key="]" line="498" column="7" />
+        <mark key="^" line="498" column="7" />
+        <mark key="." line="498" column="7" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serializers/users/resend-activation-code.serialize.ts" timestamp="1555538865001">
         <mark key="[" line="10" column="26" />
@@ -223,6 +226,13 @@
         <mark key="]" line="119" column="48" />
         <mark key="^" line="119" column="48" />
         <mark key="." line="119" column="48" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" timestamp="1558978643258">
+        <mark key="'" line="920" column="4" />
+        <mark key="[" line="913" column="32" />
+        <mark key="]" line="914" column="7" />
+        <mark key="." line="914" column="7" />
+        <mark key="^" line="914" column="7" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/deploy-admin.sh" timestamp="1557525225247">
         <mark key="[" line="7" column="0" />
@@ -555,12 +565,12 @@
         <mark key="." line="9" column="19" />
         <mark key="^" line="6" column="62" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" timestamp="1558648189281">
-        <mark key="'" line="147" column="26" />
-        <mark key="[" line="636" column="69" />
-        <mark key="]" line="636" column="77" />
-        <mark key="." line="636" column="77" />
-        <mark key="^" line="636" column="77" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" timestamp="1558978764433">
+        <mark key="'" line="485" column="0" />
+        <mark key="[" line="606" column="32" />
+        <mark key="]" line="607" column="7" />
+        <mark key="." line="607" column="7" />
+        <mark key="^" line="607" column="7" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/test/admin/users.test.ts" timestamp="1556916642976">
         <mark key="[" line="15" column="0" />
@@ -693,26 +703,12 @@
         <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/test/preferences/unsubscribe.test.ts" timestamp="1558974441675">
-        <mark key="]" line="171" column="2" />
-        <mark key="^" line="171" column="2" />
-        <mark key="." line="171" column="2" />
+        <mark key="]" line="208" column="2" />
+        <mark key="^" line="208" column="2" />
+        <mark key="." line="208" column="2" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
-      <jump line="49" column="23" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
-      <jump line="107" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
-      <jump line="139" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
-      <jump line="297" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
-      <jump line="210" column="31" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
-      <jump line="878" column="66" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/TnCService.test.ts" />
-      <jump line="6" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/TnCService.test.ts" />
-      <jump line="33" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/TnCService.test.ts" />
-      <jump line="46" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/TnCService.test.ts" />
-      <jump line="37" column="36" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
-      <jump line="16" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/test/preferences/unsubscribe.test.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/test/admin/preferences.test.ts" />
       <jump line="11" column="25" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/test/admin/preferences.test.ts" />
       <jump line="28" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
       <jump line="44" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/.circleci/scripts/codedeploy/env-configs/dev/prefs-config-dev.sh" />
@@ -799,10 +795,24 @@
       <jump line="209" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/test/preferences/unsubscribe.test.ts" />
       <jump line="182" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/test/preferences/unsubscribe.test.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/test/preferences/unsubscribe.test.ts" />
+      <jump line="1972" column="18" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="1974" column="19" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="1970" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="1971" column="25" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="539" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" />
+      <jump line="75" column="140" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
+      <jump line="74" column="129" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
+      <jump line="73" column="71" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
+      <jump line="72" column="89" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
+      <jump line="71" column="110" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
+      <jump line="100" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
+      <jump line="500" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
+      <jump line="916" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
+      <jump line="1973" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gMjAxOTA1MjcxMjI4NDIKLy8gaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3JiYy1lY29zeXN0ZW1zL2NvbW1vbi1pZGVudGl0eS1hcGkvcHJvZHVjdGlvbi9wYWNrYWdlLWxvY2suanNvbj90b2tlbj1BQkJYVlY3VU5ZM1dCN0hRSE1EVjJDQzQ2VkZMVQoK</text>
+        <text encoding="base64">ICAgIHNoaXBMb2dzOgogICAgICAgIGNvbGxlY3RvclVybDogXyR7ZW52OlNVTU9MT0dJQ19DT0xMRUNUT1JfVVJMLCBvcHQ6c3Vtb0NvbGxlY3RvclVybH0KICAgICAgICBzb3VyY2VDYXRlZ29yeU92ZXJyaWRlOiBfJHtlbnY6U1VNT0xPR0lDX1NPVVJDRV9DQVRFR09SWV9PVkVSUklERSwgb3B0OnN1bW9Tb3VyY2VDYXRlZ29yeSwgc2VsZjpjdXN0b20uc291cmNlQ2F0ZWdvcnkuXyR7c2VsZjpwcm92aWRlci5zdGFnZX19CiAgICAgICAgcm9sZTogXyR7ZW52OkxBTUJEQV9JQU1fUk9MRV9BUk4sIG9wdDpsYW1iZGFJQU1Sb2xlQXJufQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5285,13 +5295,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">LSAgIC0g</text>
       </register>
       <register name="/" type="4">
-        <text>boolean</text>
+        <text>custom:</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWNjZXNzS2V5SWQ6IHByb2Nlc3MuZW52LkRZTkFNT19YQUNDVF9VU0VSX0FXU19BQ0NFU1NfS0VZX0lELCAvLyBJQU0gdXNlciBpbiBvbGQgZGV2IGFjY291bnQKICAgICAgICAgICAgc2VjcmV0QWNjZXNzS2V5OiBwcm9jZXNzLmVudi5EWU5BTU9fWEFDQ1RfVVNFUl9BV1NfU0VDUkVUX0FDQ0VTU19LRVksIC8vIElBTSB1c2VyIGluIG9sZCBkZXYgYWNjb3VudAo=</text>
+        <text encoding="base64">ICAgIHNoaXBMb2dzOgogICAgICAgIGNvbGxlY3RvclVybDogXyR7ZW52OlNVTU9MT0dJQ19DT0xMRUNUT1JfVVJMLCBvcHQ6c3Vtb0NvbGxlY3RvclVybH0KICAgICAgICBzb3VyY2VDYXRlZ29yeU92ZXJyaWRlOiBfJHtlbnY6U1VNT0xPR0lDX1NPVVJDRV9DQVRFR09SWV9PVkVSUklERSwgb3B0OnN1bW9Tb3VyY2VDYXRlZ29yeSwgc2VsZjpjdXN0b20uc291cmNlQ2F0ZWdvcnkuXyR7c2VsZjpwcm92aWRlci5zdGFnZX19CiAgICAgICAgcm9sZTogXyR7ZW52OkxBTUJEQV9JQU1fUk9MRV9BUk4sIG9wdDpsYW1iZGFJQU1Sb2xlQXJufQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gMjAxOTA1MjcxMjI4NDIKLy8gaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3JiYy1lY29zeXN0ZW1zL2NvbW1vbi1pZGVudGl0eS1hcGkvcHJvZHVjdGlvbi9wYWNrYWdlLWxvY2suanNvbj90b2tlbj1BQkJYVlY3VU5ZM1dCN0hRSE1EVjJDQzQ2VkZMVQoK</text>
@@ -5331,20 +5341,16 @@
       </register>
     </registers>
     <search>
-      <last-search>boolean</last-search>
+      <last-search>custom:</last-search>
       <last-offset />
-      <last-pattern>boolean</last-pattern>
-      <last-replace>new EnvironmentVariableConfigurationItem</last-replace>
-      <last-substitute>configs.EnvVar</last-substitute>
+      <last-pattern>custom:</last-pattern>
+      <last-replace>yr10</last-replace>
+      <last-substitute>wr00</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>preferences</entry>
-        <entry>unsubscribe</entry>
-        <entry>register</entry>
-        <entry>describe</entry>
         <entry>Webhook</entry>
         <entry>TableArn</entry>
         <entry>query</entry>
@@ -5361,9 +5367,12 @@
         <entry>endpoint</entry>
         <entry>yodlee</entry>
         <entry>boolean</entry>
+        <entry>wr00</entry>
+        <entry>yr10</entry>
+        <entry>custom</entry>
+        <entry>custom:</entry>
       </history-search>
       <history-cmd>
-        <entry>29</entry>
         <entry>5</entry>
         <entry>85</entry>
         <entry>128</entry>
@@ -5382,6 +5391,7 @@
         <entry encoding="base64">JzwsJz4w</entry>
         <entry>W</entry>
         <entry>0</entry>
+        <entry>%s/wr00/yr10/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
