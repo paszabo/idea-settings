@@ -24,8 +24,8 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1559059967371">
-        <mark key="'" line="1973" column="0" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1559077140798">
+        <mark key="'" line="173" column="62" />
         <mark key="[" line="1975" column="125" />
         <mark key="]" line="1975" column="125" />
         <mark key="." line="1975" column="125" />
@@ -223,7 +223,7 @@
         <mark key="^" line="119" column="48" />
         <mark key="." line="119" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" timestamp="1559076431452">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" timestamp="1559077128692">
         <mark key="'" line="920" column="4" />
         <mark key="[" line="917" column="125" />
         <mark key="]" line="917" column="125" />
@@ -695,8 +695,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="277" column="31" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
-      <jump line="729" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="728" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="674" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="673" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
@@ -795,6 +793,8 @@
       <jump line="106" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" />
       <jump line="584" column="91" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" />
       <jump line="249" column="59" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/MailService.ts" />
+      <jump line="1969" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="173" column="62" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5284,7 +5284,7 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>welcome</text>
+        <text>kmsAlias</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByb2xlOiAke2VudjpMQU1CREFfSUFNX1JPTEVfQVJOLCBvcHQ6bGFtYmRhSUFNUm9sZUFybiwgc2VsZjpjdXN0b20ubGFtYmRhSUFNUm9sZUFybn0K</text>
@@ -5327,18 +5327,16 @@
       </register>
     </registers>
     <search>
-      <last-search>welcome</last-search>
+      <last-search>kmsAlias</last-search>
       <last-offset />
-      <last-pattern>welcome</last-pattern>
+      <last-pattern>kmsAlias</last-pattern>
       <last-replace>yr10</last-replace>
       <last-substitute>wr00</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getUserByProviderId</entry>
-        <entry>environment:</entry>
         <entry>Yodlee</entry>
         <entry>warn</entry>
         <entry>console</entry>
@@ -5357,6 +5355,8 @@
         <entry>role</entry>
         <entry>_$</entry>
         <entry>welcome</entry>
+        <entry>KMS</entry>
+        <entry>kmsAlias</entry>
       </history-search>
       <history-cmd>
         <entry>5</entry>
