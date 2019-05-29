@@ -27,7 +27,9 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1559169621070" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1559171071130">
+        <mark key="'" line="173" column="70" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" timestamp="1559146717143">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -767,7 +769,6 @@
       <jump line="584" column="91" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" />
       <jump line="249" column="59" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/MailService.ts" />
       <jump line="1969" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
-      <jump line="173" column="62" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="770" column="48" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="15" column="5" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="31" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/users.repository.ts" />
@@ -787,6 +788,7 @@
       <jump line="412" column="3" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
       <jump line="444" column="10" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
+      <jump line="173" column="70" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -5276,7 +5278,7 @@
         <text>stg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PDw8</text>
+        <text>kmsAlias</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJhbmNoZXM6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbmx5OgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0gbWFzdGVyCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLSBwcm9kdWN0aW9uCg==</text>
@@ -5319,9 +5321,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">PDw8</last-search>
+      <last-search>kmsAlias</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PDw8</last-pattern>
+      <last-pattern>kmsAlias</last-pattern>
       <last-replace>yr10</last-replace>
       <last-substitute>wr00</last-substitute>
       <last-dir>1</last-dir>
@@ -5342,13 +5344,13 @@
         <entry>_$</entry>
         <entry>welcome</entry>
         <entry>KMS</entry>
-        <entry>kmsAlias</entry>
         <entry>Activate</entry>
         <entry>ProviderIdIndex</entry>
         <entry encoding="base64">XDxJQU1cPg==</entry>
         <entry>branches</entry>
         <entry encoding="base64">Pj4=</entry>
         <entry encoding="base64">PDw8</entry>
+        <entry>kmsAlias</entry>
       </history-search>
       <history-cmd>
         <entry>5</entry>
