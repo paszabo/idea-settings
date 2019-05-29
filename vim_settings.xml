@@ -161,7 +161,13 @@
         <mark key="^" line="26" column="36" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/config.yml" timestamp="1559168922068" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/config.yml" timestamp="1559172235923">
+        <mark key="'" line="17" column="13" />
+        <mark key="[" line="138" column="29" />
+        <mark key="]" line="138" column="65" />
+        <mark key="^" line="138" column="65" />
+        <mark key="." line="138" column="65" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-tutorials/register-prospect-user/register-prospect-user.js" timestamp="1551373769035">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
@@ -689,7 +695,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="798" column="2" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="19" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/test/users/me.test.ts" />
       <jump line="16" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/test/users/me.test.ts" />
       <jump line="28" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/test/users/me.test.ts" />
@@ -789,6 +794,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
       <jump line="444" column="10" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
       <jump line="173" column="70" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="17" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/.circleci/config.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -5278,7 +5284,7 @@
         <text>stg</text>
       </register>
       <register name="/" type="4">
-        <text>kmsAlias</text>
+        <text>git_tag</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJhbmNoZXM6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbmx5OgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0gbWFzdGVyCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLSBwcm9kdWN0aW9uCg==</text>
@@ -5321,9 +5327,9 @@
       </register>
     </registers>
     <search>
-      <last-search>kmsAlias</last-search>
+      <last-search>git_tag</last-search>
       <last-offset />
-      <last-pattern>kmsAlias</last-pattern>
+      <last-pattern>git_tag</last-pattern>
       <last-replace>yr10</last-replace>
       <last-substitute>wr00</last-substitute>
       <last-dir>1</last-dir>
@@ -5331,7 +5337,6 @@
     </search>
     <history>
       <history-search>
-        <entry>yodlee</entry>
         <entry>boolean</entry>
         <entry>wr00</entry>
         <entry>yr10</entry>
@@ -5351,6 +5356,7 @@
         <entry encoding="base64">Pj4=</entry>
         <entry encoding="base64">PDw8</entry>
         <entry>kmsAlias</entry>
+        <entry>git_tag</entry>
       </history-search>
       <history-cmd>
         <entry>5</entry>
@@ -5371,8 +5377,8 @@
         <entry>W</entry>
         <entry>%s/wr00/yr10/g</entry>
         <entry>1</entry>
-        <entry>w</entry>
         <entry>0</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
