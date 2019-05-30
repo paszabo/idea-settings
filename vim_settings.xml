@@ -41,8 +41,8 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/scim/scimHandler.ts" timestamp="1559152245699">
         <mark key="'" line="23" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" timestamp="1559175516837">
-        <mark key="'" line="53" column="4" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" timestamp="1559195012468">
+        <mark key="'" line="53" column="8" />
         <mark key="[" line="53" column="120" />
         <mark key="]" line="53" column="128" />
         <mark key="^" line="53" column="128" />
@@ -182,7 +182,6 @@
       <jump line="143" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
       <jump line="477" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
       <jump line="1688" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
-      <jump line="53" column="40" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
       <jump line="583" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" />
       <jump line="130" column="73" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" />
       <jump line="476" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
@@ -192,6 +191,7 @@
       <jump line="803" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
       <jump line="326" column="5" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" />
       <jump line="84" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" />
+      <jump line="53" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4681,7 +4681,7 @@
         <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>Error encrypting SAML</text>
+        <text>nonp</text>
       </register>
       <register name="0" type="4">
         <text>KMS_CACHE_KEY</text>
@@ -4724,9 +4724,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Error encrypting SAML</last-search>
+      <last-search>nonp</last-search>
       <last-offset />
-      <last-pattern>Error encrypting SAML</last-pattern>
+      <last-pattern>nonp</last-pattern>
       <last-replace>KMS_CACHE_KEY</last-replace>
       <last-substitute>KMS_ALIAS</last-substitute>
       <last-dir>1</last-dir>
@@ -4734,7 +4734,6 @@
     </search>
     <history>
       <history-search>
-        <entry>welcome</entry>
         <entry>KMS</entry>
         <entry>Activate</entry>
         <entry>ProviderIdIndex</entry>
@@ -4754,6 +4753,7 @@
         <entry>kmsAlias</entry>
         <entry>KMS_ALIAS</entry>
         <entry>Error encrypting SAML</entry>
+        <entry>nonp</entry>
       </history-search>
       <history-cmd>
         <entry>174</entry>
