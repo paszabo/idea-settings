@@ -20,29 +20,27 @@
         <mark key="." line="60" column="27" />
         <mark key="^" line="60" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/package.json" timestamp="1559157022746">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/package.json" timestamp="1559330530903">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="^" line="9" column="35" />
         <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/admin-config-qa.sh" timestamp="1559182123290" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/config.yml" timestamp="1559327784184">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/config.yml" timestamp="1559330550929">
         <mark key="'" line="17" column="13" />
         <mark key="[" line="138" column="29" />
         <mark key="]" line="138" column="65" />
         <mark key="^" line="138" column="65" />
         <mark key="." line="138" column="65" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1559329869857" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" timestamp="1559327486585">
         <mark key="'" line="108" column="73" />
         <mark key="[" line="108" column="123" />
         <mark key="]" line="108" column="131" />
         <mark key="." line="108" column="131" />
         <mark key="^" line="108" column="131" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/scim/scimHandler.ts" timestamp="1559152245699">
-        <mark key="'" line="23" column="20" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IUser.ts" timestamp="1559326330644" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" timestamp="1559327383354">
@@ -52,8 +50,9 @@
         <mark key="^" line="53" column="128" />
         <mark key="." line="53" column="128" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Cache.ts" timestamp="1559321552758">
-        <mark key="'" line="78" column="17" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Cache.ts" timestamp="1559330043781">
+        <mark key="a" line="117" column="58" />
+        <mark key="'" line="13" column="23" />
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
@@ -63,9 +62,6 @@
         <mark key="]" line="25" column="21" />
         <mark key="." line="25" column="21" />
         <mark key="^" line="25" column="21" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/MailService.ts" timestamp="1558990366843">
-        <mark key="'" line="249" column="59" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/cache-client.test.ts" timestamp="1559152843033">
         <mark key="[" line="152" column="31" />
@@ -84,16 +80,14 @@
         <mark key="." line="130" column="131" />
         <mark key="^" line="130" column="131" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/users.repository.ts" timestamp="1559321766778">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/users.repository.ts" timestamp="1559330231787">
+        <mark key="[" line="139" column="26" />
+        <mark key="]" line="139" column="26" />
+        <mark key="." line="139" column="26" />
+        <mark key="^" line="139" column="55" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/scim/serverless.yml" timestamp="1559174642595">
         <mark key="n" line="45" column="20" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1559173494663">
-        <mark key="'" line="403" column="70" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/deploy-prefs.sh" timestamp="1559326421979">
         <mark key="[" line="2" column="40" />
@@ -104,8 +98,6 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/aws-sdk/clients/ses.d.ts" timestamp="1559197802422" />
     </filemarks>
     <jumps>
-      <jump line="73" column="71" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
-      <jump line="72" column="89" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
       <jump line="71" column="110" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
       <jump line="100" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
       <jump line="500" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
@@ -204,10 +196,12 @@
       <jump line="326" column="5" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" />
       <jump line="84" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" />
       <jump line="53" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
+      <jump line="15" column="23" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/Cache.ts" />
+      <jump line="13" column="23" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/Cache.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{</text>
+        <text>this.hash(</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4690,7 +4684,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>this.hash(</text>
       </register>
       <register name="/" type="4">
         <text>nonp</text>
