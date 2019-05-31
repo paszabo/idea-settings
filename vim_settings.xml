@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/deploy.sh" timestamp="1559326412825">
+        <mark key="[" line="0" column="11" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1559175460840">
         <mark key="'" line="173" column="131" />
         <mark key="[" line="173" column="123" />
@@ -24,14 +27,14 @@
         <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/env-configs/admin-config-qa.sh" timestamp="1559182123290" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/config.yml" timestamp="1559172235923">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/config.yml" timestamp="1559327784184">
         <mark key="'" line="17" column="13" />
         <mark key="[" line="138" column="29" />
         <mark key="]" line="138" column="65" />
         <mark key="^" line="138" column="65" />
         <mark key="." line="138" column="65" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" timestamp="1559175438923">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" timestamp="1559327486585">
         <mark key="'" line="108" column="73" />
         <mark key="[" line="108" column="123" />
         <mark key="]" line="108" column="131" />
@@ -41,8 +44,8 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/scim/scimHandler.ts" timestamp="1559152245699">
         <mark key="'" line="23" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IUser.ts" timestamp="1559322235393" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" timestamp="1559195012468">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IUser.ts" timestamp="1559326330644" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" timestamp="1559327383354">
         <mark key="'" line="53" column="8" />
         <mark key="[" line="53" column="120" />
         <mark key="]" line="53" column="128" />
@@ -91,6 +94,12 @@
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1559173494663">
         <mark key="'" line="403" column="70" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/deploy-prefs.sh" timestamp="1559326421979">
+        <mark key="[" line="2" column="40" />
+        <mark key="]" line="4" column="10" />
+        <mark key="^" line="4" column="10" />
+        <mark key="." line="4" column="10" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/aws-sdk/clients/ses.d.ts" timestamp="1559197802422" />
     </filemarks>
