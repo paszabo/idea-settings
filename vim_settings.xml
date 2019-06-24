@@ -4,11 +4,12 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/dev/repos/common-identity-api/package.json" timestamp="1559330530903">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
         <mark key="^" line="9" column="35" />
-        <mark key="." line="19" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/Dockerfile" timestamp="1561404108254" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" timestamp="1559175403191">
         <mark key="'" line="130" column="73" />
         <mark key="[" line="130" column="123" />
@@ -26,12 +27,8 @@
         <mark key="." line="108" column="131" />
         <mark key="^" line="108" column="131" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/users.repository.ts" timestamp="1559330231787">
-        <mark key="[" line="139" column="26" />
-        <mark key="]" line="139" column="26" />
-        <mark key="." line="139" column="26" />
-        <mark key="^" line="139" column="55" />
-      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/docker-compose.yml" timestamp="1561403846004" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/node/schema_ready.js" timestamp="1561403943535" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1559175460840">
         <mark key="'" line="173" column="131" />
         <mark key="[" line="173" column="123" />
@@ -51,12 +48,15 @@
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/admin/adminUsersHandler.ts" timestamp="1561404489368">
+        <mark key="[" line="490" column="21" />
+        <mark key="]" line="490" column="21" />
+        <mark key="^" line="490" column="36" />
+        <mark key="." line="490" column="21" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" timestamp="1561398770594">
         <mark key="a" line="219" column="47" />
         <mark key="'" line="84" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/scim/serverless.yml" timestamp="1559174642595">
-        <mark key="n" line="45" column="20" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/config.yml" timestamp="1559330550929">
         <mark key="'" line="17" column="13" />
@@ -65,7 +65,6 @@
         <mark key="^" line="138" column="65" />
         <mark key="." line="138" column="65" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/models/YodleeSessionResponse.json" timestamp="1561398677819" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" timestamp="1559327383354">
         <mark key="'" line="53" column="8" />
         <mark key="[" line="53" column="120" />
@@ -73,7 +72,7 @@
         <mark key="^" line="53" column="128" />
         <mark key="." line="53" column="128" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/config.ts" timestamp="1559197542600">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/config.ts" timestamp="1561403868541">
         <mark key="'" line="93" column="0" />
         <mark key="[" line="60" column="16" />
         <mark key="]" line="60" column="27" />
@@ -198,7 +197,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>this.hash(</text>
+        <text>)</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4681,13 +4680,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>this.hash(</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>nonp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhY2Nlc3NLZXlJZDogcHJvY2Vzcy5lbnYuU0VTX1hBQ0NUX1VTRVJfQVdTX0FDQ0VTU19LRVlfSUQsCiAgICAgICAgc2VjcmV0QWNjZXNzS2V5OiBwcm9jZXNzLmVudi5TRVNfWEFDQ1RfVVNFUl9BV1NfU0VDUkVUX0FDQ0VTU19LRVksCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGV2ZW50KSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVnaW9uOiAidXMtZWFzdC0xIgo=</text>
