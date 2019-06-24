@@ -37,8 +37,8 @@
         <mark key="." line="152" column="52" />
         <mark key="^" line="152" column="52" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" timestamp="1561414795686">
-        <mark key="'" line="169" column="21" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" timestamp="1561416724504">
+        <mark key="'" line="61" column="13" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -46,6 +46,12 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" timestamp="1561398770594">
         <mark key="a" line="219" column="47" />
         <mark key="'" line="84" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/package.json" timestamp="1561416937752">
+        <mark key="[" line="32" column="34" />
+        <mark key="]" line="32" column="36" />
+        <mark key="." line="32" column="36" />
+        <mark key="^" line="32" column="36" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" timestamp="1561415569305">
         <mark key="'" line="53" column="8" />
@@ -60,13 +66,6 @@
         <mark key="]" line="69" column="64" />
         <mark key="." line="60" column="27" />
         <mark key="^" line="60" column="27" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Cache.ts" timestamp="1559330043781">
-        <mark key="a" line="117" column="58" />
-        <mark key="'" line="13" column="23" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/package.json" timestamp="1559330530903">
         <mark key="[" line="23" column="0" />
@@ -113,6 +112,12 @@
         <mark key="^" line="490" column="36" />
         <mark key="." line="490" column="21" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/package.json" timestamp="1561416950066">
+        <mark key="[" line="34" column="34" />
+        <mark key="]" line="34" column="36" />
+        <mark key="." line="34" column="36" />
+        <mark key="^" line="34" column="36" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/config.yml" timestamp="1559330550929">
         <mark key="'" line="17" column="13" />
         <mark key="[" line="138" column="29" />
@@ -134,8 +139,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/config.ts" />
-      <jump line="9" column="48" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
       <jump line="266" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
       <jump line="359" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
       <jump line="434" column="47" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
@@ -234,10 +237,12 @@
       <jump line="237" column="21" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="248" column="43" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="97" column="29" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="31" column="22" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
+      <jump line="61" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>.</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4720,10 +4725,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>enhancedAuthContext</text>
+        <text>export</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5sb2dnZXIuZXJyb3IoZXJyLm1lc3NhZ2UpOwo=</text>
@@ -4766,9 +4771,9 @@
       </register>
     </registers>
     <search>
-      <last-search>enhancedAuthContext</last-search>
+      <last-search>export</last-search>
       <last-offset />
-      <last-pattern>enhancedAuthContext</last-pattern>
+      <last-pattern>export</last-pattern>
       <last-replace>KMS_CACHE_KEY</last-replace>
       <last-substitute>KMS_ALIAS</last-substitute>
       <last-dir>1</last-dir>
@@ -4776,7 +4781,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">PDw8</entry>
         <entry>git_tag</entry>
         <entry>environment</entry>
         <entry>resend</entry>
@@ -4796,6 +4800,7 @@
         <entry>AuthPolicy</entry>
         <entry>Activate</entry>
         <entry>enhancedAuthContext</entry>
+        <entry>export</entry>
       </history-search>
       <history-cmd>
         <entry>174</entry>
