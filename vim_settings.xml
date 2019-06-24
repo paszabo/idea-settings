@@ -37,7 +37,7 @@
         <mark key="." line="152" column="52" />
         <mark key="^" line="152" column="52" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" timestamp="1561411895640">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" timestamp="1561414795686">
         <mark key="'" line="169" column="21" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -47,7 +47,7 @@
         <mark key="a" line="219" column="47" />
         <mark key="'" line="84" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" timestamp="1561409724928">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" timestamp="1561415569305">
         <mark key="'" line="53" column="8" />
         <mark key="[" line="63" column="44" />
         <mark key="]" line="63" column="71" />
@@ -86,8 +86,13 @@
         <mark key="." line="6" column="35" />
         <mark key="^" line="6" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1561412224892">
-        <mark key="'" line="237" column="21" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/.serverless_plugins/remove-integration-response/index.js" timestamp="1561415492365">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1561415237183">
+        <mark key="'" line="97" column="29" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/.env.cia" timestamp="1561411078004">
         <mark key="'" line="3" column="7" />
@@ -129,8 +134,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="24" filename="$USER_HOME$/dev/repos/common-identity-api/.circleci/config.yml" />
-      <jump line="165" column="24" filename="$USER_HOME$/dev/repos/common-identity-api/.circleci/config.yml" />
       <jump line="89" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/config.ts" />
       <jump line="9" column="48" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
       <jump line="266" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
@@ -229,10 +232,12 @@
       <jump line="229" column="24" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="233" column="3" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="237" column="21" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="248" column="43" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="97" column="29" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>message</text>
+        <text>/</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4715,10 +4720,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>message</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>Activate</text>
+        <text>enhancedAuthContext</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5sb2dnZXIuZXJyb3IoZXJyLm1lc3NhZ2UpOwo=</text>
@@ -4761,9 +4766,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Activate</last-search>
+      <last-search>enhancedAuthContext</last-search>
       <last-offset />
-      <last-pattern>Activate</last-pattern>
+      <last-pattern>enhancedAuthContext</last-pattern>
       <last-replace>KMS_CACHE_KEY</last-replace>
       <last-substitute>KMS_ALIAS</last-substitute>
       <last-dir>1</last-dir>
@@ -4771,7 +4776,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">Pj4=</entry>
         <entry encoding="base64">PDw8</entry>
         <entry>git_tag</entry>
         <entry>environment</entry>
@@ -4791,6 +4795,7 @@
         <entry>principalId</entry>
         <entry>AuthPolicy</entry>
         <entry>Activate</entry>
+        <entry>enhancedAuthContext</entry>
       </history-search>
       <history-cmd>
         <entry>174</entry>
