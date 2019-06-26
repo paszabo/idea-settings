@@ -4,13 +4,14 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/aws-sdk/lib/service.d.ts" timestamp="1561567359339" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1561572891228" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/docker-compose.yml" timestamp="1561409900708">
         <mark key="[" line="69" column="18" />
         <mark key="]" line="70" column="25" />
         <mark key="." line="70" column="25" />
         <mark key="^" line="70" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/users.repository.ts" timestamp="1561568124932">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/users.repository.ts" timestamp="1561572823057">
         <mark key="'" line="43" column="56" />
         <mark key="[" line="29" column="57" />
         <mark key="]" line="30" column="0" />
@@ -63,8 +64,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1561415237183">
-        <mark key="'" line="97" column="29" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1561573024940">
+        <mark key="'" line="132" column="29" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer-memberid.js" timestamp="1561478213998" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/.env.cia" timestamp="1561411078004">
@@ -87,7 +88,7 @@
         <mark key="^" line="34" column="36" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/aws-sdk/clients/cognitoidentity.d.ts" timestamp="1561566809442" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1561412290646">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1561573045633">
         <mark key="[" line="758" column="34" />
         <mark key="]" line="758" column="38" />
         <mark key="^" line="758" column="38" />
@@ -96,8 +97,6 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/IntercomMaketingService.ts" timestamp="1561564168274" />
     </filemarks>
     <jumps>
-      <jump line="445" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
-      <jump line="412" column="3" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
       <jump line="444" column="10" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
       <jump line="17" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/.circleci/config.yml" />
@@ -196,6 +195,8 @@
       <jump line="327" column="43" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
       <jump line="324" column="15" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
       <jump line="44" column="56" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/users.repository.ts" />
+      <jump line="98" column="43" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="132" column="29" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -4685,7 +4686,7 @@
         <text>Paul</text>
       </register>
       <register name="/" type="4">
-        <text>export</text>
+        <text>Activate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5sb2dnZXIuZXJyb3IoZXJyLm1lc3NhZ2UpOwo=</text>
@@ -4728,9 +4729,9 @@
       </register>
     </registers>
     <search>
-      <last-search>export</last-search>
+      <last-search>Activate</last-search>
       <last-offset />
-      <last-pattern>export</last-pattern>
+      <last-pattern>Activate</last-pattern>
       <last-replace>KMS_CACHE_KEY</last-replace>
       <last-substitute>KMS_ALIAS</last-substitute>
       <last-dir>1</last-dir>
@@ -4738,7 +4739,6 @@
     </search>
     <history>
       <history-search>
-        <entry>git_tag</entry>
         <entry>environment</entry>
         <entry>resend</entry>
         <entry>activate</entry>
@@ -4755,9 +4755,10 @@
         <entry>Error loading admin group details</entry>
         <entry>principalId</entry>
         <entry>AuthPolicy</entry>
-        <entry>Activate</entry>
         <entry>enhancedAuthContext</entry>
         <entry>export</entry>
+        <entry>RegisterUser</entry>
+        <entry>Activate</entry>
       </history-search>
       <history-cmd>
         <entry>174</entry>
