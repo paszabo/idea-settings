@@ -19,6 +19,13 @@
         <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/node/schema_ready.js" timestamp="1561403943535" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1561582787626">
+        <mark key="'" line="247" column="72" />
+        <mark key="[" line="173" column="123" />
+        <mark key="]" line="173" column="131" />
+        <mark key="^" line="173" column="131" />
+        <mark key="." line="173" column="131" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" timestamp="1561480705092">
         <mark key="a" line="272" column="26" />
         <mark key="'" line="324" column="15" />
@@ -97,7 +104,6 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/IntercomMaketingService.ts" timestamp="1561564168274" />
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
       <jump line="444" column="10" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
       <jump line="17" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/.circleci/config.yml" />
       <jump line="142" column="32" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
@@ -197,6 +203,7 @@
       <jump line="44" column="56" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/users.repository.ts" />
       <jump line="98" column="43" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="132" column="29" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="247" column="72" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -4686,7 +4693,7 @@
         <text>Paul</text>
       </register>
       <register name="/" type="4">
-        <text>Activate</text>
+        <text>resend</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5sb2dnZXIuZXJyb3IoZXJyLm1lc3NhZ2UpOwo=</text>
@@ -4729,9 +4736,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Activate</last-search>
+      <last-search>resend</last-search>
       <last-offset />
-      <last-pattern>Activate</last-pattern>
+      <last-pattern>resend</last-pattern>
       <last-replace>KMS_CACHE_KEY</last-replace>
       <last-substitute>KMS_ALIAS</last-substitute>
       <last-dir>1</last-dir>
@@ -4740,7 +4747,6 @@
     <history>
       <history-search>
         <entry>environment</entry>
-        <entry>resend</entry>
         <entry>activate</entry>
         <entry>activateUser</entry>
         <entry>handler:</entry>
@@ -4759,6 +4765,7 @@
         <entry>export</entry>
         <entry>RegisterUser</entry>
         <entry>Activate</entry>
+        <entry>resend</entry>
       </history-search>
       <history-cmd>
         <entry>174</entry>
