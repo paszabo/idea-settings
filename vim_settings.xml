@@ -27,13 +27,13 @@
         <mark key="^" line="173" column="131" />
         <mark key="." line="173" column="131" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" timestamp="1561480705092">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" timestamp="1561671691105">
         <mark key="a" line="272" column="26" />
         <mark key="'" line="324" column="15" />
         <mark key="[" line="272" column="32" />
-        <mark key="]" line="272" column="61" />
-        <mark key="." line="272" column="61" />
-        <mark key="^" line="272" column="61" />
+        <mark key="]" line="272" column="42" />
+        <mark key="." line="272" column="42" />
+        <mark key="^" line="272" column="42" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/package.json" timestamp="1561417591073">
         <mark key="[" line="32" column="31" />
@@ -41,7 +41,7 @@
         <mark key="." line="32" column="35" />
         <mark key="^" line="32" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" timestamp="1561660140756">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" timestamp="1561672144202">
         <mark key="'" line="53" column="8" />
         <mark key="[" line="63" column="44" />
         <mark key="]" line="63" column="71" />
@@ -55,7 +55,7 @@
         <mark key="." line="60" column="27" />
         <mark key="^" line="60" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/handler-utils.ts" timestamp="1561669401132" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/handler-utils.ts" timestamp="1561670601342" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/Dockerfile" timestamp="1561410656720">
         <mark key="[" line="17" column="13" />
         <mark key="]" line="17" column="25" />
@@ -76,7 +76,7 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1561664535216">
         <mark key="'" line="248" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer-memberid.js" timestamp="1561478213998" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer-memberid.js" timestamp="1561671245913" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/.env.cia" timestamp="1561411078004">
         <mark key="'" line="3" column="7" />
         <mark key="[" line="9" column="22" />
@@ -96,6 +96,9 @@
         <mark key="." line="34" column="31" />
         <mark key="^" line="34" column="36" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/aws-lambda/index.d.ts" timestamp="1561672071338">
+        <mark key="'" line="304" column="74" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/aws-sdk/clients/cognitoidentity.d.ts" timestamp="1561566809442" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1561668983412">
         <mark key="[" line="1249" column="19" />
@@ -104,11 +107,9 @@
         <mark key="." line="1249" column="19" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/IntercomMaketingService.ts" timestamp="1561564168274" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer.js" timestamp="1561671250321" />
     </filemarks>
     <jumps>
-      <jump line="444" column="10" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
-      <jump line="17" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/.circleci/config.yml" />
-      <jump line="142" column="32" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="173" column="62" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="137" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="106" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
@@ -206,10 +207,13 @@
       <jump line="132" column="29" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="247" column="72" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="248" column="43" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="241" column="5" filename="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/aws-lambda/index.d.ts" />
+      <jump line="294" column="109" filename="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/aws-lambda/index.d.ts" />
+      <jump line="304" column="74" filename="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/aws-lambda/index.d.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IHx8IGF1dGhTdGF0dXMudG9rZW4ubWVtYmVyX2lk</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4692,10 +4696,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IHx8IGF1dGhTdGF0dXMudG9rZW4ubWVtYmVyX2lk</text>
       </register>
       <register name="/" type="4">
-        <text>resend</text>
+        <text>authorizer</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5sb2dnZXIuZXJyb3IoZXJyLm1lc3NhZ2UpOwo=</text>
@@ -4738,9 +4742,9 @@
       </register>
     </registers>
     <search>
-      <last-search>resend</last-search>
+      <last-search>authorizer</last-search>
       <last-offset />
-      <last-pattern>resend</last-pattern>
+      <last-pattern>authorizer</last-pattern>
       <last-replace>KMS_CACHE_KEY</last-replace>
       <last-substitute>KMS_ALIAS</last-substitute>
       <last-dir>1</last-dir>
@@ -4748,7 +4752,6 @@
     </search>
     <history>
       <history-search>
-        <entry>environment</entry>
         <entry>activate</entry>
         <entry>activateUser</entry>
         <entry>handler:</entry>
@@ -4761,13 +4764,14 @@
         <entry>nonp</entry>
         <entry>TABLE</entry>
         <entry>Error loading admin group details</entry>
-        <entry>principalId</entry>
         <entry>AuthPolicy</entry>
         <entry>enhancedAuthContext</entry>
         <entry>export</entry>
         <entry>RegisterUser</entry>
         <entry>Activate</entry>
         <entry>resend</entry>
+        <entry>principalId</entry>
+        <entry>authorizer</entry>
       </history-search>
       <history-cmd>
         <entry>174</entry>
