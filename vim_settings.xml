@@ -11,6 +11,7 @@
         <mark key="." line="70" column="25" />
         <mark key="^" line="70" column="25" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IUserResponse.ts" timestamp="1561668905014" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/users.repository.ts" timestamp="1561572823057">
         <mark key="'" line="43" column="56" />
         <mark key="[" line="29" column="57" />
@@ -54,6 +55,7 @@
         <mark key="." line="60" column="27" />
         <mark key="^" line="60" column="27" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/handler-utils.ts" timestamp="1561669401132" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/Dockerfile" timestamp="1561410656720">
         <mark key="[" line="17" column="13" />
         <mark key="]" line="17" column="25" />
@@ -95,11 +97,11 @@
         <mark key="^" line="34" column="36" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/aws-sdk/clients/cognitoidentity.d.ts" timestamp="1561566809442" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1561647844632">
-        <mark key="[" line="758" column="34" />
-        <mark key="]" line="758" column="38" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1561668983412">
+        <mark key="[" line="1249" column="19" />
+        <mark key="]" line="1249" column="19" />
         <mark key="^" line="758" column="38" />
-        <mark key="." line="758" column="38" />
+        <mark key="." line="1249" column="19" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/IntercomMaketingService.ts" timestamp="1561564168274" />
     </filemarks>
@@ -206,8 +208,8 @@
       <jump line="248" column="43" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4690,7 +4692,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Paul</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>resend</text>
