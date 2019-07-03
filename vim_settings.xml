@@ -25,8 +25,8 @@
         <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/node/schema_ready.js" timestamp="1561403943535" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1562184023724">
-        <mark key="'" line="247" column="72" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1562186850043">
+        <mark key="'" line="1373" column="26" />
         <mark key="[" line="173" column="123" />
         <mark key="]" line="173" column="131" />
         <mark key="^" line="173" column="131" />
@@ -85,8 +85,8 @@
         <mark key="." line="6" column="35" />
         <mark key="^" line="6" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1561664535216">
-        <mark key="'" line="248" column="43" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1562186865391">
+        <mark key="'" line="284" column="4" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer-memberid.js" timestamp="1561671245913" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/NotFoundException.ts" timestamp="1561743937801" />
@@ -125,8 +125,6 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/ISalesforceClientPreference.ts" timestamp="1562174107305" />
     </filemarks>
     <jumps>
-      <jump line="1932" column="70" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
-      <jump line="211" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="215" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="219" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="288" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
@@ -142,7 +140,6 @@
       <jump line="1114" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="1197" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="1280" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
-      <jump line="1367" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="1452" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="1530" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="1608" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
@@ -225,6 +222,9 @@
       <jump line="105" column="36" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" />
       <jump line="120" column="40" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" />
       <jump line="235" column="31" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" />
+      <jump line="1367" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="1373" column="26" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="284" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4714,7 +4714,7 @@
         <text>string;</text>
       </register>
       <register name="/" type="4">
-        <text>issuer</text>
+        <text>RemoveFromApp</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRva2VuVXJsOiBzdHJpbmc7CiAgICBtYXJrZXRpbmdDbG91ZFVybDogc3RyaW5nOwogICAgY2xpZW50SWQ6IHN0cmluZzsKICAgIGNsaWVudFNlY3JldDogc3RyaW5nOwogICAgcHJvZmlsZURFOiBzdHJpbmc7CiAgICBwcmVmZXJlbmNlc0RFOiBzdHJpbmc7Cg==</text>
@@ -4759,9 +4759,9 @@
       </register>
     </registers>
     <search>
-      <last-search>issuer</last-search>
+      <last-search>RemoveFromApp</last-search>
       <last-offset />
-      <last-pattern>issuer</last-pattern>
+      <last-pattern>RemoveFromApp</last-pattern>
       <last-replace>KMS_CACHE_KEY</last-replace>
       <last-substitute>KMS_ALIAS</last-substitute>
       <last-dir>1</last-dir>
@@ -4769,8 +4769,6 @@
     </search>
     <history>
       <history-search>
-        <entry>activateUser</entry>
-        <entry>handler:</entry>
         <entry>kms</entry>
         <entry>KMS_KEY</entry>
         <entry>kmsCa</entry>
@@ -4789,6 +4787,8 @@
         <entry>principalId</entry>
         <entry>authorizer</entry>
         <entry>issuer</entry>
+        <entry>users</entry>
+        <entry>RemoveFromApp</entry>
       </history-search>
       <history-cmd>
         <entry>174</entry>
