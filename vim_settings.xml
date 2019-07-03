@@ -35,6 +35,10 @@
         <mark key="." line="272" column="42" />
         <mark key="^" line="272" column="42" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" timestamp="1561750845230">
+        <mark key="a" line="219" column="47" />
+        <mark key="'" line="235" column="31" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/package.json" timestamp="1561417591073">
         <mark key="[" line="32" column="31" />
         <mark key="]" line="32" column="35" />
@@ -47,6 +51,7 @@
         <mark key="." line="310" column="28" />
         <mark key="^" line="310" column="28" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/SalesforceRepository.ts" timestamp="1561751087239" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" timestamp="1561672144202">
         <mark key="'" line="53" column="8" />
         <mark key="[" line="63" column="44" />
@@ -112,10 +117,6 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer.js" timestamp="1561671250321" />
     </filemarks>
     <jumps>
-      <jump line="173" column="62" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
-      <jump line="137" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
-      <jump line="106" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
-      <jump line="403" column="70" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="1932" column="70" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="211" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="215" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
@@ -212,6 +213,10 @@
       <jump line="241" column="5" filename="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/aws-lambda/index.d.ts" />
       <jump line="294" column="109" filename="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/aws-lambda/index.d.ts" />
       <jump line="304" column="74" filename="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/aws-lambda/index.d.ts" />
+      <jump line="220" column="36" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" />
+      <jump line="105" column="36" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" />
+      <jump line="120" column="40" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" />
+      <jump line="235" column="31" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4701,7 +4706,7 @@
         <text>string;</text>
       </register>
       <register name="/" type="4">
-        <text>authorizer</text>
+        <text>issuer</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRva2VuVXJsOiBzdHJpbmc7CiAgICBtYXJrZXRpbmdDbG91ZFVybDogc3RyaW5nOwogICAgY2xpZW50SWQ6IHN0cmluZzsKICAgIGNsaWVudFNlY3JldDogc3RyaW5nOwogICAgcHJvZmlsZURFOiBzdHJpbmc7CiAgICBwcmVmZXJlbmNlc0RFOiBzdHJpbmc7Cg==</text>
@@ -4746,9 +4751,9 @@
       </register>
     </registers>
     <search>
-      <last-search>authorizer</last-search>
+      <last-search>issuer</last-search>
       <last-offset />
-      <last-pattern>authorizer</last-pattern>
+      <last-pattern>issuer</last-pattern>
       <last-replace>KMS_CACHE_KEY</last-replace>
       <last-substitute>KMS_ALIAS</last-substitute>
       <last-dir>1</last-dir>
@@ -4756,7 +4761,6 @@
     </search>
     <history>
       <history-search>
-        <entry>activate</entry>
         <entry>activateUser</entry>
         <entry>handler:</entry>
         <entry>kms</entry>
@@ -4776,6 +4780,7 @@
         <entry>resend</entry>
         <entry>principalId</entry>
         <entry>authorizer</entry>
+        <entry>issuer</entry>
       </history-search>
       <history-cmd>
         <entry>174</entry>
