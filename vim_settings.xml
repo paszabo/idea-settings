@@ -4,7 +4,12 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/aws-sdk/lib/service.d.ts" timestamp="1561567359339" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1561572891228" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1562172885498">
+        <mark key="[" line="47" column="74" />
+        <mark key="]" line="48" column="67" />
+        <mark key="^" line="48" column="67" />
+        <mark key="." line="48" column="67" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/docker-compose.yml" timestamp="1561409900708">
         <mark key="[" line="69" column="18" />
         <mark key="]" line="70" column="25" />
@@ -114,6 +119,7 @@
         <mark key="." line="1249" column="19" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/IntercomMaketingService.ts" timestamp="1561564168274" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Logger.ts" timestamp="1562172564180" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer.js" timestamp="1561671250321" />
     </filemarks>
     <jumps>
