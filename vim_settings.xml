@@ -4,7 +4,8 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/MailService.ts" timestamp="1562272068092" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1562172885498">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1562274271977">
+        <mark key="'" line="962" column="80" />
         <mark key="[" line="47" column="74" />
         <mark key="]" line="48" column="67" />
         <mark key="^" line="48" column="67" />
@@ -24,10 +25,7 @@
         <mark key="^" line="173" column="131" />
         <mark key="." line="1976" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" timestamp="1561750845230">
-        <mark key="a" line="219" column="47" />
-        <mark key="'" line="235" column="31" />
-      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/helper" timestamp="1562274344961" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IAppDetails.ts" timestamp="1561749578385">
         <mark key="[" line="310" column="25" />
         <mark key="]" line="310" column="28" />
@@ -159,9 +157,9 @@
         <mark key="'" line="63" column="47" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/ISalesforceClientPreference.ts" timestamp="1562174107305" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/debug.sh" timestamp="1562274454888" />
     </filemarks>
     <jumps>
-      <jump line="130" column="73" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" />
       <jump line="476" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
       <jump line="108" column="73" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
       <jump line="1953" column="38" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
@@ -261,6 +259,7 @@
       <jump line="1967" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="65" column="47" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/Utilities.ts" />
       <jump line="9" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TncRepository.ts" />
+      <jump line="962" column="80" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -4750,7 +4749,7 @@
         <text>string;</text>
       </register>
       <register name="/" type="4">
-        <text>JSON</text>
+        <text>this.logger.error(er</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRva2VuVXJsOiBzdHJpbmc7CiAgICBtYXJrZXRpbmdDbG91ZFVybDogc3RyaW5nOwogICAgY2xpZW50SWQ6IHN0cmluZzsKICAgIGNsaWVudFNlY3JldDogc3RyaW5nOwogICAgcHJvZmlsZURFOiBzdHJpbmc7CiAgICBwcmVmZXJlbmNlc0RFOiBzdHJpbmc7Cg==</text>
@@ -4793,9 +4792,9 @@
       </register>
     </registers>
     <search>
-      <last-search>JSON</last-search>
+      <last-search>this.logger.error(er</last-search>
       <last-offset />
-      <last-pattern>JSON</last-pattern>
+      <last-pattern>this.logger.error(er</last-pattern>
       <last-replace>KMS_CACHE_KEY</last-replace>
       <last-substitute>KMS_ALIAS</last-substitute>
       <last-dir>1</last-dir>
@@ -4803,8 +4802,6 @@
     </search>
     <history>
       <history-search>
-        <entry>TABLE</entry>
-        <entry>Error loading admin group details</entry>
         <entry>AuthPolicy</entry>
         <entry>enhancedAuthContext</entry>
         <entry>export</entry>
@@ -4823,6 +4820,8 @@
         <entry encoding="base64">PDw8</entry>
         <entry>strMapToObj</entry>
         <entry>JSON</entry>
+        <entry>this.logger.error(error)</entry>
+        <entry>this.logger.error(er</entry>
       </history-search>
       <history-cmd>
         <entry>174</entry>
