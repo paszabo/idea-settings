@@ -4,11 +4,25 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/aws-sdk/lib/service.d.ts" timestamp="1561567359339" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" timestamp="1562270203837">
+        <mark key="'" line="588" column="0" />
+        <mark key="[" line="596" column="0" />
+        <mark key="]" line="596" column="0" />
+        <mark key="." line="596" column="0" />
+        <mark key="^" line="130" column="131" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1562172885498">
         <mark key="[" line="47" column="74" />
         <mark key="]" line="48" column="67" />
         <mark key="^" line="48" column="67" />
         <mark key="." line="48" column="67" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" timestamp="1562270110306">
+        <mark key="'" line="223" column="0" />
+        <mark key="[" line="27" column="41" />
+        <mark key="]" line="27" column="19" />
+        <mark key="." line="27" column="19" />
+        <mark key="^" line="27" column="19" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/docker-compose.yml" timestamp="1561409900708">
         <mark key="[" line="69" column="18" />
@@ -30,30 +44,16 @@
         <mark key="^" line="305" column="1" />
         <mark key="." line="305" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1562186850043">
-        <mark key="'" line="1373" column="26" />
-        <mark key="[" line="173" column="123" />
-        <mark key="]" line="173" column="131" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1562270291497">
+        <mark key="'" line="1967" column="0" />
+        <mark key="[" line="1976" column="0" />
+        <mark key="]" line="1976" column="0" />
         <mark key="^" line="173" column="131" />
-        <mark key="." line="173" column="131" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" timestamp="1561671691105">
-        <mark key="a" line="272" column="26" />
-        <mark key="'" line="324" column="15" />
-        <mark key="[" line="272" column="32" />
-        <mark key="]" line="272" column="42" />
-        <mark key="." line="272" column="42" />
-        <mark key="^" line="272" column="42" />
+        <mark key="." line="1976" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" timestamp="1561750845230">
         <mark key="a" line="219" column="47" />
         <mark key="'" line="235" column="31" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/package.json" timestamp="1561417591073">
-        <mark key="[" line="32" column="31" />
-        <mark key="]" line="32" column="35" />
-        <mark key="." line="32" column="35" />
-        <mark key="^" line="32" column="35" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/ISalesforceClientProfile.ts" timestamp="1562174152090" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IAppDetails.ts" timestamp="1561749578385">
@@ -63,21 +63,27 @@
         <mark key="^" line="310" column="28" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/SalesforceRepository.ts" timestamp="1562173704979" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" timestamp="1561672144202">
-        <mark key="'" line="53" column="8" />
-        <mark key="[" line="63" column="44" />
-        <mark key="]" line="63" column="71" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" timestamp="1562269987809">
+        <mark key="'" line="636" column="0" />
+        <mark key="[" line="636" column="0" />
+        <mark key="]" line="636" column="0" />
         <mark key="^" line="53" column="128" />
-        <mark key="." line="53" column="128" />
+        <mark key="." line="636" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/config.ts" timestamp="1561411199147">
-        <mark key="'" line="93" column="0" />
-        <mark key="[" line="69" column="25" />
-        <mark key="]" line="69" column="64" />
-        <mark key="." line="60" column="27" />
-        <mark key="^" line="60" column="27" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/config.ts" timestamp="1562269559210">
+        <mark key="'" line="3" column="11" />
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+        <mark key="^" line="57" column="27" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/handler-utils.ts" timestamp="1561743885946" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/package.json" timestamp="1562269524731">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="9" column="35" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/Dockerfile" timestamp="1561410656720">
         <mark key="[" line="17" column="13" />
         <mark key="]" line="17" column="25" />
@@ -95,6 +101,7 @@
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer-memberid.js" timestamp="1561671245913" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/NotFoundException.ts" timestamp="1561743937801" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-admin.test.ts" timestamp="1562270725529" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/.env.cia" timestamp="1561411078004">
         <mark key="'" line="3" column="7" />
         <mark key="[" line="9" column="22" />
@@ -123,6 +130,12 @@
         <mark key="^" line="40" column="2" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/config.yml" timestamp="1562269486307">
+        <mark key="'" line="17" column="13" />
+        <mark key="[" line="178" column="0" />
+        <mark key="]" line="178" column="0" />
+        <mark key="." line="178" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/aws-sdk/clients/cognitoidentity.d.ts" timestamp="1561566809442" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1561668983412">
         <mark key="[" line="1249" column="19" />
@@ -131,58 +144,16 @@
         <mark key="." line="1249" column="19" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/IntercomMaketingService.ts" timestamp="1561564168274" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Logger.ts" timestamp="1562172564180" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Logger.ts" timestamp="1562268966415">
+        <mark key="[" line="3" column="28" />
+        <mark key="]" line="3" column="43" />
+        <mark key="^" line="3" column="43" />
+        <mark key="." line="3" column="43" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer.js" timestamp="1561671250321" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/ISalesforceClientPreference.ts" timestamp="1562174107305" />
     </filemarks>
     <jumps>
-      <jump line="219" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
-      <jump line="288" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
-      <jump line="366" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
-      <jump line="448" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
-      <jump line="532" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
-      <jump line="614" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
-      <jump line="694" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
-      <jump line="774" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
-      <jump line="854" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
-      <jump line="939" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
-      <jump line="1026" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
-      <jump line="1114" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
-      <jump line="1197" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
-      <jump line="1280" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
-      <jump line="1452" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
-      <jump line="1530" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
-      <jump line="1608" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
-      <jump line="611" column="64" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" />
-      <jump line="166" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" />
-      <jump line="181" column="42" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" />
-      <jump line="247" column="26" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" />
-      <jump line="327" column="26" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" />
-      <jump line="407" column="26" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" />
-      <jump line="487" column="6" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" />
-      <jump line="946" column="69" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
-      <jump line="88" column="26" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
-      <jump line="171" column="26" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
-      <jump line="245" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
-      <jump line="319" column="26" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
-      <jump line="395" column="26" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
-      <jump line="677" column="44" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
-      <jump line="467" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
-      <jump line="539" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
-      <jump line="611" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
-      <jump line="683" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
-      <jump line="770" column="26" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
-      <jump line="136" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
-      <jump line="140" column="26" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
-      <jump line="220" column="26" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
-      <jump line="303" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
-      <jump line="382" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
-      <jump line="93" column="44" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
-      <jump line="888" column="19" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
-      <jump line="161" column="35" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" />
-      <jump line="143" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
-      <jump line="477" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
       <jump line="1688" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="583" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" />
       <jump line="130" column="73" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" />
@@ -236,10 +207,57 @@
       <jump line="1373" column="26" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="284" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="41" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/util/test-harness/client/base-client.ts" />
+      <jump line="3" column="11" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/config.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
+      <jump line="55" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
+      <jump line="54" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
+      <jump line="93" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
+      <jump line="174" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
+      <jump line="89" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
+      <jump line="1248" column="3" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
+      <jump line="90" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
+      <jump line="564" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
+      <jump line="630" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
+      <jump line="636" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
+      <jump line="111" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
+      <jump line="165" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
+      <jump line="223" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" />
+      <jump line="132" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" />
+      <jump line="172" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" />
+      <jump line="249" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" />
+      <jump line="329" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" />
+      <jump line="409" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" />
+      <jump line="588" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="176" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="222" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="291" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="369" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="451" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="535" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="617" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="697" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="777" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="857" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="942" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="1117" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="1200" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="1283" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="1370" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="1455" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="1533" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="1611" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="1691" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="1771" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="1851" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="1951" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="1967" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CgoKCgoKCmltcG9ydCAqIGFzIHJlcXVlc3RzIGZyb20gJ3JlcXVlc3QtcHJvbWlzZSc7CmltcG9ydCB7Y29uZmlnfSBmcm9tICcuLi8uLi8uLi8uLi8uLi9zcmMvY29yZSc7CmltcG9ydCB7QXBwQ29kZX0gZnJvbSAnLi4vY29uc3RhbnRzJzsKCgpjb25zdCBVcmwgPSBwcm9jZXNzLmVudi5DSUFfVEVTVF9VUkw7CgoKY29uc3QgQ2xpZW50ID0gKGJhc2VVcmw6IHN0cmluZywgYXBwQ29kZT86IHN0cmluZywgdG9rZW4/OiBzdHJpbmcpID0+IHsKICAgIGNvbnN0IGhlYWRlcnMgPSB7CiAgICAgICAgJ1gtQXBwLUNvZGUnOiBhcHBDb2RlLAogICAgICAgICdBdXRob3JpemF0aW9uJzogYEJlYXJlciAke3Rva2VufWAsCiAgICB9OwoKICAgIGlmICghdG9rZW4pIHsKICAgICAgICBkZWxldGUgaGVhZGVycy5BdXRob3JpemF0aW9uOwogICAgfQoKICAgIHJldHVybiByZXF1ZXN0cy5kZWZhdWx0cyh7CiAgICAgICAgYmFzZVVybCwKICAgICAgICBoZWFkZXJzLAogICAgICAgIGpzb246IHRydWUsCiAgICAgICAgcmVzb2x2ZVdpdGhGdWxsUmVzcG9uc2U6IHRydWUsCiAgICB9KTsKfTsKCjw8PDw8PDwgSEVBRApleHBvcnQgY29uc3QgVGVzdENsaWVudHMgPSAoYXBwQ29kZT86IHN0cmluZywgdG9rZW4/OiBhbnkpID0+IChDbGllbnQoCiAgICBVcmwsCiAgICAoIWFwcENvZGUpID8gQXBwQ29kZSA6IGFwcENvZGUsCiAgICB0b2tlbiwKKSk7CgpleHBvcnQgY29uc3QgT2t0YUNsaWVudCA9ICgpID0+IHJlcXVlc3RzLmRlZmF1bHRzKHsKICAgIGhlYWRlcnM6IHsKICAgICAgICBBdXRob3JpemF0aW9uOiBgU1NXUyAke2NvbmZpZy5va3RhLkFQSUtleX1gLAogICAgfSwKICAgIGJhc2VVcmw6IGAke2NvbmZpZy5va3RhLnVybH0vYXBpL3YxYCwKICAgIGpzb246IHRydWUsCiAgICByZXNvbHZlV2l0aEZ1bGxSZXNwb25zZTogdHJ1ZSwKPT09PT09PQpleHBvcnQgY29uc3QgVGVzdENsaWVudHMgPSAoYXBwQ29kZTogc3RyaW5nID0gQXBwQ29kZSwgdG9rZW4/OiBzdHJpbmcpID0+ICh7CiAgICB1c2VyczogQ2xpZW50KHVybHMudXNlcnMsIGFwcENvZGUsIHRva2VuKSwKICAgIGFkbWluOiBDbGllbnQodXJscy5hZG1pbiwgYXBwQ29kZSwgdG9rZW4pLAogICAgdG5jczogQ2xpZW50KHVybHMudG5jcywgYXBwQ29kZSwgdG9rZW4pLAogICAgcHJlZnM6IENsaWVudCh1cmxzLnByZWZzLCBhcHBDb2RlLCB0b2tlbiksCj4+Pj4+Pj4gdGFzay9DSUEtOTY6IFN0YXJ0IGFkZGluZyBBUEkgdGVzdHMgZm9yIFQmQ3MKfSk7Cg==</text>
+        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IHByb2R1Y3Rpb24K</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4725,54 +4743,52 @@
         <text>string;</text>
       </register>
       <register name="/" type="4">
-        <text>RemoveFromApp</text>
+        <text encoding="base64">PDw8</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRva2VuVXJsOiBzdHJpbmc7CiAgICBtYXJrZXRpbmdDbG91ZFVybDogc3RyaW5nOwogICAgY2xpZW50SWQ6IHN0cmluZzsKICAgIGNsaWVudFNlY3JldDogc3RyaW5nOwogICAgcHJvZmlsZURFOiBzdHJpbmc7CiAgICBwcmVmZXJlbmNlc0RFOiBzdHJpbmc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgoKCgoKCmltcG9ydCAqIGFzIHJlcXVlc3RzIGZyb20gJ3JlcXVlc3QtcHJvbWlzZSc7CmltcG9ydCB7Y29uZmlnfSBmcm9tICcuLi8uLi8uLi8uLi8uLi9zcmMvY29yZSc7CmltcG9ydCB7QXBwQ29kZX0gZnJvbSAnLi4vY29uc3RhbnRzJzsKCgpjb25zdCBVcmwgPSBwcm9jZXNzLmVudi5DSUFfVEVTVF9VUkw7CgoKY29uc3QgQ2xpZW50ID0gKGJhc2VVcmw6IHN0cmluZywgYXBwQ29kZT86IHN0cmluZywgdG9rZW4/OiBzdHJpbmcpID0+IHsKICAgIGNvbnN0IGhlYWRlcnMgPSB7CiAgICAgICAgJ1gtQXBwLUNvZGUnOiBhcHBDb2RlLAogICAgICAgICdBdXRob3JpemF0aW9uJzogYEJlYXJlciAke3Rva2VufWAsCiAgICB9OwoKICAgIGlmICghdG9rZW4pIHsKICAgICAgICBkZWxldGUgaGVhZGVycy5BdXRob3JpemF0aW9uOwogICAgfQoKICAgIHJldHVybiByZXF1ZXN0cy5kZWZhdWx0cyh7CiAgICAgICAgYmFzZVVybCwKICAgICAgICBoZWFkZXJzLAogICAgICAgIGpzb246IHRydWUsCiAgICAgICAgcmVzb2x2ZVdpdGhGdWxsUmVzcG9uc2U6IHRydWUsCiAgICB9KTsKfTsKCjw8PDw8PDwgSEVBRApleHBvcnQgY29uc3QgVGVzdENsaWVudHMgPSAoYXBwQ29kZT86IHN0cmluZywgdG9rZW4/OiBhbnkpID0+IChDbGllbnQoCiAgICBVcmwsCiAgICAoIWFwcENvZGUpID8gQXBwQ29kZSA6IGFwcENvZGUsCiAgICB0b2tlbiwKKSk7CgpleHBvcnQgY29uc3QgT2t0YUNsaWVudCA9ICgpID0+IHJlcXVlc3RzLmRlZmF1bHRzKHsKICAgIGhlYWRlcnM6IHsKICAgICAgICBBdXRob3JpemF0aW9uOiBgU1NXUyAke2NvbmZpZy5va3RhLkFQSUtleX1gLAogICAgfSwKICAgIGJhc2VVcmw6IGAke2NvbmZpZy5va3RhLnVybH0vYXBpL3YxYCwKICAgIGpzb246IHRydWUsCiAgICByZXNvbHZlV2l0aEZ1bGxSZXNwb25zZTogdHJ1ZSwKPT09PT09PQpleHBvcnQgY29uc3QgVGVzdENsaWVudHMgPSAoYXBwQ29kZTogc3RyaW5nID0gQXBwQ29kZSwgdG9rZW4/OiBzdHJpbmcpID0+ICh7CiAgICB1c2VyczogQ2xpZW50KHVybHMudXNlcnMsIGFwcENvZGUsIHRva2VuKSwKICAgIGFkbWluOiBDbGllbnQodXJscy5hZG1pbiwgYXBwQ29kZSwgdG9rZW4pLAogICAgdG5jczogQ2xpZW50KHVybHMudG5jcywgYXBwQ29kZSwgdG9rZW4pLAogICAgcHJlZnM6IENsaWVudCh1cmxzLnByZWZzLCBhcHBDb2RlLCB0b2tlbiksCj4+Pj4+Pj4gdGFzay9DSUEtOTY6IFN0YXJ0IGFkZGluZyBBUEkgdGVzdHMgZm9yIFQmQ3MKfSk7Cg==</text>
+        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IHByb2R1Y3Rpb24K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAidXJsIjogImh0dHBzOi8vYXBpLmludGVyY29tLmlvIiwKICAgICAgICAidG9rZW4iOiAiLi4uIgo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IHByb2R1Y3Rpb24K</text>
       </register>
-      <register name="4" type="4">
-        <text>,
-        &quot;apiKey&quot;: &quot;...&quot;,
-        &quot;delimiter&quot;: &quot;-&quot;,</text>
+      <register name="4" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IHByb2R1Y3Rpb24K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgcGFyYW1zID0gewogICAgQ2xpZW50SWQ6ICdmb28nLAogICAgUGFzc3dvcmQ6ICdwYXNzd29ydDEyMycsCiAgICBVc2VybmFtZTogJ3Bhc3phYm9AZ21haWwuY29tJywKICAgIFVzZXJBdHRyaWJ1dGVzOiBbCiAgICAgICAgewogICAgICAgICAgICBOYW1lOiAnbWVtYmVyX2lkJywKICAgICAgICAgICAgVmFsdWU6ICcxaWpmb3NpamZha2RzamZsYWRzamZhc2RmJwogICAgICAgIH0KICAgIF0KfTsK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgcmVzcG9uc2UgPSBjb2duaXRvLnNpZ25VcChwYXJhbSkucHJvbWlzZSgpCg==</text>
+        <text encoding="base64">PT09PT09PQogICAgICAgIGhhbmRsZXI6IGhhbmRsZXIuZGVsZXRlVXNlcgo+Pj4+Pj4+IHByb2R1Y3Rpb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgeDogQ29nbml0b0lkZW50aXR5Owo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="x" type="4">
         <text>7</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHtBV1NSZWdpb259IGZyb20gJy4uLy4uL2NvcmUvY29uZmlnJzsK</text>
+        <text encoding="base64">PT09PT09PQogICAgICAgIGhhbmRsZXI6IGhhbmRsZXIuZ2V0WW9kbGVlU2Vzc2lvbgo+Pj4+Pj4+IHByb2R1Y3Rpb24K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>RemoveFromApp</last-search>
+      <last-search encoding="base64">PDw8</last-search>
       <last-offset />
-      <last-pattern>RemoveFromApp</last-pattern>
+      <last-pattern encoding="base64">PDw8</last-pattern>
       <last-replace>KMS_CACHE_KEY</last-replace>
       <last-substitute>KMS_ALIAS</last-substitute>
       <last-dir>1</last-dir>
@@ -4780,11 +4796,6 @@
     </search>
     <history>
       <history-search>
-        <entry>kms</entry>
-        <entry>KMS_KEY</entry>
-        <entry>kmsCa</entry>
-        <entry>kmsAlias</entry>
-        <entry>KMS_ALIAS</entry>
         <entry>Error encrypting SAML</entry>
         <entry>nonp</entry>
         <entry>TABLE</entry>
@@ -4800,6 +4811,11 @@
         <entry>issuer</entry>
         <entry>users</entry>
         <entry>RemoveFromApp</entry>
+        <entry encoding="base64">Pj4=</entry>
+        <entry encoding="base64">PDw=</entry>
+        <entry>NEW_RELIC_APP_NAME</entry>
+        <entry encoding="base64">Pg==</entry>
+        <entry encoding="base64">PDw8</entry>
       </history-search>
       <history-cmd>
         <entry>174</entry>
@@ -4820,8 +4836,8 @@
         <entry>%s/KMS_ALIAS/KMS_CACHE_KEY</entry>
         <entry>%s/kmsAlias/kmsCacheKey/g</entry>
         <entry>%s/KMS_ALIAS/KMS_CACHE_KEY/g</entry>
-        <entry>0</entry>
         <entry>w</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
