@@ -25,6 +25,11 @@
         <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/node/schema_ready.js" timestamp="1561403943535" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/util/test-harness/client/user-client.ts" timestamp="1562253982607">
+        <mark key="]" line="305" column="1" />
+        <mark key="^" line="305" column="1" />
+        <mark key="." line="305" column="1" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1562186850043">
         <mark key="'" line="1373" column="26" />
         <mark key="[" line="173" column="123" />
@@ -112,6 +117,12 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/aws-lambda/index.d.ts" timestamp="1561672071338">
         <mark key="'" line="304" column="74" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/util/test-harness/client/base-client.ts" timestamp="1562253946838">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="40" column="2" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/aws-sdk/clients/cognitoidentity.d.ts" timestamp="1561566809442" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1561668983412">
         <mark key="[" line="1249" column="19" />
@@ -125,7 +136,6 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/ISalesforceClientPreference.ts" timestamp="1562174107305" />
     </filemarks>
     <jumps>
-      <jump line="215" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="219" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="288" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="366" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
@@ -225,10 +235,11 @@
       <jump line="1367" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="1373" column="26" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="284" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="41" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/util/test-harness/client/base-client.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>string;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CgoKCgoKCmltcG9ydCAqIGFzIHJlcXVlc3RzIGZyb20gJ3JlcXVlc3QtcHJvbWlzZSc7CmltcG9ydCB7Y29uZmlnfSBmcm9tICcuLi8uLi8uLi8uLi8uLi9zcmMvY29yZSc7CmltcG9ydCB7QXBwQ29kZX0gZnJvbSAnLi4vY29uc3RhbnRzJzsKCgpjb25zdCBVcmwgPSBwcm9jZXNzLmVudi5DSUFfVEVTVF9VUkw7CgoKY29uc3QgQ2xpZW50ID0gKGJhc2VVcmw6IHN0cmluZywgYXBwQ29kZT86IHN0cmluZywgdG9rZW4/OiBzdHJpbmcpID0+IHsKICAgIGNvbnN0IGhlYWRlcnMgPSB7CiAgICAgICAgJ1gtQXBwLUNvZGUnOiBhcHBDb2RlLAogICAgICAgICdBdXRob3JpemF0aW9uJzogYEJlYXJlciAke3Rva2VufWAsCiAgICB9OwoKICAgIGlmICghdG9rZW4pIHsKICAgICAgICBkZWxldGUgaGVhZGVycy5BdXRob3JpemF0aW9uOwogICAgfQoKICAgIHJldHVybiByZXF1ZXN0cy5kZWZhdWx0cyh7CiAgICAgICAgYmFzZVVybCwKICAgICAgICBoZWFkZXJzLAogICAgICAgIGpzb246IHRydWUsCiAgICAgICAgcmVzb2x2ZVdpdGhGdWxsUmVzcG9uc2U6IHRydWUsCiAgICB9KTsKfTsKCjw8PDw8PDwgSEVBRApleHBvcnQgY29uc3QgVGVzdENsaWVudHMgPSAoYXBwQ29kZT86IHN0cmluZywgdG9rZW4/OiBhbnkpID0+IChDbGllbnQoCiAgICBVcmwsCiAgICAoIWFwcENvZGUpID8gQXBwQ29kZSA6IGFwcENvZGUsCiAgICB0b2tlbiwKKSk7CgpleHBvcnQgY29uc3QgT2t0YUNsaWVudCA9ICgpID0+IHJlcXVlc3RzLmRlZmF1bHRzKHsKICAgIGhlYWRlcnM6IHsKICAgICAgICBBdXRob3JpemF0aW9uOiBgU1NXUyAke2NvbmZpZy5va3RhLkFQSUtleX1gLAogICAgfSwKICAgIGJhc2VVcmw6IGAke2NvbmZpZy5va3RhLnVybH0vYXBpL3YxYCwKICAgIGpzb246IHRydWUsCiAgICByZXNvbHZlV2l0aEZ1bGxSZXNwb25zZTogdHJ1ZSwKPT09PT09PQpleHBvcnQgY29uc3QgVGVzdENsaWVudHMgPSAoYXBwQ29kZTogc3RyaW5nID0gQXBwQ29kZSwgdG9rZW4/OiBzdHJpbmcpID0+ICh7CiAgICB1c2VyczogQ2xpZW50KHVybHMudXNlcnMsIGFwcENvZGUsIHRva2VuKSwKICAgIGFkbWluOiBDbGllbnQodXJscy5hZG1pbiwgYXBwQ29kZSwgdG9rZW4pLAogICAgdG5jczogQ2xpZW50KHVybHMudG5jcywgYXBwQ29kZSwgdG9rZW4pLAogICAgcHJlZnM6IENsaWVudCh1cmxzLnByZWZzLCBhcHBDb2RlLCB0b2tlbiksCj4+Pj4+Pj4gdGFzay9DSUEtOTY6IFN0YXJ0IGFkZGluZyBBUEkgdGVzdHMgZm9yIFQmQ3MKfSk7Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4720,39 +4731,39 @@
         <text encoding="base64">ICAgIHRva2VuVXJsOiBzdHJpbmc7CiAgICBtYXJrZXRpbmdDbG91ZFVybDogc3RyaW5nOwogICAgY2xpZW50SWQ6IHN0cmluZzsKICAgIGNsaWVudFNlY3JldDogc3RyaW5nOwogICAgcHJvZmlsZURFOiBzdHJpbmc7CiAgICBwcmVmZXJlbmNlc0RFOiBzdHJpbmc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAidXJsIjogImh0dHBzOi8vYXBpLmludGVyY29tLmlvIiwKICAgICAgICAidG9rZW4iOiAiLi4uIgo=</text>
+        <text encoding="base64">CgoKCgoKCmltcG9ydCAqIGFzIHJlcXVlc3RzIGZyb20gJ3JlcXVlc3QtcHJvbWlzZSc7CmltcG9ydCB7Y29uZmlnfSBmcm9tICcuLi8uLi8uLi8uLi8uLi9zcmMvY29yZSc7CmltcG9ydCB7QXBwQ29kZX0gZnJvbSAnLi4vY29uc3RhbnRzJzsKCgpjb25zdCBVcmwgPSBwcm9jZXNzLmVudi5DSUFfVEVTVF9VUkw7CgoKY29uc3QgQ2xpZW50ID0gKGJhc2VVcmw6IHN0cmluZywgYXBwQ29kZT86IHN0cmluZywgdG9rZW4/OiBzdHJpbmcpID0+IHsKICAgIGNvbnN0IGhlYWRlcnMgPSB7CiAgICAgICAgJ1gtQXBwLUNvZGUnOiBhcHBDb2RlLAogICAgICAgICdBdXRob3JpemF0aW9uJzogYEJlYXJlciAke3Rva2VufWAsCiAgICB9OwoKICAgIGlmICghdG9rZW4pIHsKICAgICAgICBkZWxldGUgaGVhZGVycy5BdXRob3JpemF0aW9uOwogICAgfQoKICAgIHJldHVybiByZXF1ZXN0cy5kZWZhdWx0cyh7CiAgICAgICAgYmFzZVVybCwKICAgICAgICBoZWFkZXJzLAogICAgICAgIGpzb246IHRydWUsCiAgICAgICAgcmVzb2x2ZVdpdGhGdWxsUmVzcG9uc2U6IHRydWUsCiAgICB9KTsKfTsKCjw8PDw8PDwgSEVBRApleHBvcnQgY29uc3QgVGVzdENsaWVudHMgPSAoYXBwQ29kZT86IHN0cmluZywgdG9rZW4/OiBhbnkpID0+IChDbGllbnQoCiAgICBVcmwsCiAgICAoIWFwcENvZGUpID8gQXBwQ29kZSA6IGFwcENvZGUsCiAgICB0b2tlbiwKKSk7CgpleHBvcnQgY29uc3QgT2t0YUNsaWVudCA9ICgpID0+IHJlcXVlc3RzLmRlZmF1bHRzKHsKICAgIGhlYWRlcnM6IHsKICAgICAgICBBdXRob3JpemF0aW9uOiBgU1NXUyAke2NvbmZpZy5va3RhLkFQSUtleX1gLAogICAgfSwKICAgIGJhc2VVcmw6IGAke2NvbmZpZy5va3RhLnVybH0vYXBpL3YxYCwKICAgIGpzb246IHRydWUsCiAgICByZXNvbHZlV2l0aEZ1bGxSZXNwb25zZTogdHJ1ZSwKPT09PT09PQpleHBvcnQgY29uc3QgVGVzdENsaWVudHMgPSAoYXBwQ29kZTogc3RyaW5nID0gQXBwQ29kZSwgdG9rZW4/OiBzdHJpbmcpID0+ICh7CiAgICB1c2VyczogQ2xpZW50KHVybHMudXNlcnMsIGFwcENvZGUsIHRva2VuKSwKICAgIGFkbWluOiBDbGllbnQodXJscy5hZG1pbiwgYXBwQ29kZSwgdG9rZW4pLAogICAgdG5jczogQ2xpZW50KHVybHMudG5jcywgYXBwQ29kZSwgdG9rZW4pLAogICAgcHJlZnM6IENsaWVudCh1cmxzLnByZWZzLCBhcHBDb2RlLCB0b2tlbiksCj4+Pj4+Pj4gdGFzay9DSUEtOTY6IFN0YXJ0IGFkZGluZyBBUEkgdGVzdHMgZm9yIFQmQ3MKfSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAidXJsIjogImh0dHBzOi8vYXBpLmludGVyY29tLmlvIiwKICAgICAgICAidG9rZW4iOiAiLi4uIgo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>,
         &quot;apiKey&quot;: &quot;...&quot;,
         &quot;delimiter&quot;: &quot;-&quot;,</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Y29uc3QgcGFyYW1zID0gewogICAgQ2xpZW50SWQ6ICdmb28nLAogICAgUGFzc3dvcmQ6ICdwYXNzd29ydDEyMycsCiAgICBVc2VybmFtZTogJ3Bhc3phYm9AZ21haWwuY29tJywKICAgIFVzZXJBdHRyaWJ1dGVzOiBbCiAgICAgICAgewogICAgICAgICAgICBOYW1lOiAnbWVtYmVyX2lkJywKICAgICAgICAgICAgVmFsdWU6ICcxaWpmb3NpamZha2RzamZsYWRzamZhc2RmJwogICAgICAgIH0KICAgIF0KfTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Y29uc3QgcmVzcG9uc2UgPSBjb2duaXRvLnNpZ25VcChwYXJhbSkucHJvbWlzZSgpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgeDogQ29nbml0b0lkZW50aXR5Owo=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHtBV1NSZWdpb259IGZyb20gJy4uLy4uL2NvcmUvY29uZmlnJzsK</text>
+        <text encoding="base64">Y29uc3QgeDogQ29nbml0b0lkZW50aXR5Owo=</text>
       </register>
       <register name="x" type="4">
         <text>7</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0tQ0lBX0VYVEVSTkFMX1BSRUZTX1VSTD0iJHtDSUFfRVhURVJOQUxfUFJFRlNfVVJMfSJcCiAgICAtLU5FV19SRUxJQ19MSUNFTlNFX0tFWT0iJHtORVdfUkVMSUNfTElDRU5TRV9LRVl9IlwKICAgIC0tTkVXX1JFTElDX0VOQUJMRUQ9IiR7TkVXX1JFTElDX0VOQUJMRUR9IlwKICAgIC0tTkVXX1JFTElDX05PX0NPTkZJR19GSUxFPSIke05FV19SRUxJQ19OT19DT05GSUdfRklMRX0iXAogICAgLS1ORVdfUkVMSUNfTE9HPSIke05FV19SRUxJQ19MT0d9IgoK</text>
+        <text encoding="base64">aW1wb3J0IHtBV1NSZWdpb259IGZyb20gJy4uLy4uL2NvcmUvY29uZmlnJzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -4806,10 +4817,10 @@
         <entry>W</entry>
         <entry>%s/wr00/yr10/g</entry>
         <entry>1</entry>
-        <entry>0</entry>
         <entry>%s/KMS_ALIAS/KMS_CACHE_KEY</entry>
         <entry>%s/kmsAlias/kmsCacheKey/g</entry>
         <entry>%s/KMS_ALIAS/KMS_CACHE_KEY/g</entry>
+        <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
