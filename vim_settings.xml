@@ -74,6 +74,12 @@
         <mark key="]" line="178" column="0" />
         <mark key="." line="178" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/crypto.ts" timestamp="1562342559633">
+        <mark key="[" line="17" column="34" />
+        <mark key="]" line="17" column="34" />
+        <mark key="." line="17" column="34" />
+        <mark key="^" line="18" column="19" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/aws-sdk/clients/cognitoidentity.d.ts" timestamp="1561566809442" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1561668983412">
         <mark key="[" line="1249" column="19" />
@@ -126,15 +132,19 @@
         <mark key="^" line="53" column="128" />
         <mark key="." line="636" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Cache.ts" timestamp="1562342485240">
+        <mark key="a" line="117" column="58" />
+        <mark key="'" line="13" column="23" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="33" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/handler-utils.ts" timestamp="1561743885946" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/deploy-admin.sh" timestamp="1561411098144">
         <mark key="[" line="6" column="31" />
         <mark key="]" line="6" column="35" />
         <mark key="." line="6" column="35" />
         <mark key="^" line="6" column="35" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1562186865391">
-        <mark key="'" line="284" column="4" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer-memberid.js" timestamp="1561671245913" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-admin.test.ts" timestamp="1562270725529" />
@@ -144,9 +154,6 @@
         <mark key="]" line="9" column="46" />
         <mark key="^" line="9" column="46" />
         <mark key="." line="9" column="46" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/aws-lambda/index.d.ts" timestamp="1561672071338">
-        <mark key="'" line="304" column="74" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/util/test-harness/client/base-client.ts" timestamp="1562253946838">
         <mark key="[" line="41" column="0" />
@@ -263,8 +270,8 @@
       <jump line="962" column="80" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IHByb2R1Y3Rpb24K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4747,46 +4754,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>string;</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>this.logger.error(er</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRva2VuVXJsOiBzdHJpbmc7CiAgICBtYXJrZXRpbmdDbG91ZFVybDogc3RyaW5nOwogICAgY2xpZW50SWQ6IHN0cmluZzsKICAgIGNsaWVudFNlY3JldDogc3RyaW5nOwogICAgcHJvZmlsZURFOiBzdHJpbmc7CiAgICBwcmVmZXJlbmNlc0RFOiBzdHJpbmc7Cg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgY3J5cHRvIGZyb20gJ2NyeXB0byc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IHByb2R1Y3Rpb24K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IHByb2R1Y3Rpb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IHByb2R1Y3Rpb24K</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IHByb2R1Y3Rpb24K</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IHByb2R1Y3Rpb24K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAgIGhhbmRsZXI6IGhhbmRsZXIuZGVsZXRlVXNlcgo+Pj4+Pj4+IHByb2R1Y3Rpb24K</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQogICAgICAgIGhhbmRsZXI6IGhhbmRsZXIuZGVsZXRlVXNlcgo+Pj4+Pj4+IHByb2R1Y3Rpb24K</text>
       </register>
       <register name="x" type="4">
         <text>7</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAgIGhhbmRsZXI6IGhhbmRsZXIuZ2V0WW9kbGVlU2Vzc2lvbgo+Pj4+Pj4+IHByb2R1Y3Rpb24K</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -4843,8 +4850,8 @@
         <entry>%s/KMS_ALIAS/KMS_CACHE_KEY</entry>
         <entry>%s/kmsAlias/kmsCacheKey/g</entry>
         <entry>%s/KMS_ALIAS/KMS_CACHE_KEY/g</entry>
-        <entry>w</entry>
         <entry>0</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
