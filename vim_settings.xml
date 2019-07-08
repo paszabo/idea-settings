@@ -28,7 +28,7 @@
         <mark key="^" line="310" column="28" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/SalesforceRepository.ts" timestamp="1562173704979" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TncRepository.ts" timestamp="1562272098140">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TncRepository.ts" timestamp="1562614706818">
         <mark key="'" line="9" column="13" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/config.ts" timestamp="1562269559210">
@@ -62,12 +62,6 @@
         <mark key="]" line="34" column="31" />
         <mark key="." line="34" column="31" />
         <mark key="^" line="34" column="36" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/config.yml" timestamp="1562269486307">
-        <mark key="'" line="17" column="13" />
-        <mark key="[" line="178" column="0" />
-        <mark key="]" line="178" column="0" />
-        <mark key="." line="178" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/crypto.ts" timestamp="1562342559633">
         <mark key="[" line="17" column="34" />
@@ -144,6 +138,9 @@
         <mark key="." line="6" column="35" />
         <mark key="^" line="6" column="35" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1562186865391">
+        <mark key="'" line="284" column="4" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer-memberid.js" timestamp="1561671245913" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-admin.test.ts" timestamp="1562270725529" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/.env.cia" timestamp="1561411078004">
@@ -152,6 +149,9 @@
         <mark key="]" line="9" column="46" />
         <mark key="^" line="9" column="46" />
         <mark key="." line="9" column="46" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/aws-lambda/index.d.ts" timestamp="1561672071338">
+        <mark key="'" line="304" column="74" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/util/test-harness/client/base-client.ts" timestamp="1562253946838">
         <mark key="[" line="41" column="0" />
@@ -163,6 +163,7 @@
         <mark key="'" line="63" column="47" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/ISalesforceClientPreference.ts" timestamp="1562174107305" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IUserTncInfo.ts" timestamp="1562614383340" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/debug.sh" timestamp="1562274454888" />
     </filemarks>
     <jumps>
