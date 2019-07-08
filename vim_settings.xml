@@ -13,8 +13,8 @@
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IUserResponse.ts" timestamp="1561668905014" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/node/schema_ready.js" timestamp="1561403943535" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1562270291497">
-        <mark key="'" line="1967" column="0" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1562624096940">
+        <mark key="'" line="1849" column="4" />
         <mark key="[" line="1976" column="0" />
         <mark key="]" line="1976" column="0" />
         <mark key="^" line="173" column="131" />
@@ -162,8 +162,6 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/debug.sh" timestamp="1562274454888" />
     </filemarks>
     <jumps>
-      <jump line="4" column="11" filename="$USER_HOME$/dev/repos/common-identity-api/.env.cia" />
-      <jump line="5" column="11" filename="$USER_HOME$/dev/repos/common-identity-api/.env.cia" />
       <jump line="6" column="11" filename="$USER_HOME$/dev/repos/common-identity-api/.env.cia" />
       <jump line="7" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/.env.cia" />
       <jump line="8" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/.env.cia" />
@@ -248,7 +246,6 @@
       <jump line="1771" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="1851" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="1951" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
-      <jump line="1967" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="65" column="47" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/Utilities.ts" />
       <jump line="9" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TncRepository.ts" />
       <jump line="962" column="80" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
@@ -262,6 +259,9 @@
       <jump line="530" column="44" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="580" column="36" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="793" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="1967" column="23" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="1537" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="1849" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4751,7 +4751,7 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>hashedSRF</text>
+        <text>delete</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0ICogYXMgY3J5cHRvIGZyb20gJ2NyeXB0byc7Cg==</text>
@@ -4794,9 +4794,9 @@
       </register>
     </registers>
     <search>
-      <last-search>hashedSRF</last-search>
+      <last-search>delete</last-search>
       <last-offset />
-      <last-pattern>hashedSRF</last-pattern>
+      <last-pattern>delete</last-pattern>
       <last-replace>KMS_CACHE_KEY</last-replace>
       <last-substitute>KMS_ALIAS</last-substitute>
       <last-dir>1</last-dir>
@@ -4804,8 +4804,6 @@
     </search>
     <history>
       <history-search>
-        <entry>export</entry>
-        <entry>RegisterUser</entry>
         <entry>Activate</entry>
         <entry>resend</entry>
         <entry>principalId</entry>
@@ -4824,6 +4822,8 @@
         <entry>this.logger.error(er</entry>
         <entry>getUser</entry>
         <entry>hashedSRF</entry>
+        <entry>DELETE</entry>
+        <entry>delete</entry>
       </history-search>
       <history-cmd>
         <entry>174</entry>
