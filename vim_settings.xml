@@ -13,11 +13,6 @@
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IUserResponse.ts" timestamp="1561668905014" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/node/schema_ready.js" timestamp="1561403943535" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/util/test-harness/client/user-client.ts" timestamp="1562253982607">
-        <mark key="]" line="305" column="1" />
-        <mark key="^" line="305" column="1" />
-        <mark key="." line="305" column="1" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1562270291497">
         <mark key="'" line="1967" column="0" />
         <mark key="[" line="1976" column="0" />
@@ -81,7 +76,8 @@
         <mark key="^" line="18" column="19" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/aws-sdk/clients/cognitoidentity.d.ts" timestamp="1561566809442" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1561668983412">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1562609601945">
+        <mark key="'" line="744" column="13" />
         <mark key="[" line="1249" column="19" />
         <mark key="]" line="1249" column="19" />
         <mark key="^" line="758" column="38" />
@@ -123,6 +119,7 @@
         <mark key="^" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IUser.ts" timestamp="1562609617667" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/ISalesforceClientProfile.ts" timestamp="1562174152090" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/scripts/package.json" timestamp="1562336144629" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" timestamp="1562269987809">
@@ -168,8 +165,6 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/debug.sh" timestamp="1562274454888" />
     </filemarks>
     <jumps>
-      <jump line="476" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
-      <jump line="108" column="73" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
       <jump line="1953" column="38" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="1946" column="131" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="803" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
@@ -268,6 +263,8 @@
       <jump line="65" column="47" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/Utilities.ts" />
       <jump line="9" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TncRepository.ts" />
       <jump line="962" column="80" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="789" column="40" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="744" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4757,7 +4754,7 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>this.logger.error(er</text>
+        <text>getUser</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0ICogYXMgY3J5cHRvIGZyb20gJ2NyeXB0byc7Cg==</text>
@@ -4800,17 +4797,16 @@
       </register>
     </registers>
     <search>
-      <last-search>this.logger.error(er</last-search>
+      <last-search>getUser</last-search>
       <last-offset />
-      <last-pattern>this.logger.error(er</last-pattern>
+      <last-pattern>getUser</last-pattern>
       <last-replace>KMS_CACHE_KEY</last-replace>
       <last-substitute>KMS_ALIAS</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>AuthPolicy</entry>
         <entry>enhancedAuthContext</entry>
         <entry>export</entry>
         <entry>RegisterUser</entry>
@@ -4830,6 +4826,7 @@
         <entry>JSON</entry>
         <entry>this.logger.error(error)</entry>
         <entry>this.logger.error(er</entry>
+        <entry>getUser</entry>
       </history-search>
       <history-cmd>
         <entry>174</entry>
