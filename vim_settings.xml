@@ -4,8 +4,8 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/MailService.ts" timestamp="1562272068092" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1562274271977">
-        <mark key="'" line="962" column="80" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1562620139888">
+        <mark key="'" line="793" column="12" />
         <mark key="[" line="47" column="74" />
         <mark key="]" line="48" column="67" />
         <mark key="^" line="48" column="67" />
@@ -162,14 +162,6 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/debug.sh" timestamp="1562274454888" />
     </filemarks>
     <jumps>
-      <jump line="1953" column="38" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
-      <jump line="1946" column="131" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
-      <jump line="803" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
-      <jump line="326" column="5" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" />
-      <jump line="84" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" />
-      <jump line="53" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
-      <jump line="15" column="23" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/Cache.ts" />
-      <jump line="13" column="23" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/Cache.ts" />
       <jump line="4" column="11" filename="$USER_HOME$/dev/repos/common-identity-api/.env.cia" />
       <jump line="5" column="11" filename="$USER_HOME$/dev/repos/common-identity-api/.env.cia" />
       <jump line="6" column="11" filename="$USER_HOME$/dev/repos/common-identity-api/.env.cia" />
@@ -262,6 +254,14 @@
       <jump line="962" column="80" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="789" column="40" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="744" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="147" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="224" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="289" column="34" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="317" column="14" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="334" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="530" column="44" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="580" column="36" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="793" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4751,7 +4751,7 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>getUser</text>
+        <text>hashedSRF</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0ICogYXMgY3J5cHRvIGZyb20gJ2NyeXB0byc7Cg==</text>
@@ -4794,17 +4794,16 @@
       </register>
     </registers>
     <search>
-      <last-search>getUser</last-search>
+      <last-search>hashedSRF</last-search>
       <last-offset />
-      <last-pattern>getUser</last-pattern>
+      <last-pattern>hashedSRF</last-pattern>
       <last-replace>KMS_CACHE_KEY</last-replace>
       <last-substitute>KMS_ALIAS</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>enhancedAuthContext</entry>
         <entry>export</entry>
         <entry>RegisterUser</entry>
         <entry>Activate</entry>
@@ -4824,6 +4823,7 @@
         <entry>this.logger.error(error)</entry>
         <entry>this.logger.error(er</entry>
         <entry>getUser</entry>
+        <entry>hashedSRF</entry>
       </history-search>
       <history-cmd>
         <entry>174</entry>
