@@ -13,12 +13,12 @@
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IUserResponse.ts" timestamp="1561668905014" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/node/schema_ready.js" timestamp="1561403943535" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1562624096940">
-        <mark key="'" line="1849" column="4" />
-        <mark key="[" line="1976" column="0" />
-        <mark key="]" line="1976" column="0" />
-        <mark key="^" line="173" column="131" />
-        <mark key="." line="1976" column="0" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1562694154042">
+        <mark key="'" line="1871" column="39" />
+        <mark key="[" line="1972" column="26" />
+        <mark key="]" line="1972" column="26" />
+        <mark key="^" line="1972" column="26" />
+        <mark key="." line="1972" column="26" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/helper" timestamp="1562274344961" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/PreferencesRepository.ts" timestamp="1562618170990" />
@@ -89,19 +89,19 @@
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer.js" timestamp="1561671250321" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/aws-sdk/lib/service.d.ts" timestamp="1561567359339" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" timestamp="1562270203837">
-        <mark key="'" line="588" column="0" />
-        <mark key="[" line="596" column="0" />
-        <mark key="]" line="596" column="0" />
-        <mark key="." line="596" column="0" />
-        <mark key="^" line="130" column="131" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" timestamp="1562694112037">
+        <mark key="'" line="580" column="30" />
+        <mark key="[" line="593" column="26" />
+        <mark key="]" line="593" column="26" />
+        <mark key="." line="593" column="26" />
+        <mark key="^" line="593" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" timestamp="1562336038958">
-        <mark key="'" line="223" column="0" />
-        <mark key="[" line="27" column="41" />
-        <mark key="]" line="27" column="19" />
-        <mark key="." line="27" column="19" />
-        <mark key="^" line="27" column="19" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" timestamp="1562694098707">
+        <mark key="'" line="81" column="67" />
+        <mark key="[" line="488" column="26" />
+        <mark key="]" line="488" column="26" />
+        <mark key="." line="488" column="26" />
+        <mark key="^" line="488" column="26" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/docker-compose.yml" timestamp="1561409900708">
         <mark key="[" line="69" column="18" />
@@ -118,13 +118,21 @@
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IUser.ts" timestamp="1562609617667" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/ISalesforceClientProfile.ts" timestamp="1562174152090" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/scim/serverless.yml" timestamp="1562694105531">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="542" column="24" />
+        <mark key="]" line="542" column="24" />
+        <mark key="n" line="45" column="20" />
+        <mark key="." line="542" column="24" />
+        <mark key="^" line="542" column="24" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/scripts/package.json" timestamp="1562336144629" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" timestamp="1562686247005">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" timestamp="1562694084243">
         <mark key="'" line="636" column="0" />
-        <mark key="[" line="636" column="0" />
-        <mark key="]" line="636" column="0" />
-        <mark key="^" line="53" column="128" />
-        <mark key="." line="636" column="0" />
+        <mark key="[" line="974" column="26" />
+        <mark key="]" line="974" column="26" />
+        <mark key="^" line="974" column="26" />
+        <mark key="." line="974" column="26" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Cache.ts" timestamp="1562342485240">
         <mark key="a" line="117" column="58" />
@@ -161,18 +169,11 @@
         <mark key="^" line="40" column="2" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Utilities.ts" timestamp="1562272041669">
-        <mark key="'" line="63" column="47" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/ISalesforceClientPreference.ts" timestamp="1562174107305" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IUserTncInfo.ts" timestamp="1562614383340" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/debug.sh" timestamp="1562274454888" />
     </filemarks>
     <jumps>
-      <jump line="6" column="11" filename="$USER_HOME$/dev/repos/common-identity-api/.env.cia" />
-      <jump line="7" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/.env.cia" />
-      <jump line="8" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/.env.cia" />
-      <jump line="9" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/.env.cia" />
       <jump line="3" column="7" filename="$USER_HOME$/dev/repos/common-identity-api/.env.cia" />
       <jump line="467" column="48" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
@@ -269,10 +270,14 @@
       <jump line="1967" column="23" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="1537" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="1849" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="81" column="67" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/scim/serverless.yml" />
+      <jump line="580" column="30" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" />
+      <jump line="1871" column="39" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>4</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4755,10 +4760,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
-        <text>delete</text>
+        <text>2.4.0</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0ICogYXMgY3J5cHRvIGZyb20gJ2NyeXB0byc7Cg==</text>
@@ -4801,9 +4806,9 @@
       </register>
     </registers>
     <search>
-      <last-search>delete</last-search>
+      <last-search>2.4.0</last-search>
       <last-offset />
-      <last-pattern>delete</last-pattern>
+      <last-pattern>2.4.0</last-pattern>
       <last-replace>KMS_CACHE_KEY</last-replace>
       <last-substitute>KMS_ALIAS</last-substitute>
       <last-dir>1</last-dir>
@@ -4811,7 +4816,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Activate</entry>
         <entry>resend</entry>
         <entry>principalId</entry>
         <entry>authorizer</entry>
@@ -4831,6 +4835,7 @@
         <entry>hashedSRF</entry>
         <entry>DELETE</entry>
         <entry>delete</entry>
+        <entry>2.4.0</entry>
       </history-search>
       <history-cmd>
         <entry>174</entry>
