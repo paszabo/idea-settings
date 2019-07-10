@@ -91,6 +91,9 @@
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer.js" timestamp="1561671250321" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/aws-sdk/lib/service.d.ts" timestamp="1561567359339" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" timestamp="1562782092088">
+        <mark key="'" line="470" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/docker-compose.yml" timestamp="1561409900708">
         <mark key="[" line="69" column="18" />
         <mark key="]" line="70" column="25" />
@@ -151,7 +154,6 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/debug.sh" timestamp="1562274454888" />
     </filemarks>
     <jumps>
-      <jump line="63" column="9" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
       <jump line="88" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
       <jump line="99" column="33" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
       <jump line="101" column="66" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
@@ -251,6 +253,7 @@
       <jump line="1046" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
       <jump line="25" column="57" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
       <jump line="572" column="2" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="470" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4740,7 +4743,7 @@
         <text>4</text>
       </register>
       <register name="/" type="4">
-        <text>2.4.0</text>
+        <text>unsubscribe</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0ICogYXMgY3J5cHRvIGZyb20gJ2NyeXB0byc7Cg==</text>
@@ -4783,9 +4786,9 @@
       </register>
     </registers>
     <search>
-      <last-search>2.4.0</last-search>
+      <last-search>unsubscribe</last-search>
       <last-offset />
-      <last-pattern>2.4.0</last-pattern>
+      <last-pattern>unsubscribe</last-pattern>
       <last-replace>KMS_CACHE_KEY</last-replace>
       <last-substitute>KMS_ALIAS</last-substitute>
       <last-dir>1</last-dir>
@@ -4793,7 +4796,6 @@
     </search>
     <history>
       <history-search>
-        <entry>resend</entry>
         <entry>principalId</entry>
         <entry>authorizer</entry>
         <entry>issuer</entry>
@@ -4813,6 +4815,7 @@
         <entry>DELETE</entry>
         <entry>delete</entry>
         <entry>2.4.0</entry>
+        <entry>unsubscribe</entry>
       </history-search>
       <history-cmd>
         <entry>174</entry>
