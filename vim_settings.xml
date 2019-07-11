@@ -31,7 +31,7 @@
         <mark key="." line="506" column="28" />
         <mark key="^" line="506" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/SalesforceRepository.ts" timestamp="1562173704979" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/SalesforceRepository.ts" timestamp="1562808042081" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TncRepository.ts" timestamp="1562615547686">
         <mark key="'" line="9" column="13" />
       </file>
@@ -76,8 +76,8 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/ITokenEntry.ts" timestamp="1562611698164" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/preferences/preferences.service.ts" timestamp="1562618421552" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/aws-sdk/clients/cognitoidentity.d.ts" timestamp="1561566809442" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1562609601945">
-        <mark key="'" line="744" column="13" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1562808476470">
+        <mark key="'" line="525" column="55" />
         <mark key="[" line="1249" column="19" />
         <mark key="]" line="1249" column="19" />
         <mark key="^" line="758" column="38" />
@@ -155,8 +155,6 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/debug.sh" timestamp="1562274454888" />
     </filemarks>
     <jumps>
-      <jump line="237" column="21" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
-      <jump line="97" column="29" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="31" column="22" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
       <jump line="61" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
       <jump line="327" column="43" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" />
@@ -255,6 +253,8 @@
       <jump line="22" column="5" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="23" column="5" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="254" column="35" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="1136" column="27" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="525" column="55" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4744,7 +4744,7 @@
         <text>4</text>
       </register>
       <register name="/" type="4">
-        <text>Forgot</text>
+        <text>registerUser</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0ICogYXMgY3J5cHRvIGZyb20gJ2NyeXB0byc7Cg==</text>
@@ -4787,17 +4787,16 @@
       </register>
     </registers>
     <search>
-      <last-search>Forgot</last-search>
+      <last-search>registerUser</last-search>
       <last-offset />
-      <last-pattern>Forgot</last-pattern>
+      <last-pattern>registerUser</last-pattern>
       <last-replace>KMS_CACHE_KEY</last-replace>
       <last-substitute>KMS_ALIAS</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>issuer</entry>
         <entry>users</entry>
         <entry>RemoveFromApp</entry>
         <entry encoding="base64">Pj4=</entry>
@@ -4817,6 +4816,7 @@
         <entry>unsubscribe</entry>
         <entry>Change</entry>
         <entry>Forgot</entry>
+        <entry>registerUser</entry>
       </history-search>
       <history-cmd>
         <entry>174</entry>
