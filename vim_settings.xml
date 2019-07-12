@@ -25,9 +25,9 @@
         <mark key="^" line="272" column="42" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/PreferencesRepository.ts" timestamp="1562618170990" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IAppDetails.ts" timestamp="1562699916695">
-        <mark key="[" line="506" column="25" />
-        <mark key="]" line="506" column="28" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IAppDetails.ts" timestamp="1562949212535">
+        <mark key="[" line="209" column="4" />
+        <mark key="]" line="209" column="20" />
         <mark key="." line="506" column="28" />
         <mark key="^" line="506" column="28" />
       </file>
@@ -260,7 +260,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>4</text>
+        <text>aggregatorService</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4748,8 +4748,8 @@
       <register name="/" type="4">
         <text>registerUser</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgY3J5cHRvIGZyb20gJ2NyeXB0byc7Cg==</text>
+      <register name="0" type="4">
+        <text>aggregatorService</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
