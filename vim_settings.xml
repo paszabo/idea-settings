@@ -18,11 +18,11 @@
         <mark key="." line="272" column="42" />
         <mark key="^" line="272" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" timestamp="1563470729300">
-        <mark key="[" line="189" column="8" />
-        <mark key="]" line="189" column="13" />
-        <mark key="." line="189" column="13" />
-        <mark key="^" line="189" column="13" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" timestamp="1563472961287">
+        <mark key="[" line="157" column="8" />
+        <mark key="]" line="157" column="13" />
+        <mark key="." line="157" column="13" />
+        <mark key="^" line="157" column="13" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IAppDetails.ts" timestamp="1563465389931">
         <mark key="'" line="208" column="6" />
@@ -252,7 +252,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>private</text>
+        <text>const saml =</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4735,7 +4735,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>const saml =</text>
       </register>
       <register name="/" type="4">
         <text>adminClient</text>
