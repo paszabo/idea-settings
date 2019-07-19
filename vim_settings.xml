@@ -23,11 +23,11 @@
         <mark key="." line="506" column="28" />
         <mark key="^" line="506" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/README.md" timestamp="1563550366104">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/README.md" timestamp="1563553096854">
+        <mark key="[" line="2" column="126" />
+        <mark key="]" line="4" column="184" />
+        <mark key="^" line="4" column="184" />
+        <mark key="." line="4" column="184" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/README.md" timestamp="1563485306407">
         <mark key="'" line="90" column="39" />
@@ -222,8 +222,8 @@
       <jump line="90" column="39" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4706,13 +4706,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>async</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyMgVGVzdHMK</text>
+        <text encoding="base64">ICAgICQgZ2l0IGNsb25lIGdpdEBnaXRodWIuY29tOnJiYy1lY29zeXN0ZW1zL2NvbW1vbi1pZGVudGl0eS1hcGkuZ2l0Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -4792,7 +4792,6 @@
         <entry>32</entry>
         <entry>1,45d</entry>
         <entry encoding="base64">JzwsJz4w</entry>
-        <entry>W</entry>
         <entry>%s/wr00/yr10/g</entry>
         <entry>1</entry>
         <entry>%s/KMS_ALIAS/KMS_CACHE_KEY</entry>
@@ -4802,6 +4801,7 @@
         <entry>we</entry>
         <entry>47</entry>
         <entry>0</entry>
+        <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
