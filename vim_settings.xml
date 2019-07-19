@@ -97,6 +97,12 @@
         <mark key="." line="27" column="30" />
         <mark key="^" line="23" column="6" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/encryption/plain-text.data-encrypter.test.ts" timestamp="1563564797180">
+        <mark key="[" line="10" column="19" />
+        <mark key="]" line="10" column="24" />
+        <mark key="." line="10" column="24" />
+        <mark key="^" line="10" column="24" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/IntercomMaketingService.ts" timestamp="1563557938451">
         <mark key="'" line="121" column="53" />
         <mark key="[" line="147" column="40" />
@@ -294,7 +300,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>v</text>
+        <text>decrypt</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4777,46 +4783,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>decrypt</text>
       </register>
       <register name="/" type="4">
         <text>storeEntry</text>
       </register>
-      <register name="0" type="4">
-        <text>`Data encryption class ${impl} not supported</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgZGF0YSA9ICdteSBkYXRhJzsKCiAgICAgICAgICAgIGV4cGVjdChlbmNyeXB0ZXIuZGVjcnlwdChkYXRhKSkudG9FcXVhbChkYXRhKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBnZXREYXRhRW5jcnlwdGVyKCdhcHNkb2ZqYXNwb2pmYXNkZicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXREYXRhRW5jcnlwdGVyKCdhcHNkb2ZqYXNwb2pmYXNkZicpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbWFpbCwKICAgICAgICB1c2VybmFtZSwK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VybmFtZSwK</text>
+        <text encoding="base64">ICAgICAgICBlbWFpbCwKICAgICAgICB1c2VybmFtZSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgbW9ja0RlY3J5cHQgPSBlbmNyeXB0ZXIuZGVjcnlwdC5tb2NrUmVzb2x2ZWRWYWx1ZU9uY2UoZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB1c2VybmFtZSwK</text>
       </register>
       <register name="x" type="4">
         <text>7</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBlbmNyeXB0ZXIgPSB7ZW5jcnlwdDogamVzdC5mbigpLCBkZWNyeXB0OiBqZXN0LmZuKCl9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgbW9ja0RlY3J5cHQgPSBlbmNyeXB0ZXIuZGVjcnlwdC5tb2NrUmVzb2x2ZWRWYWx1ZU9uY2UoZGF0YSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
