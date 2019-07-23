@@ -10,13 +10,6 @@
         <mark key="^" line="28" column="53" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/aws-sdk/clients/kms.d.ts" timestamp="1563835218497" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1562620139888">
-        <mark key="'" line="793" column="12" />
-        <mark key="[" line="47" column="74" />
-        <mark key="]" line="48" column="67" />
-        <mark key="^" line="48" column="67" />
-        <mark key="." line="48" column="67" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" timestamp="1563833489002">
         <mark key="'" line="86" column="24" />
         <mark key="[" line="15" column="4" />
@@ -75,10 +68,10 @@
         <mark key="^" line="15" column="60" />
         <mark key="." line="15" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/yodlee.service.ts" timestamp="1563836998014">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/yodlee.service.ts" timestamp="1563899758060">
         <mark key="'" line="388" column="25" />
-        <mark key="[" line="24" column="16" />
-        <mark key="]" line="24" column="25" />
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="182" column="32" />
         <mark key="." line="24" column="16" />
         <mark key="^" line="292" column="46" />
       </file>
@@ -88,6 +81,7 @@
         <mark key="^" line="9" column="35" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/server.js" timestamp="1563899403371" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/webpack.config.js" timestamp="1563549521788" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/admin/adminUsersHandler.ts" timestamp="1563557883724">
         <mark key="'" line="82" column="25" />
@@ -152,6 +146,10 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" timestamp="1563556601937">
         <mark key="'" line="50" column="47" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IAggregatorConfig.ts" timestamp="1563899650629">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="9" column="21" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/index.ts" timestamp="1563560457201">
         <mark key="[" line="6" column="28" />
         <mark key="]" line="6" column="28" />
@@ -182,13 +180,6 @@
         <mark key="^" line="17" column="42" />
         <mark key="." line="17" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/.env.cia" timestamp="1561411078004">
-        <mark key="'" line="3" column="7" />
-        <mark key="[" line="9" column="22" />
-        <mark key="]" line="9" column="46" />
-        <mark key="^" line="9" column="46" />
-        <mark key="." line="9" column="46" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serializers/serializer.ts" timestamp="1563548302400" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Encryption.ts" timestamp="1563559499952">
         <mark key="[" line="73" column="17" />
@@ -196,18 +187,15 @@
         <mark key="." line="73" column="14" />
         <mark key="^" line="73" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/repositories/users.repository.test.ts" timestamp="1563563549011">
-        <mark key="'" line="12" column="13" />
-        <mark key="[" line="92" column="40" />
-        <mark key="]" line="92" column="45" />
-        <mark key="." line="92" column="45" />
-        <mark key="^" line="92" column="45" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/yodlee.service.test.ts" timestamp="1563899950803">
+        <mark key="'" line="9" column="26" />
+        <mark key="[" line="28" column="91" />
+        <mark key="]" line="30" column="29" />
+        <mark key="." line="30" column="29" />
+        <mark key="^" line="30" column="29" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1136" column="27" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="525" column="55" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
-      <jump line="208" column="6" filename="$USER_HOME$/dev/repos/common-identity-api/src/models/IAppDetails.ts" />
       <jump line="39" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/IntercomMaketingService.ts" />
       <jump line="65" column="53" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/IntercomMaketingService.ts" />
       <jump line="44" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" />
@@ -305,10 +293,13 @@
       <jump line="284" column="54" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/handler-utils.ts" />
       <jump line="371" column="104" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/yodlee.service.ts" />
       <jump line="372" column="25" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/yodlee.service.ts" />
+      <jump line="6" column="26" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/yodlee.service.test.ts" />
+      <jump line="20" column="15" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/yodlee.service.test.ts" />
+      <jump line="9" column="26" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/yodlee.service.test.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cmVhZG9ubHkg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uZmlnID0gb24K</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4791,30 +4782,39 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Building</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
-        <text>Object</text>
+        <text>new</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">cmVhZG9ubHkg</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHVzZXJkYjogYW55ID0ge307Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgcmVhZG9ubHkgczMgPSBuZXcgQVdTLlMzKHtyZWdpb246ICdjYS1jZW50cmFsLTEnfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uZmlnID0gb24K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5yZWFkRnJvbVNlY3VyZVMzKHByaXZhdGVLZXlOYW1lKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzMyA9IG5ldyBBV1MuUzMoewogICAgICAgICAgICByZWdpb246ICdjYS1jZW50cmFsLTEnLAogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgcmVhZG9ubHkgczMgPSBuZXcgQVdTLlMzKHtyZWdpb246ICdjYS1jZW50cmFsLTEnfSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5yZWFkRnJvbVNlY3VyZVMzKHByaXZhdGVLZXlOYW1lKSwK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBzMyA9IG5ldyBBV1MuUzMoewogICAgICAgICAgICByZWdpb246ICdjYS1jZW50cmFsLTEnLAogICAgICAgIH0pOwo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBjb25zdCBCdWNrZXQgPSBjb25maWcuczMuYnVja2V0cy5TZWN1cmVTdG9yYWdlQnVja2V0Owo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>{
             'Api-Version': config.apiVersion,
             'Cobrand-Name': config.cobrandName,
@@ -4822,38 +4822,27 @@
             'Content-Type': 'application/x-www-form-urlencoded',
         }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgdXNlclNlc3Npb246IElVc2VyU2Vzc2lvblJlc3BvbnNlOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBjYWNoZURhdGEgPSBhd2FpdCB0aGlzLmNhY2hlLmdldChgY29ic2Vzc2lvbi0ke2NvbmZpZy5jb2JyYW5kTmFtZX1gKTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmxvZ2dlci5pbmZvKCcnKTsKICAgICAgICBjb25zdCB1c2VyRW50cnkgPSBhd2FpdCB0aGlzLnVzZXJEYi5nZXRFbnRyeShtZW1iZXJJZCk7Cg==</text>
-      </register>
       <register name="x" type="4">
         <text>7</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB1c2VyRW50cnkgPSBhd2FpdCB0aGlzLnVzZXJEYi5nZXRFbnRyeShtZW1iZXJJZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgdXNlclNlc3Npb246IElVc2VyU2Vzc2lvblJlc3BvbnNlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Object</last-search>
+      <last-search>new</last-search>
       <last-offset />
-      <last-pattern>Object</last-pattern>
-      <last-replace>KMS_CACHE_KEY</last-replace>
-      <last-substitute>KMS_ALIAS</last-substitute>
+      <last-pattern>new</last-pattern>
+      <last-replace>'',</last-replace>
+      <last-substitute>string;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">PDw8PA==</entry>
-        <entry>hash</entry>
         <entry>cipher</entry>
         <entry>cipherText</entry>
         <entry>encryption</entry>
@@ -4872,9 +4861,10 @@
         <entry>user</entry>
         <entry>:w</entry>
         <entry>Object</entry>
+        <entry>string;</entry>
+        <entry>new</entry>
       </history-search>
       <history-cmd>
-        <entry>32</entry>
         <entry>1,45d</entry>
         <entry encoding="base64">JzwsJz4w</entry>
         <entry>%s/wr00/yr10/g</entry>
@@ -4893,6 +4883,7 @@
         <entry>239</entry>
         <entry>0</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>%s/string;/'',/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
