@@ -68,7 +68,7 @@
         <mark key="^" line="15" column="60" />
         <mark key="." line="15" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/yodlee.service.ts" timestamp="1563899758060">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/yodlee.service.ts" timestamp="1563912266344">
         <mark key="'" line="388" column="25" />
         <mark key="[" line="108" column="0" />
         <mark key="]" line="182" column="32" />
@@ -116,6 +116,7 @@
         <mark key="^" line="148" column="11" />
         <mark key="." line="148" column="11" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/authorizer-memberid.js" timestamp="1563912470736" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/ICommPreferences.ts" timestamp="1563906346730" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/encryption/plain-test.data-encrypter.ts" timestamp="1563559646561">
         <mark key="[" line="0" column="20" />
@@ -172,8 +173,8 @@
         <mark key="^" line="17" column="75" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serializers/preferences/unsubscribe.serializer.ts" timestamp="1563548317949" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1563831622976">
-        <mark key="'" line="31" column="5" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1563911384148">
+        <mark key="'" line="39" column="4" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/encryption/factory.ts" timestamp="1563569287803">
         <mark key="[" line="17" column="26" />
@@ -197,9 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="53" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/IntercomMaketingService.ts" />
-      <jump line="44" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" />
-      <jump line="52" column="11" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/Cache.ts" />
       <jump line="221" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" />
       <jump line="250" column="10" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" />
       <jump line="272" column="10" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" />
@@ -297,6 +295,9 @@
       <jump line="20" column="15" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/yodlee.service.test.ts" />
       <jump line="9" column="26" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/yodlee.service.test.ts" />
       <jump line="99" column="30" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/PreferencesRepository.ts" />
+      <jump line="369" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="30" column="5" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="39" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4786,7 +4787,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>new</text>
+        <text>cache</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IF8ucGljayhwLCBbJ2lzQWNjZXB0ZWQnLCAnY2hhbm5lbCcsICdjb21tdW5pY2F0aW9uVHlwZSddKQ==</text>
@@ -4834,18 +4835,16 @@
       </register>
     </registers>
     <search>
-      <last-search>new</last-search>
+      <last-search>cache</last-search>
       <last-offset />
-      <last-pattern>new</last-pattern>
+      <last-pattern>cache</last-pattern>
       <last-replace>'',</last-replace>
       <last-substitute>string;</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>cipher</entry>
-        <entry>cipherText</entry>
         <entry>encryption</entry>
         <entry>Encryption</entry>
         <entry>as</entry>
@@ -4864,6 +4863,8 @@
         <entry>Object</entry>
         <entry>string;</entry>
         <entry>new</entry>
+        <entry>UpdatePassword</entry>
+        <entry>cache</entry>
       </history-search>
       <history-cmd>
         <entry>1,45d</entry>
