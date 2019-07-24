@@ -107,7 +107,9 @@
         <mark key="^" line="148" column="11" />
         <mark key="." line="148" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/authorizer-memberid.js" timestamp="1563912470736" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/authorizer-memberid.js" timestamp="1563982013889">
+        <mark key="'" line="235" column="33" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/ICommPreferences.ts" timestamp="1563906346730" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/encryption/plain-test.data-encrypter.ts" timestamp="1563559646561">
         <mark key="[" line="0" column="20" />
@@ -189,8 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="221" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" />
-      <jump line="250" column="10" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" />
       <jump line="272" column="10" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" />
       <jump line="308" column="10" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" />
       <jump line="333" column="10" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" />
@@ -289,6 +289,8 @@
       <jump line="369" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="30" column="5" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="39" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="244" column="58" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/authorizer-memberid.js" />
+      <jump line="235" column="33" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/authorizer-memberid.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4778,7 +4780,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>cache</text>
+        <text>jwk</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IF8ucGljayhwLCBbJ2lzQWNjZXB0ZWQnLCAnY2hhbm5lbCcsICdjb21tdW5pY2F0aW9uVHlwZSddKQ==</text>
@@ -4826,9 +4828,9 @@
       </register>
     </registers>
     <search>
-      <last-search>cache</last-search>
+      <last-search>jwk</last-search>
       <last-offset />
-      <last-pattern>cache</last-pattern>
+      <last-pattern>jwk</last-pattern>
       <last-replace>'',</last-replace>
       <last-substitute>string;</last-substitute>
       <last-dir>-1</last-dir>
@@ -4836,7 +4838,6 @@
     </search>
     <history>
       <history-search>
-        <entry>encryption</entry>
         <entry>Encryption</entry>
         <entry>as</entry>
         <entry>storeEntry</entry>
@@ -4856,6 +4857,7 @@
         <entry>new</entry>
         <entry>UpdatePassword</entry>
         <entry>cache</entry>
+        <entry>jwk</entry>
       </history-search>
       <history-cmd>
         <entry>1,45d</entry>
