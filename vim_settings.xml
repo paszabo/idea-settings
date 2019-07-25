@@ -282,8 +282,8 @@
         <mark key="." line="28" column="9" />
         <mark key="^" line="28" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1564080853537">
-        <mark key="'" line="703" column="39" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1564091020559">
+        <mark key="'" line="698" column="13" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-admin.test.ts" timestamp="1564089862627" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/encryption/factory.ts" timestamp="1563569287803">
@@ -311,8 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="45" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/cache-client.test.ts" />
-      <jump line="25" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/cache-client.test.ts" />
       <jump line="12" column="23" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/cache-client.test.ts" />
       <jump line="12" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/repositories/users.repository.test.ts" />
       <jump line="20" column="18" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
@@ -411,6 +409,8 @@
       <jump line="629" column="21" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="637" column="33" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="646" column="35" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="813" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="698" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4900,7 +4900,7 @@
         <text>mockReturnValue</text>
       </register>
       <register name="/" type="4">
-        <text>erify</text>
+        <text>UpdateUser</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0ZXN0KCdoYXBweSBwYXRoJywgYXN5bmMgKCkgPT4ge30pOwo=</text>
@@ -4943,17 +4943,16 @@
       </register>
     </registers>
     <search>
-      <last-search>erify</last-search>
+      <last-search>UpdateUser</last-search>
       <last-offset />
-      <last-pattern>erify</last-pattern>
+      <last-pattern>UpdateUser</last-pattern>
       <last-replace>this.log</last-replace>
       <last-substitute>this.logger</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>loadCerti</entry>
         <entry>this.loadCertificate</entry>
         <entry>construct</entry>
         <entry>UserSession</entry>
@@ -4973,6 +4972,7 @@
         <entry>prefix</entry>
         <entry>$</entry>
         <entry>erify</entry>
+        <entry>UpdateUser</entry>
       </history-search>
       <history-cmd>
         <entry>1,178de</entry>
