@@ -205,8 +205,8 @@
         <mark key="." line="28" column="9" />
         <mark key="^" line="28" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1563911384148">
-        <mark key="'" line="39" column="4" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1564027534611">
+        <mark key="'" line="208" column="1" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/encryption/factory.ts" timestamp="1563569287803">
         <mark key="[" line="17" column="26" />
@@ -230,7 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/PreferencesRepository.ts" />
       <jump line="100" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/PreferencesRepository.ts" />
       <jump line="473" column="7" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/preferences/subscription.service.test.ts" />
@@ -330,6 +329,7 @@
       <jump line="10" column="18" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/Logger.ts" />
       <jump line="336" column="4" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
       <jump line="412" column="20" filename="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" />
+      <jump line="208" column="1" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -4819,7 +4819,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>call</text>
+        <text>Activate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgdGhpcy51c2VyLnJlZ2lzdGVyKCk7Cg==</text>
@@ -4862,9 +4862,9 @@
       </register>
     </registers>
     <search>
-      <last-search>call</last-search>
+      <last-search>Activate</last-search>
       <last-offset />
-      <last-pattern>call</last-pattern>
+      <last-pattern>Activate</last-pattern>
       <last-replace>this.log</last-replace>
       <last-substitute>this.logger</last-substitute>
       <last-dir>1</last-dir>
@@ -4872,7 +4872,6 @@
     </search>
     <history>
       <history-search>
-        <entry>UpdatePassword</entry>
         <entry>cache</entry>
         <entry>jwk</entry>
         <entry>SAML</entry>
@@ -4892,6 +4891,7 @@
         <entry>bind</entry>
         <entry>apply</entry>
         <entry>call</entry>
+        <entry>Activate</entry>
       </history-search>
       <history-cmd>
         <entry>47</entry>
