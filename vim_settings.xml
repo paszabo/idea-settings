@@ -20,8 +20,8 @@
       <file name="/a.dummy" timestamp="1564072081972">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1564081839393">
-        <mark key="'" line="1774" column="35" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1564090247607">
+        <mark key="'" line="646" column="35" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" timestamp="1563833489002">
         <mark key="'" line="86" column="24" />
@@ -274,6 +274,7 @@
         <mark key="^" line="41" column="9" />
         <mark key="." line="41" column="9" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/token.service.test.ts" timestamp="1564089833614" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serializers/preferences/unsubscribe.serializer.ts" timestamp="1563548317949" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/aggregation/yodlee/cobrand.ts" timestamp="1563998207186">
         <mark key="[" line="28" column="4" />
@@ -284,6 +285,7 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1564080853537">
         <mark key="'" line="703" column="39" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-admin.test.ts" timestamp="1564089862627" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/encryption/factory.ts" timestamp="1563569287803">
         <mark key="[" line="17" column="26" />
         <mark key="]" line="17" column="42" />
@@ -309,11 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/config.ts" />
-      <jump line="15" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" />
-      <jump line="27" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" />
-      <jump line="280" column="52" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" />
-      <jump line="281" column="23" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" />
       <jump line="16" column="45" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/cache-client.test.ts" />
       <jump line="25" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/cache-client.test.ts" />
       <jump line="12" column="23" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/cache-client.test.ts" />
@@ -409,6 +406,11 @@
       <jump line="15" column="56" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/aggregation/yodlee/cert-key-file-info.test.ts" />
       <jump line="20" column="95" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/aggregation/yodlee/cert-key-file-info.test.ts" />
       <jump line="17" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/aggregation/yodlee/cert-key-file-info.test.ts" />
+      <jump line="934" column="48" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="620" column="64" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="629" column="21" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="637" column="33" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="646" column="35" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4898,7 +4900,7 @@
         <text>mockReturnValue</text>
       </register>
       <register name="/" type="4">
-        <text>$</text>
+        <text>erify</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0ZXN0KCdoYXBweSBwYXRoJywgYXN5bmMgKCkgPT4ge30pOwo=</text>
@@ -4941,9 +4943,9 @@
       </register>
     </registers>
     <search>
-      <last-search>$</last-search>
+      <last-search>erify</last-search>
       <last-offset />
-      <last-pattern>$</last-pattern>
+      <last-pattern>erify</last-pattern>
       <last-replace>this.log</last-replace>
       <last-substitute>this.logger</last-substitute>
       <last-dir>1</last-dir>
@@ -4951,7 +4953,6 @@
     </search>
     <history>
       <history-search>
-        <entry>s3</entry>
         <entry>loadCerti</entry>
         <entry>this.loadCertificate</entry>
         <entry>construct</entry>
@@ -4971,6 +4972,7 @@
         <entry>prefix}</entry>
         <entry>prefix</entry>
         <entry>$</entry>
+        <entry>erify</entry>
       </history-search>
       <history-cmd>
         <entry>1,178de</entry>
