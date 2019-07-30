@@ -17,7 +17,7 @@
         <mark key="^" line="48" column="67" />
         <mark key="." line="438" column="66" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1564090247607">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1564502000999">
         <mark key="'" line="646" column="35" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" timestamp="1563833489002">
@@ -57,11 +57,11 @@
         <mark key="." line="5" column="3" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/package.json" timestamp="1563834554312">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="9" column="35" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/package.json" timestamp="1564502829547">
+        <mark key="[" line="16" column="25" />
+        <mark key="]" line="16" column="42" />
+        <mark key="^" line="16" column="42" />
+        <mark key="." line="16" column="42" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/admin/adminUsersHandler.ts" timestamp="1564418972707">
         <mark key="'" line="41" column="61" />
@@ -213,6 +213,12 @@
         <mark key="." line="24" column="16" />
         <mark key="^" line="292" column="46" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/Dockerfile" timestamp="1564505139077">
+        <mark key="[" line="18" column="13" />
+        <mark key="]" line="18" column="13" />
+        <mark key="^" line="18" column="19" />
+        <mark key="." line="18" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/webpack.config.js" timestamp="1563549521788" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/encryption/data-encrypter.ts" timestamp="1563561894365">
         <mark key="[" line="27" column="30" />
@@ -225,6 +231,12 @@
         <mark key="]" line="33" column="55" />
         <mark key="^" line="33" column="55" />
         <mark key="." line="33" column="55" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/package.json" timestamp="1564505231869">
+        <mark key="[" line="35" column="131" />
+        <mark key="]" line="35" column="185" />
+        <mark key="." line="35" column="185" />
+        <mark key="^" line="35" column="185" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/IntercomMaketingService.ts" timestamp="1564181208973">
         <mark key="'" line="121" column="53" />
@@ -252,6 +264,15 @@
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" timestamp="1563556548820">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/docker-compose.yml" timestamp="1564504616125">
+        <mark key="a" line="29" column="8" />
+        <mark key="b" line="20" column="12" />
+        <mark key="'" line="24" column="9" />
+        <mark key="[" line="77" column="34" />
+        <mark key="]" line="77" column="37" />
+        <mark key="." line="77" column="37" />
+        <mark key="^" line="77" column="37" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/xml-encryption/lib/xmlenc.js" timestamp="1564179332908">
         <mark key="'" line="7" column="5" />
@@ -314,10 +335,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/aggregation/yodlee/saml.ts" />
-      <jump line="12" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/aggregation/yodlee/yodlee.service.ts" />
-      <jump line="19" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/aggregation/yodlee/yodlee.service.ts" />
-      <jump line="275" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/src/aggregation/yodlee/yodlee.service.ts" />
       <jump line="327" column="18" filename="$USER_HOME$/dev/repos/common-identity-api/src/aggregation/yodlee/yodlee.service.ts" />
       <jump line="12" column="41" filename="$USER_HOME$/dev/repos/common-identity-api/src/aggregation/yodlee/saml.ts" />
       <jump line="147" column="77" filename="$USER_HOME$/dev/repos/common-identity-api/src/aggregation/yodlee/saml.ts" />
@@ -414,10 +431,14 @@
       <jump line="527" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="626" column="38" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="764" column="38" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="9" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/docker-compose.yml" />
+      <jump line="20" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/docker-compose.yml" />
+      <jump line="29" column="33" filename="$USER_HOME$/dev/repos/common-identity-api/docker-compose.yml" />
+      <jump line="24" column="9" filename="$USER_HOME$/dev/repos/common-identity-api/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>(</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4900,13 +4921,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>decribe</text>
+        <text>base</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFzZVVybDogYCR7Y29uZmlnLmJhc2VVcmx9L3VzZXJgLAogICAgICAgICAgICBoZWFkZXJzOiB7CiAgICAgICAgICAgICAgICAnQXBpLVZlcnNpb24nOiBjb25maWcuYXBpVmVyc2lvbiwKICAgICAgICAgICAgICAgICdDb2JyYW5kLU5hbWUnOiBjb25maWcuY29icmFuZE5hbWUsCiAgICAgICAgICAgICAgICAnQXV0aG9yaXphdGlvbic6IGB7Y29iU2Vzc2lvbj0ke2NvYlNlc3Npb259fWAsCiAgICAgICAgICAgICAgICAnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL3gtd3d3LWZvcm0tdXJsZW5jb2RlZCcsCiAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">UlVOIGZvciBpIGluICQobHMgL2NvbW1vbi1pZGVudGl0eS1hcGkvYnVpbGQvZGlzdCk7IGRvIGNkIC9jb21tb24taWRlbnRpdHktYXBpL2J1aWxkL2Rpc3QvJHtpfSAmJiBucG0gaW5zdGFsbCA7IGRvbmUK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc3QgY29uZmlnOiBJQWdncmVnYXRvckNvbmZpZyA9IHsKICAgICAgICAgICAgICAgIGJhc2VVcmw6ICdodHRwczovL2Zha2UteW9kbGVlL2Jhc2UnLAogICAgICAgICAgICAgICAgYXBpVmVyc2lvbjogJzEuMScsCiAgICAgICAgICAgICAgICBjb2JyYW5kTG9naW46ICdmYWtlLWNvYi1sb2dpbicsCiAgICAgICAgICAgICAgICBjb2JyYW5kTmFtZTogJ2Zha2UtY29iLW5hbWUnLAogICAgICAgICAgICAgICAgcHJvdmlkZXI6ICdZb2RsZWUnLAogICAgICAgICAgICAgICAgY29icmFuZFBhc3N3b3JkOiAnZmFrZS1jb2ItcGFzc3dvcmQnLAogICAgICAgICAgICAgICAgaXNzdWVyOiAnZmFrZS15b2RsZWUtaXNzdWVyJywKICAgICAgICAgICAgICAgIGxvY2FsZTogJ2VuX0NBJywKICAgICAgICAgICAgICAgIHNvdXJjZTogJ2Zha2UteW9kbGVlLXNvdXJjZScsCiAgICAgICAgICAgIH07Cg==</text>
@@ -4946,9 +4967,9 @@
       </register>
     </registers>
     <search>
-      <last-search>decribe</last-search>
+      <last-search>base</last-search>
       <last-offset />
-      <last-pattern>decribe</last-pattern>
+      <last-pattern>base</last-pattern>
       <last-replace>describe</last-replace>
       <last-substitute>decribe</last-substitute>
       <last-dir>1</last-dir>
@@ -4956,7 +4977,6 @@
     </search>
     <history>
       <history-search>
-        <entry>yodlee</entry>
         <entry>Delete</entry>
         <entry>prefix}</entry>
         <entry>prefix</entry>
@@ -4976,14 +4996,13 @@
         <entry>Yodlee</entry>
         <entry>activate</entry>
         <entry>decribe</entry>
+        <entry>base</entry>
       </history-search>
       <history-cmd>
-        <entry>239</entry>
         <entry>%s/this.logger/this.log/g</entry>
         <entry>0o</entry>
         <entry>s3</entry>
         <entry>s3 =</entry>
-        <entry>28</entry>
         <entry>5</entry>
         <entry>44</entry>
         <entry>12</entry>
@@ -4995,8 +5014,10 @@
         <entry>we</entry>
         <entry>%s/decribe/describe/g</entry>
         <entry>W</entry>
-        <entry>0</entry>
         <entry>s</entry>
+        <entry>28</entry>
+        <entry>10</entry>
+        <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
