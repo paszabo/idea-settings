@@ -26,24 +26,25 @@
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/tsconfig.json" timestamp="1564077201911" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/aggregation/yodlee/saml.ts" timestamp="1564522095816">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/aggregation/yodlee/saml.ts" timestamp="1564587006639">
+        <mark key="v" line="160" column="19" />
         <mark key="'" line="141" column="28" />
-        <mark key="[" line="141" column="57" />
-        <mark key="]" line="141" column="71" />
-        <mark key="^" line="192" column="41" />
-        <mark key="." line="187" column="35" />
+        <mark key="[" line="145" column="25" />
+        <mark key="]" line="145" column="41" />
+        <mark key="^" line="145" column="41" />
+        <mark key="." line="145" column="41" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/aggregation/models.ts/IAggregatorService.ts" timestamp="1564518887765">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/aggregation/yodlee/saml.test.ts" timestamp="1564522503067">
-        <mark key="'" line="20" column="37" />
-        <mark key="[" line="34" column="16" />
-        <mark key="]" line="34" column="25" />
-        <mark key="." line="34" column="25" />
-        <mark key="^" line="34" column="25" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/aggregation/yodlee/saml.test.ts" timestamp="1564586983283">
+        <mark key="'" line="23" column="37" />
+        <mark key="[" line="51" column="101" />
+        <mark key="]" line="51" column="101" />
+        <mark key="." line="51" column="101" />
+        <mark key="^" line="51" column="38" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/package.json" timestamp="1564502829547">
         <mark key="[" line="16" column="25" />
@@ -475,7 +476,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>keyInfoProvider</text>
+        <text>add reference</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4958,46 +4959,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>keyInfoProvider</text>
+        <text>add reference</text>
       </register>
       <register name="/" type="4">
         <text>AuthnInstant</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGtleUluZm9Qcm92aWRlcjoge2dldDogamVzdC5mbigpLCBzZXQ6IGplc3QuZm4oKX0sCg==</text>
+      <register name="0" type="4">
+        <text>computeSignature</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBJQWdncmVnYXRvclNlcnZpY2UgewogICAgZ2V0U2Vzc2lvbihtZW1iZXJJZDogc3RyaW5nLCBhcHBDb2RlOiBzdHJpbmcpOiBQcm9taXNlPElBZ2dyZWdhdG9yU2Vzc2lvbj47Cn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0ICogYXMgeG1sY3J5cHRvIGZyb20gJ3htbC1jcnlwdG8nOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBJQWdncmVnYXRvclNlcnZpY2UgewogICAgZ2V0U2Vzc2lvbihtZW1iZXJJZDogc3RyaW5nLCBhcHBDb2RlOiBzdHJpbmcpOiBQcm9taXNlPElBZ2dyZWdhdG9yU2Vzc2lvbj47Cn0K</text>
+      <register name="2" type="4">
+        <text>{
+                addReference: jest.fn(),
+                computeSignature: jest.fn(),
+                getSignedXml: jest.fn(),
+                keyInfoProvider: undefined,
+                signingKey: undefined,
+            }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgY29iU2Vzc2lvbiA9ICdmYWtlLWNvYi1zZXNzaW9uJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgU2lnbmVkWG1sOiBhbnkgPSB7CiAgICAgICAgICAgICAgICBhZGRSZWZlcmVuY2U6IGplc3QuZm4oKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhZnRlckVhY2goamVzdC5yZXN0b3JlQWxsTW9ja3MpOwo=</text>
+        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBJQWdncmVnYXRvclNlcnZpY2UgewogICAgZ2V0U2Vzc2lvbihtZW1iZXJJZDogc3RyaW5nLCBhcHBDb2RlOiBzdHJpbmcpOiBQcm9taXNlPElBZ2dyZWdhdG9yU2Vzc2lvbj47Cn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuYW1lOiBSdW4gQVBJIFRlc3RzCiAgICAgICAgICAgICAgICAgICAgY29tbWFuZDogZWNobyAnQVBJIHRlc3RzIGRpc2FibGVkIGR1cmluZyBtaWdyYXRpb24nCg==</text>
+        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBJQWdncmVnYXRvclNlcnZpY2UgewogICAgZ2V0U2Vzc2lvbihtZW1iZXJJZDogc3RyaW5nLCBhcHBDb2RlOiBzdHJpbmcpOiBQcm9taXNlPElBZ2dyZWdhdG9yU2Vzc2lvbj47Cn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgY29uZmlnOiBJQWdncmVnYXRvckNvbmZpZyA9IHsKICAgICAgICAgICAgICAgIGJhc2VVcmw6ICdodHRwczovL2Zha2UteW9kbGVlL2Jhc2UnLAogICAgICAgICAgICAgICAgYXBpVmVyc2lvbjogJzEuMScsCiAgICAgICAgICAgICAgICBjb2JyYW5kTG9naW46ICdmYWtlLWNvYi1sb2dpbicsCiAgICAgICAgICAgICAgICBjb2JyYW5kTmFtZTogJ2Zha2UtY29iLW5hbWUnLAogICAgICAgICAgICAgICAgcHJvdmlkZXI6ICdZb2RsZWUnLAogICAgICAgICAgICAgICAgY29icmFuZFBhc3N3b3JkOiAnZmFrZS1jb2ItcGFzc3dvcmQnLAogICAgICAgICAgICAgICAgaXNzdWVyOiAnZmFrZS15b2RsZWUtaXNzdWVyJywKICAgICAgICAgICAgICAgIGxvY2FsZTogJ2VuX0NBJywKICAgICAgICAgICAgICAgIHNvdXJjZTogJ2Zha2UteW9kbGVlLXNvdXJjZScsCiAgICAgICAgICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgY29iU2Vzc2lvbiA9ICdmYWtlLWNvYi1zZXNzaW9uJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gYXdhaXQgKHVzZXIueW9kbGVlSWQgPyB0aGlzLnVzZXIubG9naW4gOiB0aGlzLnVzZXIucmVnaXN0ZXIpKAo=</text>
+        <text encoding="base64">ICAgICAgICBhZnRlckVhY2goamVzdC5yZXN0b3JlQWxsTW9ja3MpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmxvZ2dlci5pbmZvKCdDbGllbnQgcHJvZmlsZSBzZW50IHRvIEludGVyY29tIHdpdGhvdXQgZXJyb3InKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuYW1lOiBSdW4gQVBJIFRlc3RzCiAgICAgICAgICAgICAgICAgICAgY29tbWFuZDogZWNobyAnQVBJIHRlc3RzIGRpc2FibGVkIGR1cmluZyBtaWdyYXRpb24nCg==</text>
       </register>
       <register name="x" type="4">
         <text>7</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHtJQWdncmVnYXRvckNvbmZpZywgSVVzZXJTZXNzaW9uUmVzcG9uc2V9IGZyb20gJy4uLy4uL21vZGVscyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgY29uZmlnOiBJQWdncmVnYXRvckNvbmZpZyA9IHsKICAgICAgICAgICAgICAgIGJhc2VVcmw6ICdodHRwczovL2Zha2UteW9kbGVlL2Jhc2UnLAogICAgICAgICAgICAgICAgYXBpVmVyc2lvbjogJzEuMScsCiAgICAgICAgICAgICAgICBjb2JyYW5kTG9naW46ICdmYWtlLWNvYi1sb2dpbicsCiAgICAgICAgICAgICAgICBjb2JyYW5kTmFtZTogJ2Zha2UtY29iLW5hbWUnLAogICAgICAgICAgICAgICAgcHJvdmlkZXI6ICdZb2RsZWUnLAogICAgICAgICAgICAgICAgY29icmFuZFBhc3N3b3JkOiAnZmFrZS1jb2ItcGFzc3dvcmQnLAogICAgICAgICAgICAgICAgaXNzdWVyOiAnZmFrZS15b2RsZWUtaXNzdWVyJywKICAgICAgICAgICAgICAgIGxvY2FsZTogJ2VuX0NBJywKICAgICAgICAgICAgICAgIHNvdXJjZTogJ2Zha2UteW9kbGVlLXNvdXJjZScsCiAgICAgICAgICAgIH07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -5036,7 +5043,6 @@
         <entry>AuthnInstant</entry>
       </history-search>
       <history-cmd>
-        <entry>s3</entry>
         <entry>s3 =</entry>
         <entry>5</entry>
         <entry>44</entry>
@@ -5052,9 +5058,10 @@
         <entry>s</entry>
         <entry>28</entry>
         <entry>10</entry>
-        <entry>0</entry>
         <entry>2</entry>
         <entry>3</entry>
+        <entry>0</entry>
+        <entry>146</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
