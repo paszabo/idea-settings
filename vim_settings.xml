@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/applications.service.ts" timestamp="1564590648060">
-        <mark key="[" line="0" column="43" />
-        <mark key="]" line="0" column="43" />
-        <mark key="." line="0" column="43" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" timestamp="1564422103485">
         <mark key="'" line="793" column="12" />
         <mark key="[" line="438" column="65" />
@@ -18,12 +13,18 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1564601417338">
         <mark key="'" line="646" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" timestamp="1563833489002">
-        <mark key="'" line="86" column="24" />
-        <mark key="[" line="15" column="4" />
-        <mark key="]" line="15" column="10" />
-        <mark key="^" line="15" column="10" />
-        <mark key="." line="15" column="10" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" timestamp="1564608338530">
+        <mark key="'" line="83" column="24" />
+        <mark key="[" line="74" column="18" />
+        <mark key="]" line="74" column="18" />
+        <mark key="^" line="74" column="18" />
+        <mark key="." line="74" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/README.md" timestamp="1563485306407">
+        <mark key="'" line="90" column="39" />
+        <mark key="[" line="86" column="40" />
+        <mark key="]" line="86" column="40" />
+        <mark key="." line="86" column="40" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/aggregation/yodlee/saml.ts" timestamp="1564604405774">
         <mark key="v" line="160" column="19" />
@@ -39,11 +40,6 @@
         <mark key="]" line="109" column="46" />
         <mark key="." line="109" column="46" />
         <mark key="^" line="109" column="46" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/aggregation/models.ts/IAggregatorService.ts" timestamp="1564518887765">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/aggregation/yodlee/saml.test.ts" timestamp="1564595900436">
         <mark key="'" line="23" column="1296" />
@@ -65,10 +61,11 @@
         <mark key="^" line="473" column="36" />
         <mark key="." line="473" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/config.yml" timestamp="1564517625635">
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/crypto.ts" timestamp="1562342559633">
+        <mark key="[" line="17" column="34" />
+        <mark key="]" line="17" column="34" />
+        <mark key="." line="17" column="34" />
+        <mark key="^" line="18" column="19" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/encryption/plain-text.data-encrypter.test.ts" timestamp="1563564797180">
         <mark key="[" line="10" column="19" />
@@ -76,12 +73,12 @@
         <mark key="." line="10" column="24" />
         <mark key="^" line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1564432964811">
-        <mark key="'" line="764" column="38" />
-        <mark key="[" line="1249" column="19" />
-        <mark key="]" line="1249" column="19" />
-        <mark key="^" line="758" column="38" />
-        <mark key="." line="1249" column="19" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" timestamp="1564608486322">
+        <mark key="'" line="757" column="38" />
+        <mark key="[" line="783" column="68" />
+        <mark key="]" line="783" column="67" />
+        <mark key="^" line="783" column="67" />
+        <mark key="." line="783" column="67" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/aggregation/yodlee/certificate.test.ts" timestamp="1564594393457">
         <mark key="[" line="7" column="1" />
@@ -130,6 +127,18 @@
         <mark key="]" line="18" column="55" />
         <mark key="^" line="18" column="55" />
         <mark key="." line="18" column="55" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/IntercomMarketingService.test.ts" timestamp="1563466294085">
+        <mark key="[" line="79" column="43" />
+        <mark key="]" line="79" column="42" />
+        <mark key="^" line="79" column="42" />
+        <mark key="." line="79" column="42" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/util/test-harness/client/base-client.ts" timestamp="1562253946838">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="40" column="2" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Encryption.ts" timestamp="1563559499952">
         <mark key="[" line="73" column="17" />
@@ -195,6 +204,12 @@
         <mark key="^" line="5" column="2" />
         <mark key="." line="16" column="11" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/UnauthorizedException.ts" timestamp="1564608250930">
+        <mark key="[" line="6" column="64" />
+        <mark key="]" line="7" column="36" />
+        <mark key="^" line="7" column="36" />
+        <mark key="." line="7" column="36" />
+      </file>
       <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" timestamp="1563994053333">
         <mark key="'" line="412" column="20" />
       </file>
@@ -205,10 +220,11 @@
         <mark key="." line="24" column="16" />
         <mark key="^" line="292" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/aggregation/aggregator-services.ts" timestamp="1564518967051">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/aggregation/index.ts" timestamp="1564589982882">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="1" column="24" />
+        <mark key="^" line="1" column="24" />
+        <mark key="." line="1" column="24" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/Dockerfile" timestamp="1564505139077">
         <mark key="[" line="15" column="13" />
@@ -266,6 +282,12 @@
         <mark key="." line="26" column="41" />
         <mark key="^" line="26" column="67" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/ForbiddenException.ts" timestamp="1564608224571">
+        <mark key="[" line="7" column="34" />
+        <mark key="]" line="7" column="36" />
+        <mark key="." line="7" column="36" />
+        <mark key="^" line="7" column="36" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/aggregation/yodlee/certificate.ts" timestamp="1564604347791">
         <mark key="b" line="43" column="20" />
         <mark key="'" line="11" column="10" />
@@ -274,16 +296,17 @@
         <mark key="^" line="13" column="65" />
         <mark key="." line="13" column="65" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/aggregation/yodlee/index.ts" timestamp="1564177787728">
+        <mark key="[" line="0" column="47" />
+        <mark key="]" line="0" column="24" />
+        <mark key="^" line="0" column="24" />
+        <mark key="." line="0" column="24" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/aggregation/yodlee/cobrand.ts" timestamp="1564595251569">
         <mark key="[" line="56" column="33" />
         <mark key="]" line="57" column="24" />
         <mark key="." line="57" column="24" />
         <mark key="^" line="57" column="24" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/aggregation/yodlee/models.ts" timestamp="1564518968446">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="1" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/aggregation/yodlee/yodlee.service.test.ts" timestamp="1564590724931">
         <mark key="'" line="18" column="12" />
@@ -298,7 +321,14 @@
         <mark key="." line="41" column="17" />
         <mark key="^" line="41" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1564595174171">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/deploy-admin.sh" timestamp="1561411098144">
+        <mark key="[" line="6" column="31" />
+        <mark key="]" line="6" column="35" />
+        <mark key="." line="6" column="35" />
+        <mark key="^" line="6" column="35" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1564608442876">
+        <mark key="'" line="230" column="21" />
         <mark key="[" line="62" column="23" />
         <mark key="]" line="62" column="23" />
         <mark key="." line="62" column="23" />
@@ -332,11 +362,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="25" filename="$USER_HOME$/dev/repos/common-identity-api/src/aggregation/yodlee/saml.ts" />
-      <jump line="186" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/src/aggregation/yodlee/saml.ts" />
-      <jump line="151" column="47" filename="$USER_HOME$/dev/repos/common-identity-api/src/aggregation/yodlee/saml.ts" />
-      <jump line="11" column="10" filename="$USER_HOME$/dev/repos/common-identity-api/src/aggregation/yodlee/certificate.ts" />
-      <jump line="19" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/aggregation/yodlee/saml.ts" />
       <jump line="200" column="18" filename="$USER_HOME$/dev/repos/common-identity-api/src/aggregation/yodlee/saml.ts" />
       <jump line="123" column="55" filename="$USER_HOME$/dev/repos/common-identity-api/src/aggregation/yodlee/saml.ts" />
       <jump line="137" column="24" filename="$USER_HOME$/dev/repos/common-identity-api/src/aggregation/yodlee/yodlee.service.ts" />
@@ -432,10 +457,15 @@
       <jump line="26" column="1296" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/aggregation/yodlee/saml.test.ts" />
       <jump line="774" column="26" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="76" column="6" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="82" column="24" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="315" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="11" column="5" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="226" column="3" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="230" column="21" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>cert</text>
+        <text>'FORBIDDEN_EXCEPTION'</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4918,13 +4948,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>cert</text>
+        <text>'FORBIDDEN_EXCEPTION'</text>
       </register>
       <register name="/" type="4">
-        <text>aggregatorService</text>
+        <text>Activate</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ZXhwb3J0IA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmVycm9yUmVzcG9uc2UuZXhjZXB0aW9uID0gJ0ZPUkJJRERFTl9FWENFUFRJT04nOwo=</text>
       </register>
       <register name="1" type="4">
         <text>{
@@ -4966,9 +4996,9 @@
       </register>
     </registers>
     <search>
-      <last-search>aggregatorService</last-search>
+      <last-search>Activate</last-search>
       <last-offset />
-      <last-pattern>aggregatorService</last-pattern>
+      <last-pattern>Activate</last-pattern>
       <last-replace>describe</last-replace>
       <last-substitute>decribe</last-substitute>
       <last-dir>1</last-dir>
@@ -4976,7 +5006,6 @@
     </search>
     <history>
       <history-search>
-        <entry>SAML</entry>
         <entry>that</entry>
         <entry>make</entry>
         <entry>is</entry>
@@ -4996,6 +5025,7 @@
         <entry>u-u-i-d</entry>
         <entry>AuthnInstant</entry>
         <entry>aggregatorService</entry>
+        <entry>Activate</entry>
       </history-search>
       <history-cmd>
         <entry>s3 =</entry>
