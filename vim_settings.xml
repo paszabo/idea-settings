@@ -17,14 +17,6 @@
         <mark key="^" line="1972" column="26" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" timestamp="1564687886043" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" timestamp="1564080807130">
-        <mark key="a" line="272" column="26" />
-        <mark key="'" line="25" column="57" />
-        <mark key="[" line="272" column="32" />
-        <mark key="]" line="272" column="42" />
-        <mark key="." line="272" column="42" />
-        <mark key="^" line="272" column="42" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/preferences/subscription.service.test.ts" timestamp="1563558208514">
         <mark key="'" line="0" column="0" />
       </file>
@@ -136,8 +128,8 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/handler-utils.ts" timestamp="1564591125519">
-        <mark key="'" line="277" column="54" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/handler-utils.ts" timestamp="1564691890236">
+        <mark key="'" line="352" column="0" />
         <mark key="[" line="277" column="53" />
         <mark key="]" line="277" column="54" />
         <mark key="^" line="277" column="53" />
@@ -242,14 +234,6 @@
         <mark key="]" line="209" column="20" />
         <mark key="." line="506" column="28" />
         <mark key="^" line="506" column="28" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TncRepository.ts" timestamp="1564666653627">
-        <mark key="a" line="18" column="52" />
-        <mark key="'" line="18" column="53" />
-        <mark key="[" line="0" column="38" />
-        <mark key="]" line="0" column="53" />
-        <mark key="^" line="0" column="53" />
-        <mark key="." line="0" column="53" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/README.md" timestamp="1564593925884">
         <mark key="[" line="96" column="39" />
@@ -459,7 +443,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="5" filename="$USER_HOME$/dev/repos/common-identity-api/src/aggregation/yodlee/yodlee.service.ts" />
       <jump line="10" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/aggregation/yodlee/yodlee.service.ts" />
       <jump line="17" column="11" filename="$USER_HOME$/dev/repos/common-identity-api/src/aggregation/yodlee/user-session.ts" />
       <jump line="18" column="6" filename="$USER_HOME$/dev/repos/common-identity-api/src/aggregation/yodlee/user-session.ts" />
@@ -559,6 +542,7 @@
       <jump line="487" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
       <jump line="37" column="46" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" />
       <jump line="138" column="94" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" />
+      <jump line="352" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/handler-utils.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5048,7 +5032,7 @@
         <text>5</text>
       </register>
       <register name="/" type="4">
-        <text>nodePackageVersion</text>
+        <text>request</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IGxvZ2dlcjogTG9nZ2VyID0gbmV3IExvZ2dlcignVG9rZW5SZXBvc2l0b3J5JyksCg==</text>
@@ -5092,9 +5076,9 @@ ger</text>
       </register>
     </registers>
     <search>
-      <last-search>nodePackageVersion</last-search>
+      <last-search>request</last-search>
       <last-offset />
-      <last-pattern>nodePackageVersion</last-pattern>
+      <last-pattern>request</last-pattern>
       <last-replace>describe</last-replace>
       <last-substitute>decribe</last-substitute>
       <last-dir>1</last-dir>
@@ -5102,7 +5086,6 @@ ger</text>
     </search>
     <history>
       <history-search>
-        <entry>SessionIndex</entry>
         <entry>u-u-i-d</entry>
         <entry>AuthnInstant</entry>
         <entry>aggregatorService</entry>
@@ -5122,6 +5105,7 @@ ger</text>
         <entry>identitydb</entry>
         <entry>node</entry>
         <entry>nodePackageVersion</entry>
+        <entry>request</entry>
       </history-search>
       <history-cmd>
         <entry>1</entry>
