@@ -19,14 +19,6 @@
         <mark key="." line="1972" column="26" />
         <mark key="^" line="1972" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" timestamp="1564080807130">
-        <mark key="a" line="272" column="26" />
-        <mark key="'" line="25" column="57" />
-        <mark key="[" line="272" column="32" />
-        <mark key="]" line="272" column="42" />
-        <mark key="." line="272" column="42" />
-        <mark key="^" line="272" column="42" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/preferences/subscription.service.test.ts" timestamp="1563558208514">
         <mark key="'" line="0" column="0" />
       </file>
@@ -106,6 +98,10 @@
         <mark key="]" line="494" column="39" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/ICommPreferences.ts" timestamp="1563906346730" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/aggregation/yodlee/cert-key-file-info.ts" timestamp="1564177386298">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="134" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" timestamp="1564690034511">
         <mark key="'" line="487" column="4" />
         <mark key="[" line="488" column="26" />
@@ -207,6 +203,10 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="14" column="2" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IUserTncInfo.ts" timestamp="1565104987996">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="4" column="25" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/encryption/kms.data-encrypter.test.ts" timestamp="1563571330711">
         <mark key="[" line="28" column="41" />
         <mark key="]" line="28" column="53" />
@@ -227,6 +227,12 @@
         <mark key="]" line="227" column="44" />
         <mark key="." line="227" column="44" />
         <mark key="^" line="227" column="45" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/TnCService.ts" timestamp="1565104555427">
+        <mark key="[" line="51" column="32" />
+        <mark key="]" line="52" column="62" />
+        <mark key="^" line="52" column="62" />
+        <mark key="." line="52" column="62" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/YodleeService.ts" timestamp="1563834390075">
         <mark key="'" line="68" column="13" />
@@ -256,13 +262,12 @@
         <mark key="." line="506" column="28" />
         <mark key="^" line="506" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TncRepository.ts" timestamp="1564778274043">
-        <mark key="a" line="18" column="52" />
-        <mark key="'" line="18" column="53" />
-        <mark key="[" line="16" column="24" />
-        <mark key="]" line="16" column="23" />
-        <mark key="^" line="16" column="23" />
-        <mark key="." line="16" column="23" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TncRepository.ts" timestamp="1565104971396">
+        <mark key="a" line="16" column="15" />
+        <mark key="[" line="164" column="43" />
+        <mark key="]" line="165" column="38" />
+        <mark key="^" line="165" column="38" />
+        <mark key="." line="165" column="38" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/README.md" timestamp="1564593925884">
         <mark key="[" line="96" column="39" />
@@ -494,9 +499,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="11" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/aggregation/yodlee/saml.test.ts" />
-      <jump line="7" column="5" filename="$USER_HOME$/dev/repos/common-identity-api/node_modules/xml-encryption/lib/xmlenc.js" />
-      <jump line="58" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/aggregation/yodlee/user-session.ts" />
       <jump line="41" column="61" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/admin/adminUsersHandler.ts" />
       <jump line="18" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/encryption/kms.data-encrypter.ts" />
       <jump line="31" column="30" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/encryption/kms.data-encrypter.ts" />
@@ -541,7 +543,6 @@
       <jump line="1" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/Logger.ts" />
       <jump line="29" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/configurations/AppConfig.ts" />
       <jump line="488" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/admin/adminUsersHandler.ts" />
-      <jump line="9" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TncRepository.ts" />
       <jump line="18" column="53" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TncRepository.ts" />
       <jump line="105" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="112" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
@@ -594,10 +595,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/models/ErrorResponse.json" />
       <jump line="44" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/base.exception.ts" />
       <jump line="45" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/base.exception.ts" />
+      <jump line="9" column="15" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TncRepository.ts" />
+      <jump line="169" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TncRepository.ts" />
+      <jump line="124" column="29" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TncRepository.ts" />
+      <jump line="176" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TncRepository.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG1lbWJlcklkOiBzdHJpbmc7CiAgICB0bmM6IElUbmNJbmZvOwogICAgaXNBY2NlcHRlZDogYm9vbGVhbjsKICAgIGFjY2VwdGVkVGltZTogc3RyaW5nOwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5080,13 +5085,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text encoding="base64">YXN5bmMg</text>
       </register>
       <register name="/" type="4">
-        <text>:</text>
+        <text>createContentLinkUrl</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMubG9nZ2VyLmVycm9yKGVyci5tZXNzYWdlKTsK</text>
+        <text encoding="base64">ICAgIG1lbWJlcklkOiBzdHJpbmc7CiAgICB0bmM6IElUbmNJbmZvOwogICAgaXNBY2NlcHRlZDogYm9vbGVhbjsKICAgIGFjY2VwdGVkVGltZTogc3RyaW5nOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc3QgZ2V0UGFyYW1zID0gewogICAgICAgICAgICAgICAgVGFibGVOYW1lOiB0aGlzLlVTRVJfVEFCTEVfTkFNRSwKICAgICAgICAgICAgICAgIEluZGV4TmFtZTogdGhpcy5VU0VSX1ROQ19JTkRFWCwKICAgICAgICAgICAgICAgIEtleUNvbmRpdGlvbkV4cHJlc3Npb246ICdhcHBDb2RlID0gOmFwcENvZGUgQU5EIG1lbWJlcklkID0gOm1lbWJlcklkJywKICAgICAgICAgICAgICAgIEV4cHJlc3Npb25BdHRyaWJ1dGVWYWx1ZXM6IHsKICAgICAgICAgICAgICAgICAgICAnOmFwcENvZGUnOiBhcHBDb2RlLAogICAgICAgICAgICAgICAgICAgICc6bWVtYmVySWQnOiBtZW1iZXJJZCwKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgIH07CgogICAgICAgICAgICB0aGlzLmxvZ2dlci5kZWJ1ZyhgR2V0dGluZyB1c2VyIHRuYyBkYXRhIGZvciBhcHBDb2RlIGFuZCBtZW1iZXIgSWQgJHthcHBDb2RlfWApOwogICAgICAgICAgICB0aGlzLmRiLnF1ZXJ5KGdldFBhcmFtcywgKGVycm9yLCBkYXRhKSA9PiB7CiAgICAgICAgICAgICAgICBpZiAoZXJyb3IpIHsKICAgICAgICAgICAgICAgICAgICB0aGlzLmxvZ2dlci5lcnJvcihgQ291bGQgbm90IHJldHJpZXZlIGZyb20gbWFzdGVyVG5jIGRiICR7ZXJyb3IubWVzc2FnZX1gKTsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gcmVqZWN0KG5ldyBJbnRlcm5hbFJlcG9zaXRvcnlFeGNlcHRpb24oCiAgICAgICAgICAgICAgICAgICAgICAgICdDb3VsZCBub3QgcmV0cmlldmUgZnJvbSBtYXN0ZXJUbmMgZGInLAogICAgICAgICAgICAgICAgICAgICAgICBFeGNlcHRpb25Db2Rlcy5JTlRFUk5BTF9FUlJPUiwKICAgICAgICAgICAgICAgICAgICApKTsKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKGRhdGEuQ291bnQgPT09IDApIHsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHJlc29sdmUoZmFsc2UpOwogICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiByZXNvbHZlKHRydWUpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk7Cg==</text>
@@ -5665,9 +5670,9 @@
       </register>
     </registers>
     <search>
-      <last-search>:</last-search>
+      <last-search>createContentLinkUrl</last-search>
       <last-offset />
-      <last-pattern>:</last-pattern>
+      <last-pattern>createContentLinkUrl</last-pattern>
       <last-replace>describe</last-replace>
       <last-substitute>decribe</last-substitute>
       <last-dir>1</last-dir>
@@ -5675,7 +5680,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Activate</entry>
         <entry>Dy</entry>
         <entry>DynamoDB</entry>
         <entry>this</entry>
@@ -5695,10 +5699,10 @@
         <entry>registerProspectUser</entry>
         <entry>Did not re</entry>
         <entry>:</entry>
+        <entry>createContentLinkUrl</entry>
       </history-search>
       <history-cmd>
         <entry>1</entry>
-        <entry encoding="base64">JzwsJz4w</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>qw</entry>
         <entry>%s/string;/'',/g</entry>
@@ -5715,6 +5719,7 @@
         <entry>4</entry>
         <entry>W</entry>
         <entry>37</entry>
+        <entry encoding="base64">JzwsJz4w</entry>
         <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
