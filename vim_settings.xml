@@ -5079,7 +5079,7 @@
         <text>errMsg</text>
       </register>
       <register name="/" type="4">
-        <text>handler</text>
+        <text>ajv</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG1lbWJlcklkOiBzdHJpbmc7CiAgICB0bmM6IElUbmNJbmZvOwogICAgaXNBY2NlcHRlZDogYm9vbGVhbjsKICAgIGFjY2VwdGVkVGltZTogc3RyaW5nOwo=</text>
@@ -5661,9 +5661,9 @@
       </register>
     </registers>
     <search>
-      <last-search>handler</last-search>
+      <last-search>ajv</last-search>
       <last-offset />
-      <last-pattern>handler</last-pattern>
+      <last-pattern>ajv</last-pattern>
       <last-replace>describe</last-replace>
       <last-substitute>decribe</last-substitute>
       <last-dir>1</last-dir>
@@ -5671,7 +5671,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZXNjcmlwdG9yXD4=</entry>
         <entry>.memberId</entry>
         <entry>logic</entry>
         <entry>Reigster</entry>
@@ -5691,6 +5690,7 @@
         <entry>registerProspectUser</entry>
         <entry>tnc</entry>
         <entry>handler</entry>
+        <entry>ajv</entry>
       </history-search>
       <history-cmd>
         <entry>1</entry>
