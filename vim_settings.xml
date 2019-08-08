@@ -24,9 +24,6 @@
         <mark key="^" line="1972" column="26" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/TokenRepository.ts" timestamp="1565209884677" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/preferences/subscription.service.test.ts" timestamp="1563558208514">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/tsconfig.json" timestamp="1564673448949">
         <mark key="[" line="13" column="35" />
         <mark key="]" line="13" column="38" />
@@ -55,7 +52,12 @@
         <mark key="^" line="9" column="52" />
         <mark key="." line="9" column="52" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-venture-libs/IAM/IAMPost.js" timestamp="1565213953095" />
+      <file name="$USER_HOME$/dev/repos/common-venture-libs/IAM/IAMPost.js" timestamp="1565278005480">
+        <mark key="[" line="49" column="46" />
+        <mark key="]" line="49" column="61" />
+        <mark key="^" line="49" column="61" />
+        <mark key="." line="49" column="61" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/aggregation/yodlee/saml.test.ts" timestamp="1564595900436">
         <mark key="'" line="23" column="1296" />
         <mark key="[" line="3" column="32" />
@@ -181,9 +183,6 @@
         <mark key="^" line="40" column="2" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Utilities.ts" timestamp="1562272041669">
-        <mark key="'" line="63" column="47" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Encryption.ts" timestamp="1563559499952">
         <mark key="[" line="73" column="17" />
         <mark key="]" line="73" column="14" />
@@ -202,8 +201,11 @@
         <mark key="'" line="23" column="16" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/sync-communication-preferences.ts" timestamp="1565120680470" />
-      <file name="$USER_HOME$/dev/repos/common-venture-libs/IAM/IAM.js" timestamp="1565214228249">
-        <mark key="[" line="562" column="3" />
+      <file name="$USER_HOME$/dev/repos/common-venture-libs/IAM/IAM.js" timestamp="1565277910848">
+        <mark key="[" line="560" column="39" />
+        <mark key="]" line="560" column="39" />
+        <mark key="^" line="563" column="25" />
+        <mark key="." line="560" column="39" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/encryption/kms.data-encrypter.test.ts" timestamp="1563571330711">
         <mark key="[" line="28" column="41" />
@@ -281,6 +283,13 @@
       </file>
       <file name="$USER_HOME$/dev/repos/prepped-fe/src/views/login/login.js" timestamp="1565212948424">
         <mark key="'" line="10" column="15" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-venture-libs/__tests__/IAM.test.js" timestamp="1565277846902">
+        <mark key="'" line="766" column="57" />
+        <mark key="[" line="1208" column="62" />
+        <mark key="]" line="1208" column="62" />
+        <mark key="^" line="1204" column="35" />
+        <mark key="." line="1208" column="62" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/UnauthorizedException.ts" timestamp="1564608250930">
         <mark key="[" line="6" column="64" />
@@ -361,9 +370,6 @@
         <mark key="." line="30" column="68" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/aggregation/models.ts" timestamp="1564519017687" />
-      <file name="$USER_HOME$/dev/repos/prepped-fe/package-lock.json" timestamp="1565207482250">
-        <mark key="'" line="2331" column="47" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/authorizer-memberid.js" timestamp="1563982013889">
         <mark key="'" line="235" column="33" />
       </file>
@@ -396,9 +402,6 @@
         <mark key="]" line="7" column="36" />
         <mark key="." line="7" column="36" />
         <mark key="^" line="7" column="36" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/scim/serverless.yml" timestamp="1563556578451">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/token.service.test.ts" timestamp="1565210401647">
         <mark key="[" line="162" column="38" />
@@ -469,9 +472,6 @@
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serializers/serializer.ts" timestamp="1563906019181" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/RegisterRequest.ts" timestamp="1565196590931" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/@types/aws-lambda/index.d.ts" timestamp="1561672071338">
-        <mark key="'" line="304" column="74" />
-      </file>
       <file name="$USER_HOME$/dev/repos/prepped-fe/src/components/Main/Home.jsx" timestamp="1565207696986" />
       <file name="$USER_HOME$/dev/repos/prepped-fe/.env.development" timestamp="1565208083811" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/yodlee.service.test.ts" timestamp="1563899950803">
@@ -502,9 +502,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/MailService.ts" />
-      <jump line="162" column="46" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/MailService.ts" />
-      <jump line="201" column="43" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/MailService.ts" />
       <jump line="246" column="47" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/MailService.ts" />
       <jump line="23" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/MailService.ts" />
       <jump line="22" column="36" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
@@ -602,10 +599,13 @@
       <jump line="1097" column="17" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="1958" column="85" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="1081" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
+      <jump line="374" column="22" filename="$USER_HOME$/dev/repos/common-venture-libs/__tests__/IAM.test.js" />
+      <jump line="37" column="0" filename="$USER_HOME$/dev/repos/common-venture-libs/__tests__/IAM.test.js" />
+      <jump line="766" column="57" filename="$USER_HOME$/dev/repos/common-venture-libs/__tests__/IAM.test.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>admin/users/${memberId}/suspend</text>
+        <text>url</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5088,13 +5088,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>admin/users/${memberId}/suspend</text>
+        <text>url</text>
       </register>
       <register name="/" type="4">
         <text>registerUser</text>
       </register>
-      <register name="0" type="4">
-        <text>`${this.identityServiceBaseUrl}admin/users/${memberId}/suspend`</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBjb25zdCBJQU1MaWIgPSBuZXcgSUFNKHsKICAgIGFwcFByZWZpeDogJ01ZQ09PTEFQUCcsCiAgICBhdXRob3JpemF0aW9uU2VydmVySUQ6ICdkZWZhdWx0JywKICAgIGJhc2VVUkw6ICdodHRwOi8vbG9jYWxob3N0LycsCiAgICBjbGllbnRJRDogJ3ZhbHVlJywKICAgIGNsaWVudFNlY3JldDogJ3ZhbHVlJywKICAgIGlkZW50aXR5U2VydmljZUFQSUtleTogJ3ZhbHVlJywKICAgIGlkZW50aXR5U2VydmljZUJhc2VVcmw6ICd2YWx1ZScsCiAgICB2ZW50dXJlU2VydmljZVVzZXJzOiAndmFsdWUnCiAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgYXN5bmMgZ2V0U01TY29kZSgpOiBQcm9taXNlPHN0cmluZz4gewogICAgICAgIHJldHVybiBhd2FpdCB0aGlzLnRva2VuU2VydmljZS5zbXNUb2tlbkNvZGUoKTsKICAgIH0KCg==</text>
