@@ -207,12 +207,12 @@
         <mark key="'" line="23" column="16" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/sync-communication-preferences.ts" timestamp="1565120680470" />
-      <file name="$USER_HOME$/dev/repos/common-venture-libs/IAM/IAM.js" timestamp="1565281361627">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="84" column="42" />
-        <mark key="]" line="84" column="48" />
-        <mark key="^" line="84" column="48" />
-        <mark key="." line="84" column="48" />
+      <file name="$USER_HOME$/dev/repos/common-venture-libs/IAM/IAM.js" timestamp="1565282963102">
+        <mark key="'" line="82" column="33" />
+        <mark key="[" line="574" column="33" />
+        <mark key="]" line="574" column="88" />
+        <mark key="^" line="574" column="88" />
+        <mark key="." line="574" column="88" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/encryption/kms.data-encrypter.test.ts" timestamp="1563571330711">
         <mark key="[" line="28" column="41" />
@@ -291,12 +291,12 @@
       <file name="$USER_HOME$/dev/repos/prepped-fe/src/views/login/login.js" timestamp="1565212948424">
         <mark key="'" line="10" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-venture-libs/__tests__/IAM.test.js" timestamp="1565281491634">
+      <file name="$USER_HOME$/dev/repos/common-venture-libs/__tests__/IAM.test.js" timestamp="1565282812507">
         <mark key="'" line="766" column="57" />
-        <mark key="[" line="1210" column="66" />
-        <mark key="]" line="1210" column="66" />
-        <mark key="^" line="1210" column="66" />
-        <mark key="." line="1210" column="66" />
+        <mark key="[" line="1204" column="18" />
+        <mark key="]" line="1204" column="20" />
+        <mark key="^" line="1204" column="20" />
+        <mark key="." line="1204" column="20" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/UnauthorizedException.ts" timestamp="1564608250930">
         <mark key="[" line="6" column="64" />
@@ -509,7 +509,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="36" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
       <jump line="78" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
       <jump line="115" column="59" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
       <jump line="116" column="85" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
@@ -609,10 +608,11 @@
       <jump line="766" column="57" filename="$USER_HOME$/dev/repos/common-venture-libs/__tests__/IAM.test.js" />
       <jump line="560" column="17" filename="$USER_HOME$/dev/repos/common-venture-libs/IAM/IAM.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-venture-libs/IAM/IAM.js" />
+      <jump line="82" column="33" filename="$USER_HOME$/dev/repos/common-venture-libs/IAM/IAM.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>userData</text>
+        <text>*</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5095,13 +5095,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>userData</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>registerUser</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgdG5jcyA9IGF3YWl0IGlhbS5nZXRDdXJyZW50VG5DcygpOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">KiA=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbnN0IHVybCA9IGAke3RoaXMuaWRlbnRpdHlTZXJ2aWNlQmFzZVVybH0vdG5jcy9jdXJyZW50YDsKICAgIGNvbnNvbGUubG9nKCd0bmMgdXJsJywgdXJsKTsKCiAgICByZXR1cm4gYXdhaXQgdGhpcy5jbGllbnQuZ2V0KCd0bmNzL2N1cnJlbnQnKTsK</text>
