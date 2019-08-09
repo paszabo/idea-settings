@@ -38,6 +38,9 @@
         <mark key="." line="13" column="38" />
         <mark key="^" line="13" column="38" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/authorizer.js" timestamp="1565187543878">
+        <mark key="'" line="25" column="25" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/config.ts" timestamp="1564604686035">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="109" column="47" />
@@ -196,6 +199,9 @@
         <mark key="]" line="14" column="2" />
       </file>
       <file name="$USER_HOME$/dev/repos/prepped-fe/src/.eslintrc.json" timestamp="1565207250851" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/MailService.ts" timestamp="1564688494750">
+        <mark key="'" line="23" column="16" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/sync-communication-preferences.ts" timestamp="1565120680470" />
       <file name="$USER_HOME$/dev/repos/common-venture-libs/IAM/IAM.js" timestamp="1565300475019">
         <mark key="'" line="82" column="33" />
@@ -274,6 +280,9 @@
         <mark key="^" line="5" column="2" />
         <mark key="." line="16" column="11" />
       </file>
+      <file name="$USER_HOME$/dev/repos/prepped-fe/src/views/login/login.js" timestamp="1565212948424">
+        <mark key="'" line="10" column="15" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-venture-libs/__tests__/IAM.test.js" timestamp="1565300376138">
         <mark key="'" line="1211" column="2" />
         <mark key="[" line="1238" column="38" />
@@ -287,6 +296,9 @@
         <mark key="]" line="6" column="16" />
         <mark key="^" line="6" column="16" />
         <mark key="." line="6" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/joyride-server/src/joyride/api/api.ts" timestamp="1563994053333">
+        <mark key="'" line="412" column="20" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/yodlee.service.ts" timestamp="1563912266344">
         <mark key="'" line="388" column="25" />
@@ -345,6 +357,9 @@
         <mark key="." line="30" column="68" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/aggregation/models.ts" timestamp="1564519017687" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/authorizer-memberid.js" timestamp="1563982013889">
+        <mark key="'" line="235" column="33" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/encryption/plain-test.data-encrypter.ts" timestamp="1563559646561">
         <mark key="[" line="0" column="20" />
         <mark key="]" line="0" column="20" />
@@ -357,6 +372,9 @@
         <mark key="]" line="593" column="26" />
         <mark key="." line="593" column="26" />
         <mark key="^" line="593" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/xml-encryption/lib/xmlenc.js" timestamp="1564179332908">
+        <mark key="'" line="7" column="5" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/aggregation/yodlee/cert-key-file-info.test.ts" timestamp="1564086075870">
         <mark key="'" line="16" column="0" />
@@ -409,6 +427,9 @@
         <mark key="]" line="41" column="17" />
         <mark key="." line="41" column="17" />
         <mark key="^" line="41" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1565363761059">
+        <mark key="'" line="20" column="5" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/bad-request.exception.ts" timestamp="1564776949162">
         <mark key="[" line="6" column="44" />
@@ -468,12 +489,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="486" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
-      <jump line="487" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" />
-      <jump line="37" column="46" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" />
-      <jump line="138" column="94" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/tncs/serverless.yml" />
-      <jump line="352" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/handler-utils.ts" />
-      <jump line="566" column="34" filename="$USER_HOME$/dev/repos/common-identity-api/src/services/UserService.ts" />
       <jump line="36" column="64" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/models/ErrorResponse.json" />
       <jump line="44" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/base.exception.ts" />
@@ -568,6 +583,12 @@
       <jump line="97" column="16" filename="$USER_HOME$/dev/repos/common-venture-libs/__tests__/IAM.test.js" />
       <jump line="142" column="0" filename="$USER_HOME$/dev/repos/common-venture-libs/__tests__/IAM.test.js" />
       <jump line="1211" column="2" filename="$USER_HOME$/dev/repos/common-venture-libs/__tests__/IAM.test.js" />
+      <jump line="308" column="2" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="368" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="369" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="422" column="13" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="423" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="20" column="5" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5057,7 +5078,7 @@
         <text encoding="base64">QG5vdGU6IA==</text>
       </register>
       <register name="/" type="4">
-        <text>registering a new User in OKTA via</text>
+        <text>UpdateEmail</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRlc3QoJ2hhcHB5IHBhdGgnLCBhc3luYyAoKSA9PiB7fSk7Cg==</text>
@@ -5623,9 +5644,9 @@
       </register>
     </registers>
     <search>
-      <last-search>registering a new User in OKTA via</last-search>
+      <last-search>UpdateEmail</last-search>
       <last-offset />
-      <last-pattern>registering a new User in OKTA via</last-pattern>
+      <last-pattern>UpdateEmail</last-pattern>
       <last-replace>describe</last-replace>
       <last-substitute>decribe</last-substitute>
       <last-dir>1</last-dir>
@@ -5633,7 +5654,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Did not re</entry>
         <entry>:</entry>
         <entry>createContentLinkUrl</entry>
         <entry>userGroups</entry>
@@ -5653,6 +5673,7 @@
         <entry>ChangeForgotPassword</entry>
         <entry>registerUser</entry>
         <entry>registering a new User in OKTA via</entry>
+        <entry>UpdateEmail</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
