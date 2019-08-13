@@ -145,6 +145,13 @@
       <file name="$USER_HOME$/dev/repos/prepped-fe/src/.eslintrc.json" timestamp="1565207250851" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/sync-communication-preferences.ts" timestamp="1565120680470" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/aws-sdk/clients/kms.d.ts" timestamp="1563835218497" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/configurations/AppConfig.ts" timestamp="1564664879151">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="24" column="56" />
+        <mark key="]" line="24" column="56" />
+        <mark key="." line="24" column="56" />
+        <mark key="^" line="24" column="56" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/SalesforceService.test.ts" timestamp="1563485395331">
         <mark key="[" line="30" column="60" />
         <mark key="]" line="30" column="59" />
@@ -180,6 +187,13 @@
         <mark key="^" line="171" column="52" />
         <mark key="." line="171" column="52" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/ddb-or-test.js" timestamp="1565709838758">
+        <mark key="'" line="6" column="5" />
+        <mark key="[" line="18" column="46" />
+        <mark key="]" line="18" column="68" />
+        <mark key="^" line="18" column="68" />
+        <mark key="." line="18" column="68" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/README.md" timestamp="1564593925884">
         <mark key="[" line="96" column="39" />
         <mark key="]" line="96" column="41" />
@@ -199,12 +213,12 @@
         <mark key="^" line="12" column="75" />
         <mark key="." line="12" column="75" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/encryption/kms.data-encrypter.ts" timestamp="1565707048205">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/encryption/kms.data-encrypter.ts" timestamp="1565709752177">
         <mark key="a" line="81" column="0" />
         <mark key="b" line="14" column="0" />
         <mark key="'" line="31" column="30" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="57" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="33" />
         <mark key="^" line="15" column="60" />
         <mark key="." line="15" column="60" />
       </file>
@@ -332,6 +346,13 @@
         <mark key="]" line="73" column="27" />
         <mark key="." line="73" column="27" />
         <mark key="^" line="73" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/.env.cia" timestamp="1561411078004">
+        <mark key="'" line="3" column="7" />
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="9" column="46" />
+        <mark key="^" line="9" column="46" />
+        <mark key="." line="9" column="46" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serializers/serializer.ts" timestamp="1563906019181" />
       <file name="$USER_HOME$/dev/repos/common-identity-client/src/core/client/action/base.action.ts" timestamp="1565629535462" />
@@ -485,6 +506,13 @@
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-client/src/core/logging/base.logger.ts" timestamp="1565455904372" />
       <file name="$USER_HOME$/dev/repos/prepped-fe/src/App.js" timestamp="1565208893742" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/repositories/users.repository.test.ts" timestamp="1563563549011">
+        <mark key="'" line="12" column="13" />
+        <mark key="[" line="92" column="40" />
+        <mark key="]" line="92" column="45" />
+        <mark key="." line="92" column="45" />
+        <mark key="^" line="92" column="45" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/encryption/kms-migration.data-encrypter.ts" timestamp="1565707296310">
         <mark key="[" line="11" column="76" />
         <mark key="]" line="11" column="75" />
@@ -605,8 +633,10 @@
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/models/RegisterUserRequest.json" timestamp="1565119830292" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/jwk-to-pem/src/rsa.js" timestamp="1565368699527" />
       <file name="$USER_HOME$/dev/repos/common-identity-client/src/users/users.client.ts" timestamp="1565629444336" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/users.repository.ts" timestamp="1565707545726">
-        <mark key="]" line="5" column="48" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/users.repository.ts" timestamp="1565709505625">
+        <mark key="'" line="145" column="28" />
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="154" column="32" />
         <mark key="^" line="5" column="48" />
         <mark key="." line="5" column="48" />
       </file>
@@ -663,9 +693,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1536" column="26" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
-      <jump line="1614" column="26" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
-      <jump line="1630" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="1694" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="1710" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="1774" column="26" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
@@ -763,10 +790,13 @@
       <jump line="818" column="37" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="495" column="19" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="483" column="32" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
+      <jump line="143" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/users.repository.ts" />
+      <jump line="145" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/users.repository.ts" />
+      <jump line="5" column="5" filename="$USER_HOME$/dev/repos/common-identity-api/ddb-or-test.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>KMSMigrationDataEncrypter</text>
+        <text>(</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5249,37 +5279,39 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>KMSMigrationDataEncrypter</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>updateUser</text>
+        <text>EmailIndex</text>
       </register>
       <register name="0" type="4">
-        <text>KMSMigrationDataEncrypter</text>
+        <text>process.env.AWS_DEFAULT_REGION =</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">cHJpdmF0ZSByZWFkb25seSAKcHJpdmF0ZSByZWFkb25seSAKcHJpdmF0ZSByZWFkb25seSAKcHJpdmF0ZSByZWFkb25seSAKcHJpdmF0ZSByZWFkb25seSA=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgYXN5bmMgZW5jcnlwdChkYXRhOiBzdHJpbmcpOiBQcm9taXNlPHN0cmluZz4gewogICAgICAgIHRyeSB7CiAgICAgICAgICAgIHJldHVybiBhd2FpdCBzdXBlci5lbmNyeXB0KGRhdGEpOwogICAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICAgICAgdGhpcy5sb2dnZXIuaW5mbygnRmFpbGVkIHRvIGVuYycpCiAgICAgICAgfQogICAgfQo=</text>
+      <register name="2" type="4">
+        <text>crypto.createHash(this.HashAlgorithm)
+    .update(data + this.ColumnEncryptionSalt)
+    .digest(this.EncryptedDataEncoding);</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdW5kZWZpbmVkOwo=</text>
+        <text encoding="base64">Y29uc3QgZGIgPSBuZXcgYXdzLkR5bmFtb0RCLkRvY3VtZW50Q2xpZW50KCk7CmNvbnN0IHBhcmFtcyA9IHsKICAgIFRhYmxlTmFtZTogJ3lyMTAtZGV2LXVzZXJzJywKICAgIEluZGV4TmFtZTogJ0VtYWlsSW5kZXgnLAogICAgS2V5Q29uZGl0aW9uRXhwcmVzc2lvbjogJ2VtYWlsID0gOmVtYWlsIG9yIGVtYWlsID0gOmVtYWlsaCcsCiAgICBFeHByZXNzaW9uQXR0cmlidXRlVmFsdWVzOiB7CiAgICAgICAgJzplbWFpbGgnOiB0aGlzLmVuY3J5cHRpb24uaGFzaChlbWFpbC50b0xvd2VyQ2FzZSgpKSwKICAgICAgICAnOmVtYWlsJzogZW1haWwudG9Mb3dlckNhc2UoKSwKICAgIH0sCn07CgpkYi5xdWVyeShwYXJhbXMpLnByb21pc2UoKS50aGVuKGNvbnNvbGUubG9nKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBoYXNoKGRhdGE6IHN0cmluZyk6IHN0cmluZyB7CiAgICAgICAgcmV0dXJuICIiOwogICAgfQoK</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgYXN5bmMgZW5jcnlwdChkYXRhOiBzdHJpbmcpOiBQcm9taXNlPHN0cmluZz4gewogICAgICAgIHRyeSB7CiAgICAgICAgICAgIHJldHVybiBhd2FpdCBzdXBlci5lbmNyeXB0KGRhdGEpOwogICAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICAgICAgdGhpcy5sb2dnZXIuaW5mbygnRmFpbGVkIHRvIGVuYycpCiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdW5kZWZpbmVkOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5805,22 +5837,22 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFByb21pc2U8SVVzZXI+KCBhc3luYyAocmVzb2x2ZSwgcmVqZWN0KSA9PiB7CiAgICAgICAgICAgIHRoaXMubG9nZ2VyLmluZm8oJ1JldHJpZXZpbmcgdXNlciBpbiBPa3RhIGJ5IHByb3ZpZGVySWQnKTsKCgogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBoYXNoKGRhdGE6IHN0cmluZyk6IHN0cmluZyB7CiAgICAgICAgcmV0dXJuICIiOwogICAgfQoK</text>
       </register>
       <register name="x" type="4">
         <text>7</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIGNvbnN0IHIgPSBhd2FpdCB0aGlzLmNsaWVudC5nZXQoYHVzZXJzLyR7cHJvdmlkZXJJZH1gKTsKICAgICAgICAgICAgICAgIGlmIChyLnN0YXR1c0NvZGUgIT09IDIwMCkgewogICAgICAgICAgICAgICAgICAgIHRoaXMubG9nZ2VyLndhcm4oYEZhaWxlZCB0byBnZXQgdXNlciBpbiBPa3RhIGZvciBwcm92aWRlcklkICR7cHJvdmlkZXJJZH0gKCR7ci5TdGF0dXNDb2RlfSlgKTsKICAgICAgICAgICAgICAgICAgICBpZiAodGhpcy5va3RhRXJyb3JIYW5kbGVyLmlzTWVtYmVyTm90Rm91bmQoYm9keSkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEZvdW5kRXhjZXB0aW9uKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgYm9keS5lcnJvclN1bW1hcnksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBFeGNlcHRpb25Db2Rlcy5NRU1CRVJfTk9UX0ZPVU5ELAogICAgICAgICAgICAgICAgICAgICAgICApOwogICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBSZXN0RXJyb3JzLmZyb21TdGF0dXNDb2RlKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgci5zdGF0dXNDb2RlIGFzIFN0YXR1c0NvZGUuVENvZGUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICByLnN0YXR1c01lc3NhZ2UsCiAgICAgICAgICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9IGNhdGNoIChlcnIpIHsKICAgICAgICAgICAgICAgIGlmIChlcnIpIHsKICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgSW50ZXJuYWxSZXBvc2l0b3J5RXhjZXB0aW9uKAogICAgICAgICAgICAgICAgICAgICAgICBgRXJyb3Igd2hpbGUgcmV0cmlldmluZyB1c2VyIHdpdGggcHJvdmlkZXJJZCBbJHtwcm92aWRlcklkfV0uYCwKICAgICAgICAgICAgICAgICAgICAgICAgRXhjZXB0aW9uQ29kZXMuSU5URVJOQUxfRVJST1IsCiAgICAgICAgICAgICAgICAgICAgKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>updateUser</last-search>
+      <last-search>EmailIndex</last-search>
       <last-offset />
-      <last-pattern>updateUser</last-pattern>
+      <last-pattern>EmailIndex</last-pattern>
       <last-replace>public</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
@@ -5828,7 +5860,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getSMSCode</entry>
         <entry>Code</entry>
         <entry>getSMScode</entry>
         <entry>Recovery token</entry>
@@ -5848,6 +5879,7 @@
         <entry>StatusCode</entry>
         <entry>private</entry>
         <entry>updateUser</entry>
+        <entry>EmailIndex</entry>
       </history-search>
       <history-cmd>
         <entry>3</entry>
