@@ -545,16 +545,16 @@
         <mark key="." line="95" column="41" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/client/base.client.ts" timestamp="1565298867625" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" timestamp="1565892700797">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" timestamp="1565902009291">
         <mark key="a" line="1465" column="65" />
         <mark key="b" line="16" column="21" />
         <mark key="'" line="40" column="4" />
-        <mark key="[" line="1035" column="57" />
+        <mark key="[" line="397" column="16" />
         <mark key="l" line="1411" column="36" />
-        <mark key="]" line="1035" column="56" />
-        <mark key="." line="1035" column="56" />
+        <mark key="]" line="397" column="16" />
         <mark key="^" line="1035" column="56" />
         <mark key="n" line="279" column="35" />
+        <mark key="." line="397" column="16" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/BadRequestException.ts" timestamp="1564776427228" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/encryption/plain-text.data-encrypter.ts" timestamp="1563562056630">
@@ -778,7 +778,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>npm-private-rbcv-read-only</text>
+        <text>p</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5261,7 +5261,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>npm-private-rbcv-read-only</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>no passwordResetConfirm</text>
@@ -5270,30 +5270,30 @@
         <text>yr10-dev-serverless</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXIgPSByYW5kb21Vc2VyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb3ZpZGVySWQsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXIgPSByYW5kb21Vc2VyKCk7Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ZXhwb3J0IGNvbnN0IG9rdGFJZCA9ICcxMjM0NTY3ODkwJzsK</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="8">
         <text>MockData.
 MockData.
 MockData.</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ID0gamVzdC5mbigpCiAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="5" type="4">
         <text encoding="base64">ID0gamVzdC5mbigpCiAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">PSBqZXN0CiAgICAgICAgICAgICAgICAuZm4oKQogICAgICAgICAgICAgICAg</text>
+        <text encoding="base64">ID0gamVzdC5mbigpCiAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ID0gamVzdC5mbigpCiAgICAgICAgICAgICAgICA=</text>
+        <text encoding="base64">PSBqZXN0CiAgICAgICAgICAgICAgICAuZm4oKQogICAgICAgICAgICAgICAg</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5864,7 +5864,6 @@ MockData.</text>
         <entry>no passwordResetConfirm</entry>
       </history-search>
       <history-cmd>
-        <entry>10</entry>
         <entry>4</entry>
         <entry>37</entry>
         <entry>:w</entry>
@@ -5883,6 +5882,7 @@ MockData.</text>
         <entry>52</entry>
         <entry>1</entry>
         <entry>0</entry>
+        <entry>399</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
