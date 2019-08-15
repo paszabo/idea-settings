@@ -461,6 +461,13 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/unsubscribe.py" timestamp="1565880504804">
+        <mark key="'" line="7" column="14" />
+        <mark key="[" line="41" column="20" />
+        <mark key="]" line="41" column="20" />
+        <mark key="^" line="41" column="20" />
+        <mark key="." line="41" column="20" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/Encryption.ts" timestamp="1563559499952">
         <mark key="[" line="73" column="17" />
         <mark key="]" line="73" column="14" />
@@ -657,7 +664,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="774" column="26" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
       <jump line="859" column="26" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
       <jump line="932" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
       <jump line="84" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
@@ -757,10 +763,11 @@
       <jump line="39" column="27" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/data/MockData.ts" />
       <jump line="53" column="12" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/preferences/preferences.service.test.ts" />
       <jump line="9" column="27" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/preferences/preferences.service.test.ts" />
+      <jump line="5" column="14" filename="$USER_HOME$/dev/repos/common-identity-api/unsubscribe.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>mockUpdateCommPrefs</text>
+        <text>/</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5243,42 +5250,42 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>mockUpdateCommPrefs</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>MockData\.appCode</text>
+        <text>read_data</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBhcHBDb25maWcgPSBqZXN0LnNweU9uKEhlbHBlcnMsICdoYXNBcHBDb2RlSW5Db25maWcnKQogICAgICAgICAgICAubW9ja1Jlc29sdmVkVmFsdWUodHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlbihmaWxlbmFtZSkgYXMgZnA6Cg==</text>
       </register>
-      <register name="1" type="8">
-        <text>MockData.
-MockData.</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB1c2VycHJlZnMgPSB7CiAgICAgICAgICAgIC4uLk1vY2tEYXRhLnVzZXJBcHBDb21tUHJlZmVyZW5jZXMsCiAgICAgICAgICAgIGNvbW1QcmVmZXJlbmNlOiBbbmV3UHJlZnNdLAogICAgICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodHlwZShkYXRhKSkKICAgICAgICAgICAgcHJpbnQoanNvbi5kdW1wcyhkYXRhLCBpbmRlbnQ9NCkpCiAgICAgICAgICAgIHByaW50KCdQcm9jZXNzaW5nIHVuc3Vic2NyaWJlIHJlcXVlc3QgZm9yJywgZGF0YSkKCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ZmlsZW5hbWUgPSAnc2VhcmNoLXJlc3VsdHMtMjAxOS0wOC0xM1QxNF8zN18yNi45NTUtMDcwMC5jc3YnCg==</text>
+      </register>
+      <register name="4" type="8">
+        <text>MockData.
+MockData.</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCB1c2VycHJlZnMgPSB7CiAgICAgICAgICAgIC4uLk1vY2tEYXRhLnVzZXJBcHBDb21tUHJlZmVyZW5jZXMsCiAgICAgICAgICAgIGNvbW1QcmVmZXJlbmNlOiBbbmV3UHJlZnNdLAogICAgICAgIH07Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc3QgdXNlcnByZWZzID0gewogICAgICAgICAgICAgICAgLi4uTW9ja0RhdGEudXNlckFwcENvbW1QcmVmZXJlbmNlcywKICAgICAgICAgICAgICAgIGNvbW1QcmVmZXJlbmNlOiBbbmV3UHJlZnNdLAogICAgICAgICAgICB9Owo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>{
                 ...MockData.commPreferencesAudit,
                 commPref: newPrefs,
                 dateUpdated: expect.anything(),
             }</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAuLi5Nb2NrRGF0YS51c2VyQXBwQ29tbVByZWZlcmVuY2VzLAogICAgICAgICAgICAgICAgICAgIGNvbW1QcmVmZXJlbmNlOiBbbmV3UHJlZnNdLAogICAgICAgICAgICAgICAgfSwK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9ja0dldENvbW1QcmVmcyA9IGplc3QKICAgICAgICAgICAgICAgIC5zcHlPbihQcmVmZXJlbmNlc1NlcnZpY2UucHJvdG90eXBlLCAnZ2V0VXNlckNvbW1QcmVmZXJlbmNlcycpCiAgICAgICAgICAgICAgICAubW9ja1Jlc29sdmVkVmFsdWUoTW9ja0RhdGEudXNlckFwcENvbW1QcmVmZXJlbmNlcyk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBjYWxsYmFjayA9IGplc3QuZm4oKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5804,22 +5811,22 @@ MockData.</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm1vY2tSZXR1cm5WYWx1ZShNb2NrRGF0YS51c2VyQXBwQ29tbVByZWZlcmVuY2VzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAuLi5Nb2NrRGF0YS51c2VyQXBwQ29tbVByZWZlcmVuY2VzLAogICAgICAgICAgICAgICAgICAgIGNvbW1QcmVmZXJlbmNlOiBbbmV3UHJlZnNdLAogICAgICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="x" type="4">
         <text>7</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB1c2VyQ29tbVByZWZlcmVuY2VzID0gamVzdC5zcHlPbigKICAgICAgICAgICAgUHJlZmVyZW5jZXNTZXJ2aWNlLnByb3RvdHlwZSwKICAgICAgICAgICAgJ2dldFVzZXJDb21tUHJlZmVyZW5jZXMnLAogICAgICAgICkubW9ja1Jlc29sdmVkVmFsdWUoJ1ByZWZzJyBhcyBhbnkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9ja0dldENvbW1QcmVmcyA9IGplc3QKICAgICAgICAgICAgICAgIC5zcHlPbihQcmVmZXJlbmNlc1NlcnZpY2UucHJvdG90eXBlLCAnZ2V0VXNlckNvbW1QcmVmZXJlbmNlcycpCiAgICAgICAgICAgICAgICAubW9ja1Jlc29sdmVkVmFsdWUoTW9ja0RhdGEudXNlckFwcENvbW1QcmVmZXJlbmNlcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>MockData\.appCode</last-search>
+      <last-search>read_data</last-search>
       <last-offset />
-      <last-pattern>MockData\.appCode</last-pattern>
+      <last-pattern>read_data</last-pattern>
       <last-replace>appCode</last-replace>
       <last-substitute>MockData\.appCode</last-substitute>
       <last-dir>1</last-dir>
@@ -5827,7 +5834,6 @@ MockData.</text>
     </search>
     <history>
       <history-search>
-        <entry>client =</entry>
         <entry>StatusCode</entry>
         <entry>private</entry>
         <entry>updateUser</entry>
@@ -5847,6 +5853,7 @@ MockData.</text>
         <entry>memberId</entry>
         <entry>MockData\.memberId</entry>
         <entry>MockData\.appCode</entry>
+        <entry>read_data</entry>
       </history-search>
       <history-cmd>
         <entry>10</entry>
@@ -5866,8 +5873,8 @@ MockData.</text>
         <entry>2</entry>
         <entry>61</entry>
         <entry>%s/MockData\.memberId/memberId</entry>
-        <entry>0</entry>
         <entry>%s/MockData\.appCode/appCode</entry>
+        <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
