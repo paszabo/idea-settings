@@ -405,11 +405,11 @@
         <mark key="." line="10" column="66" />
       </file>
       <file name="$USER_HOME$/dev/repos/prepped-fe/node_modules/@okta/okta-auth-js/lib/config.js" timestamp="1565208250752" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/config.yml" timestamp="1565892820691">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/config.yml" timestamp="1565901283172">
         <mark key="'" line="104" column="26" />
-        <mark key="[" line="129" column="30" />
-        <mark key="]" line="130" column="34" />
-        <mark key="." line="130" column="34" />
+        <mark key="[" line="171" column="48" />
+        <mark key="]" line="171" column="48" />
+        <mark key="." line="171" column="48" />
         <mark key="^" line="130" column="34" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/jwk-to-pem/src/jwk-to-pem.js" timestamp="1565286052062" />
@@ -778,7 +778,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>${OKTA_API_KEY}</text>
+        <text>npm-private-rbcv-read-only</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5261,13 +5261,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>${OKTA_API_KEY}</text>
+        <text>npm-private-rbcv-read-only</text>
       </register>
       <register name="/" type="4">
         <text>no passwordResetConfirm</text>
       </register>
       <register name="0" type="4">
-        <text>'My social auth user', user, response)</text>
+        <text>yr10-dev-serverless</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXIgPSByYW5kb21Vc2VyKCk7Cg==</text>
