@@ -65,7 +65,7 @@
         <mark key="^" line="13" column="10" />
         <mark key="." line="13" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer.js" timestamp="1565930039456">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/authorizer.js" timestamp="1565933274292">
         <mark key="'" line="4" column="6" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="36" />
@@ -88,10 +88,6 @@
         <mark key="]" line="1" column="32" />
         <mark key="." line="1" column="32" />
         <mark key="^" line="1" column="32" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/aggregation/yodlee/cert-key-file-info.ts" timestamp="1564177386298">
-        <mark key="[" line="6" column="15" />
-        <mark key="]" line="6" column="134" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/unauthorized.exception.ts" timestamp="1564777405301">
         <mark key="[" line="5" column="11" />
@@ -149,6 +145,7 @@
       </file>
       <file name="$USER_HOME$/dev/repos/prepped-fe/src/utils/okta-auth-client.js" timestamp="1565212982129" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/util/test-harness/constants.ts" timestamp="1565892878304" />
+      <file name="$USER_HOME$/dev/repos/common-identity-client/tsconfig.json" timestamp="1565933606272" />
       <file name="$USER_HOME$/dev/repos/common-identity-client/src/core/client/base.client.ts" timestamp="1565642494864">
         <mark key="'" line="33" column="35" />
         <mark key="[" line="12" column="67" />
@@ -173,10 +170,6 @@
         <mark key="]" line="6" column="51" />
         <mark key="." line="6" column="51" />
         <mark key="^" line="6" column="51" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/IUserTncInfo.ts" timestamp="1565104987996">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="4" column="25" />
       </file>
       <file name="$USER_HOME$/dev/repos/prepped-fe/src/.eslintrc.json" timestamp="1565207250851" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/sync-communication-preferences.ts" timestamp="1565120680470" />
@@ -243,6 +236,7 @@
         <mark key="." line="7" column="36" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/tslint.json" timestamp="1564077193984" />
+      <file name="$USER_HOME$/dev/repos/common-identity-client/tslint.json" timestamp="1565933631230" />
       <file name="$USER_HOME$/dev/repos/common-identity-client/src/__test__/unit/users/users.client.test.ts" timestamp="1565634471744">
         <mark key="'" line="38" column="23" />
         <mark key="[" line="23" column="48" />
@@ -392,6 +386,7 @@
         <mark key="^" line="73" column="27" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serializers/serializer.ts" timestamp="1563906019181" />
+      <file name="$USER_HOME$/dev/repos/common-identity-client/dist/package.json" timestamp="1565933641418" />
       <file name="$USER_HOME$/dev/repos/common-identity-client/src/core/client/action/base.action.ts" timestamp="1565629535462" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/models/ErrorResponse.json" timestamp="1564775283442">
         <mark key="'" line="0" column="0" />
@@ -503,7 +498,12 @@
         <mark key="." line="488" column="26" />
         <mark key="^" line="488" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-client/bin/release-package-json.js" timestamp="1565640189541" />
+      <file name="$USER_HOME$/dev/repos/common-identity-client/bin/release-package-json.js" timestamp="1565933754632">
+        <mark key="[" line="12" column="13" />
+        <mark key="]" line="12" column="14" />
+        <mark key="^" line="12" column="14" />
+        <mark key="." line="12" column="14" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/encryption/factory.test.ts" timestamp="1563564005709">
         <mark key="[" line="23" column="13" />
         <mark key="]" line="23" column="13" />
@@ -633,6 +633,7 @@
         <mark key="^" line="6" column="16" />
         <mark key="." line="6" column="16" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/util/test-harness/cleanup.ts" timestamp="1565933501274" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/webpack.config.js" timestamp="1563549521788" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/encryption/data-encrypter.ts" timestamp="1563561894365">
         <mark key="[" line="27" column="30" />
@@ -647,10 +648,6 @@
         <mark key="^" line="21" column="19" />
       </file>
       <file name="$USER_HOME$/dev/repos/prepped-fe/node_modules/@okta/okta-auth-js/lib/server/server.js" timestamp="1565208232521" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/jest.config.js" timestamp="1565895302793">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="26" />
-      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/services/IntercomMaketingService.ts" timestamp="1565366443313">
         <mark key="'" line="121" column="53" />
         <mark key="[" line="122" column="74" />
@@ -730,11 +727,11 @@
       </file>
       <file name="$USER_HOME$/dev/repos/prepped-fe/.env.development" timestamp="1565208083811" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/node_modules/jsonwebtoken/verify.js" timestamp="1565287047858" />
-      <file name="$USER_HOME$/dev/repos/common-identity-client/package.json" timestamp="1565642534138">
-        <mark key="[" line="55" column="18" />
-        <mark key="]" line="56" column="17" />
-        <mark key="." line="56" column="17" />
-        <mark key="^" line="56" column="17" />
+      <file name="$USER_HOME$/dev/repos/common-identity-client/package.json" timestamp="1565933713456">
+        <mark key="[" line="18" column="14" />
+        <mark key="]" line="18" column="18" />
+        <mark key="." line="18" column="18" />
+        <mark key="^" line="18" column="18" />
       </file>
     </filemarks>
     <jumps>
