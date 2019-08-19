@@ -132,7 +132,7 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/handler-utils.ts" timestamp="1565725948506">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/handler-utils.ts" timestamp="1566218884939">
         <mark key="'" line="353" column="0" />
         <mark key="[" line="179" column="25" />
         <mark key="]" line="180" column="62" />
@@ -418,8 +418,8 @@
         <mark key="^" line="746" column="13" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/api/util/test-harness/client/user-client.ts" timestamp="1565895552978" />
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1565881295505">
-        <mark key="'" line="1688" column="45" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1566219309119">
+        <mark key="'" line="1937" column="8" />
         <mark key="[" line="1612" column="26" />
         <mark key="]" line="1612" column="53" />
         <mark key="." line="0" column="45" />
@@ -480,7 +480,7 @@
         <mark key="." line="10" column="24" />
         <mark key="^" line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/ICommPreferences.ts" timestamp="1565966328647" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/models/ICommPreferences.ts" timestamp="1566218862884" />
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/preferences/serverless.yml" timestamp="1565936079801">
         <mark key="'" line="105" column="43" />
         <mark key="[" line="307" column="26" />
@@ -711,29 +711,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1457" column="38" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
-      <jump line="1459" column="44" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
-      <jump line="1461" column="44" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
-      <jump line="1464" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
-      <jump line="1470" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
-      <jump line="16" column="18" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
-      <jump line="1556" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
-      <jump line="1027" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
-      <jump line="1044" column="62" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
-      <jump line="1446" column="33" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
-      <jump line="1447" column="31" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
-      <jump line="6" column="35" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
-      <jump line="36" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
-      <jump line="344" column="19" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
-      <jump line="35" column="16" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
-      <jump line="27" column="18" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
-      <jump line="1292" column="48" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
-      <jump line="19" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
-      <jump line="980" column="14" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
-      <jump line="1011" column="33" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
-      <jump line="222" column="67" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/cache-client.test.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/core/cache-client.test.ts" />
-      <jump line="40" column="4" filename="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/UserService.test.ts" />
       <jump line="89" column="28" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/test/users/me.test.ts" />
       <jump line="4" column="42" filename="$USER_HOME$/dev/repos/common-identity-api/test/api/util/env/dev.sh" />
       <jump line="438" column="46" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/admin/adminUsersHandler.ts" />
@@ -811,6 +788,29 @@
       <jump line="838" column="53" filename="$USER_HOME$/dev/repos/common-identity-api/src/core/repositories/IdentityRepository.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
       <jump line="17" column="5" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="222" column="20" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="288" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="366" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="448" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="532" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="614" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="694" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="774" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="854" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="939" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="1026" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="1114" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="1197" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="1280" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="1367" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="1452" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="1530" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="1608" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="1688" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="1768" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="1848" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="1915" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="1937" column="8" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5300,7 +5300,7 @@
         <text>`users/${providerId}/lifecycle/activate`</text>
       </register>
       <register name="/" type="4">
-        <text>RegisterUser</text>
+        <text>handler\:</text>
       </register>
       <register name="0" type="4">
         <text>body: updatePasswordRequest</text>
@@ -5866,9 +5866,9 @@
       </register>
     </registers>
     <search>
-      <last-search>RegisterUser</last-search>
+      <last-search>handler\:</last-search>
       <last-offset />
-      <last-pattern>RegisterUser</last-pattern>
+      <last-pattern>handler\:</last-pattern>
       <last-replace>appCode</last-replace>
       <last-substitute>MockData\.appCode</last-substitute>
       <last-dir>1</last-dir>
@@ -5876,7 +5876,6 @@
     </search>
     <history>
       <history-search>
-        <entry>MockData\.memberId</entry>
         <entry>MockData\.appCode</entry>
         <entry>read_data</entry>
         <entry>Webhook</entry>
@@ -5896,6 +5895,7 @@
         <entry>X</entry>
         <entry>getUserByProviderId</entry>
         <entry>RegisterUser</entry>
+        <entry>handler\:</entry>
       </history-search>
       <history-cmd>
         <entry>37</entry>
