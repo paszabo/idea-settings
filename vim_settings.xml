@@ -22,9 +22,12 @@
         <mark key="^" line="256" column="8" />
         <mark key="." line="256" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1566237615665">
-        <mark key="'" line="2041" column="26" />
-        <mark key="^" line="1970" column="26" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1566244592361">
+        <mark key="'" line="2065" column="0" />
+        <mark key="[" line="1994" column="92" />
+        <mark key="]" line="1995" column="26" />
+        <mark key="^" line="1995" column="26" />
+        <mark key="." line="1995" column="26" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/tsconfig.json" timestamp="1564673448949">
         <mark key="[" line="13" column="35" />
@@ -427,11 +430,11 @@
         <mark key="." line="21" column="24" />
         <mark key="^" line="21" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/package.json" timestamp="1566243439643">
-        <mark key="[" line="35" column="131" />
-        <mark key="]" line="35" column="131" />
-        <mark key="." line="35" column="131" />
-        <mark key="^" line="35" column="185" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/package.json" timestamp="1566244619810">
+        <mark key="[" line="31" column="9" />
+        <mark key="]" line="31" column="9" />
+        <mark key="." line="31" column="9" />
+        <mark key="^" line="36" column="185" />
       </file>
       <file name="$USER_HOME$/dev/repos/serverless-plugin-cloudwatch-sumologic/package.json" timestamp="1566243572624">
         <mark key="[" line="1" column="13" />
@@ -630,7 +633,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="89" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
       <jump line="74" column="71" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
       <jump line="75" column="129" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
       <jump line="76" column="140" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
@@ -730,10 +732,11 @@
       <jump line="80" column="42" filename="$USER_HOME$/dev/repos/serverless-plugin-cloudwatch-sumologic/src/index.js" />
       <jump line="81" column="48" filename="$USER_HOME$/dev/repos/serverless-plugin-cloudwatch-sumologic/src/index.js" />
       <jump line="95" column="95" filename="$USER_HOME$/dev/repos/serverless-plugin-cloudwatch-sumologic/src/index.js" />
+      <jump line="2064" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>@rbcv/serverless-plugin-cloudwatch-sumologic</text>
+        <text>@rbcv/</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5216,10 +5219,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>@rbcv/</text>
       </register>
       <register name="/" type="4">
-        <text>timestamp</text>
+        <text>shipLogs</text>
       </register>
       <register name="0" type="4">
         <text>@rbcv/serverless-plugin-cloudwatch-sumologic</text>
@@ -5785,9 +5788,9 @@
       </register>
     </registers>
     <search>
-      <last-search>timestamp</last-search>
+      <last-search>shipLogs</last-search>
       <last-offset />
-      <last-pattern>timestamp</last-pattern>
+      <last-pattern>shipLogs</last-pattern>
       <last-replace>appCode</last-replace>
       <last-substitute>MockData\.appCode</last-substitute>
       <last-dir>1</last-dir>
@@ -5795,7 +5798,6 @@
     </search>
     <history>
       <history-search>
-        <entry>deploy</entry>
         <entry>\/tmp</entry>
         <entry>MockData</entry>
         <entry>malformed mobile number</entry>
@@ -5815,6 +5817,7 @@
         <entry>includes</entry>
         <entry>fnName</entry>
         <entry>timestamp</entry>
+        <entry>shipLogs</entry>
       </history-search>
       <history-cmd>
         <entry>37</entry>
