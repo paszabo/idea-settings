@@ -24,9 +24,6 @@
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1566237615665">
         <mark key="'" line="2041" column="26" />
-        <mark key="[" line="2066" column="0" />
-        <mark key="]" line="2066" column="30" />
-        <mark key="." line="2066" column="0" />
         <mark key="^" line="1970" column="26" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/tsconfig.json" timestamp="1564673448949">
@@ -430,15 +427,15 @@
         <mark key="." line="21" column="24" />
         <mark key="^" line="21" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/package.json" timestamp="1566240793357">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/package.json" timestamp="1566243439643">
         <mark key="[" line="35" column="131" />
         <mark key="]" line="35" column="131" />
         <mark key="." line="35" column="131" />
         <mark key="^" line="35" column="185" />
       </file>
-      <file name="$USER_HOME$/dev/repos/serverless-plugin-cloudwatch-sumologic/package.json" timestamp="1566242050241">
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="2" column="19" />
+      <file name="$USER_HOME$/dev/repos/serverless-plugin-cloudwatch-sumologic/package.json" timestamp="1566243572624">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="56" />
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
       </file>
@@ -736,7 +733,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>@rbcv/serverless-plugin-cloudwatch-sumologic</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5224,8 +5221,8 @@
       <register name="/" type="4">
         <text>timestamp</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zZXJ2ZXJsZXNzLnNlcnZpY2UuY3VzdG9tLnNoaXBMb2dzLmlnbm9yZUZ1bmN0aW9ucyB8fAo=</text>
+      <register name="0" type="4">
+        <text>@rbcv/serverless-plugin-cloudwatch-sumologic</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">IWZuTmFtZS5zdGFydHNXaXRoKCdzdW1vbG9naWNTaGlwcGluZycpICYmIHRoaXMuaWdub3JlRnVuY3Rpb25zLmluY2x1ZGVzKGZuTmFtZSkgJiYKICAgICAgICAgICAgICAgIHRoaXMuc2VydmVybGVzcy5zZXJ2aWNlLmdldEZ1bmN0aW9uKGZuTmFtZSkubm9sb2cgIT09IHRydWU=</text>
