@@ -116,12 +116,12 @@
         <mark key="^" line="27" column="44" />
         <mark key="." line="27" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/repos/serverless-plugin-cloudwatch-sumologic/src/index.js" timestamp="1566241981870">
-        <mark key="'" line="95" column="95" />
-        <mark key="[" line="95" column="113" />
-        <mark key="]" line="95" column="113" />
-        <mark key="^" line="95" column="74" />
-        <mark key="." line="95" column="113" />
+      <file name="$USER_HOME$/dev/repos/serverless-plugin-cloudwatch-sumologic/src/index.js" timestamp="1566250010595">
+        <mark key="'" line="97" column="0" />
+        <mark key="[" line="78" column="16" />
+        <mark key="]" line="79" column="11" />
+        <mark key="^" line="79" column="11" />
+        <mark key="." line="79" column="11" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/handlers/handler-preferences.test.ts" timestamp="1565882464151">
         <mark key="[" line="12" column="63" />
@@ -638,7 +638,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="71" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
       <jump line="75" column="129" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
       <jump line="76" column="140" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
       <jump line="79" column="80" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
@@ -736,12 +735,13 @@
       <jump line="79" column="12" filename="$USER_HOME$/dev/repos/serverless-plugin-cloudwatch-sumologic/src/index.js" />
       <jump line="80" column="42" filename="$USER_HOME$/dev/repos/serverless-plugin-cloudwatch-sumologic/src/index.js" />
       <jump line="81" column="48" filename="$USER_HOME$/dev/repos/serverless-plugin-cloudwatch-sumologic/src/index.js" />
-      <jump line="95" column="95" filename="$USER_HOME$/dev/repos/serverless-plugin-cloudwatch-sumologic/src/index.js" />
       <jump line="2064" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
+      <jump line="70" column="6" filename="$USER_HOME$/dev/repos/serverless-plugin-cloudwatch-sumologic/src/index.js" />
+      <jump line="95" column="0" filename="$USER_HOME$/dev/repos/serverless-plugin-cloudwatch-sumologic/src/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>@rbcv/</text>
+        <text>Found ${numberOfFunctions} lambda functions</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5224,13 +5224,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>@rbcv/</text>
+        <text>Found ${numberOfFunctions} lambda functions</text>
       </register>
       <register name="/" type="4">
-        <text>sumo</text>
+        <text>filter</text>
       </register>
-      <register name="0" type="4">
-        <text>@rbcv/serverless-plugin-cloudwatch-sumologic</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnNlcnZlcmxlc3MuY2xpLmxvZyhgRm91bmQgJHtudW1iZXJPZkZ1bmN0aW9uc30gbGFtYmRhIGZ1bmN0aW9uc2ApOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAiQHJiY3Yvc2VydmVybGVzcy1wbHVnaW4tY2xvdWR3YXRjaC1zdW1vbG9naWMiOiAiZ2l0K3NzaDovL2dpdEBnaXRodWIuY29tL3Bhc3phYm8vc2VydmVybGVzcy1wbHVnaW4tY2xvdWR3YXRjaC1zdW1vbG9naWMuZ2l0IiwK</text>
@@ -5793,9 +5793,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sumo</last-search>
+      <last-search>filter</last-search>
       <last-offset />
-      <last-pattern>sumo</last-pattern>
+      <last-pattern>filter</last-pattern>
       <last-replace>appCode</last-replace>
       <last-substitute>MockData\.appCode</last-substitute>
       <last-dir>1</last-dir>
@@ -5803,8 +5803,6 @@
     </search>
     <history>
       <history-search>
-        <entry>MockData</entry>
-        <entry>malformed mobile number</entry>
         <entry>updatePassword</entry>
         <entry>addUserToGroupByUsername</entry>
         <entry>Date argument</entry>
@@ -5823,6 +5821,8 @@
         <entry>timestamp</entry>
         <entry>shipLogs</entry>
         <entry>sumo</entry>
+        <entry>Found</entry>
+        <entry>filter</entry>
       </history-search>
       <history-cmd>
         <entry>37</entry>
