@@ -436,13 +436,12 @@
         <mark key="." line="21" column="24" />
         <mark key="^" line="21" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/package.json" timestamp="1566247765086">
-        <mark key="[" line="35" column="117" />
-        <mark key="]" line="35" column="117" />
-        <mark key="." line="35" column="117" />
-        <mark key="^" line="35" column="117" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/package.json" timestamp="1566248409536">
+        <mark key="[" line="35" column="9" />
+        <mark key="]" line="35" column="9" />
+        <mark key="." line="35" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/repos/serverless-plugin-cloudwatch-sumologic/package.json" timestamp="1566246366717">
+      <file name="$USER_HOME$/dev/repos/serverless-plugin-cloudwatch-sumologic/package.json" timestamp="1566248607712">
         <mark key="[" line="1" column="13" />
         <mark key="]" line="1" column="13" />
         <mark key="." line="1" column="13" />
@@ -742,7 +741,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,git+https://github.com/paszabo/serverless-plugin-cloudwatch-sumologic.git&quot;,</text>
+        <text>@rbcv/</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5225,7 +5224,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,git+https://github.com/paszabo/serverless-plugin-cloudwatch-sumologic.git&quot;,</text>
+        <text>@rbcv/</text>
       </register>
       <register name="/" type="4">
         <text>sumo</text>
@@ -5233,29 +5232,29 @@
       <register name="0" type="4">
         <text>@rbcv/serverless-plugin-cloudwatch-sumologic</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IWZuTmFtZS5zdGFydHNXaXRoKCdzdW1vbG9naWNTaGlwcGluZycpICYmIHRoaXMuaWdub3JlRnVuY3Rpb25zLmluY2x1ZGVzKGZuTmFtZSkgJiYKICAgICAgICAgICAgICAgIHRoaXMuc2VydmVybGVzcy5zZXJ2aWNlLmdldEZ1bmN0aW9uKGZuTmFtZSkubm9sb2cgIT09IHRydWU=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAiQHJiY3Yvc2VydmVybGVzcy1wbHVnaW4tY2xvdWR3YXRjaC1zdW1vbG9naWMiOiAiZ2l0K3NzaDovL2dpdEBnaXRodWIuY29tL3Bhc3phYm8vc2VydmVybGVzcy1wbHVnaW4tY2xvdWR3YXRjaC1zdW1vbG9naWMuZ2l0IiwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBbJ3dhcm1VcFBsdWdpbicsICdzdW1vbG9naWNTaGlwcGluZyddCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IWZuTmFtZS5zdGFydHNXaXRoKCdzdW1vbG9naWNTaGlwcGluZycpICYmIHRoaXMuaWdub3JlRnVuY3Rpb25zLmluY2x1ZGVzKGZuTmFtZSkgJiYKICAgICAgICAgICAgICAgIHRoaXMuc2VydmVybGVzcy5zZXJ2aWNlLmdldEZ1bmN0aW9uKGZuTmFtZSkubm9sb2cgIT09IHRydWU=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWyd3YXJtVXBQbHVnaW4nLCAnc3Vtb2xvZ2ljU2hpcHBpbmcnXQo=</text>
+        <text encoding="base64">ICAgICAgICBbJ3dhcm1VcFBsdWdpbicsICdzdW1vbG9naWNTaGlwcGluZyddCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgWyd3YXJtVXBQbHVnaW4nLCAnc3Vtb2xvZ2ljU2hpcHBpbmcnXQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLmlnbm9yZUZ1bmN0aW9ucyA9ICgKICAgICAgICAgICAgdGhpcy5zZXJ2ZXJsZXNzLnNlcnZpY2UuY3VzdG9tLnNoaXBMb2dzLmlnbm9yZUZ1bmN0aW9ucyB8fAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">Zm5OYW1lICE9PSAnc3Vtb2xvZ2ljU2hpcHBpbmcnICYmIHRoaXMuaWdub3JlRnVuY3Rpb25zLmluY2x1ZGVzKGZuTmFtZSkgJiYKICAgICAgICAgICAgICAgIHRoaXMuc2VydmVybGVzcy5zZXJ2aWNlLmdldEZ1bmN0aW9uKGZuTmFtZSkubm9sb2cgIT09IHRydWU=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gc2VydmVybGVzcy1wbHVnaW4td2FybXVwCg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICByZXR1cm4gYXdhaXQgbmV4dCgpOwogICAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICAgICAgY29uc29sZS50cmFjZShlKTsKICAgICAgICAgICAgcmVzcG9uc2Uuc3RhdHVzKDUwMCkuanNvbihlKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIC0gc2VydmVybGVzcy1wbHVnaW4td2FybXVwCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5781,13 +5780,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBvcnQgPSA4MDgwOwpjb25zdCByZWRpcmVjdF9wYXRoID0gJ2F1dGhvcml6YXRpb24tY29kZS9jYWxsYmFjayc7CmNvbnN0IGV4dGVybmFsX3VybCA9IGBodHRwOi8vbG9jYWxob3N0OiR7cG9ydH1gOwpjb25zdCByZWRpcmVjdF91cmkgPSBgJHtleHRlcm5hbF91cmx9LyR7cmVkaXJlY3RfcGF0aH1gOwo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICByZXR1cm4gYXdhaXQgbmV4dCgpOwogICAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICAgICAgY29uc29sZS50cmFjZShlKTsKICAgICAgICAgICAgcmVzcG9uc2Uuc3RhdHVzKDUwMCkuanNvbihlKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="x" type="4">
         <text>7</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">Y29uc3QgCmNvbnN0IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHBvcnQgPSA4MDgwOwpjb25zdCByZWRpcmVjdF9wYXRoID0gJ2F1dGhvcml6YXRpb24tY29kZS9jYWxsYmFjayc7CmNvbnN0IGV4dGVybmFsX3VybCA9IGBodHRwOi8vbG9jYWxob3N0OiR7cG9ydH1gOwpjb25zdCByZWRpcmVjdF91cmkgPSBgJHtleHRlcm5hbF91cmx9LyR7cmVkaXJlY3RfcGF0aH1gOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
