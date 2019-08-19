@@ -22,11 +22,11 @@
         <mark key="^" line="256" column="8" />
         <mark key="." line="256" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1566234702992">
-        <mark key="'" line="1937" column="8" />
-        <mark key="[" line="1612" column="26" />
-        <mark key="]" line="1612" column="53" />
-        <mark key="." line="0" column="45" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" timestamp="1566237615665">
+        <mark key="'" line="2041" column="26" />
+        <mark key="[" line="2066" column="0" />
+        <mark key="]" line="2066" column="30" />
+        <mark key="." line="2066" column="0" />
         <mark key="^" line="1970" column="26" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/authorizer.js" timestamp="1565936198046">
@@ -84,7 +84,7 @@
         <mark key="." line="3" column="60" />
         <mark key="^" line="3" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/package.json" timestamp="1565896143627">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/package.json" timestamp="1566237630695">
         <mark key="[" line="10" column="66" />
         <mark key="]" line="10" column="66" />
         <mark key="^" line="10" column="66" />
@@ -110,8 +110,8 @@
         <mark key="." line="149" column="21" />
         <mark key="^" line="149" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/config.yml" timestamp="1565928433643">
-        <mark key="'" line="104" column="26" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/.circleci/config.yml" timestamp="1566237142366">
+        <mark key="'" line="19" column="22" />
         <mark key="[" line="118" column="38" />
         <mark key="]" line="119" column="32" />
         <mark key="." line="119" column="32" />
@@ -219,7 +219,7 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/handler-utils.ts" timestamp="1566218884939">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/handler-utils.ts" timestamp="1566235664754">
         <mark key="'" line="353" column="0" />
         <mark key="[" line="179" column="25" />
         <mark key="]" line="180" column="62" />
@@ -448,7 +448,7 @@
         <mark key="." line="21" column="24" />
         <mark key="^" line="21" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/package.json" timestamp="1564591926213">
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/package.json" timestamp="1566237643216">
         <mark key="[" line="35" column="131" />
         <mark key="]" line="35" column="131" />
         <mark key="." line="35" column="131" />
@@ -568,8 +568,8 @@
         <mark key="." line="41" column="17" />
         <mark key="^" line="41" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1565961555197">
-        <mark key="'" line="17" column="5" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" timestamp="1566235960242">
+        <mark key="'" line="152" column="1" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/src/core/exceptions/bad-request.exception.ts" timestamp="1564776949162">
         <mark key="[" line="6" column="44" />
@@ -645,9 +645,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="26" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
-      <jump line="176" column="26" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
-      <jump line="53" column="95" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
       <jump line="54" column="80" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
       <jump line="55" column="78" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
       <jump line="56" column="89" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
@@ -745,10 +742,13 @@
       <jump line="35" column="99" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/server.js" />
       <jump line="23" column="8" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/server.js" />
       <jump line="203" column="8" filename="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/server.js" />
+      <jump line="152" column="1" filename="$USER_HOME$/dev/repos/common-identity-api/src/handlers/users/userHandler.ts" />
+      <jump line="19" column="22" filename="$USER_HOME$/dev/repos/common-identity-api/.circleci/config.yml" />
+      <jump line="2041" column="26" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>PBbOg6mAu7H4w31FgQwyHwv3DEeE6V8hHcDEBbeb</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC0gc2VydmVybGVzcy1wbHVnaW4td2FybXVwCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5240,28 +5240,28 @@
         <text encoding="base64">ICAgICAgICBjb25zdCBpZGVudGl0eSA9IG5ldyBSQkNJZGVudGl0eUNsaWVudCh7CiAgICAgICAgICAgIHVybDogJ2h0dHBzOi8vaWRlbnRpdHkucmJjdmVudHVyZXMuaW8nLAogICAgICAgICAgICBhcHBfY29kZTogJ1lSMTAnLAogICAgICAgICAgICAvLyBhcHBfY29kZTogJ1lZWjQyJywKICAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICByZXR1cm4gYXdhaXQgbmV4dCgpOwogICAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICAgICAgY29uc29sZS50cmFjZShlKTsKICAgICAgICAgICAgcmVzcG9uc2Uuc3RhdHVzKDUwMCkuanNvbihlKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIC0gc2VydmVybGVzcy1wbHVnaW4td2FybXVwCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICByZXR1cm4gYXdhaXQgbmV4dCgpOwogICAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICAgICAgY29uc29sZS50cmFjZShlKTsKICAgICAgICAgICAgcmVzcG9uc2Uuc3RhdHVzKDUwMCkuanNvbihlKTsKICAgICAgICB9Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIGNvbnN0IHBvcnQgPSA4MDgwOwpjb25zdCByZWRpcmVjdF9wYXRoID0gJ2F1dGhvcml6YXRpb24tY29kZS9jYWxsYmFjayc7CmNvbnN0IGV4dGVybmFsX3VybCA9IGBodHRwOi8vbG9jYWxob3N0OiR7cG9ydH1gOwpjb25zdCByZWRpcmVjdF91cmkgPSBgJHtleHRlcm5hbF91cmx9LyR7cmVkaXJlY3RfcGF0aH1gOwo=</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="8">
         <text encoding="base64">Y29uc3QgCmNvbnN0IA==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Y29uc3QgcG9ydCA9IDgwODA7CmNvbnN0IHJlZGlyZWN0X3BhdGggPSAnYXV0aG9yaXphdGlvbi1jb2RlL2NhbGxiYWNrJzsKY29uc3QgZXh0ZXJuYWxfdXJsID0gYGh0dHA6Ly9sb2NhbGhvc3Q6JHtwb3J0fWA7CmNvbnN0IHJlZGlyZWN0X3VyaSA9IGAke2V4dGVybmFsX3VybH0vJHtyZWRpcmVjdF9wYXRofWA7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHBvcnQsCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y29uc3Qgb2t0YV9wcmVwcm9kID0gewogICAgb2t0YV91cmw6ICdodHRwczovL3JiY2Rldi5va3RhcHJldmlldy5jb20nLAogICAgb2t0YV9hdXRoX3NlcnZlcl9pZDogJ2F1c2JpOTBuOG9GSGFzQVBIMGg3Jwp9Owpjb25zdCBva3RhX3Byb2QgPSB7CiAgICBva3RhX3VybDogJ2h0dHBzOi8vcmJjLm9rdGEuY29tJywKICAgIG9rdGFfYXV0aF9zZXJ2ZXJfaWQ6ICdhdXNjcDY4bjc2VkY5WE1sRzJwNScKfTsKCi8vY29uc3Qge29rdGFfdXJsLCBva3RhX2F1dGhfc2VydmVyX2lkfSA9IG9rdGFfcHJlcHJvZDsKY29uc3Qge29rdGFfdXJsLCBva3RhX2F1dGhfc2VydmVyX2lkfSA9IG9rdGFfcHJvZDsK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmxvZ2dlci5pbmZvKCdVcGRhdGluZyB1c2VyIHBhc3N3b3JkIGluIE9rdGEnKTsK</text>
+        <text encoding="base64">Y29uc3Qgb2t0YV9wcmVwcm9kID0gewogICAgb2t0YV91cmw6ICdodHRwczovL3JiY2Rldi5va3RhcHJldmlldy5jb20nLAogICAgb2t0YV9hdXRoX3NlcnZlcl9pZDogJ2F1c2JpOTBuOG9GSGFzQVBIMGg3Jwp9Owpjb25zdCBva3RhX3Byb2QgPSB7CiAgICBva3RhX3VybDogJ2h0dHBzOi8vcmJjLm9rdGEuY29tJywKICAgIG9rdGFfYXV0aF9zZXJ2ZXJfaWQ6ICdhdXNjcDY4bjc2VkY5WE1sRzJwNScKfTsKCi8vY29uc3Qge29rdGFfdXJsLCBva3RhX2F1dGhfc2VydmVyX2lkfSA9IG9rdGFfcHJlcHJvZDsKY29uc3Qge29rdGFfdXJsLCBva3RhX2F1dGhfc2VydmVyX2lkfSA9IG9rdGFfcHJvZDsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5787,13 +5787,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBxcyA9IHtzZW5kRW1haWw6IGZhbHNlfTsKICAgICAgICBjb25zdCB1cmwgPSBgdXNlcnMvJHtwcm92aWRlcklkfS9saWZlY3ljbGUvYWN0aXZhdGVgOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmxvZ2dlci5pbmZvKCdVcGRhdGluZyB1c2VyIHBhc3N3b3JkIGluIE9rdGEnKTsK</text>
       </register>
       <register name="x" type="4">
         <text>7</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBhcHBEZXRhaWxzOiBJQXBwRGV0YWlscyA9IGF3YWl0IHRoaXMuYXBwU2VydmljZS5nZXQoYXBwQ29kZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBxcyA9IHtzZW5kRW1haWw6IGZhbHNlfTsKICAgICAgICBjb25zdCB1cmwgPSBgdXNlcnMvJHtwcm92aWRlcklkfS9saWZlY3ljbGUvYWN0aXZhdGVgOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
