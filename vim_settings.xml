@@ -116,6 +116,9 @@
         <mark key="^" line="27" column="44" />
         <mark key="." line="27" column="45" />
       </file>
+      <file name="$USER_HOME$/dev/repos/common-identity-api/deploy-local/README.md" timestamp="1566318147263">
+        <mark key="'" line="24" column="43" />
+      </file>
       <file name="$USER_HOME$/dev/repos/serverless-plugin-cloudwatch-sumologic/src/index.js" timestamp="1566250010595">
         <mark key="'" line="97" column="0" />
         <mark key="[" line="78" column="16" />
@@ -604,6 +607,9 @@
         <mark key="." line="9" column="46" />
       </file>
       <file name="$USER_HOME$/dev/repos/common-identity-tutorials/auth-code/banner.js" timestamp="1566221321612" />
+      <file name="$USER_HOME$/dev/repos/common-identity-api/.gitignore" timestamp="1566318157222">
+        <mark key="'" line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/common-identity-api/test/unit/services/yodlee.service.test.ts" timestamp="1563899950803">
         <mark key="'" line="9" column="26" />
         <mark key="[" line="28" column="91" />
@@ -638,8 +644,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="129" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
-      <jump line="76" column="140" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
       <jump line="79" column="80" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
       <jump line="80" column="102" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
       <jump line="86" column="35" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/admin/serverless.yml" />
@@ -738,6 +742,8 @@
       <jump line="2064" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/src/serverless/users/serverless.yml" />
       <jump line="70" column="6" filename="$USER_HOME$/dev/repos/serverless-plugin-cloudwatch-sumologic/src/index.js" />
       <jump line="95" column="0" filename="$USER_HOME$/dev/repos/serverless-plugin-cloudwatch-sumologic/src/index.js" />
+      <jump line="24" column="43" filename="$USER_HOME$/dev/repos/common-identity-api/deploy-local/README.md" />
+      <jump line="16" column="0" filename="$USER_HOME$/dev/repos/common-identity-api/.gitignore" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5227,7 +5233,7 @@
         <text>Found ${numberOfFunctions} lambda functions</text>
       </register>
       <register name="/" type="4">
-        <text>filter</text>
+        <text>env</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLnNlcnZlcmxlc3MuY2xpLmxvZyhgRm91bmQgJHtudW1iZXJPZkZ1bmN0aW9uc30gbGFtYmRhIGZ1bmN0aW9uc2ApOwo=</text>
@@ -5793,9 +5799,9 @@
       </register>
     </registers>
     <search>
-      <last-search>filter</last-search>
+      <last-search>env</last-search>
       <last-offset />
-      <last-pattern>filter</last-pattern>
+      <last-pattern>env</last-pattern>
       <last-replace>appCode</last-replace>
       <last-substitute>MockData\.appCode</last-substitute>
       <last-dir>1</last-dir>
@@ -5803,7 +5809,6 @@
     </search>
     <history>
       <history-search>
-        <entry>updatePassword</entry>
         <entry>addUserToGroupByUsername</entry>
         <entry>Date argument</entry>
         <entry>no passwordResetConfirm</entry>
@@ -5823,6 +5828,7 @@
         <entry>sumo</entry>
         <entry>Found</entry>
         <entry>filter</entry>
+        <entry>env</entry>
       </history-search>
       <history-cmd>
         <entry>37</entry>
